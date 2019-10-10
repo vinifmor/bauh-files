@@ -17,6 +17,7 @@ firefox-beta=browser,internet
 firefox-beta-bin=browser,internet
 fpakman=gui,applications
 fpakman-staging=gui,applications
+gamemode=games
 git-cola=git,gui
 google-chrome=browser,internet
 google-chrome-beta=browser,internet
