@@ -1,15 +1,15 @@
 ldview
-UltimateQRCode
 makoureactor
+UltimateQRCode
 SPlayer
 Waterfox
 Waterfox_Alpha
 SerialPort_Assistant
 BrainWaves
 admin-tools
+pinkstarcoin-gui
 Padlock
 Helium
-pinkstarcoin-gui
 Parallelcoin
 Spectrum
 Instagram-Py
@@ -23,5 +23,5 @@ Tellurium
 halium-tool
 KittehPlayer
 hashsum
-jaxx
 vkap
+jaxx
