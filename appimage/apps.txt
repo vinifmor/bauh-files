@@ -410,6 +410,7 @@ Strata
 Stunt_Car_Remake
 Subsurface
 Subtitle_Composer
+SultanPOS
 Summoners.War.Exporter
 SwiftnessX
 SyncMyL2P
@@ -664,4 +665,8 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
