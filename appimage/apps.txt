@@ -108,6 +108,8 @@ ElDumper
 Electorrent
 Elements
 Elphyre-WalletShell
+Emacs
+EncryptPad
 EnvKey
 Eplee
 Eqonomize
@@ -216,6 +218,10 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
 Loginized
 Lotun
 MDL
@@ -541,6 +547,7 @@ jwm-settings-manager
 keyrier-json
 kitupiikki
 ksnip
+laigter
 langly
 laravel-kit
 launcher
