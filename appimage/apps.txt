@@ -310,7 +310,6 @@ Plover
 Poddr
 Postman
 PostyBirb
-PowerShell
 PrinterClient
 Procyon
 ProofKeeper
