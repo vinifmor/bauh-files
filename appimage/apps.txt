@@ -107,9 +107,6 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
 EnvKey
 Eplee
 Eqonomize
@@ -213,15 +210,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
 Loginized
 Lotun
 MDL
