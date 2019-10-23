@@ -54,4 +54,7 @@ vlc-nightly=video,movies,media
 vlc-plugin-fluidsynth=plugin,media
 vlc-plugin-ytdl-git=plugin
 visual-studio-code-bin=ide,development,text editor
+warsaw=security
+warsaw-bin=security
+warsaw-openrc=security
 wine-valve=games
