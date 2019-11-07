@@ -217,6 +217,11 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
 Loginized
 Lotun
 MDL
@@ -535,6 +540,13 @@ jag
 jira-timer
 jitsi-meet
 jmbde
+jscad-desktop
+jumpfm
+jwm-settings-manager
+keyrier-json
+kitupiikki
+ksnip
+laigter
 langly
 laravel-kit
 launcher
