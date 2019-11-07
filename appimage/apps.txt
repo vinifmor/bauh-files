@@ -220,8 +220,6 @@ LiberTEM
 Lightning
 Linedancer
 LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
 Loginized
 Lotun
 MDL
@@ -663,9 +661,3 @@ whiteboard
 whu-library-seat
 windows2usb
 x-loc
-xde
-youtube-music
-youtube-music-desktop
-zmNinja
-zograscope
-zsync2
