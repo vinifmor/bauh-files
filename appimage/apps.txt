@@ -219,6 +219,7 @@ LibAssist
 LiberTEM
 Lightning
 Linedancer
+LiteIDE
 Loginized
 Lotun
 MDL
@@ -534,10 +535,6 @@ impact
 iota1k
 irccloud-desktop
 jag
-jira-timer
-jitsi-meet
-jmbde
-jscad-desktop
 laravel-kit
 launcher
 le
@@ -649,11 +646,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-whiteboard
-whu-library-seat
-windows2usb
-x-loc
-xde
-youtube-music
-youtube-music-desktop
-zmNinja
