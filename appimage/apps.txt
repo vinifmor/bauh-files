@@ -219,9 +219,6 @@ LibAssist
 LiberTEM
 Lightning
 Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
 Loginized
 Lotun
 MDL
@@ -541,13 +538,6 @@ jira-timer
 jitsi-meet
 jmbde
 jscad-desktop
-jumpfm
-jwm-settings-manager
-keyrier-json
-kitupiikki
-ksnip
-laigter
-langly
 laravel-kit
 launcher
 le
@@ -667,5 +657,3 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
-zograscope
-zsync2
