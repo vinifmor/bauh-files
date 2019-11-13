@@ -220,6 +220,8 @@ LiberTEM
 Lightning
 Linedancer
 LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
 Loginized
 Lotun
 MDL
@@ -544,6 +546,8 @@ jwm-settings-manager
 keyrier-json
 kitupiikki
 ksnip
+laigter
+langly
 laravel-kit
 launcher
 le
@@ -664,3 +668,4 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
+zsync2
