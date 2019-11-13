@@ -467,7 +467,6 @@ ZeGrapher
 ZenroomStudio
 Zulip
 accessimap-lecteur-der
-account-scraper
 ai-bot-workspace
 aillio-ts
 altair
