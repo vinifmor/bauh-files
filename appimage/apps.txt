@@ -310,6 +310,7 @@ Plover
 Poddr
 Postman
 PostyBirb
+PrimeWorldEditor
 PrinterClient
 Procyon
 ProofKeeper
@@ -603,6 +604,7 @@ protonmail-desktop
 puush-qt
 python2
 python3
+qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qpdf
@@ -665,5 +667,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
-zograscope
