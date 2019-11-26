@@ -367,6 +367,7 @@ Scrum-Retroboard
 Scytale
 Sengi
 Shadowsocks
+ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
@@ -536,6 +537,7 @@ iQPuzzle
 impact
 iota1k
 irccloud-desktop
+isle-editor
 jag
 jira-timer
 jitsi-meet
@@ -665,5 +667,4 @@ whu-library-seat
 windows2usb
 x-loc
 xde
-youtube-music
 youtube-music-desktop
