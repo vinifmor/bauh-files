@@ -454,6 +454,7 @@ VizGraph
 WalletShell
 WalletTech
 WatchFlower
+WebDesktop
 Webamp
 Wexond
 Wire
@@ -667,4 +668,8 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
