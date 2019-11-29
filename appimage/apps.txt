@@ -671,4 +671,3 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
-zsync2
