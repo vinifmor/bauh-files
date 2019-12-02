@@ -13,6 +13,19 @@ brave-nightly-bin=browser,internet
 bumblebee-git=graphics,gpu,video
 bumblebee-picasso-git=graphics,gpu,video
 chromium-dev=browser,internet
+dolphin-emu-git=emulator,games,wii,gamecube
+dolphin-emu-cli-git-netplay=emulator,games,wii,gamecube
+dolphin-emu-debugfast-git=emulator,games,wii,gamecube
+dolphin-emu-faster-melee=emulator,games,wii,gamecube
+dolphin-emu-ishiiruka-cli-git=emulator,games,wii,gamecube
+dolphin-emu-ishiiruka-git=emulator,games,wii,gamecube
+dolphin-emu-nogui-git=emulator,games,wii,gamecube
+dolphin-emu-osvr-cli-git=emulator,games,wii,gamecube
+dolphin-emu-osvr-git=emulator,games,wii,gamecube
+dolphin-emu-osvr-qt-git=emulator,games,wii,gamecube
+dolphin-emu-qt-git-netplay=emulator,games,wii,gamecube
+dolphin-emu-triforce=emulator,games,wii,gamecube
+dolphin-emu-vr-git=emulator,games,wii,gamecube
 firefox-beta=browser,internet
 firefox-beta-bin=browser,internet
 fpakman=gui,applications
@@ -51,10 +64,15 @@ pycharm-community-eap=ide,development,python
 pycharm-eap=ide,development,python
 pycharm-edu=ide,development,python
 pycharm-professional=ide,development,python
+<<<<<<< Updated upstream
 rpcs3=games,emulator
 rpcs3-bin=games,emulator
 rpcs3-git=games,emulator
 rpcs3-git-bin=games,emulator
+=======
+sc-controller=games,gamepad
+sc-controller-git=games,gamepad
+>>>>>>> Stashed changes
 spotify=music,streaming
 sublime-text-dev=text editor,development
 ttf-havana=fonts
