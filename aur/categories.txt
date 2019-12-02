@@ -64,15 +64,12 @@ pycharm-community-eap=ide,development,python
 pycharm-eap=ide,development,python
 pycharm-edu=ide,development,python
 pycharm-professional=ide,development,python
-<<<<<<< Updated upstream
 rpcs3=games,emulator
 rpcs3-bin=games,emulator
 rpcs3-git=games,emulator
 rpcs3-git-bin=games,emulator
-=======
 sc-controller=games,gamepad
 sc-controller-git=games,gamepad
->>>>>>> Stashed changes
 spotify=music,streaming
 sublime-text-dev=text editor,development
 ttf-havana=fonts
