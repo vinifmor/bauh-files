@@ -32,6 +32,7 @@ fpakman=gui,applications
 fpakman-staging=gui,applications
 gamemode=games
 git-cola=git,gui
+git-cola-git=git,gui
 google-chrome=browser,internet
 google-chrome-beta=browser,internet
 google-chrome-dev=browser,internet
