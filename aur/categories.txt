@@ -55,6 +55,7 @@ optimus-manager-qt=graphics,gpu,video,gui
 optimus-manager-qt-git=graphics,gpu,video,gui
 pcsx2-git=games,emulator
 pcsx2-plugin-usbqemu-wheel=plugin
+pegasus-frontend-git=games,gui
 prime-switcher=graphics,gpu,video,gui
 proton=games
 proton-git=games
