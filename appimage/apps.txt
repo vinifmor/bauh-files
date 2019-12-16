@@ -109,6 +109,8 @@ Electorrent
 Elements
 Elphyre-WalletShell
 Emacs
+EncryptPad
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -423,6 +425,11 @@ TimeCampDesktop
 Todoist
 TreeSheets
 Trinity_Desktop
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -508,7 +515,15 @@ foxfolio
 fre:ac
 freeman
 gLabels
-kitupiikki
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+heb12
+hotspot
 ksnip
 laigter
 langly
