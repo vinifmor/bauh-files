@@ -207,7 +207,6 @@ gmail:
 
 mega:
   name: Mega
-  version: 7.1.5
   url: https://mega.nz
   category: Utility
   priority: 0
