@@ -137,7 +137,7 @@ ms_drive:
 reddit:
   name: Reddit
   url: https://reddit.com
-  category: network
+  category: Network
   priority: 1
 
 google-drive:
