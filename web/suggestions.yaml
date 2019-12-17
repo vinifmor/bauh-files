@@ -164,7 +164,7 @@ google-keep:
 google-cal:
   name: Google Calendar
   url: https://calendar.google.com
-  icon_url: https://calendar.google.com/googlecalendar/images/favicon_v2014_16.ico
+  icon_url: https://calendar.google.com/googlecalendar/images/favicon_v2018_256.png
   category: Utility
   options: [tray_min]
   priority: 2
