@@ -6,4 +6,4 @@ nativefier:
   version: '7.7.0'
 
 electron:
-  version: '5.0.12'
+  version: '5.0.13'
