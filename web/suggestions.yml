@@ -76,7 +76,7 @@ office:
     ca: Office del núvol
     de: Office der Wolke
   url: https://office.com
-  category: office
+  category: Office
   priority: 0
 
 ms_excel:
@@ -90,7 +90,8 @@ ms_excel:
     de: Excel der Wolke
   url: https://www.office.com/launch/excel
   icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico
-  category: office
+  use_icon: true
+  category: Office
   priority: 1
 
 ms_word:
@@ -104,7 +105,8 @@ ms_word:
     de: Word der Wolke
   url: https://www.office.com/launch/word
   icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-word-svg-8eedb3d95e.ico
-  category: office
+  use_icon: true
+  category: Office
   priority: 1
 
 ms_pp:
@@ -118,7 +120,8 @@ ms_pp:
     de: Powerpoint der Wolke
   url: https://www.office.com/launch/powerpoint
   icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico
-  category: office
+  use_icon: true
+  category: Office
   priority: 1
 
 ms_outlook:
@@ -157,6 +160,7 @@ google-keep:
     de: Cloud Notes-Dienst
   url: https://keep.google.com
   icon_url: https://ssl.gstatic.com/keep/icon_128.png
+  use_icon: false
   category: Utility
   options: [tray_min]
   priority: 2
@@ -222,3 +226,19 @@ twitter:
   url: https://twitter.com
   category: Network
   priority: 3
+
+evernote:
+  name: Evernote
+  url: https://www.evernote.com/client/web
+  icon_url: https://www.evernote.com/favicon.ico?v2
+  use_icon: false
+  category: Utility
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  options: [tray_min]
+  priority: 2
