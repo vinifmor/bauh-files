@@ -10,6 +10,13 @@ facebook:
   category: Network
   priority: 3
 
+instagram:
+  name: Instagram
+  url: https://instagram.com
+  category: Network
+  save_icon: true
+  priority: 3
+
 twitch:
   name: Twitch
   description:
