@@ -1,0 +1,8 @@
+1=onlyoffice    
+1=gamehub
+1=rpcs3
+1=etcher
+0=postman
+0=nosqlbooster
+0=emacs
+0=azpainer
