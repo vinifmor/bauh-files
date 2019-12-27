@@ -249,3 +249,19 @@ evernote:
     de: Cloud Notes-Dienst
   options: [tray_min]
   priority: 3
+
+onenote:
+  name: OneNote
+  url: https://www.onenote.com
+  icon_url: https://site-cdn.onenote.net/161241631557_Images/FavIcon_OneNote.ico
+  save_icon: false
+  category: Utility
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  options: [tray_min]
+  priority: 1
