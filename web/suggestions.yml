@@ -172,6 +172,13 @@ google-keep:
   options: [tray_min]
   priority: 2
 
+google-photos:
+  name: Google Photos
+  url: https://photos.google.com
+  save_icon: false
+  category: Network
+  priority: 2
+
 google-cal:
   name: Google Calendar
   url: https://calendar.google.com
