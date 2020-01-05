@@ -60,7 +60,6 @@ CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 Chiaki
-Citron
 City_Hub
 CleepDesktop
 Cliniface
