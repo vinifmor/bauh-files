@@ -99,9 +99,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
@@ -211,6 +208,8 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
+LeoCAD
 Lepton
 LibAssist
 LiberTEM
@@ -220,7 +219,6 @@ LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
-Lotun
 MDL
 MLV-App
 MQTT-Explorer
@@ -534,6 +532,10 @@ hyper
 iQPuzzle
 impact
 iota1k
+irccloud-desktop
+isle-editor
+jag
+jira-timer
 jitsi-meet
 jmbde
 jscad-desktop
@@ -640,6 +642,11 @@ timer
 tnt
 triagem-touch
 ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
