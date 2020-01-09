@@ -276,6 +276,7 @@ onenote:
 protonmail:
   name: ProtonMail
   url: https://www.protonmail.com
+  icon_url: https://www.protonmail.com/images/favicon.ico
   save_icon: false
   category: Network
   options: [tray_min]
