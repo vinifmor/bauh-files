@@ -272,3 +272,11 @@ onenote:
     de: Cloud Notes-Dienst
   options: [tray_min]
   priority: 1
+
+protonmail:
+  name: ProtonMail
+  url: https://www.protonmail.com
+  save_icon: false
+  category: Network
+  options: [tray_min]
+  priority: 2
