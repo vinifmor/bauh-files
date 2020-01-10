@@ -534,6 +534,17 @@ huwinterpreter
 hw-probe
 hyper
 iQPuzzle
+impact
+iota1k
+irccloud-desktop
+isle-editor
+jag
+jira-timer
+jitsi-meet
+jmbde
+jscad-desktop
+jumpfm
+jwm-settings-manager
 ksnip
 laigter
 langly
@@ -654,3 +665,5 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
+youtube-music-desktop
