@@ -276,7 +276,6 @@ onenote:
 protonmail:
   name: ProtonMail
   url: https://www.protonmail.com
-  icon_url: https://protonmail.com/apple-touch-icon.png
   save_icon: false
   category: Network
   options: [tray_min]
