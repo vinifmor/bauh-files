@@ -280,3 +280,11 @@ protonmail:
   category: Network
   options: [tray_min]
   priority: 2
+
+trello:
+  name: Trello
+  url: https://trello.com
+  icon_url: 'https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png'
+  save_icon: true
+  category: Network
+  priority: 1
