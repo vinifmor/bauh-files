@@ -275,7 +275,7 @@ onenote:
 
 protonmail:
   name: ProtonMail
-  url: https://www.protonmail.com
+  url: https://protonmail.com
   save_icon: false
   category: Network
   options: [tray_min]
