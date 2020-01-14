@@ -105,6 +105,11 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -200,6 +205,9 @@ KeyManager
 KeyboardClient
 KiCad
 Kiibohd_Configurator
+Kitupiikki
+Knowte
+LANShare
 MDL
 MLV-App
 MQTT-Explorer
@@ -405,6 +413,10 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -490,6 +502,13 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 ksnip
 laigter
 langly
@@ -596,3 +615,7 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
