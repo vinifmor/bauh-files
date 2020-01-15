@@ -101,6 +101,10 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -196,6 +200,7 @@ KeyManager
 KeyboardClient
 KiCad
 Kiibohd_Configurator
+Kitupiikki
 MDL
 MLV-App
 MQTT-Explorer
@@ -392,6 +397,14 @@ SynfigStudio
 Synthein
 TagTime-desktop
 TeXstudio
+TeslaCam_Browser
+ThermusQt
+Tiled
+TilingGenerator
+TimeCampDesktop
+Todoist
+TreeSheets
+Trinity_Desktop
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -582,6 +595,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
