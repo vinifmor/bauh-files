@@ -102,10 +102,6 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
-Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -213,9 +209,6 @@ LED.Custom.Palette
 LMMS
 Ladha
 LeoCAD
-Lepton
-LibAssist
-LiberTEM
 Lightning
 Linedancer
 LiteIDE
@@ -308,7 +301,6 @@ PlotJuggler
 Plover
 Poddr
 Postman
-PostyBirb
 PrimeWorldEditor
 PrinterClient
 Procyon
@@ -391,11 +383,6 @@ Sonist
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SpeedyLoader
-Spivak
-Spree
-Stacer
-Standard_Notes
 StarUML
 Statsbook_Tool
 StatusPilatus
@@ -624,11 +611,6 @@ simple-s3-uploader
 simplechroot
 slang-ed
 smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
-spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
