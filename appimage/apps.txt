@@ -65,6 +65,7 @@ CleepDesktop
 Cliniface
 Clipboard_to_QR-Code
 Cloud_Browser
+Code_OSS
 Colon
 Colorpicker
 Comic-Reader
@@ -154,6 +155,7 @@ GitHubDesktop
 GitNote
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
@@ -236,6 +238,7 @@ Manta
 Mapeo
 Martian
 MasterVyrn
+Mattermost_Desktop
 MaxReams
 MazeSolver
 MediaElch
@@ -283,6 +286,7 @@ OpenTodoList
 Open_Markup_Editor
 Outline-Manager
 PIA
+PRAGA
 PacketSender
 Painel-Web
 PanWriter
@@ -325,6 +329,7 @@ QEMU_PowerPC
 QMediathekView
 QNapi
 QTalarm
+QUaModbusClient
 QVault
 Qawl
 Qredit
@@ -463,6 +468,7 @@ WatchFlower
 WebDesktop
 Webamp
 Wexond
+Whalebird
 Wire
 WishDemo
 Woke
@@ -511,6 +517,7 @@ elcalc
 electron-wechat
 electron-xiami
 embedded-ide
+enve
 erdesigner
 evoplex
 fSpy
@@ -617,6 +624,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+qhot
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -679,5 +687,3 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
-zograscope
-zsync2
