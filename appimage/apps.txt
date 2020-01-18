@@ -192,6 +192,7 @@ James
 JoalDesktop
 Joplin
 Joy2DroidX
+Julius
 KADE
 KOReader
 Kage
@@ -205,6 +206,7 @@ KeyManager
 KeyboardClient
 KiCad
 Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Knowte
 LANShare
@@ -223,6 +225,7 @@ LiveMe_Pro_Tools
 Local_Browser
 Loginized
 Lotun
+M
 MDL
 MLV-App
 MQTT-Explorer
@@ -238,6 +241,7 @@ MazeSolver
 MediaElch
 MegaBasterd
 MeowSQL
+MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
@@ -311,6 +315,7 @@ Postman
 PostyBirb
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
 Procyon
 ProofKeeper
 Pullp
@@ -427,6 +432,7 @@ TimeCampDesktop
 Todoist
 TreeSheets
 Trinity_Desktop
+Tropy
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -439,6 +445,7 @@ UltraScreen
 VK_Desktop
 VLC
 VNote
+VPaint
 VSCodium
 VeChain
 Verto
@@ -571,6 +578,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
@@ -637,6 +645,7 @@ strans
 stretchly
 subtitles-composer-app
 swradio
+tT
 tagspaces
 tastee-ui
 tc
@@ -669,3 +678,6 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
