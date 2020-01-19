@@ -241,6 +241,7 @@ MasterVyrn
 Mattermost_Desktop
 MaxReams
 MazeSolver
+Mechvibes
 MediaElch
 MegaBasterd
 MeowSQL
@@ -684,5 +685,4 @@ whu-library-seat
 windows2usb
 x-loc
 xde
-youtube-music
 youtube-music-desktop
