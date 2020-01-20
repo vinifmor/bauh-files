@@ -111,6 +111,8 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 EnvKey
+Eplee
+Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -214,6 +216,16 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
 M
 MDL
 MLV-App
@@ -426,6 +438,10 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+Turntable
 Tusk
 TweakSophia
 UHK.Agent
@@ -524,13 +540,6 @@ graphql-playground
 gsubs
 heb12
 hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 kitupiikki
 ksnip
 laigter
@@ -650,3 +659,4 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+whiteboard
