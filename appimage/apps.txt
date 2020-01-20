@@ -110,9 +110,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
-Eplee
-Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -212,7 +209,6 @@ Kimitzu-Client
 Kitupiikki
 Knowte
 LANShare
-LCEdit
 M
 MDL
 MLV-App
@@ -518,12 +514,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 kitupiikki
 ksnip
 laigter
@@ -634,3 +624,5 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
+unreel
+updatedeployqt
