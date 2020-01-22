@@ -112,7 +112,6 @@ Emacs
 EncryptPad
 EnvKey
 Eplee
-Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -209,17 +208,6 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Knowte
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 MDL
 MLV-App
 MQTT-Explorer
@@ -437,7 +425,6 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -532,15 +519,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-heb12
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 langly
 laravel-kit
 launcher
@@ -658,5 +636,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
-whu-library-seat
-windows2usb
