@@ -220,10 +220,6 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
-Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
 MDL
 MLV-App
 MQTT-Explorer
@@ -541,6 +537,10 @@ hotspot
 hpack
 hsinstall
 htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 langly
 laravel-kit
 launcher
@@ -660,7 +660,3 @@ weweChat
 whiteboard
 whu-library-seat
 windows2usb
-x-loc
-xde
-youtube-music
-youtube-music-desktop
