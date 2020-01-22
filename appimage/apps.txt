@@ -306,9 +306,6 @@ PhotoFlow
 Photopea
 PhreshPlayer
 PicGo
-Pile
-Pingendo
-Pixsrt
 Plag_Patrol
 Planet_Blupi
 PlayMe
@@ -653,9 +650,6 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-subtitles-composer-app
-swradio
-tT
 tagspaces
 tastee-ui
 tc
