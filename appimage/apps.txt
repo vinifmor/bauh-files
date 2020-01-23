@@ -107,6 +107,12 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
+Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -203,6 +209,14 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Knowte
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+LeoCAD
 MDL
 MLV-App
 MQTT-Explorer
@@ -310,6 +324,8 @@ QVault
 Qawl
 Qredit
 Qrop
+Qt5Demo
+Qt_DAB
 Qucs-S
 Quentier
 QuickTwitch
@@ -411,6 +427,9 @@ TimeCampDesktop
 Todoist
 TreeSheets
 Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -498,6 +517,12 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 langly
 laravel-kit
 launcher
@@ -608,3 +633,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
