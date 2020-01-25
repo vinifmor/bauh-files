@@ -101,6 +101,18 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
+Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -205,6 +217,8 @@ LED.Custom.Palette
 LMMS
 Ladha
 LeoCAD
+Lepton
+LibAssist
 MDL
 MLV-App
 MQTT-Explorer
@@ -510,6 +524,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
+gsubs
 langly
 laravel-kit
 launcher
@@ -624,3 +640,5 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
+weweChat
