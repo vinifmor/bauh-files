@@ -110,9 +110,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
-Eplee
-Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -213,13 +210,6 @@ Kitupiikki
 Knowte
 LANShare
 LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 MDL
 MLV-App
 MQTT-Explorer
@@ -527,6 +517,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
+gsubs
 langly
 laravel-kit
 launcher
@@ -638,7 +630,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
