@@ -110,6 +110,9 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
+EnvKey
+Eplee
+Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -214,6 +217,15 @@ LED.Custom.Palette
 LMMS
 Ladha
 LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
 MDL
 MLV-App
 MQTT-Explorer
@@ -429,6 +441,8 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
+Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -516,6 +530,13 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 langly
 laravel-kit
 launcher
@@ -627,3 +648,6 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
