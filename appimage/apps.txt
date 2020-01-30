@@ -561,8 +561,6 @@ jscad-desktop
 jumpfm
 jwm-settings-manager
 keyrier-json
-kitupiikki
-ksnip
 langly
 laravel-kit
 launcher
