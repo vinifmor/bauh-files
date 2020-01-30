@@ -226,6 +226,8 @@ LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
+Lotun
+M
 MDL
 MLV-App
 MQTT-Explorer
@@ -537,6 +539,20 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
+heb12
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
+irccloud-desktop
+isle-editor
 langly
 laravel-kit
 launcher
@@ -658,3 +674,7 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
+youtube-music-desktop
+zmNinja
+zograscope
