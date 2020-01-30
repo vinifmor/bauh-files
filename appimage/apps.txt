@@ -221,12 +221,6 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
-Loginized
-Lotun
 MDL
 MLV-App
 MQTT-Explorer
@@ -442,8 +436,6 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
-Tusk
-TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -542,8 +534,6 @@ heb12
 hotspot
 hpack
 hsinstall
-htmldoc
-hugin
 langly
 laravel-kit
 launcher
@@ -662,6 +652,3 @@ westeroscraftlauncher
 weweChat
 whiteboard
 whu-library-seat
-windows2usb
-x-loc
-xde
