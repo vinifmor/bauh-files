@@ -218,9 +218,6 @@ LMMS
 Ladha
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
-Lightning
 MDL
 MLV-App
 MQTT-Explorer
@@ -436,6 +433,8 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
+Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -532,8 +531,6 @@ graphql-playground
 gsubs
 heb12
 hotspot
-hpack
-hsinstall
 langly
 laravel-kit
 launcher
@@ -651,4 +648,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
-whu-library-seat
