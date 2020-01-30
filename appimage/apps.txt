@@ -227,7 +227,6 @@ LiveMe_Pro_Tools
 Local_Browser
 Loginized
 Lotun
-M
 MDL
 MLV-App
 MQTT-Explorer
@@ -545,10 +544,6 @@ hpack
 hsinstall
 htmldoc
 hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
 langly
 laravel-kit
 launcher
@@ -670,7 +665,3 @@ whu-library-seat
 windows2usb
 x-loc
 xde
-youtube-music
-youtube-music-desktop
-zmNinja
-zograscope
