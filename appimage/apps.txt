@@ -217,7 +217,6 @@ LED.Custom.Palette
 LMMS
 Ladha
 LeoCAD
-Lepton
 MDL
 MLV-App
 MQTT-Explorer
@@ -528,9 +527,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-heb12
-hotspot
 langly
 laravel-kit
 launcher
