@@ -12,6 +12,7 @@ Another_Redis_Desktop_Manager
 Aphelion_Wallet
 Apla
 AppImageUpdate
+App_Outlet
 ArcadeManager
 Archipel
 Archipelago
@@ -687,5 +688,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
-zograscope
