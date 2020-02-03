@@ -225,9 +225,6 @@ Lightning
 Linedancer
 LiteIDE
 LiveMe_Pro_Tools
-Local_Browser
-Loginized
-Lotun
 M
 MDL
 MLV-App
@@ -540,15 +537,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-heb12
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 ksnip
 laigter
 langly
@@ -671,3 +659,6 @@ whiteboard
 whu-library-seat
 windows2usb
 x-loc
+xde
+youtube-music
+youtube-music-desktop
