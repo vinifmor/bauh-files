@@ -107,6 +107,12 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
 Eqonomize
 Etcher
 EverInst
@@ -204,6 +210,8 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Knowte
 M
 MDL
 MLV-App
@@ -310,6 +318,8 @@ QTalarm
 QUaModbusClient
 QVault
 Qawl
+Qredit
+Qrop
 Qt5Demo
 Qt_DAB
 Qucs-S
@@ -411,6 +421,13 @@ Tiled
 TilingGenerator
 TimeCampDesktop
 Todoist
+TreeSheets
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+Turntable
 Tusk
 TweakSophia
 UHK.Agent
@@ -500,12 +517,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 ksnip
 laigter
 langly
@@ -619,3 +630,6 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
