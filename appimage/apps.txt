@@ -7,7 +7,6 @@ Alduin
 Altitude
 Altus
 AnaVis
-AngularConsole
 Another_Redis_Desktop_Manager
 Aphelion_Wallet
 Apla
@@ -662,6 +661,7 @@ tc
 theWeb
 thorium-client
 timer
+tmon
 tnt
 triagem-touch
 ttth
@@ -686,5 +686,4 @@ whu-library-seat
 windows2usb
 x-loc
 xde
-youtube-music
 youtube-music-desktop
