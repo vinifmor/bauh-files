@@ -111,8 +111,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
-Eplee
 Eqonomize
 Etcher
 EverInst
@@ -211,17 +209,6 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-Knowte
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
 M
 MDL
 MLV-App
@@ -527,13 +514,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
 ksnip
 laigter
 langly
@@ -653,5 +633,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
-whu-library-seat
-windows2usb
