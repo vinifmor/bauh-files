@@ -389,6 +389,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
 Skrifa
 SlackBackup
 Slacktronic
@@ -556,15 +557,6 @@ isle-editor
 jag
 jira-timer
 jitsi-meet
-jmbde
-jscad-desktop
-jumpfm
-jwm-settings-manager
-keyrier-json
-kitupiikki
-ksnip
-laigter
-langly
 laravel-kit
 launcher
 le
@@ -686,4 +678,8 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
