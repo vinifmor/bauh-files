@@ -219,6 +219,7 @@ gmail:
   name: GMail
   url: https://gmail.com
   icon_url: https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+  save_icon: true
   category: Network
   options: [tray_min]
   priority: 3
