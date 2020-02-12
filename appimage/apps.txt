@@ -106,6 +106,12 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
 Eqonomize
 Etcher
 EverInst
@@ -215,8 +221,6 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
-Linedancer
-LiteIDE
 M
 MDL
 MLV-App
@@ -529,6 +533,7 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
+heb12
 kitupiikki
 ksnip
 laigter
@@ -649,3 +654,4 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+whiteboard
