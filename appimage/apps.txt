@@ -220,10 +220,6 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
-Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -536,15 +532,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-heb12
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 laravel-kit
 launcher
 le
@@ -662,3 +649,7 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
+x-loc
+xde
