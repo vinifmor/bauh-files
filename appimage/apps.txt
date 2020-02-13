@@ -226,9 +226,6 @@ LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
-Lotun
-M
-MDL
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -547,6 +544,9 @@ hpack
 hsinstall
 htmldoc
 hugin
+huwinterpreter
+hw-probe
+hyper
 laravel-kit
 launcher
 le
