@@ -213,20 +213,6 @@ Kitupiikki
 Knowte
 LANShare
 LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
-Loginized
-Lotun
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -444,6 +430,7 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -655,7 +642,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
-whu-library-seat
-windows2usb
-x-loc
-xde
