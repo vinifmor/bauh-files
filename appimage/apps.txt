@@ -223,6 +223,12 @@ LiberTEM
 Lightning
 Linedancer
 LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
+M
+MDL
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -547,6 +553,8 @@ hyper
 iQPuzzle
 impact
 iota1k
+irccloud-desktop
+isle-editor
 laravel-kit
 launcher
 le
@@ -670,3 +678,5 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
+zsync2
