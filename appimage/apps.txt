@@ -216,6 +216,10 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -644,3 +648,4 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
