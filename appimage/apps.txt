@@ -220,6 +220,7 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+Lightning
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -437,7 +438,6 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
