@@ -220,7 +220,6 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
-Lightning
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -438,6 +437,7 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -531,7 +531,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
 laravel-kit
 launcher
 le
@@ -647,3 +646,7 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+whiteboard
+whu-library-seat
+windows2usb
+x-loc
