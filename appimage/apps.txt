@@ -223,6 +223,7 @@ LiberTEM
 Lightning
 Linedancer
 LiteIDE
+LiveMe_Pro_Tools
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -544,7 +545,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-iQPuzzle
 laravel-kit
 launcher
 le
@@ -665,8 +665,3 @@ whu-library-seat
 windows2usb
 x-loc
 xde
-youtube-music
-youtube-music-desktop
-zmNinja
-zograscope
-zsync2
