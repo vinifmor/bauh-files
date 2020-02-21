@@ -541,15 +541,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-heb12
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 laravel-kit
 launcher
 le
@@ -668,3 +659,8 @@ weweChat
 whiteboard
 whu-library-seat
 windows2usb
+x-loc
+xde
+youtube-music
+youtube-music-desktop
+zmNinja
