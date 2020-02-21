@@ -221,14 +221,6 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
-Loginized
-Lotun
-M
-MDL
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -446,7 +438,6 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -541,15 +532,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-heb12
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 laravel-kit
 launcher
 le
@@ -665,4 +647,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-whiteboard
