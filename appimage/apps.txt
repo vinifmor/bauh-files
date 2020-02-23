@@ -562,11 +562,6 @@ jmbde
 jscad-desktop
 jumpfm
 jwm-settings-manager
-keyrier-json
-kitupiikki
-ksnip
-laigter
-langly
 laravel-kit
 launcher
 le
