@@ -100,6 +100,13 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
+Elements
 Etcher
 EverInst
 ExeQt
@@ -195,6 +202,7 @@ KeyManager
 KeyboardClient
 KiCad
 Kiibohd_Configurator
+Kimitzu-Client
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -399,6 +407,17 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
+ThermusQt
+Tiled
+TilingGenerator
+TimeCampDesktop
+Todoist
+TreeSheets
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -488,7 +507,6 @@ freeman
 gLabels
 getswell
 gibs
-githoard
 laravel-kit
 launcher
 le
@@ -597,3 +615,4 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
