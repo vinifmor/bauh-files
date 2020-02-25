@@ -227,8 +227,6 @@ LiveMe_Pro_Tools
 Local_Browser
 Loginized
 Lotun
-M
-MDL
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -551,22 +549,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-iQPuzzle
-impact
-iota1k
-irccloud-desktop
-isle-editor
-jag
-jira-timer
-jitsi-meet
-jmbde
-jscad-desktop
-jumpfm
-jwm-settings-manager
-keyrier-json
-kitupiikki
-ksnip
-laigter
 langly
 laravel-kit
 launcher
@@ -692,4 +674,3 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
-zograscope
