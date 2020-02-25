@@ -218,6 +218,14 @@ LMMS
 Ladha
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -529,6 +537,10 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
+gsubs
+heb12
+hotspot
 langly
 laravel-kit
 launcher
@@ -647,3 +659,11 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
+x-loc
+xde
+youtube-music
+youtube-music-desktop
+zmNinja
+zograscope
