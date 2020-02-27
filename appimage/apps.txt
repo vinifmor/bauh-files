@@ -209,20 +209,6 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Knowte
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
-Linedancer
-LiteIDE
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -437,10 +423,6 @@ Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
-Tumblr_Scraper
-Turntable
-Tusk
-TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -648,4 +630,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
