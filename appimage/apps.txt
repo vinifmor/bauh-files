@@ -228,7 +228,6 @@ Local_Browser
 Loginized
 Lotun
 M
-MDL
 MLV-App
 MQTT-Explorer
 MQTTCute
@@ -551,6 +550,7 @@ hugin
 huwinterpreter
 hw-probe
 hyper
+iQPuzzle
 langly
 laravel-kit
 launcher
@@ -673,3 +673,4 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music-desktop
