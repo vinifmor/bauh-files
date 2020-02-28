@@ -220,8 +220,6 @@ Ladha
 LeoCAD
 Lepton
 LibAssist
-LiberTEM
-Lightning
 MDL
 MLV-App
 MQTT-Explorer
@@ -657,3 +655,7 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
+x-loc
+xde
