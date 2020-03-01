@@ -591,7 +591,6 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
 movie-monad
 mtCellEdit
 my-budget
