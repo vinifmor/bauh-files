@@ -94,10 +94,6 @@ Demonizer
 Deployer
 DevHub
 Diffuse
-Disass
-DockStation
-DokiDokiModManager
-Downline
 Etcher
 EverInst
 ExeQt
@@ -298,6 +294,10 @@ QNapi
 QTalarm
 QUaModbusClient
 QVault
+Qawl
+Qredit
+Qrop
+Qt5Demo
 Qt_DAB
 Qucs-S
 Quentier
@@ -482,6 +482,7 @@ four
 foxfolio
 fre:ac
 freeman
+gLabels
 ksnip
 laigter
 langly
@@ -580,3 +581,8 @@ tc
 theWeb
 thorium-client
 timer
+tmon
+tnt
+triagem-touch
+ttth
+tweet-tray
