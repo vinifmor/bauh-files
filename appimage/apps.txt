@@ -97,6 +97,7 @@ Diffuse
 Disass
 DockStation
 DokiDokiModManager
+Downline
 Etcher
 EverInst
 ExeQt
@@ -189,6 +190,7 @@ KeePassXC
 KettleClient
 KevEdit
 KeyManager
+KeyboardClient
 MDL
 MLV-App
 MQTT-Explorer
@@ -290,9 +292,6 @@ QDriverStation
 QEMU_PowerPC
 QMediathekView
 QNapi
-QTalarm
-QUaModbusClient
-QVault
 Qt_DAB
 Qucs-S
 Quentier
@@ -471,10 +470,13 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-flameshot
-fmradio
-four
-foxfolio
+jira-timer
+jitsi-meet
+jmbde
+jscad-desktop
+jumpfm
+jwm-settings-manager
+keyrier-json
 kitupiikki
 ksnip
 laigter
@@ -570,3 +572,9 @@ swradio
 tT
 tagspaces
 tastee-ui
+tc
+theWeb
+thorium-client
+timer
+tmon
+tnt
