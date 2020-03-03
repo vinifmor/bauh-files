@@ -215,6 +215,12 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
 MDL
 MLV-App
 MQTT-Explorer
@@ -525,6 +531,10 @@ gLabels
 getswell
 gibs
 githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 ksnip
 laigter
 langly
@@ -641,5 +651,3 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
-weweChat
