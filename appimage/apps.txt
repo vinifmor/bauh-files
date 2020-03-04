@@ -107,6 +107,12 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
+Eqonomize
 Etcher
 EverInst
 ExeQt
@@ -211,6 +217,7 @@ LED.Custom.Palette
 LMMS
 Ladha
 LeoCAD
+Lepton
 MDL
 MLV-App
 MQTT-Explorer
@@ -428,6 +435,7 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -518,6 +526,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
 ksnip
 laigter
 langly
@@ -628,3 +638,6 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
+violetbug
