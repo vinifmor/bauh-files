@@ -361,6 +361,7 @@ ReliefValve
 RetroShare
 RoboRock_Control_Center
 RoloViewer
+Rufus
 Running-Dinner-Tool
 RyoWallet
 SBLauncher
