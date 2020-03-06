@@ -1,6 +1,6 @@
 youtube:
   name: YouTube
-  url: https://youtube.com
+  url: https://www.youtube.com
   category: Network
   priority: 1
 
@@ -12,7 +12,7 @@ facebook:
 
 instagram:
   name: Instagram
-  url: https://instagram.com
+  url: https://www.instagram.com
   category: Network
   save_icon: true
   priority: 3
@@ -26,7 +26,7 @@ twitch:
     it: Servizio di streaming
     ca: Servei de streaming
     de: Streaming-Dienst
-  url: https://twitch.tv
+  url: https://www.twitch.tv
   category: Network
   priority: 1
 
@@ -67,7 +67,7 @@ slack:
     it: Servizio di messaggi cloud
     ca: Servei de missatges al núvol
     de: Cloud-Nachrichtendienst
-  url: https://slack.com
+  url: https://www.slack.com
   category: Network
   options: [tray_min]
   priority: 3
@@ -82,7 +82,7 @@ office:
     it: Office's Word
     ca: Office del núvol
     de: Office der Wolke
-  url: https://office.com
+  url: https://www.office.com
   category: Office
   priority: 0
 
@@ -140,13 +140,13 @@ ms_outlook:
 
 ms_drive:
   name: Microsoft One Drive
-  url: https://onedrive.live.com
+  url: https://www.onedrive.live.com
   category: Utility
   priority: 0
 
 reddit:
   name: Reddit
-  url: https://reddit.com
+  url: https://www.reddit.com
   category: Network
   priority: 1
 
@@ -226,7 +226,7 @@ gmail:
 
 mega:
   name: Mega
-  url: https://mega.nz
+  url: https://www.mega.nz
   category: Utility
   priority: 0
 
