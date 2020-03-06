@@ -67,7 +67,7 @@ slack:
     it: Servizio di messaggi cloud
     ca: Servei de missatges al núvol
     de: Cloud-Nachrichtendienst
-  url: https://www.slack.com
+  url: https://slack.com
   category: Network
   options: [tray_min]
   priority: 3
