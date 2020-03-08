@@ -156,6 +156,7 @@ GitHubDesktop
 GitNote
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
@@ -564,6 +565,8 @@ jmbde
 jscad-desktop
 jumpfm
 jwm-settings-manager
+keyrier-json
+kitupiikki
 ksnip
 laigter
 langly
