@@ -216,14 +216,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
-Linedancer
-LiteIDE
 M
 MDL
 MLV-App
@@ -539,6 +531,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
 kitupiikki
 ksnip
 laigter
@@ -656,7 +649,3 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
-weweChat
-whiteboard
-whu-library-seat
