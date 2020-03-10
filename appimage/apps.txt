@@ -225,6 +225,9 @@ Lightning
 Linedancer
 LiteIDE
 LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -539,6 +542,13 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
+gsubs
+heb12
+hotspot
+hpack
+hsinstall
+htmldoc
 kitupiikki
 ksnip
 laigter
@@ -658,3 +668,7 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+whiteboard
+whu-library-seat
+windows2usb
+x-loc
