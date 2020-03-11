@@ -110,7 +110,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
 Eqonomize
 Etcher
 EverInst
@@ -209,6 +208,15 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Knowte
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+LeoCAD
+Lepton
 M
 MDL
 MLV-App
@@ -517,6 +525,9 @@ four
 foxfolio
 fre:ac
 freeman
+gLabels
+getswell
+gibs
 kitupiikki
 ksnip
 laigter
@@ -627,3 +638,5 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
+unreel
+updatedeployqt
