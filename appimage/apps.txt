@@ -227,6 +227,7 @@ LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -663,7 +664,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
-whu-library-seat
-windows2usb
-x-loc
-xde
