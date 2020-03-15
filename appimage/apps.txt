@@ -221,6 +221,8 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+Lightning
+Linedancer
 M
 MDL
 MLV-App
@@ -430,6 +432,15 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
+TimeCampDesktop
+Todoist
+TreeSheets
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+Turntable
 Tusk
 TweakSophia
 UHK.Agent
@@ -521,6 +532,13 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 kitupiikki
 ksnip
 laigter
@@ -640,3 +658,8 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
+weweChat
+whiteboard
+whu-library-seat
+windows2usb
