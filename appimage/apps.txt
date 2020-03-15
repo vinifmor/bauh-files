@@ -222,8 +222,6 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
-Linedancer
-LiteIDE
 M
 MDL
 MLV-App
@@ -665,5 +663,4 @@ whu-library-seat
 windows2usb
 x-loc
 xde
-youtube-music
 youtube-music-desktop
