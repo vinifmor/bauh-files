@@ -51,6 +51,7 @@ Bypass_Cors
 BytespeicherTrayIcon
 CATcher
 CIAA_Suite
+CP_Editor
 CPod
 CRG_Data_Tool
 Cabal_Desktop_Mini
@@ -125,6 +126,7 @@ FAT_Wallet
 FF-Password-Exporter
 FastQt
 Fidias_Database_Migration_App
+Figma
 Filmulator
 FocusWriter
 FontForge
@@ -223,6 +225,11 @@ LibAssist
 LiberTEM
 Lightning
 Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -306,6 +313,7 @@ Pile
 Pingendo
 Pixsrt
 Plag_Patrol
+Planes
 Planet_Blupi
 PlayMe
 Playbox
@@ -421,6 +429,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SwiftnessX
 SyncMyL2P
 Syncplay
@@ -539,7 +548,16 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-kitupiikki
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
 ksnip
 laigter
 langly
@@ -663,3 +681,7 @@ weweChat
 whiteboard
 whu-library-seat
 windows2usb
+x-loc
+xde
+youtube-music
+youtube-music-desktop
