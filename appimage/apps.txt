@@ -101,9 +101,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
 Eqonomize
 Etcher
 EverInst
@@ -414,8 +411,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-TimeCampDesktop
-Todoist
 Tusk
 TweakSophia
 UHK.Agent
@@ -502,10 +497,7 @@ feebas
 feedseries
 flameshot
 fmradio
-four
-foxfolio
-fre:ac
-freeman
+kitupiikki
 ksnip
 laigter
 langly
@@ -620,3 +612,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
