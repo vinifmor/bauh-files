@@ -108,8 +108,6 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
-Elphyre-WalletShell
-Emacs
 Eqonomize
 Etcher
 EverInst
@@ -209,6 +207,10 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Knowte
+LANShare
+LCEdit
 M
 MDL
 MLV-App
@@ -420,10 +422,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-TimeCampDesktop
-Todoist
-TreeSheets
-Trinity_Desktop
 Tusk
 TweakSophia
 UHK.Agent
@@ -625,3 +623,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
