@@ -101,7 +101,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
 Eqonomize
 Etcher
 EverInst
@@ -197,10 +196,6 @@ KeePassXC
 KettleClient
 KevEdit
 KeyManager
-KeyboardClient
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
 M
 MDL
 MLV-App
@@ -409,6 +404,9 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
+ThermusQt
+Tiled
+TilingGenerator
 Tusk
 TweakSophia
 UHK.Agent
@@ -495,7 +493,11 @@ feebas
 feedseries
 flameshot
 fmradio
-kitupiikki
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 ksnip
 laigter
 langly
@@ -605,3 +607,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
