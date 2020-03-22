@@ -215,6 +215,9 @@ Kimitzu-Client
 Kitupiikki
 Knowte
 LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
 M
 MDL
 MLV-App
@@ -531,7 +534,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
 kitupiikki
 ksnip
 laigter
@@ -645,3 +647,6 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+violetbug
+vue-calc
