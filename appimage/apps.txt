@@ -219,7 +219,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
-LeoCAD
 M
 MDL
 MLV-App
@@ -428,13 +427,6 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
-ThermusQt
-Tiled
-TilingGenerator
-Todoist
-TreeSheets
-Trinity_Desktop
-Tropy
 Turntable
 Tusk
 TweakSophia
@@ -517,10 +509,12 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
-feebas
-feedseries
-flameshot
+isle-editor
+jag
+jira-timer
+jitsi-meet
+jmbde
+jscad-desktop
 jumpfm
 jwm-settings-manager
 keyrier-json
@@ -649,3 +643,5 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
+youtube-music-desktop
