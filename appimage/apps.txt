@@ -212,6 +212,9 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Knowte
+LANShare
 M
 MDL
 MLV-App
@@ -422,6 +425,8 @@ TeXstudio
 TeslaCam_Browser
 ThermusQt
 Tiled
+TilingGenerator
+Todoist
 Turntable
 Tusk
 TweakSophia
@@ -506,9 +511,15 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-jumpfm
-jwm-settings-manager
-keyrier-json
+feedseries
+flameshot
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
+getswell
 kitupiikki
 ksnip
 laigter
