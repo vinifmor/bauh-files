@@ -100,11 +100,6 @@ DockStation
 DokiDokiModManager
 Downline
 Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eplee
 Eqonomize
 Etcher
@@ -414,8 +409,6 @@ TagTime-desktop
 TeXstudio
 TeslaCam_Browser
 ThermusQt
-Tiled
-TilingGenerator
 Turntable
 Tusk
 TweakSophia
@@ -501,7 +494,14 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-flameshot
+isle-editor
+jag
+jira-timer
+jitsi-meet
+jmbde
+jscad-desktop
+jumpfm
+jwm-settings-manager
 keyrier-json
 kitupiikki
 ksnip
@@ -607,10 +607,3 @@ tmon
 tnt
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
