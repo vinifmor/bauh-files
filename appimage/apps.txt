@@ -94,6 +94,8 @@ Delir
 Demonizer
 Deployer
 DevHub
+Diffuse
+Disass
 Eplee
 Eqonomize
 Etcher
@@ -186,10 +188,6 @@ Kage
 Kanon
 KawAnime
 Kcov
-KeePassXC
-KettleClient
-KevEdit
-KeyManager
 M
 MDL
 MLV-App
@@ -294,10 +292,6 @@ QEMU_PowerPC
 QMediathekView
 QNapi
 QTalarm
-QUaModbusClient
-QVault
-Qawl
-Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -397,8 +391,6 @@ SynfigStudio
 Synthein
 TagTime-desktop
 TeXstudio
-TeslaCam_Browser
-ThermusQt
 Turntable
 Tusk
 TweakSophia
@@ -484,10 +476,8 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-flameshot
-fmradio
-four
-foxfolio
+jwm-settings-manager
+keyrier-json
 kitupiikki
 ksnip
 laigter
@@ -577,9 +567,4 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
-strans
-stretchly
-subtitles-composer-app
-swradio
-tT
-tagspaces
+youtube-music
