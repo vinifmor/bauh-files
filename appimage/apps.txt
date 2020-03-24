@@ -105,6 +105,8 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
+ElDumper
+Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -311,6 +313,8 @@ QNapi
 QTalarm
 QUaModbusClient
 QVault
+Qawl
+Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -412,6 +416,8 @@ TagTime-desktop
 TeXstudio
 TeslaCam_Browser
 ThermusQt
+Tiled
+TilingGenerator
 Turntable
 Tusk
 TweakSophia
@@ -606,3 +612,6 @@ tmon
 tnt
 triagem-touch
 ttth
+tweet-tray
+twetter
+twitch-wrapper
