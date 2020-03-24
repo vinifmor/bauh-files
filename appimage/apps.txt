@@ -102,11 +102,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -304,6 +299,10 @@ QEMU_PowerPC
 QMediathekView
 QNapi
 QTalarm
+QUaModbusClient
+QVault
+Qawl
+Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -486,6 +485,7 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
+jmbde
 jscad-desktop
 jumpfm
 jwm-settings-manager
@@ -589,3 +589,11 @@ tastee-ui
 tc
 theWeb
 thorium-client
+timer
+tmon
+tnt
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
