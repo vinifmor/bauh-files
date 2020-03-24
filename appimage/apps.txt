@@ -104,9 +104,6 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -200,6 +197,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KettleClient
+KevEdit
 M
 MDL
 MLV-App
@@ -306,6 +305,8 @@ QNapi
 QTalarm
 QUaModbusClient
 QVault
+Qawl
+Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -486,8 +487,8 @@ embedded-ide
 enve
 erdesigner
 evoplex
-jitsi-meet
-jmbde
+fSpy
+falcon-sql-client
 jscad-desktop
 jumpfm
 jwm-settings-manager
@@ -595,4 +596,3 @@ timer
 tmon
 tnt
 triagem-touch
-ttth
