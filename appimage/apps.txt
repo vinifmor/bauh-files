@@ -99,7 +99,6 @@ Disass
 DockStation
 DokiDokiModManager
 Downline
-Dragoman
 Eplee
 Eqonomize
 Etcher
@@ -194,7 +193,6 @@ KawAnime
 Kcov
 KeePassXC
 KettleClient
-KevEdit
 M
 MDL
 MLV-App
@@ -487,6 +485,9 @@ enve
 erdesigner
 evoplex
 fSpy
+falcon-sql-client
+feebas
+feedseries
 jscad-desktop
 jumpfm
 jwm-settings-manager
@@ -588,13 +589,3 @@ tT
 tagspaces
 tastee-ui
 tc
-theWeb
-thorium-client
-timer
-tmon
-tnt
-triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
