@@ -105,13 +105,6 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-ElDumper
-Electorrent
-Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -318,8 +311,6 @@ QNapi
 QTalarm
 QUaModbusClient
 QVault
-Qawl
-Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -421,8 +412,6 @@ TagTime-desktop
 TeXstudio
 TeslaCam_Browser
 ThermusQt
-Tiled
-TilingGenerator
 Turntable
 Tusk
 TweakSophia
@@ -513,8 +502,6 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
 kitupiikki
 ksnip
 laigter
@@ -619,13 +606,3 @@ tmon
 tnt
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
