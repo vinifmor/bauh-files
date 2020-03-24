@@ -99,6 +99,14 @@ Disass
 DockStation
 DokiDokiModManager
 Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -192,7 +200,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KettleClient
 M
 MDL
 MLV-App
@@ -297,10 +304,6 @@ QEMU_PowerPC
 QMediathekView
 QNapi
 QTalarm
-QUaModbusClient
-QVault
-Qawl
-Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -400,9 +403,6 @@ SynfigStudio
 Synthein
 TagTime-desktop
 TeXstudio
-TeslaCam_Browser
-ThermusQt
-Tiled
 Turntable
 Tusk
 TweakSophia
@@ -486,8 +486,6 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
 jscad-desktop
 jumpfm
 jwm-settings-manager
@@ -589,3 +587,5 @@ tT
 tagspaces
 tastee-ui
 tc
+theWeb
+thorium-client
