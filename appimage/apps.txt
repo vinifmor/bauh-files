@@ -102,11 +102,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -417,7 +412,6 @@ TeXstudio
 TeslaCam_Browser
 ThermusQt
 Tiled
-TilingGenerator
 Turntable
 Tusk
 TweakSophia
@@ -508,6 +502,7 @@ fmradio
 four
 foxfolio
 fre:ac
+freeman
 kitupiikki
 ksnip
 laigter
@@ -615,3 +610,7 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
