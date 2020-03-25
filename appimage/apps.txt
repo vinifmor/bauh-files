@@ -200,13 +200,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
 M
 MDL
 MLV-App
@@ -314,7 +307,6 @@ QTalarm
 QUaModbusClient
 QVault
 Qawl
-Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -508,6 +500,7 @@ fmradio
 four
 foxfolio
 fre:ac
+freeman
 kitupiikki
 ksnip
 laigter
@@ -615,10 +608,3 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
