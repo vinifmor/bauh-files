@@ -107,6 +107,10 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
 Eplee
 Eqonomize
 Etcher
@@ -211,6 +215,8 @@ Kitupiikki
 Knowte
 LANShare
 LCEdit
+LED.Custom.Palette
+LMMS
 M
 MDL
 MLV-App
@@ -426,6 +432,9 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -518,10 +527,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
 kitupiikki
 ksnip
 laigter
@@ -637,5 +642,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
