@@ -214,6 +214,13 @@ Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Knowte
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+LeoCAD
+Lepton
 M
 MDL
 MLV-App
@@ -522,6 +529,8 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
 kitupiikki
 ksnip
 laigter
@@ -640,4 +649,3 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
