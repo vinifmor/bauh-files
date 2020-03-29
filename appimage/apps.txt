@@ -213,6 +213,11 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
+Knowte
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
 M
 MDL
 MLV-App
@@ -424,13 +429,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-Todoist
-TreeSheets
-Trinity_Desktop
-Tropy
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -527,6 +525,9 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
+graphql-playground
+gsubs
 kitupiikki
 ksnip
 laigter
@@ -644,3 +645,4 @@ upterm
 violetbug
 vue-calc
 vuerd
+weatherdump
