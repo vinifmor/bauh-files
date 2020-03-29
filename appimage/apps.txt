@@ -213,6 +213,7 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
+Knowte
 M
 MDL
 MLV-App
@@ -428,9 +429,6 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -524,10 +522,6 @@ fre:ac
 freeman
 gLabels
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
 kitupiikki
 ksnip
 laigter
@@ -643,3 +637,7 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
