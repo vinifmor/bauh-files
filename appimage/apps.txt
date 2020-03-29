@@ -220,6 +220,10 @@ LED.Custom.Palette
 LMMS
 Ladha
 LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
 M
 MDL
 MLV-App
@@ -437,6 +441,7 @@ Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
+Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -532,6 +537,10 @@ gLabels
 getswell
 gibs
 githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 kitupiikki
 ksnip
 laigter
@@ -652,3 +661,5 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+whiteboard
+whu-library-seat
