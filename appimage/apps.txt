@@ -111,6 +111,7 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -217,6 +218,7 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
 M
 MDL
 MLV-App
@@ -429,12 +431,6 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
-TreeSheets
-Trinity_Desktop
-Tropy
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -527,6 +523,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
 kitupiikki
 ksnip
 laigter
