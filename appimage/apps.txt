@@ -107,11 +107,6 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
-Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -224,8 +219,6 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
-Linedancer
-LiteIDE
 M
 MDL
 MLV-App
@@ -441,8 +434,6 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
-Tulip
-Tumblr_Downloader_GUI
 Turntable
 Tusk
 TweakSophia
@@ -539,6 +530,8 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
+graphql-playground
 kitupiikki
 ksnip
 laigter
