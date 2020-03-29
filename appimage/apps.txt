@@ -107,6 +107,7 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
+Elements
 Eplee
 Eqonomize
 Etcher
@@ -219,6 +220,11 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
 M
 MDL
 MLV-App
@@ -434,6 +440,9 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -532,6 +541,17 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
 kitupiikki
 ksnip
 laigter
@@ -653,3 +673,9 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
+x-loc
+xde
+youtube-music
+youtube-music-desktop
