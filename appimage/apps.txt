@@ -219,11 +219,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
 M
 MDL
 MLV-App
@@ -436,12 +431,6 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
-TreeSheets
-Trinity_Desktop
-Tropy
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -540,7 +529,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
 kitupiikki
 ksnip
 laigter
@@ -660,6 +648,3 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
-weweChat
-whiteboard
-whu-library-seat
