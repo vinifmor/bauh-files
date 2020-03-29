@@ -219,6 +219,7 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
+LeoCAD
 M
 MDL
 MLV-App
@@ -431,6 +432,11 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
+TreeSheets
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 Turntable
 Tusk
 TweakSophia
@@ -524,6 +530,8 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
 kitupiikki
 ksnip
 laigter
@@ -639,3 +647,8 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
