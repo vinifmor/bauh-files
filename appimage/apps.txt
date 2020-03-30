@@ -106,7 +106,6 @@ Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 ElDumper
-Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -207,8 +206,6 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Knowte
 M
 MDL
 MLV-App
@@ -512,8 +509,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
 kitupiikki
 ksnip
 laigter
@@ -619,12 +614,3 @@ tnt
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
