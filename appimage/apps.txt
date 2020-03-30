@@ -110,8 +110,6 @@ Electorrent
 Elements
 Elphyre-WalletShell
 Emacs
-EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -212,9 +210,6 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Knowte
-LANShare
 M
 MDL
 MLV-App
@@ -426,10 +421,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-Todoist
-TreeSheets
-Trinity_Desktop
-Tropy
 Turntable
 Tusk
 TweakSophia
@@ -517,11 +508,7 @@ feebas
 feedseries
 flameshot
 fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+keyrier-json
 kitupiikki
 ksnip
 laigter
@@ -632,8 +619,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
