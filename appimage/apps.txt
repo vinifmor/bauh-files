@@ -97,6 +97,11 @@ DevHub
 Diffuse
 Disass
 DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 Eplee
 Eqonomize
 Etcher
@@ -190,6 +195,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KettleClient
+KevEdit
 M
 MDL
 MLV-App
@@ -398,8 +405,6 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
-ThermusQt
-Tiled
 Turntable
 Tusk
 TweakSophia
@@ -486,9 +491,6 @@ falcon-sql-client
 feebas
 feedseries
 flameshot
-fmradio
-four
-foxfolio
 kitupiikki
 ksnip
 laigter
@@ -591,3 +593,10 @@ thorium-client
 timer
 tmon
 tnt
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
