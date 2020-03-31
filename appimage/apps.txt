@@ -101,7 +101,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
 Eplee
 Eqonomize
 Etcher
@@ -190,16 +189,6 @@ Joy2DroidX
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
-KeePassXC
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-KiCad
 M
 MDL
 MLV-App
@@ -299,14 +288,6 @@ Procyon
 ProofKeeper
 Pullp
 Puppetry
-QDriverStation
-QEMU_PowerPC
-QMediathekView
-QNapi
-QTalarm
-QUaModbusClient
-QVault
-Qawl
 Qrop
 Qt5Demo
 Qt_DAB
@@ -334,7 +315,6 @@ ReliefValve
 RetroShare
 RoboRock_Control_Center
 RoloViewer
-Rufus
 Running-Dinner-Tool
 RyoWallet
 SBLauncher
@@ -495,7 +475,6 @@ flameshot
 fmradio
 four
 foxfolio
-fre:ac
 kitupiikki
 ksnip
 laigter
@@ -594,3 +573,6 @@ tagspaces
 tastee-ui
 tc
 theWeb
+thorium-client
+timer
+tmon
