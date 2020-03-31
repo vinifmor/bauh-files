@@ -100,7 +100,6 @@ DockStation
 DokiDokiModManager
 Downline
 Dragoman
-Drill
 Eplee
 Eqonomize
 Etcher
@@ -195,8 +194,6 @@ KawAnime
 Kcov
 KeePassXC
 KettleClient
-KevEdit
-KeyManager
 M
 MDL
 MLV-App
@@ -302,6 +299,9 @@ QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
+QVault
+Qawl
+Qredit
 Qrop
 Qt5Demo
 Qt_DAB
@@ -400,6 +400,9 @@ SynfigStudio
 Synthein
 TagTime-desktop
 TeXstudio
+TeslaCam_Browser
+ThermusQt
+Tiled
 Turntable
 Tusk
 TweakSophia
@@ -485,7 +488,8 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-flameshot
+jscad-desktop
+jumpfm
 jwm-settings-manager
 keyrier-json
 kitupiikki
@@ -587,3 +591,4 @@ tastee-ui
 tc
 theWeb
 thorium-client
+timer
