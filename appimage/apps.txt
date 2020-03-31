@@ -93,8 +93,6 @@ DeadGame-2048
 Delir
 Demonizer
 Deployer
-DevHub
-Diffuse
 Eplee
 Eqonomize
 Etcher
@@ -185,12 +183,6 @@ KADE
 KOReader
 Kage
 Kanon
-KawAnime
-Kcov
-KeePassXC
-KettleClient
-KevEdit
-KeyManager
 M
 MDL
 MLV-App
@@ -287,6 +279,14 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 Procyon
+ProofKeeper
+Pullp
+Puppetry
+QDriverStation
+QEMU_PowerPC
+QMediathekView
+QNapi
+QTalarm
 Qrop
 Qt5Demo
 Qt_DAB
@@ -468,8 +468,7 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-jmbde
-jscad-desktop
+feebas
 jumpfm
 jwm-settings-manager
 keyrier-json
