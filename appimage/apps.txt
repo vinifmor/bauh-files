@@ -222,6 +222,8 @@ Ladha
 LeoCAD
 Lepton
 LibAssist
+LiberTEM
+Lightning
 M
 MDL
 MLV-App
@@ -438,6 +440,8 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
@@ -531,6 +535,14 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+hotspot
 keyrier-json
 kitupiikki
 ksnip
@@ -653,3 +665,8 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
+x-loc
+xde
+youtube-music-desktop
