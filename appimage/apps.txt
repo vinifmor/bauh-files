@@ -221,6 +221,12 @@ LMMS
 Ladha
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
 M
 MDL
 MLV-App
@@ -437,6 +443,8 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
@@ -536,6 +544,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+hotspot
+hpack
 keyrier-json
 kitupiikki
 ksnip
@@ -652,3 +663,10 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+whiteboard
+whu-library-seat
