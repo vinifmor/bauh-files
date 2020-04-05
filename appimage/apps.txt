@@ -223,9 +223,6 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
-Lightning
-Linedancer
-LiteIDE
 M
 MDL
 MLV-App
@@ -538,11 +535,6 @@ fre:ac
 freeman
 gLabels
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 keyrier-json
 kitupiikki
 ksnip
@@ -663,3 +655,6 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+whiteboard
+whu-library-seat
