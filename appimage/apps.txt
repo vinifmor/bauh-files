@@ -227,6 +227,9 @@ Lightning
 Linedancer
 LiteIDE
 LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -443,6 +446,8 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
@@ -542,6 +547,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
 keyrier-json
 kitupiikki
 ksnip
@@ -666,3 +672,6 @@ weweChat
 whiteboard
 whu-library-seat
 windows2usb
+x-loc
+xde
+youtube-music-desktop
