@@ -229,6 +229,7 @@ LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -547,6 +548,8 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
+hotspot
+hpack
 keyrier-json
 kitupiikki
 ksnip
