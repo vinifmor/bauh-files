@@ -212,6 +212,15 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Knowte
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+LeoCAD
+Lepton
 M
 MDL
 MLV-App
@@ -420,6 +429,9 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
+ThermusQt
+Tiled
+TilingGenerator
 Tumblr_Scraper
 Turntable
 Tusk
@@ -628,3 +640,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
