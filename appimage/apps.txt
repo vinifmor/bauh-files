@@ -111,6 +111,7 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -215,6 +216,15 @@ Kitupiikki
 Knowte
 LANShare
 LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
 M
 MDL
 MLV-App
@@ -426,6 +436,12 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
+Todoist
+TreeSheets
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
@@ -519,6 +535,11 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
 keyrier-json
 kitupiikki
 ksnip
@@ -632,3 +653,6 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
+violetbug
