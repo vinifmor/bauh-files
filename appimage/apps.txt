@@ -111,7 +111,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -216,11 +215,6 @@ Kitupiikki
 Knowte
 LANShare
 LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
 M
 MDL
 MLV-App
@@ -638,6 +632,3 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
-violetbug
