@@ -213,6 +213,8 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
+Knowte
+LANShare
 M
 MDL
 MLV-App
@@ -629,3 +631,7 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
