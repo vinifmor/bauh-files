@@ -215,6 +215,12 @@ Kimitzu-Client
 Kitupiikki
 Knowte
 LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+LeoCAD
+Lepton
 M
 MDL
 MLV-App
