@@ -228,8 +228,6 @@ Linedancer
 LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
-Loginized
-Lotun
 M
 MDL
 MLV-App
@@ -335,7 +333,6 @@ QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
-QVault
 Qawl
 Qredit
 Qrop
@@ -548,15 +545,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
 keyrier-json
 kitupiikki
 ksnip
