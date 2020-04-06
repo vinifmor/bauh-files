@@ -213,14 +213,6 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-Knowte
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-LeoCAD
-Lepton
 M
 MDL
 MLV-App
@@ -636,8 +628,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
