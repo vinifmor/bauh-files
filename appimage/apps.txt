@@ -205,7 +205,6 @@ KeyManager
 KeyboardClient
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
 M
 MDL
 MLV-App
@@ -414,9 +413,6 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
-ThermusQt
-Tiled
-TilingGenerator
 Tumblr_Scraper
 Turntable
 Tusk
@@ -508,7 +504,6 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
 keyrier-json
 kitupiikki
 ksnip
@@ -615,7 +610,3 @@ tnt
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
