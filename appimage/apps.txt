@@ -211,6 +211,7 @@ KeyboardClient
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+KittehPlayer
 Kitupiikki
 Knowte
 LANShare
@@ -328,6 +329,7 @@ Procyon
 ProofKeeper
 Pullp
 Puppetry
+Python
 QDriverStation
 QEMU_PowerPC
 QMediathekView
@@ -605,6 +607,7 @@ neovim
 ngrev
 nheko
 nimbus-weather
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -632,6 +635,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+qhot
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -692,4 +696,7 @@ whu-library-seat
 windows2usb
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
