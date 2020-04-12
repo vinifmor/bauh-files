@@ -89,6 +89,7 @@ Dana
 DawnlightSearch
 DeDop-studio
 DeadGame-2048
+DeepTags
 Delir
 Demonizer
 Deployer
@@ -110,7 +111,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -139,6 +139,7 @@ FreeTexturePacker
 Friture
 FromScratch
 GIMP
+GL_warp2mp4
 GM-Companion
 GSequencer
 GVim
@@ -225,10 +226,7 @@ LibAssist
 LiberTEM
 Lightning
 Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
-Loginized
+M
 MDL
 MLV-App
 MQTT-Explorer
@@ -546,7 +544,8 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-hotspot
+ksnip
+laigter
 langly
 laravel-kit
 launcher
@@ -661,17 +660,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-whiteboard
-whu-library-seat
-windows2usb
-x-loc
-xde
-youtube-music
-youtube-music-desktop
-zmNinja
-zograscope
