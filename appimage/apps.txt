@@ -101,13 +101,6 @@ DockStation
 DokiDokiModManager
 Downline
 Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
 EnvKey
 Eplee
 Eqonomize
@@ -211,7 +204,6 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 KittehPlayer
-Kitupiikki
 Loginized
 Lotun
 M
@@ -320,7 +312,6 @@ QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
-Qawl
 Qredit
 Qrop
 Qt5Demo
@@ -422,6 +413,10 @@ SynfigStudio
 Synthein
 TagTime-desktop
 TeXstudio
+TeslaCam_Browser
+ThermusQt
+Tiled
+TilingGenerator
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
@@ -515,7 +510,6 @@ four
 foxfolio
 fre:ac
 freeman
-gLabels
 keyrier-json
 kitupiikki
 ksnip
@@ -629,7 +623,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
