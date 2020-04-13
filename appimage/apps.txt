@@ -218,11 +218,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
-Laigter
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 Loginized
 Lotun
 M
@@ -537,10 +532,6 @@ fre:ac
 freeman
 gLabels
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
 keyrier-json
 kitupiikki
 ksnip
@@ -658,10 +649,3 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-whiteboard
