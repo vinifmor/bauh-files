@@ -108,8 +108,6 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
-Elements
-Elphyre-WalletShell
 EnvKey
 Eplee
 Eqonomize
@@ -541,6 +539,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
 keyrier-json
 kitupiikki
 ksnip
