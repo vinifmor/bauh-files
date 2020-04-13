@@ -108,9 +108,6 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
-Elements
-Elphyre-WalletShell
-Emacs
 EnvKey
 Eplee
 Eqonomize
@@ -220,6 +217,12 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
+Laigter
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 Loginized
 Lotun
 M
@@ -438,6 +441,7 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
@@ -533,6 +537,10 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
+glTF_Insight
+glulxe
 keyrier-json
 kitupiikki
 ksnip
@@ -651,3 +659,9 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+whiteboard
