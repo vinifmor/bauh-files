@@ -103,13 +103,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
-Elements
-Elphyre-WalletShell
 EnvKey
 Eplee
 Eqonomize
@@ -223,9 +216,6 @@ Ladha
 Laigter
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
-Lightning
 Loginized
 Lotun
 M
