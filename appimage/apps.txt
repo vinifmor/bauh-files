@@ -228,6 +228,9 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
 Loginized
 Lotun
 M
@@ -544,6 +547,9 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
+graphql-playground
+gsubs
 keyrier-json
 kitupiikki
 ksnip
