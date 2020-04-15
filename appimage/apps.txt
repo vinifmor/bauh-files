@@ -110,8 +110,6 @@ ElDumper
 Electorrent
 Elements
 Elphyre-WalletShell
-Emacs
-EncryptPad
 EnvKey
 Eplee
 Eqonomize
@@ -225,6 +223,9 @@ Ladha
 Laigter
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
+Lightning
 Loginized
 Lotun
 M
@@ -443,7 +444,6 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
-Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
@@ -538,10 +538,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
 keyrier-json
 kitupiikki
 ksnip
