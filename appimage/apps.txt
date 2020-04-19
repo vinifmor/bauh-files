@@ -338,7 +338,6 @@ QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
-Qawl
 Qredit
 Qrop
 Qt5Demo
@@ -543,6 +542,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
 ksnip
 laigter
 langly
