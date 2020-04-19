@@ -228,11 +228,6 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
-Loginized
 Lotun
 M
 MDL
@@ -674,10 +669,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-x-loc
-xde
-youtube-music
-youtube-music-desktop
