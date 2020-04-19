@@ -679,4 +679,5 @@ windows2usb
 wxMEdit
 x-loc
 xde
+youtube-music
 youtube-music-desktop
