@@ -675,3 +675,8 @@ westeroscraftlauncher
 weweChat
 whiteboard
 whu-library-seat
+windows2usb
+wxMEdit
+x-loc
+xde
+youtube-music-desktop
