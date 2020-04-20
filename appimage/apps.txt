@@ -105,6 +105,14 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -213,6 +221,14 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
+Laigter
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
 Lotun
 M
 MDL
@@ -320,6 +336,9 @@ QDriverStation
 QEMU_PowerPC
 QMediathekView
 QNapi
+QTalarm
+QUaModbusClient
+Qawl
 Qredit
 Qrop
 Qt5Demo
@@ -422,6 +441,12 @@ Synthein
 TagTime-desktop
 TeXstudio
 TeslaCam_Browser
+ThermusQt
+Tiled
+TilingGenerator
+Todoist
+TreeSheets
+Trinity_Desktop
 Tumblr_Scraper
 Turntable
 Tusk
@@ -515,6 +540,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
 ksnip
 laigter
 langly
@@ -628,3 +655,5 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+violetbug
