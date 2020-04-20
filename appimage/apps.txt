@@ -109,10 +109,6 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -221,14 +217,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Ladha
-Laigter
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
-Linedancer
 Lotun
 M
 MDL
@@ -444,9 +432,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-Todoist
-TreeSheets
-Trinity_Desktop
 Tumblr_Scraper
 Turntable
 Tusk
@@ -538,10 +523,6 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
-getswell
-gibs
 ksnip
 laigter
 langly
@@ -652,8 +633,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
