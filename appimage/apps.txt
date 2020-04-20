@@ -112,7 +112,6 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -553,7 +552,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
 ksnip
 laigter
 langly
@@ -676,3 +674,5 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
