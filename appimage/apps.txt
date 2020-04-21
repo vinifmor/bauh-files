@@ -109,6 +109,9 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
 Eplee
 Eqonomize
 Etcher
@@ -221,8 +224,6 @@ Ladha
 Laigter
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 Lotun
 M
 MDL
@@ -439,8 +440,6 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
-TreeSheets
-Trinity_Desktop
 Tumblr_Scraper
 Turntable
 Tusk
@@ -649,5 +648,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
