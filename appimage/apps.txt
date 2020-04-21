@@ -92,6 +92,10 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
+Demonizer
+Deployer
+DevHub
+Diffuse
 Eplee
 Eqonomize
 Etcher
@@ -195,6 +199,8 @@ Kiibohd_Configurator
 Kimitzu-Client
 KittehPlayer
 Kitupiikki
+Knowte
+LANShare
 Lotun
 M
 MDL
@@ -495,7 +501,7 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-jumpfm
+flameshot
 jwm-settings-manager
 keyrier-json
 kitupiikki
@@ -609,3 +615,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
