@@ -112,6 +112,7 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -224,6 +225,11 @@ Ladha
 Laigter
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
 Lotun
 M
 MDL
@@ -440,6 +446,9 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
+TreeSheets
+Trinity_Desktop
+Tropy
 Tumblr_Scraper
 Turntable
 Tusk
@@ -533,6 +542,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
 ksnip
 laigter
 langly
