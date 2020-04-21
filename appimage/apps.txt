@@ -230,6 +230,9 @@ LiberTEM
 Lightning
 Linedancer
 LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
 Lotun
 M
 MDL
@@ -449,6 +452,8 @@ Todoist
 TreeSheets
 Trinity_Desktop
 Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
@@ -544,6 +549,12 @@ freeman
 gLabels
 getswell
 gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+hotspot
 ksnip
 laigter
 langly
@@ -659,3 +670,15 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+x-loc
+xde
+youtube-music-desktop
