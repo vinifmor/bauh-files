@@ -95,6 +95,19 @@ Delir
 Demonizer
 Deployer
 DevHub
+Diffuse
+Disass
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
 Eplee
 Eqonomize
 Etcher
@@ -199,6 +212,12 @@ Kimitzu-Client
 KittehPlayer
 Kitupiikki
 Knowte
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+Laigter
 Lotun
 M
 MDL
@@ -308,6 +327,7 @@ QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
+Qawl
 Qredit
 Qrop
 Qt5Demo
@@ -502,7 +522,8 @@ feedseries
 flameshot
 fmradio
 four
-kitupiikki
+foxfolio
+fre:ac
 ksnip
 laigter
 langly
@@ -613,5 +634,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
