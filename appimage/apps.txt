@@ -554,14 +554,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 ksnip
 laigter
 langly
@@ -688,3 +680,5 @@ windows2usb
 wxMEdit
 x-loc
 xde
+youtube-music
+youtube-music-desktop
