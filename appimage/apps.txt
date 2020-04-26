@@ -273,6 +273,7 @@ NCSA_Mosaic
 NanoVault
 Negibox
 Neon
+NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
@@ -437,6 +438,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+Superpaper
 SwiftnessX
 SyncMyL2P
 Syncplay
@@ -662,6 +664,7 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
@@ -702,5 +705,4 @@ windows2usb
 wxMEdit
 x-loc
 xde
-youtube-music
 youtube-music-desktop
