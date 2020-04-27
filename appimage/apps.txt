@@ -558,6 +558,12 @@ graphql-playground
 gsubs
 hotspot
 hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 keyrier-json
 kitupiikki
 ksnip
@@ -687,4 +693,3 @@ windows2usb
 wxMEdit
 x-loc
 xde
-youtube-music-desktop
