@@ -227,13 +227,6 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
-Lightning
-Linedancer
-LiteIDE
-LiveMe_Pro_Tools
-Local_Browser
-Loginized
-Lotun
 M
 MDL
 MLV-App
@@ -263,6 +256,7 @@ Mirage
 Mob
 Mockman
 MoonPlayer
+Moonlight
 Motrix
 Museeks
 Musicalypse
@@ -456,7 +450,6 @@ Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
-Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -555,10 +548,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-keyrier-json
-kitupiikki
-ksnip
-laigter
+gsubs
 langly
 laravel-kit
 launcher
