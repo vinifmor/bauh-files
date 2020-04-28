@@ -104,15 +104,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-ElDumper
-Electorrent
-Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
-EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -447,8 +438,6 @@ Tiled
 TilingGenerator
 Todoist
 TreeSheets
-Trinity_Desktop
-Tropy
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -658,10 +647,3 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
-vue-calc
-vuerd
-weatherdump
