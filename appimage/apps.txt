@@ -227,6 +227,13 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -450,6 +457,7 @@ Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
+Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -549,6 +557,11 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
 langly
 laravel-kit
 launcher
@@ -669,3 +682,12 @@ weatherdump
 westeroscraftlauncher
 weweChat
 whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+x-loc
+xde
+youtube-music
+youtube-music-desktop
+zmNinja
+zograscope
