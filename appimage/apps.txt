@@ -108,6 +108,10 @@ ERScaffold
 Eagle_Mode
 ElDumper
 Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
 Eqonomize
 Etcher
 EverInst
@@ -220,6 +224,14 @@ Laigter
 LeoCAD
 Lepton
 LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -440,6 +452,7 @@ TilingGenerator
 Todoist
 TreeSheets
 Trinity_Desktop
+Tropy
 Turntable
 Tusk
 TweakSophia
@@ -532,6 +545,13 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 langly
 laravel-kit
 launcher
@@ -646,3 +666,9 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+whiteboard
