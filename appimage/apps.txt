@@ -562,6 +562,13 @@ hpack
 hsinstall
 htmldoc
 hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
+irccloud-desktop
 langly
 laravel-kit
 launcher
@@ -691,3 +698,4 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
+zsync2
