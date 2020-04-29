@@ -112,6 +112,8 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
+EnvKey
+Eplee
 Eqonomize
 Etcher
 EverInst
@@ -225,6 +227,13 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -547,7 +556,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
 langly
 laravel-kit
 launcher
@@ -666,3 +674,6 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+whiteboard
+whu-library-seat
