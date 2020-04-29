@@ -224,6 +224,16 @@ LMMS
 Ladha
 Laigter
 LeoCAD
+Lepton
+LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -442,6 +452,7 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
+TreeSheets
 Turntable
 Tusk
 TweakSophia
@@ -539,6 +550,7 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
 langly
 laravel-kit
 launcher
@@ -653,3 +665,9 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+whiteboard
