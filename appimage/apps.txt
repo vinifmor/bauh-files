@@ -103,6 +103,17 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+ElDumper
+Electorrent
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
 Eqonomize
 Etcher
 EverInst
@@ -219,6 +230,10 @@ LiberTEM
 Lightning
 Linedancer
 LiteIDE
+LiveMe_Pro_Tools
+Local_Browser
+Loginized
+Lotun
 M
 MDL
 MLV-App
@@ -438,6 +453,11 @@ Tiled
 TilingGenerator
 Todoist
 TreeSheets
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -533,6 +553,11 @@ gLabels
 getswell
 gibs
 githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+hotspot
 langly
 laravel-kit
 launcher
@@ -647,3 +672,4 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
