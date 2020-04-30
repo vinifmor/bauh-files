@@ -228,6 +228,8 @@ Lepton
 LibAssist
 LiberTEM
 Lightning
+Linedancer
+LiteIDE
 M
 MDL
 MLV-App
@@ -451,7 +453,6 @@ Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
-Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -543,8 +544,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
 langly
 laravel-kit
 launcher
@@ -662,3 +661,5 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
+weweChat
