@@ -109,6 +109,11 @@ Eagle_Mode
 ElDumper
 Electorrent
 Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+EnvKey
+Eplee
 Eqonomize
 Etcher
 EverInst
@@ -216,6 +221,11 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
+Laigter
+LeoCAD
+Lepton
+LibAssist
 M
 MDL
 MLV-App
@@ -433,6 +443,9 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
+Todoist
+TreeSheets
+Trinity_Desktop
 Turntable
 Tusk
 TweakSophia
@@ -524,6 +537,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
 langly
 laravel-kit
 launcher
