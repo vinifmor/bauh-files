@@ -226,6 +226,8 @@ Laigter
 LeoCAD
 Lepton
 LibAssist
+LiberTEM
+Lightning
 M
 MDL
 MLV-App
@@ -446,6 +448,10 @@ TilingGenerator
 Todoist
 TreeSheets
 Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
@@ -538,6 +544,7 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
 langly
 laravel-kit
 launcher
@@ -652,3 +659,6 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
