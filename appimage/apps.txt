@@ -701,6 +701,7 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
@@ -710,4 +711,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
