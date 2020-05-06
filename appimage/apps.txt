@@ -26,6 +26,7 @@ AzPainter
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
+Beekeeper_Studio
 Bezique
 BitShares
 Bitwarden_Connector
