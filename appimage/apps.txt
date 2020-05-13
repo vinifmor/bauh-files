@@ -577,7 +577,6 @@ jira-timer
 jitsi-meet
 jmbde
 jscad-desktop
-jumpfm
 kitupiikki
 ksnip
 laigter
