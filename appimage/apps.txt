@@ -310,6 +310,7 @@ PIA
 PRAGA
 PacketSender
 Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
