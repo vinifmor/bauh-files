@@ -1,5 +1,6 @@
 AKASHA
 ANT_Downloader
+APK_Editor_Studio
 ARAnyM
 Advanced_Rest_Client
 Airspaces
@@ -7,6 +8,7 @@ Alduin
 Altitude
 Altus
 AnaVis
+Anchor
 Another_Redis_Desktop_Manager
 Aphelion_Wallet
 Apla
@@ -17,6 +19,7 @@ Archipel
 Archipelago
 Ark.Desktop.Wallet
 AsarUI
+AstroShutter
 Astroffers
 AudioMoth
 Augur
@@ -142,6 +145,7 @@ FreeCAD2
 FreeTexturePacker
 Friture
 FromScratch
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -213,6 +217,7 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -237,6 +242,7 @@ Local_Browser
 Loginized
 Lotun
 M
+MAngbandClient
 MDL
 MLV-App
 MQTT-Explorer
@@ -286,6 +292,7 @@ NoSQLBooster
 NoTer
 Notable
 OCRmyPDF
+OCVvid2fulldome
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -330,6 +337,7 @@ Playbox
 PlotJuggler
 Plover
 Poddr
+PolkaKey
 Postman
 PostyBirb
 PrimeWorldEditor
@@ -443,6 +451,7 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwiftnessX
+Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
@@ -456,6 +465,7 @@ TilingGenerator
 Todoist
 TreeSheets
 Trinity_Desktop
+Trojan-Qt5
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -647,6 +657,7 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qhot
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
