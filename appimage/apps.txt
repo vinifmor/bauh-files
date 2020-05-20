@@ -578,9 +578,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-iQPuzzle
-impact
-iota1k
 keyrier-json
 kitupiikki
 ksnip
@@ -714,5 +711,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
