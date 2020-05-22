@@ -87,7 +87,6 @@ Cscrypto
 CubicSDR
 Cura
 CustomRPC
-CutePeaks
 CuteVariant
 Cutter
 Dana
@@ -201,7 +200,6 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JKlubTV
-James
 JoalDesktop
 Joplin
 Joy2DroidX
@@ -211,7 +209,6 @@ KOReader
 Kage
 Kanon
 KawAnime
-Kcov
 KeePassXC
 KettleClient
 KevEdit
@@ -317,13 +314,10 @@ Paper
 Parity_Fether
 Patchwork
 Pathephone
-PatternPaint
 Peerio
 Pencil2D
-Pennywise
 Pext
 PhotoFlare
-PhotoFlow
 Photopea
 PhreshPlayer
 PicGo
@@ -422,7 +416,6 @@ SmartGit
 SnippetStore
 SocNetV
 Social.Manager.Tools
-Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -434,10 +427,8 @@ Spree
 Stacer
 Standard_Notes
 StarUML
-Statsbook_Tool
 StatusPilatus
 SteamCAD
-Steem_Messenger
 Stele
 Stellarium
 StockStalk
@@ -532,13 +523,10 @@ clippy
 clipr
 cncjs
 cordlauncher
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
-dexter_dev_env
 dfDemo
 dingtalk
 draw.io
@@ -655,7 +643,6 @@ puush-qt
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
 qTox
 qhot
 qikQR
@@ -676,7 +663,6 @@ slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
-snomcontrol
 spark-wallet
 spm
 sqlitebrowser
