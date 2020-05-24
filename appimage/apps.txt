@@ -55,6 +55,7 @@ Bypass_Cors
 BytespeicherTrayIcon
 CATcher
 CIAA_Suite
+CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
@@ -293,6 +294,7 @@ NoTer
 Notable
 OCRmyPDF
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -420,6 +422,7 @@ Slacktronic
 Slippi
 SmartGit
 SnippetStore
+Soapy_SDR
 SocNetV
 Social.Manager.Tools
 Software-Challenge-GUI
@@ -724,3 +727,5 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
