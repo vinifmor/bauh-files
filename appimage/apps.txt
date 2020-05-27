@@ -256,7 +256,6 @@ Mapeo
 Martian
 MasterVyrn
 Mattermost_Desktop
-MaxReams
 MazeSolver
 Mechvibes
 MediaElch
