@@ -573,11 +573,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
 keyrier-json
 kitupiikki
 ksnip
@@ -709,8 +704,3 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
-x-loc
-xde
-youtube-music
-youtube-music-desktop
-zmNinja
