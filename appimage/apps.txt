@@ -122,6 +122,7 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
+Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
@@ -362,6 +363,7 @@ Qredit
 Qrop
 Qt5Demo
 Qt_DAB
+Qt_JSON_diff
 Qucs-S
 Quentier
 QuickTwitch
@@ -467,6 +469,7 @@ ThermusQt
 Tiled
 TilingGenerator
 Todoist
+Tonuino_Toolbox
 TreeSheets
 Trinity_Desktop
 Trojan-Qt5
@@ -514,6 +517,7 @@ XChat
 Yuna
 ZapDesktop
 ZeGrapher
+Zegarek
 ZenroomStudio
 Zulip
 accessimap-lecteur-der
@@ -728,3 +732,5 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
+zsync2
