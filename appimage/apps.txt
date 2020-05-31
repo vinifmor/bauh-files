@@ -309,6 +309,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+PDFQuirk
 PIA
 PRAGA
 PacketSender
@@ -733,4 +734,3 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
-zsync2
