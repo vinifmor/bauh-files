@@ -226,20 +226,6 @@ Kiibohd_Configurator
 Kimitzu-Client
 KittehPlayer
 Kitupiikki
-Knowte
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-Laigter
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-Lightning
-Linedancer
-LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
@@ -469,8 +455,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-Todoist
-Tonuino_Toolbox
 TreeSheets
 Trinity_Desktop
 Trojan-Qt5
@@ -570,14 +554,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
 keyrier-json
 kitupiikki
 ksnip
@@ -680,6 +656,7 @@ tT
 tagspaces
 tastee-ui
 tc
+theFrame
 theWeb
 thorium-client
 timer
@@ -705,4 +682,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
