@@ -1,6 +1,6 @@
 nodejs:
-  version: '12.16.2'
-  url: 'https://nodejs.org/dist/v12.16.2/node-v12.16.2-linux-x64.tar.xz'
+  version: '12.18.0'
+  url: 'https://nodejs.org/dist/v12.18.0/node-v12.18.0-linux-x64.tar.xz'
 
 nativefier:
   version: '7.7.1'
