@@ -581,6 +581,12 @@ gsubs
 guiscrcpy
 hotspot
 hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 keyrier-json
 kitupiikki
 ksnip
@@ -709,3 +715,11 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+youtube-music
+youtube-music-desktop
