@@ -470,7 +470,6 @@ TeslaCam_Browser
 ThermusQt
 Tiled
 TilingGenerator
-Todoist
 Tonuino_Toolbox
 TreeSheets
 Trinity_Desktop
@@ -571,11 +570,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
 keyrier-json
 kitupiikki
 ksnip
@@ -702,4 +696,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
