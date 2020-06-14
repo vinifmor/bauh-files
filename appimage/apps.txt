@@ -208,6 +208,7 @@ James
 JoalDesktop
 Joplin
 Joy2DroidX
+Juggernaut
 Julius
 KADE
 KOReader
@@ -453,6 +454,7 @@ StockStalk
 StopLight
 Storaji
 Strata
+Streamon
 Stunt_Car_Remake
 Subsurface
 Subtitle_Composer
@@ -470,6 +472,7 @@ TagTime-desktop
 TeXstudio
 TeslaCam_Browser
 ThermusQt
+Thorium_Reader
 Tiled
 TilingGenerator
 Todoist
@@ -734,4 +737,5 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+youtube-music
 youtube-music-desktop
