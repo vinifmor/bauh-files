@@ -243,6 +243,7 @@ LiteIDE
 LiveMe_Pro_Tools
 Local_Browser
 Loginized
+LosslessCut
 Lotun
 M
 MAngbandClient
@@ -387,6 +388,7 @@ Record_Compare
 Redict
 RedmineTimeTracker
 ReliefValve
+Responsively
 RetroShare
 RoboRock_Control_Center
 RoloViewer
@@ -732,5 +734,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
