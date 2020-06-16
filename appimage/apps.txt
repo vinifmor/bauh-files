@@ -584,10 +584,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hotspot
-hpack
-hsinstall
-htmldoc
 jumpfm
 keyrier-json
 kitupiikki
@@ -721,5 +717,3 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
-x-loc
-xde
