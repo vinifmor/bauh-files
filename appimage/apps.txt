@@ -240,6 +240,8 @@ LibAssist
 LiberTEM
 Lightning
 Linedancer
+LiteIDE
+LiveMe_Pro_Tools
 Local_Browser
 Loginized
 LosslessCut
@@ -582,6 +584,10 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
+hotspot
+hpack
+hsinstall
+htmldoc
 jumpfm
 keyrier-json
 kitupiikki
@@ -706,3 +712,16 @@ upterm
 violetbug
 vue-calc
 vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+youtube-music
+youtube-music-desktop
