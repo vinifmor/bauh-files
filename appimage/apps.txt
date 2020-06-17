@@ -584,9 +584,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hotspot
-hpack
-hsinstall
 jumpfm
 keyrier-json
 kitupiikki
@@ -715,12 +712,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-youtube-music
-youtube-music-desktop
