@@ -240,7 +240,6 @@ LibAssist
 LiberTEM
 Lightning
 Linedancer
-LiteIDE
 Local_Browser
 Loginized
 LosslessCut
@@ -473,6 +472,7 @@ TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Tiled
+TilingGenerator
 Todoist
 Tonuino_Toolbox
 TreeSheets
@@ -574,6 +574,14 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guiscrcpy
 jumpfm
 keyrier-json
 kitupiikki
