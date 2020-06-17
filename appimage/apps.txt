@@ -237,6 +237,10 @@ Laigter
 LeoCAD
 Lepton
 LibAssist
+LiberTEM
+Lightning
+Linedancer
+LiteIDE
 Local_Browser
 Loginized
 LosslessCut
@@ -469,7 +473,6 @@ TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Tiled
-TilingGenerator
 Todoist
 Tonuino_Toolbox
 TreeSheets
@@ -571,12 +574,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 jumpfm
 keyrier-json
 kitupiikki
@@ -701,5 +698,3 @@ upterm
 violetbug
 vue-calc
 vuerd
-weatherdump
-westeroscraftlauncher
