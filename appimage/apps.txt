@@ -587,7 +587,6 @@ guiscrcpy
 hotspot
 hpack
 hsinstall
-htmldoc
 jumpfm
 keyrier-json
 kitupiikki
