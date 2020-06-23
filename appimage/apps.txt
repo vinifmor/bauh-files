@@ -594,14 +594,6 @@ hw-probe
 hyper
 iQPuzzle
 impact
-iota1k
-irccloud-desktop
-isle-editor
-jag
-jira-timer
-jitsi-meet
-jmbde
-jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
@@ -732,10 +724,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-youtube-music
-youtube-music-desktop
