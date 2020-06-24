@@ -599,7 +599,6 @@ irccloud-desktop
 isle-editor
 jag
 jira-timer
-jitsi-meet
 jumpfm
 keyrier-json
 kitupiikki
@@ -729,11 +728,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-youtube-music
-youtube-music-desktop
