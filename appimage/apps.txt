@@ -431,7 +431,6 @@ SmartGit
 SnippetStore
 Soapy_SDR
 SocNetV
-Social.Manager.Tools
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -599,6 +598,7 @@ irccloud-desktop
 isle-editor
 jag
 jira-timer
+jitsi-meet
 jumpfm
 keyrier-json
 kitupiikki
