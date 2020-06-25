@@ -238,6 +238,7 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+Lightning
 Local_Browser
 Loginized
 LosslessCut
@@ -572,14 +573,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
 jumpfm
 keyrier-json
 kitupiikki
@@ -697,12 +690,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
