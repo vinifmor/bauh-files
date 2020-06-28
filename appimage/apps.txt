@@ -217,6 +217,7 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KeeWeb
 KettleClient
 KevEdit
 KeyManager
@@ -296,6 +297,7 @@ NoSQLBooster
 NoTer
 Notable
 OCRmyPDF
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -736,5 +738,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
