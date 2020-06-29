@@ -741,5 +741,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
