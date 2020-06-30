@@ -602,7 +602,6 @@ irccloud-desktop
 isle-editor
 jag
 jira-timer
-jitsi-meet
 jmbde
 jscad-desktop
 jumpfm
