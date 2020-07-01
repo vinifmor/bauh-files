@@ -587,6 +587,22 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
+irccloud-desktop
+isle-editor
+jag
+jira-timer
+jitsi-meet
 jmbde
 jscad-desktop
 jumpfm
@@ -725,3 +741,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+youtube-music-desktop
