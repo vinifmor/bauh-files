@@ -65,6 +65,7 @@ CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 Chiaki
+Circle-Z
 City_Hub
 CleepDesktop
 Cliniface
@@ -110,6 +111,7 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 Elements
@@ -139,6 +141,7 @@ FocusWriter
 FontForge
 FontLet
 Fractale
+Fraidycat
 Fraktal
 Franz
 Frappe_Accounting
@@ -238,6 +241,7 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+LibreSprite
 Lightning
 Linedancer
 LiteIDE
@@ -360,6 +364,7 @@ Puppetry
 Python
 QDriverStation
 QEMU_PowerPC
+QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -741,4 +746,8 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
