@@ -593,11 +593,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
 jumpfm
 keyrier-json
 kitupiikki
