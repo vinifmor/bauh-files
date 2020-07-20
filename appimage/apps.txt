@@ -605,8 +605,6 @@ impact
 iota1k
 irccloud-desktop
 isle-editor
-jag
-jira-timer
 jscad-desktop
 jumpfm
 keyrier-json
