@@ -585,12 +585,6 @@ fre:ac
 freeman
 gLabels
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
 jscad-desktop
 jumpfm
 keyrier-json
@@ -721,3 +715,5 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
+whiteboard
+whu-library-seat
