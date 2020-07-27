@@ -591,6 +591,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
+gsubs
 jumpfm
 keyrier-json
 kitupiikki
@@ -727,5 +729,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
