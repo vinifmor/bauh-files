@@ -489,7 +489,6 @@ Todoist
 Tonuino_Toolbox
 TreeSheets
 Trinity_Desktop
-Trojan-Qt5
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -607,11 +606,6 @@ impact
 iota1k
 irccloud-desktop
 isle-editor
-jag
-jexiftoolgui
-jira-timer
-jitsi-meet
-jmbde
 jumpfm
 keyrier-json
 kitupiikki
