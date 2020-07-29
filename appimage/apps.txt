@@ -586,13 +586,6 @@ fre:ac
 freeman
 gLabels
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
 jumpfm
 keyrier-json
 kitupiikki
@@ -717,3 +710,11 @@ updatedeployqt
 upterm
 violetbug
 vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
