@@ -382,6 +382,7 @@ QuickTwitch
 QuickViewer
 Qv2ray
 RHB
+RPAN_Studio
 RPCS3
 RSS-Guard
 RTNeuron
@@ -401,6 +402,7 @@ Responsively
 RetroShare
 RoboRock_Control_Center
 RoloViewer
+Rotki
 Rufus
 Running-Dinner-Tool
 RyoWallet
@@ -530,6 +532,7 @@ Workbench
 Wrapbox
 Wsocks
 XChat
+YUView
 Yuna
 ZapDesktop
 ZeGrapher
@@ -570,6 +573,7 @@ ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
+element
 embedded-ide
 enve
 erdesigner
@@ -748,7 +752,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
-zmNinja
-zograscope
