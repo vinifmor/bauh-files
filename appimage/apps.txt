@@ -117,6 +117,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
+ElectroCRUD
 Elements
 Elphyre-WalletShell
 Emacs
@@ -505,6 +506,7 @@ Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
+Translatium
 TreeSheets
 Trinity_Desktop
 Tropy
@@ -587,6 +589,7 @@ dfDemo
 dingtalk
 draw.io
 eDEX-UI
+eOSVC
 ehdev-shell
 elcalc
 electron-wechat
@@ -601,6 +604,7 @@ falcon-sql-client
 feebas
 feedseries
 flameshot
+flightgear-airports
 fmradio
 four
 foxfolio
@@ -710,6 +714,7 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 runanode
