@@ -656,6 +656,7 @@ linuxdeployqt
 liskish-wallet
 luminance-hdr
 luna
+makoureactor
 mandelbulber2
 mapton
 marktext
@@ -781,4 +782,3 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
-zsync2
