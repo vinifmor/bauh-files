@@ -619,21 +619,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-guiscrcpy
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
-impact
-iota1k
-irccloud-desktop
-isle-editor
-jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -780,5 +765,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
-zograscope
