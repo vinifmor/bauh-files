@@ -365,6 +365,7 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -781,4 +782,3 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
-zograscope
