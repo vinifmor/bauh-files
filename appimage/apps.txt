@@ -632,6 +632,11 @@ huwinterpreter
 hw-probe
 hyper
 iQPuzzle
+impact
+iota1k
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -733,6 +738,7 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
