@@ -244,6 +244,7 @@ LED.Custom.Palette
 LMMS
 Ladha
 Laigter
+Lemon
 LeoCAD
 Lepton
 LibAssist
@@ -559,6 +560,7 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
+Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
@@ -781,3 +783,6 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
