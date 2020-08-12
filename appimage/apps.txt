@@ -654,6 +654,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linuxdeployqt
 liskish-wallet
+lumi
 luminance-hdr
 luna
 makoureactor
@@ -780,4 +781,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
