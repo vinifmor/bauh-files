@@ -702,6 +702,7 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
+osu
 p2p-chat
 parsec-linux-appimage
 patchbay
@@ -789,5 +790,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
