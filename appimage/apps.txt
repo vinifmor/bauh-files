@@ -272,6 +272,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
+Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
@@ -337,6 +338,7 @@ P2PDerivatives
 PDFQuirk
 PIA
 PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -489,6 +491,7 @@ Storaji
 Strata
 Streamon
 Stunt_Car_Remake
+Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
@@ -790,4 +793,6 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
