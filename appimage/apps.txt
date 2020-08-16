@@ -18,6 +18,7 @@ ArcadeManager
 Archipel
 Archipelago
 Ark.Desktop.Wallet
+Arma_3_Unix_Launcher
 AsarUI
 AstroShutter
 Astroffers
@@ -29,6 +30,7 @@ AzPainter
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
+Beatconnect_Client
 Beekeeper_Studio
 Bezique
 BitShares
@@ -105,6 +107,7 @@ Deployer
 DevHub
 Diffuse
 Disass
+Discord
 DockStation
 DokiDokiModManager
 Downline
@@ -294,6 +297,7 @@ Moonlight
 Motrix
 MuPDF
 Museeks
+Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
@@ -319,6 +323,7 @@ ONLYOFFICE
 OSRS_Tools
 OVis
 OWallet
+Obsidian
 Olive
 Onenote
 Onshape
@@ -500,6 +505,7 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
 TeXstudio
 TeslaCam_Browser
 Tesseract
@@ -557,6 +563,7 @@ XChat
 YUView
 Yuna
 ZY_Player
+Zap
 ZapDesktop
 ZeGrapher
 Zegarek
@@ -784,5 +791,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
-zograscope
