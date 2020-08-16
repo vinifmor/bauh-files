@@ -536,7 +536,6 @@ VK_Desktop
 VLC
 VNote
 VPaint
-VSCodium
 VeChain
 Verto
 Vessel
@@ -796,3 +795,4 @@ xde
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
