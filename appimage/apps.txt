@@ -10,6 +10,7 @@ Altus
 AnaVis
 Anchor
 Another_Redis_Desktop_Manager
+Antares
 Aphelion_Wallet
 Apla
 AppImageUpdate
@@ -42,6 +43,7 @@ Blizzard_4
 Blockbench
 Bloks
 BloomRPC
+Blowfish
 BlueGlow
 Bodhi
 Book_Manager
@@ -140,6 +142,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
+FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
@@ -250,8 +253,6 @@ Laigter
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -315,7 +316,9 @@ Nitrokey
 NixNote
 NoSQLBooster
 NoTer
+Nostlan
 Notable
+NoteMaster
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -337,6 +340,7 @@ Outline-Manager
 P2PDerivatives
 PDFQuirk
 PIA
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -399,6 +403,7 @@ Qt_DAB
 Qt_JSON_diff
 Qucs-S
 Quentier
+QuickRedis
 QuickTwitch
 QuickViewer
 Qv2ray
@@ -624,25 +629,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
-impact
-iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -740,6 +726,7 @@ scavengers
 school-sections
 ser-player
 simple-s3-uploader
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -786,13 +773,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-youtube-music
-youtube-music-desktop
-zmNinja
-zograscope
