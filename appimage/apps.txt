@@ -401,6 +401,7 @@ QTalarm
 QUaModbusClient
 Qawl
 Qfsm
+Qortal_UI
 Qredit
 Qrop
 Qt5Demo
