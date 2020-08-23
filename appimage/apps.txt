@@ -807,4 +807,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
