@@ -542,6 +542,7 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
+UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
@@ -639,6 +640,22 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -718,6 +735,7 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
+pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -791,4 +809,7 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
