@@ -639,22 +639,6 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
-impact
-iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -725,6 +709,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pingviewer
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 polar-bookshelf
@@ -806,5 +791,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
