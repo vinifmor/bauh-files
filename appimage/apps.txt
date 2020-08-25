@@ -2,6 +2,7 @@ AKASHA
 ANT_Downloader
 APK_Editor_Studio
 ARAnyM
+ATSDB
 Advanced_Rest_Client
 Airspaces
 Alduin
@@ -521,6 +522,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -811,5 +813,3 @@ x-loc
 xde
 youtube-music
 youtube-music-desktop
-zmNinja
-zograscope
