@@ -644,6 +644,8 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guiscrcpy
 jag
 jexiftoolgui
 jira-timer
@@ -793,3 +795,5 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
+x-loc
+xde
