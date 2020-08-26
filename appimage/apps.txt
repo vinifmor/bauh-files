@@ -34,6 +34,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Beatconnect_Client
 Beekeeper_Studio
+Bench_CLI
 Bezique
 BitShares
 Bitwarden_Connector
