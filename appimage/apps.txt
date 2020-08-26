@@ -646,6 +646,15 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 jag
 jexiftoolgui
 jira-timer
@@ -797,3 +806,5 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+youtube-music
+youtube-music-desktop
