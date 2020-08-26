@@ -1,7 +1,7 @@
 3=skype
 2=drawing
 2=obs-studio
-2=eclispe
+2=eclipse
 1=krita
 1=audacity
 0=supertuxkart
