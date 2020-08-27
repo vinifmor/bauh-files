@@ -642,6 +642,11 @@ gLabels
 getswell
 gibs
 githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -791,3 +796,8 @@ whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
+wxMaxima
+x-loc
+xde
+youtube-music
+youtube-music-desktop
