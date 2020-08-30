@@ -151,6 +151,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Beta
+Firefox_Nightly
 Fluent_Reader
 FocusWriter
 FontForge
@@ -529,6 +531,9 @@ TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
 Tiled
 TilingGenerator
 Todoist
@@ -818,3 +823,4 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
+zsync2
