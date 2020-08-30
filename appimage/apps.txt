@@ -312,6 +312,7 @@ MyCrypto
 MyPaint
 My_Jira
 NCSA_Mosaic
+NMEASimulator
 NanoVault
 Negibox
 Neon
@@ -812,5 +813,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
 youtube-music-desktop
