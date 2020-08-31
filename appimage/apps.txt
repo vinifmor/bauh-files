@@ -89,7 +89,6 @@ ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
-CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
