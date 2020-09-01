@@ -645,6 +645,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
 jexiftoolgui
 jira-timer
 jitsi-meet
