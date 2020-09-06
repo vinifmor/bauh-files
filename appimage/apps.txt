@@ -153,7 +153,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox
 Firefox_Beta
+Firefox_ESR
 Firefox_Nightly
 Fluent_Reader
 FocusWriter
@@ -822,5 +824,4 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
 youtube-music-desktop
