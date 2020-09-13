@@ -310,6 +310,7 @@ Mockman
 MoonPlayer
 Moonlight
 Motrix
+Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
@@ -628,6 +629,7 @@ dfDemo
 dingtalk
 draw.io
 eDEX-UI
+eNoseAnnotator
 eOSVC
 ehdev-shell
 elcalc
@@ -779,7 +781,6 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
-sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
@@ -824,4 +825,5 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
 youtube-music-desktop
