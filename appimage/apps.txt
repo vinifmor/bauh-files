@@ -190,6 +190,7 @@ Gingko
 GitHubDesktop
 GitNote
 GitQlient
+Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
