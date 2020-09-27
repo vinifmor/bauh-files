@@ -405,6 +405,7 @@ Puppetry
 Python
 QDriverStation
 QEMU_PowerPC
+QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -664,6 +665,15 @@ guiscrcpy
 hero-display
 hotspot
 hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -749,6 +759,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+qhot
 qikQR
 qpdf
 qpp::cad
