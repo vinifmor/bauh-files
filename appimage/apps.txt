@@ -264,6 +264,7 @@ LED.Custom.Palette
 LMMS
 Ladha
 Laigter
+Lemon
 LiberTEM
 LibreSprite
 Lightning
@@ -648,6 +649,7 @@ fmradio
 four
 foxfolio
 fre:ac
+freeman
 irccloud-desktop
 isle-editor
 jag
@@ -788,6 +790,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
-weatherdump
