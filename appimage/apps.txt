@@ -254,10 +254,6 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
-KopiaUI
 LiberTEM
 LibreSprite
 Lightning
@@ -388,8 +384,6 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 Procyon
-ProofKeeper
-Pullp
 Pulse
 Puppetry
 Python
@@ -634,9 +628,6 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-flameshot
 irccloud-desktop
 isle-editor
 jag
@@ -771,9 +762,3 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
