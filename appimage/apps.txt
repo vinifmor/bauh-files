@@ -403,7 +403,6 @@ Pullp
 Pulse
 Puppetry
 Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
