@@ -658,6 +658,9 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
+gsubs
+guiscrcpy
 irccloud-desktop
 isle-editor
 jag
@@ -812,5 +815,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
