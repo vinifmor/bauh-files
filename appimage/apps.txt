@@ -259,12 +259,6 @@ Kitupiikki
 Knowte
 KopiaUI
 LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-Laigter
-Lemon
 LiberTEM
 LibreSprite
 Lightning
@@ -794,3 +788,7 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
