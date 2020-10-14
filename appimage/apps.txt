@@ -251,6 +251,10 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+KittehPlayer
 LiberTEM
 LibreSprite
 Lightning
@@ -382,7 +386,6 @@ PrinterClient
 ProcDepMonitor
 Procyon
 ProofKeeper
-Pullp
 Pulse
 Puppetry
 Python
@@ -628,7 +631,6 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
 irccloud-desktop
 isle-editor
 jag
@@ -764,8 +766,3 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
