@@ -262,6 +262,7 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Ladha
 LiberTEM
 LibreSprite
 Lightning
@@ -643,6 +644,11 @@ feedseries
 flameshot
 flightgear-airports
 fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 irccloud-desktop
 isle-editor
 jag
