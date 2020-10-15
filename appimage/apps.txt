@@ -262,8 +262,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Ladha
-Laigter
 LiberTEM
 LibreSprite
 Lightning
@@ -643,6 +641,9 @@ falcon-sql-client
 feebas
 feedseries
 flameshot
+flightgear-airports
+fmradio
+four
 irccloud-desktop
 isle-editor
 jag
@@ -785,4 +786,3 @@ upterm
 violetbug
 vue-calc
 vuerd
-weatherdump
