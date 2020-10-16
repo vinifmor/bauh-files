@@ -262,12 +262,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Ladha
-Laigter
-Lemon
-LeoCAD
-Lepton
-LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -648,13 +642,6 @@ feebas
 feedseries
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
-getswell
 irccloud-desktop
 isle-editor
 jag
