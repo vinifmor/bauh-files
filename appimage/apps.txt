@@ -123,7 +123,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -251,8 +250,6 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
 LiberTEM
 LibreSprite
 Lightning
@@ -379,12 +376,6 @@ PolkaKey
 Postman
 PostyBirb
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
 Pulse
 Puppetry
 Python
@@ -615,9 +606,7 @@ embedded-ide
 enve
 erdesigner
 evoplex
-fSpy
-falcon-sql-client
-feebas
+iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -751,6 +740,3 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
