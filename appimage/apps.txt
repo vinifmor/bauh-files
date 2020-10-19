@@ -261,6 +261,13 @@ KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
+LMMS
+Ladha
+Laigter
+Lemon
+LeoCAD
+Lepton
+LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -638,6 +645,11 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 irccloud-desktop
 isle-editor
 jag
@@ -784,6 +796,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
-whu-library-seat
-windows2usb
