@@ -258,7 +258,6 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
-LANShare
 LiberTEM
 LibreSprite
 Lightning
@@ -789,3 +788,5 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
+whiteboard
+whu-library-seat
