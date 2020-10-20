@@ -263,7 +263,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
-Laigter
 LiberTEM
 LibreSprite
 Lightning
@@ -390,12 +389,6 @@ PolkaKey
 Postman
 PostyBirb
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
 Pulse
 Puppetry
 Python
@@ -521,12 +514,6 @@ SwagLyrics
 SwiftnessX
 Symphonium
 SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -639,9 +626,6 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-flameshot
 irccloud-desktop
 isle-editor
 jag
@@ -779,6 +763,3 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
-violetbug
