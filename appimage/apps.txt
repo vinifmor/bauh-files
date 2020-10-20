@@ -258,6 +258,14 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+Laigter
+Lemon
+LeoCAD
 LiberTEM
 LibreSprite
 Lightning
@@ -520,6 +528,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -634,6 +643,8 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
+flightgear-airports
 irccloud-desktop
 isle-editor
 jag
@@ -774,3 +785,8 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
