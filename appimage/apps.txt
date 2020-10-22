@@ -653,14 +653,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
 irccloud-desktop
 isle-editor
 jag
