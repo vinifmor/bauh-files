@@ -264,9 +264,6 @@ LED.Custom.Palette
 LMMS
 Ladha
 Laigter
-Lemon
-LeoCAD
-Lepton
 LiberTEM
 LibreSprite
 Lightning
@@ -642,7 +639,13 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-iota1k
+feebas
+feedseries
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 irccloud-desktop
 isle-editor
 jag
@@ -778,3 +781,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
+vue-calc
