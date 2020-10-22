@@ -264,6 +264,9 @@ LED.Custom.Palette
 LMMS
 Ladha
 Laigter
+Lemon
+LeoCAD
+Lepton
 LiberTEM
 LibreSprite
 Lightning
@@ -644,8 +647,6 @@ feedseries
 flameshot
 flightgear-airports
 fmradio
-four
-foxfolio
 irccloud-desktop
 isle-editor
 jag
@@ -787,3 +788,4 @@ updatedeployqt
 upterm
 violetbug
 vue-calc
+vuerd
