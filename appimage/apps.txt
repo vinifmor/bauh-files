@@ -264,6 +264,10 @@ LED.Custom.Palette
 LMMS
 Ladha
 Laigter
+Lemon
+LeoCAD
+Lepton
+LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -647,6 +651,8 @@ fmradio
 four
 foxfolio
 fre:ac
+freeman
+gLabels
 irccloud-desktop
 isle-editor
 jag
