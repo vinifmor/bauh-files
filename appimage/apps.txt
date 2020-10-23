@@ -659,17 +659,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 irccloud-desktop
 isle-editor
 jag
