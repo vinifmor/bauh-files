@@ -121,9 +121,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -250,16 +247,6 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
-KopiaUI
-LANShare
-LCEdit
 LiberTEM
 LibreSprite
 Lightning
@@ -632,8 +619,8 @@ electron-xiami
 element
 embedded-ide
 enve
-erdesigner
-evoplex
+iQPuzzle
+impact
 iota1k
 irccloud-desktop
 isle-editor
