@@ -666,6 +666,14 @@ hero-display
 hotspot
 hpack
 hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
