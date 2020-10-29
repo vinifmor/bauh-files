@@ -267,7 +267,6 @@ Laigter
 Lemon
 LeoCAD
 Lepton
-LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -649,6 +648,11 @@ feedseries
 flameshot
 flightgear-airports
 fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 irccloud-desktop
 isle-editor
 jag
@@ -790,3 +794,5 @@ updatedeployqt
 upterm
 violetbug
 vue-calc
+vuerd
+weatherdump
