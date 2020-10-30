@@ -263,6 +263,11 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
+Laigter
+Lemon
+LeoCAD
+Lepton
+LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -645,6 +650,13 @@ flameshot
 flightgear-airports
 fmradio
 four
+foxfolio
+fre:ac
+freeman
+gLabels
+getswell
+gibs
+githoard
 irccloud-desktop
 isle-editor
 jag
@@ -794,3 +806,8 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
