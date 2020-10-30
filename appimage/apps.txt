@@ -266,8 +266,6 @@ Ladha
 Laigter
 Lemon
 LeoCAD
-Lepton
-LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -654,14 +652,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
 irccloud-desktop
 isle-editor
 jag
@@ -810,11 +800,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
