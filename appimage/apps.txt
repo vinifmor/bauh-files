@@ -369,7 +369,6 @@ Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
-Peerio
 Pencil2D
 Pennywise
 Pext
@@ -654,12 +653,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -809,4 +802,3 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
-wxMEdit
