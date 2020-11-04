@@ -251,12 +251,6 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
 LiberTEM
 LibreSprite
 Lightning
@@ -381,6 +375,13 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+Procyon
+ProofKeeper
+Pullp
 Pulse
 Puppetry
 Python
@@ -628,7 +629,6 @@ falcon-sql-client
 feebas
 feedseries
 flameshot
-flightgear-airports
 irccloud-desktop
 isle-editor
 jag
