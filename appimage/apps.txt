@@ -251,6 +251,13 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+KittehPlayer
+Kitupiikki
+Knowte
+KopiaUI
 LiberTEM
 LibreSprite
 Lightning
@@ -376,12 +383,6 @@ PolkaKey
 Postman
 PostyBirb
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
 Pulse
 Puppetry
 Python
@@ -624,11 +625,8 @@ embedded-ide
 enve
 erdesigner
 evoplex
-fSpy
-falcon-sql-client
-feebas
-feedseries
-flameshot
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -766,6 +764,3 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
-violetbug
