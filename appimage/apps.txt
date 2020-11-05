@@ -267,7 +267,6 @@ Laigter
 Lemon
 LeoCAD
 Lepton
-LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -653,8 +652,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
 irccloud-desktop
 isle-editor
 jag
@@ -800,11 +797,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
