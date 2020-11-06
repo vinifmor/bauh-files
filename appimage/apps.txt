@@ -89,7 +89,6 @@ Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
-CozyDrive
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -191,6 +190,7 @@ ImpPoster
 Inboxer
 Infinitex
 Insight
+LED.Custom.Palette
 LMMS
 Ladha
 Laigter
@@ -290,10 +290,10 @@ PIA
 POE_Ladder
 PacketSender
 Padloc
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
+Painel-Web
+Paletti
+PanWriter
+Panini
 Pullp
 Pulse
 Puppetry
@@ -392,9 +392,6 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SpeedyLoader
-Spivak
-Spree
 StarUML
 Taskizer
 TeXstudio
@@ -480,8 +477,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
+freeman
+gLabels
 getswell
 gibs
 githoard
@@ -596,6 +593,7 @@ quokkagit
 rasterview
 ridereceipts
 runanode
+sabaki
 twitch-wrapper
 uncov
 unified-communications
