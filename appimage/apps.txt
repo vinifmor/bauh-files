@@ -92,9 +92,6 @@ Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -196,8 +193,8 @@ ImpPoster
 Inboxer
 Infinitex
 Insight
-Intiface
-Invoice-Generator
+LMMS
+Ladha
 Laigter
 Lemon
 LeoCAD
@@ -409,8 +406,6 @@ Standard_Notes
 StarUML
 Statsbook_Tool
 StatusPilatus
-SteamCAD
-Steem_Messenger
 Taskizer
 TeXstudio
 TeleDrive
@@ -499,9 +494,8 @@ clippy
 clipr
 cncjs
 cordlauncher
-getswell
-gibs
-githoard
+dashy-app
+dataset-annotator
 glTF_Insight
 glulxe
 graphql-playground
@@ -628,7 +622,7 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
-weweChat
+sqlitebrowser
 wezterm
 whiteboard
 whu-library-seat
