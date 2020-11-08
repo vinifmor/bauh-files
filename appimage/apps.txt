@@ -93,10 +93,6 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -199,7 +195,7 @@ Inboxer
 Infinitex
 Insight
 Intiface
-Ladha
+Invoice-Generator
 Laigter
 Lemon
 LeoCAD
@@ -302,6 +298,9 @@ Paletti
 PanWriter
 Panini
 Paper
+Parity_Fether
+Patchwork
+Pathephone
 Pulse
 Puppetry
 Python
@@ -409,9 +408,6 @@ Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
-Stele
-Stellarium
-StockStalk
 Taskizer
 TeXstudio
 TeleDrive
@@ -496,10 +492,9 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
-cncjs
-cordlauncher
+fre:ac
+freeman
+gLabels
 getswell
 gibs
 githoard
@@ -627,7 +622,7 @@ smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
-spark-wallet
+weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
