@@ -98,6 +98,7 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
+Cura
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -203,8 +204,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-LeoCAD
-Lepton
+JKlubTV
+James
 LibAssist
 LiberTEM
 LibreSprite
@@ -414,8 +415,6 @@ Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
-Stele
-Stellarium
 Taskizer
 TeXstudio
 TeleDrive
@@ -506,8 +505,7 @@ cncjs
 cordlauncher
 dashy-app
 dataset-annotator
-githoard
-glTF_Insight
+dbet-wallet
 glulxe
 graphql-playground
 gsubs
@@ -628,12 +626,11 @@ simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
-spm
-sqlitebrowser
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
 wezterm
 whiteboard
 whu-library-seat
