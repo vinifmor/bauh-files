@@ -300,7 +300,6 @@ Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
-Pencil2D
 Pulse
 Puppetry
 Python
@@ -408,9 +407,6 @@ Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
-Stele
-Stellarium
-StockStalk
 Taskizer
 TeXstudio
 TeleDrive
@@ -627,9 +623,10 @@ snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
-westeroscraftlauncher
-weweChat
-wezterm
+spm
+sqlitebrowser
+stash-electron
+steam-rom-manager
 whiteboard
 whu-library-seat
 windows2usb
