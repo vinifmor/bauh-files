@@ -90,10 +90,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -196,7 +192,8 @@ Inboxer
 Infinitex
 Insight
 Intiface
-Ladha
+Invoice-Generator
+IrScrutinizer
 Laigter
 Lemon
 LeoCAD
@@ -301,6 +298,7 @@ Panini
 Paper
 Parity_Fether
 Patchwork
+Pathephone
 Pulse
 Puppetry
 Python
@@ -404,6 +402,7 @@ Spree
 Stacer
 Standard_Notes
 StarUML
+Statsbook_Tool
 Taskizer
 TeXstudio
 TeleDrive
@@ -492,7 +491,7 @@ clippy
 clipr
 cncjs
 cordlauncher
-getswell
+dashy-app
 gibs
 githoard
 glTF_Insight
@@ -615,9 +614,11 @@ simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
-violetbug
-vue-calc
-vuerd
+smtk2ssrf
+snake.js
+snapshot-slider
+snomcontrol
+spark-wallet
 weatherdump
 westeroscraftlauncher
 weweChat
