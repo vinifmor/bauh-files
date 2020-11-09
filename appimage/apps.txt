@@ -91,6 +91,9 @@ ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -297,6 +300,7 @@ PanWriter
 Panini
 Paper
 Parity_Fether
+Patchwork
 Pulse
 Puppetry
 Python
@@ -611,9 +615,8 @@ simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
+violetbug
+vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
