@@ -229,8 +229,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
 LiberTEM
 LibreSprite
 Lightning
@@ -344,7 +342,6 @@ PicGo
 Pile
 Pingendo
 Pixsrt
-Plag_Patrol
 Pulse
 Puppetry
 Python
@@ -465,8 +462,6 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
-Superpaper
 Taskizer
 TeXstudio
 TeleDrive
@@ -701,6 +696,3 @@ tastee-ui
 tc
 theFrame
 theWeb
-thorium-client
-timer
-tmon
