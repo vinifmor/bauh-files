@@ -118,8 +118,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -340,6 +338,9 @@ PhotoFlow
 Photopea
 PhreshPlayer
 PicGo
+Pile
+Pingendo
+Pixsrt
 Pulse
 Puppetry
 Python
@@ -462,7 +463,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
-SwagLyrics
 Taskizer
 TeXstudio
 TeleDrive
@@ -690,11 +690,10 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-subtitles-composer-app
-swradio
-tT
-tagspaces
-tastee-ui
-tc
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
 youtube-music
 youtube-music-desktop
