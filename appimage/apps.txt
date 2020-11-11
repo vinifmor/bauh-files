@@ -118,6 +118,9 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Dragoman
+Drill
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -231,7 +234,6 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-KOReader
 LiberTEM
 LibreSprite
 Lightning
@@ -346,6 +348,12 @@ Pile
 Pingendo
 Pixsrt
 Plag_Patrol
+Planes
+Planet_Blupi
+PlayMe
+Playbox
+PlotJuggler
+Plover
 Pulse
 Puppetry
 Python
@@ -472,6 +480,7 @@ SwagLyrics
 SwiftnessX
 Symphonium
 SyncMyL2P
+Syncplay
 Taskizer
 TeXstudio
 TeleDrive
@@ -570,8 +579,10 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-hero-display
-hotspot
+eDEX-UI
+eNoseAnnotator
+eOSVC
+ehdev-shell
 hpack
 hsinstall
 htmldoc
@@ -703,4 +714,6 @@ tT
 tagspaces
 tastee-ui
 tc
-youtube-music
+theFrame
+theWeb
+thorium-client
