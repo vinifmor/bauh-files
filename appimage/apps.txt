@@ -118,6 +118,9 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Dragoman
+Drill
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -228,6 +231,8 @@ JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
+Juggernaut
+Julius
 LiberTEM
 LibreSprite
 Lightning
@@ -338,9 +343,6 @@ PhotoFlow
 Photopea
 PhreshPlayer
 PicGo
-Pile
-Pingendo
-Pixsrt
 Pulse
 Puppetry
 Python
@@ -463,6 +465,8 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
+SwagLyrics
+SwiftnessX
 Taskizer
 TeXstudio
 TeleDrive
@@ -565,7 +569,6 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-hpack
 hsinstall
 htmldoc
 hugin
@@ -690,10 +693,12 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
+subtitles-composer-app
+swradio
+tT
+tagspaces
+tastee-ui
+tc
+theFrame
+theWeb
+thorium-client
