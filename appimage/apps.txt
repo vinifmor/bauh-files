@@ -113,6 +113,11 @@ Delir
 Demonizer
 Deployer
 DevHub
+Diffuse
+Disass
+Discord
+DockStation
+DokiDokiModManager
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -220,8 +225,8 @@ Isolate
 JKlubTV
 James
 JoalDesktop
-Lepton
-LibAssist
+Join_Desktop
+Joplin
 LiberTEM
 LibreSprite
 Lightning
@@ -337,10 +342,6 @@ Pingendo
 Pixsrt
 Plag_Patrol
 Planes
-Planet_Blupi
-PlayMe
-Playbox
-PlotJuggler
 Pulse
 Puppetry
 Python
@@ -452,16 +453,6 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
-Strata
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 Taskizer
 TeXstudio
 TeleDrive
@@ -564,7 +555,6 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-hpack
 hsinstall
 htmldoc
 hugin
@@ -693,7 +683,5 @@ subtitles-composer-app
 swradio
 tT
 tagspaces
-tastee-ui
-tc
-theFrame
 youtube-music
+youtube-music-desktop
