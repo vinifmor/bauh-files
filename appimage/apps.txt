@@ -493,11 +493,6 @@ SwagLyrics
 SwiftnessX
 Symphonium
 SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
 Taskizer
 TeXstudio
 TeleDrive
@@ -601,13 +596,12 @@ eNoseAnnotator
 eOSVC
 ehdev-shell
 elcalc
-electron-wechat
-electron-xiami
-element
-embedded-ide
-enve
-erdesigner
-evoplex
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
 iota1k
 irccloud-desktop
 isle-editor
@@ -744,3 +738,4 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
