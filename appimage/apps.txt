@@ -117,8 +117,6 @@ Diffuse
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -228,9 +226,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
 LiberTEM
 LibreSprite
 Lightning
@@ -346,11 +341,6 @@ Pingendo
 Pixsrt
 Plag_Patrol
 Planes
-Planet_Blupi
-PlayMe
-Playbox
-PlotJuggler
-Plover
 Pulse
 Puppetry
 Python
@@ -477,6 +467,8 @@ SwagLyrics
 SwiftnessX
 Symphonium
 SyncMyL2P
+Syncplay
+SynfigStudio
 Taskizer
 TeXstudio
 TeleDrive
@@ -579,7 +571,7 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-elcalc
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -703,9 +695,10 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-subtitles-composer-app
-swradio
-tT
-tagspaces
-tastee-ui
-tc
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
