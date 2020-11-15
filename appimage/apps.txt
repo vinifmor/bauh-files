@@ -247,6 +247,10 @@ KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
+KeyManager
+KeyboardClient
+Keys
+KiCad
 LiberTEM
 LibreSprite
 Lightning
@@ -371,6 +375,7 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
 Pulse
 Puppetry
 Python
@@ -612,8 +617,8 @@ element
 embedded-ide
 enve
 erdesigner
-impact
-iota1k
+evoplex
+fSpy
 irccloud-desktop
 isle-editor
 jag
@@ -750,3 +755,7 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
