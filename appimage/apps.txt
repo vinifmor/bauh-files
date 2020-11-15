@@ -243,8 +243,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
 LiberTEM
 LibreSprite
 Lightning
@@ -604,13 +602,13 @@ eNoseAnnotator
 eOSVC
 ehdev-shell
 elcalc
-electron-wechat
-electron-xiami
-element
-embedded-ide
-enve
-erdesigner
-evoplex
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
 iota1k
 irccloud-desktop
 isle-editor
@@ -747,3 +745,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
