@@ -119,10 +119,6 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -238,6 +234,9 @@ Julius
 KADE
 KOReader
 Kage
+Kanon
+KawAnime
+Kcov
 LiberTEM
 LibreSprite
 Lightning
@@ -357,6 +356,7 @@ Planet_Blupi
 PlayMe
 Playbox
 PlotJuggler
+Plover
 Pulse
 Puppetry
 Python
@@ -480,9 +480,6 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
-SwiftnessX
-Symphonium
-SyncMyL2P
 Taskizer
 TeXstudio
 TeleDrive
@@ -585,7 +582,6 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -718,3 +714,8 @@ tc
 theFrame
 theWeb
 thorium-client
+timer
+tmon
+tnt
+triagem-touch
+ttth
