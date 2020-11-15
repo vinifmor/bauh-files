@@ -238,6 +238,13 @@ Juggernaut
 Julius
 KADE
 KOReader
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 LiberTEM
 LibreSprite
 Lightning
@@ -492,6 +499,8 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
+TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -594,10 +603,10 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-hsinstall
-htmldoc
-hugin
-huwinterpreter
+elcalc
+electron-wechat
+electron-xiami
+element
 hw-probe
 hyper
 iQPuzzle
@@ -733,5 +742,3 @@ tnt
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
