@@ -123,6 +123,7 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -250,11 +251,6 @@ KeyManager
 KeyboardClient
 Keys
 KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
 LiberTEM
 LibreSprite
 Lightning
@@ -631,14 +627,6 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
 irccloud-desktop
 isle-editor
 jag
@@ -779,4 +767,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
