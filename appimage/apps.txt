@@ -123,7 +123,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -239,6 +238,8 @@ Julius
 KADE
 KOReader
 Kage
+Kanon
+KawAnime
 LiberTEM
 LibreSprite
 Lightning
@@ -483,10 +484,6 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
-SwiftnessX
-Symphonium
-SyncMyL2P
-Syncplay
 Taskizer
 TeXstudio
 TeleDrive
@@ -589,7 +586,7 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-elcalc
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -722,7 +719,3 @@ theFrame
 theWeb
 thorium-client
 timer
-tmon
-tnt
-triagem-touch
-ttth
