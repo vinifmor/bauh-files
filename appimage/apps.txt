@@ -383,7 +383,6 @@ PrinterClient
 ProcDepMonitor
 Procyon
 ProofKeeper
-Pullp
 Pulse
 Puppetry
 Python
@@ -625,16 +624,9 @@ element
 embedded-ide
 enve
 erdesigner
-evoplex
-fSpy
-falcon-sql-client
-feebas
-feedseries
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+iQPuzzle
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
