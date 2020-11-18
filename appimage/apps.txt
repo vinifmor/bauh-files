@@ -257,10 +257,6 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
 LiberTEM
 LibreSprite
 Lightning
@@ -638,6 +634,9 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
+flightgear-airports
+fmradio
 irccloud-desktop
 isle-editor
 jag
@@ -768,3 +767,13 @@ tnt
 triagem-touch
 ttth
 tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+violetbug
