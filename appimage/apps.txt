@@ -264,6 +264,9 @@ LMMS
 Ladha
 Laigter
 Lemon
+LeoCAD
+Lepton
+LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -650,6 +653,8 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
 irccloud-desktop
 isle-editor
 jag
@@ -803,4 +808,3 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
