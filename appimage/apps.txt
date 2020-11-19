@@ -261,10 +261,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Ladha
-Laigter
-Lemon
-LeoCAD
 LiberTEM
 LibreSprite
 Lightning
@@ -650,8 +646,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
 irccloud-desktop
 isle-editor
 jag
@@ -800,7 +794,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
