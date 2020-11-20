@@ -244,6 +244,7 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+Keibo-MoneyTracker-x86_64
 LiberTEM
 LibreSprite
 Lightning
@@ -371,8 +372,6 @@ PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-Procyon
 Pulse
 Puppetry
 Python
@@ -616,7 +615,6 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
 irccloud-desktop
 isle-editor
 jag
@@ -755,3 +753,5 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+violetbug
