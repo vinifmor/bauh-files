@@ -252,11 +252,6 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
-KopiaUI
 LiberTEM
 LibreSprite
 Lightning
@@ -519,7 +514,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -631,6 +625,15 @@ enve
 erdesigner
 evoplex
 fSpy
+falcon-sql-client
+feebas
+feedseries
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
 irccloud-desktop
 isle-editor
 jag
