@@ -660,8 +660,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hero-display
-hotspot
 irccloud-desktop
 isle-editor
 jag
