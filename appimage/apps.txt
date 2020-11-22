@@ -266,7 +266,6 @@ Laigter
 Lemon
 LeoCAD
 Lepton
-LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -655,21 +654,6 @@ gLabels
 getswell
 gibs
 githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
 irccloud-desktop
 isle-editor
 jag
@@ -824,5 +808,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
