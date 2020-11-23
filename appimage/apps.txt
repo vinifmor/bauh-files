@@ -257,12 +257,6 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-Ladha
-Laigter
 LiberTEM
 LibreSprite
 Lightning
@@ -790,3 +784,5 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+wezterm
