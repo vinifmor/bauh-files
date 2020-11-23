@@ -264,6 +264,8 @@ LMMS
 Ladha
 Laigter
 Lemon
+LeoCAD
+Lepton
 LiberTEM
 LibreSprite
 Lightning
