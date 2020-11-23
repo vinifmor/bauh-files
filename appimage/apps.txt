@@ -651,6 +651,11 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
 irccloud-desktop
 isle-editor
 jag
@@ -797,3 +802,13 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
