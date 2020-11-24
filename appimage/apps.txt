@@ -256,7 +256,6 @@ Kimitzu-Client
 KittehPlayer
 Kitupiikki
 Knowte
-KopiaUI
 LiberTEM
 LibreSprite
 Lightning
@@ -628,16 +627,9 @@ element
 embedded-ide
 enve
 erdesigner
-evoplex
-fSpy
-falcon-sql-client
-feebas
-feedseries
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+iQPuzzle
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
@@ -777,3 +769,5 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
