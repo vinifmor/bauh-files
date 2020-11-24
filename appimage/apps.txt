@@ -122,6 +122,8 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -241,8 +243,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
 LiberTEM
 LibreSprite
 Lightning
@@ -366,7 +366,6 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
-PraxisLIVE
 Pulse
 Puppetry
 Python
@@ -498,7 +497,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -738,7 +736,3 @@ tmon
 tnt
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
