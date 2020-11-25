@@ -376,9 +376,6 @@ PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
 Pulse
 Puppetry
 Python
@@ -510,7 +507,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -623,6 +619,9 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
+feebas
+feedseries
+flameshot
 irccloud-desktop
 isle-editor
 jag
