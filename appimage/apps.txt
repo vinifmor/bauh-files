@@ -257,6 +257,13 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+Laigter
+Lemon
 LibreSprite
 Lightning
 LikeTaskManager
@@ -644,6 +651,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
 isle-editor
 jag
 jexiftoolgui
@@ -791,3 +800,10 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
