@@ -297,6 +297,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Melodie
 MeowSQL
 MeshLab
 MicroPad
@@ -521,6 +522,7 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
+SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
@@ -589,6 +591,7 @@ Wrapbox
 Wsocks
 XChat
 YUView
+YouTubeSearchFilter
 Yuna
 ZY_Player
 Zap
@@ -627,6 +630,7 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
+dukto
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -659,6 +663,18 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+iQPuzzle
+impact
+iota1k
 irccloud-desktop
 isle-editor
 jag
