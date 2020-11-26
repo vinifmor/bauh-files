@@ -119,6 +119,12 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -247,14 +253,6 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
-KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
 LibreSprite
 Lightning
 LikeTaskManager
@@ -383,7 +381,6 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 Procyon
-ProofKeeper
 QDriverStation
 QEMU_PowerPC
 QHot
@@ -635,8 +632,6 @@ flightgear-airports
 fmradio
 four
 foxfolio
-fre:ac
-freeman
 isle-editor
 jag
 jexiftoolgui
@@ -774,3 +769,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
