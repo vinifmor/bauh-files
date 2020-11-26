@@ -264,6 +264,10 @@ LMMS
 Ladha
 Laigter
 Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -804,6 +808,3 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
-youtube-music
-youtube-music-desktop
