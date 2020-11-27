@@ -254,9 +254,6 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 KittehPlayer
-Kitupiikki
-Knowte
-KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -389,7 +386,6 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
-Python
 QDriverStation
 QEMU_PowerPC
 QHot
@@ -638,12 +634,6 @@ feebas
 feedseries
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
 isle-editor
 jag
 jexiftoolgui
@@ -787,9 +777,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
