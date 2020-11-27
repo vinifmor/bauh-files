@@ -261,8 +261,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Ladha
-Laigter
 LibreSprite
 Lightning
 LikeTaskManager
@@ -651,6 +649,8 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
 isle-editor
 jag
 jexiftoolgui
@@ -800,5 +800,3 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
-x-loc
-xde
