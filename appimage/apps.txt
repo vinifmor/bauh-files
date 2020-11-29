@@ -267,6 +267,8 @@ Laigter
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -664,11 +666,6 @@ graphql-playground
 gsubs
 guiscrcpy
 hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
 jexiftoolgui
 jira-timer
 jitsi-meet
