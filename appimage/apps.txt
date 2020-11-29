@@ -666,7 +666,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hero-display
 jexiftoolgui
 jira-timer
 jitsi-meet
