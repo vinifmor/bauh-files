@@ -267,6 +267,8 @@ Laigter
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -662,6 +664,16 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -814,4 +826,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
 youtube-music-desktop
+zmNinja
+zograscope
+zsync2
