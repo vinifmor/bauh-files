@@ -256,6 +256,17 @@ Kiibohd_Configurator
 Kimitzu-Client
 KittehPlayer
 Kitupiikki
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+Laigter
+Lemon
+LeoCAD
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -651,6 +662,8 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
