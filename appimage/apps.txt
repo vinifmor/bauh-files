@@ -267,6 +267,7 @@ Laigter
 Lemon
 LeoCAD
 Lepton
+LibAssist
 LibreSprite
 Lightning
 LikeTaskManager
@@ -662,8 +663,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
