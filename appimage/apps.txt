@@ -251,6 +251,8 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
+KiCad
+Kiibohd_Configurator
 LibreSprite
 Lightning
 LikeTaskManager
