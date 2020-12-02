@@ -120,12 +120,6 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -359,10 +353,6 @@ PlayMe
 Playbox
 PlotJuggler
 Plover
-Poddr
-PolkaKey
-Postman
-PostyBirb
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -488,6 +478,7 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -599,12 +590,9 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
-feebas
-feedseries
-flameshot
-flightgear-airports
-fmradio
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -734,5 +722,3 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-twitch-wrapper
-uncov
