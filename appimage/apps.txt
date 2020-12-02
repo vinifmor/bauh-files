@@ -124,8 +124,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -244,10 +242,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -364,16 +358,6 @@ Pixsrt
 Plag_Patrol
 Planes
 Planet_Blupi
-PlayMe
-Playbox
-PlotJuggler
-Plover
-Poddr
-PolkaKey
-Postman
-PostyBirb
-PraxisLIVE
-PrimeWorldEditor
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -505,6 +489,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -756,4 +741,3 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
