@@ -119,6 +119,8 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Dragoman
 Eksplode.re
 ElDumper
 Electorrent
@@ -227,6 +229,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Joy2DroidX
+Juggernaut
+Julius
 LibreSprite
 Lightning
 LikeTaskManager
@@ -339,10 +344,6 @@ PhreshPlayer
 PicGo
 Pile
 Pingendo
-Pixsrt
-Plag_Patrol
-Planes
-Planet_Blupi
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -465,6 +466,13 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -576,9 +584,9 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
-feebas
-feedseries
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -701,4 +709,5 @@ tc
 theFrame
 theWeb
 thorium-client
-zsync2
+timer
+tmon
