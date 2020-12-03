@@ -250,7 +250,6 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
-Keys
 LibreSprite
 Lightning
 LikeTaskManager
@@ -375,6 +374,7 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -498,6 +498,10 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -610,8 +614,9 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -742,3 +747,5 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
+uncov
+unified-communications
