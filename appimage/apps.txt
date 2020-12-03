@@ -666,21 +666,6 @@ glulxe
 graphql-playground
 gsubs
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
-impact
-iota1k
-irccloud-desktop
-isle-editor
-jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -837,4 +822,3 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
-zsync2
