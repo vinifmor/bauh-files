@@ -244,13 +244,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
 LibreSprite
 Lightning
 LikeTaskManager
@@ -375,11 +368,6 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -508,8 +496,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -624,6 +610,7 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -760,4 +747,3 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
