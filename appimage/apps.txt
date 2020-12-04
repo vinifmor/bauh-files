@@ -263,8 +263,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Ladha
-Laigter
-Lemon
 LibreSprite
 Lightning
 LikeTaskManager
@@ -399,7 +397,6 @@ Pullp
 Pulse
 Puppetry
 Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -654,12 +651,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 jexiftoolgui
 jira-timer
 jitsi-meet
