@@ -378,15 +378,6 @@ PlotJuggler
 Plover
 Poddr
 PolkaKey
-Postman
-PostyBirb
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -639,8 +630,6 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
 jexiftoolgui
 jira-timer
 jitsi-meet
