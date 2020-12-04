@@ -296,7 +296,7 @@ netflix:
   url: https://netflix.com
   category: Video
   options: [max, widevine]
-  priority: 4
+  priority: 3
 
 primevideo:
   name: Prime Video
