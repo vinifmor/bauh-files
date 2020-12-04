@@ -56,7 +56,7 @@ telegram:
   url: https://web.telegram.org
   category: Network
   options: [tray_min]
-  priority: 3
+  priority: 2
 
 slack:
   name: Slack
@@ -136,7 +136,7 @@ ms_outlook:
   url: https://outlook.live.com
   category: Network
   options: [tray_min]
-  priority: 3
+  priority: 2
 
 ms_drive:
   name: Microsoft One Drive
@@ -148,7 +148,7 @@ reddit:
   name: Reddit
   url: https://www.reddit.com
   category: Network
-  priority: 1
+  priority: 0
 
 google-drive:
   name: Google Drive
@@ -185,7 +185,7 @@ google-cal:
   icon_url: https://calendar.google.com/googlecalendar/images/favicon_v2018_256.png
   category: Utility
   options: [tray_min]
-  priority: 2
+  priority: 1
 
 google-sheets:
   name: Google Sheets
@@ -213,7 +213,7 @@ google-hangouts:
   url: https://hangouts.google.com
   category: Network
   options: [tray_min]
-  priority: 3
+  priority: 0
 
 gmail:
   name: GMail
@@ -222,7 +222,7 @@ gmail:
   save_icon: true
   category: Network
   options: [tray_min]
-  priority: 3
+  priority: 2
 
 mega:
   name: Mega
@@ -256,7 +256,7 @@ evernote:
     ca: Servei de notes al núvol
     de: Cloud Notes-Dienst
   options: [tray_min]
-  priority: 3
+  priority: 2
 
 onenote:
   name: OneNote
