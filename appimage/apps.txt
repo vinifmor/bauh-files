@@ -246,14 +246,6 @@ Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
 LibreSprite
 Lightning
 LikeTaskManager
@@ -626,7 +618,6 @@ feebas
 feedseries
 flameshot
 flightgear-airports
-fmradio
 jexiftoolgui
 jira-timer
 jitsi-meet
