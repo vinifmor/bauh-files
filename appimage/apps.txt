@@ -254,6 +254,10 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+KittehPlayer
+Kitupiikki
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -380,13 +384,6 @@ Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
-Pulse
-Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -639,8 +636,6 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
 jexiftoolgui
 jira-timer
 jitsi-meet
