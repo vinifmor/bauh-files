@@ -268,7 +268,6 @@ Lemon
 LeoCAD
 Lepton
 LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -665,6 +664,7 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -820,3 +820,5 @@ xonsh
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
+zsync2
