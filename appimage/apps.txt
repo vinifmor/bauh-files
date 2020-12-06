@@ -662,8 +662,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -815,3 +813,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
