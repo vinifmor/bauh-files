@@ -258,6 +258,13 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
+Laigter
+Lemon
 LibreSprite
 Lightning
 LikeTaskManager
@@ -649,6 +656,9 @@ freeman
 gLabels
 getswell
 gibs
+githoard
+glTF_Insight
+glulxe
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -799,3 +809,5 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
+xde
+xonsh
