@@ -261,7 +261,6 @@ KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
-LMMS
 LibreSprite
 Lightning
 LikeTaskManager
