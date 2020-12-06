@@ -261,6 +261,12 @@ KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
+LMMS
+Ladha
+Laigter
+Lemon
+LeoCAD
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -650,6 +656,14 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -796,3 +810,8 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
