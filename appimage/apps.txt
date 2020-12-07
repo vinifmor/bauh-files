@@ -245,6 +245,8 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 LibreSprite
 Lightning
 LikeTaskManager
@@ -369,10 +371,6 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -501,10 +499,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -617,13 +611,8 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -761,3 +750,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
