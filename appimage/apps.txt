@@ -246,8 +246,6 @@ Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -373,14 +371,6 @@ PolkaKey
 Postman
 PostyBirb
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
-Pulse
-Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
