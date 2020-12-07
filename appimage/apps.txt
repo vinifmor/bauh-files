@@ -243,6 +243,8 @@ Kage
 Kanon
 KawAnime
 Kcov
+KeePassXC
+KeeWeb
 LibreSprite
 Lightning
 LikeTaskManager
@@ -364,6 +366,13 @@ Playbox
 PlotJuggler
 Plover
 Poddr
+PolkaKey
+Postman
+PostyBirb
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -610,6 +619,11 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -747,4 +761,3 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
