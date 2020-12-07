@@ -7,3 +7,6 @@ nativefier:
 
 electron:
   version: '11.0.3'
+
+electron-wvvmp:
+  version: '11.0.3'
