@@ -258,9 +258,6 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
 LibreSprite
 Lightning
 LikeTaskManager
@@ -651,6 +648,8 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -794,3 +793,6 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+wezterm
+whiteboard
+whu-library-seat
