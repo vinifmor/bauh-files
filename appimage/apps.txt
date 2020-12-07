@@ -261,7 +261,6 @@ KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
-LMMS
 LibreSprite
 Lightning
 LikeTaskManager
@@ -795,5 +794,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
-whiteboard
