@@ -310,6 +310,8 @@ primevideo:
 disneyplus:
   name: Disney Plus
   url: https://disneyplus.com
+  icon_url: https://prod-static.disney-plus.net/us-west-2/builds/9a2417ffbea5858e7ced61f994f7a565140a9e26_1605588680949/images/favicons/safari-pinned-tab.svg
+  save_icon: true
   category: Video
   options: [max, widevine]
   priority: 3
