@@ -247,6 +247,10 @@ KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 LibreSprite
 Lightning
 LikeTaskManager
@@ -371,6 +375,7 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -499,6 +504,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -610,7 +619,8 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
+iota1k
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -747,7 +757,3 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
