@@ -267,6 +267,8 @@ Laigter
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -814,3 +816,8 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+zmNinja
