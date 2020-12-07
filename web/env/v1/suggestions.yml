@@ -301,6 +301,8 @@ netflix:
 primevideo:
   name: Prime Video
   url: https://primevideo.com
+  icon_url: https://m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon._CB527404570_.png
+  save_icon: true
   category: Video
   options: [max, widevine]
   priority: 3
