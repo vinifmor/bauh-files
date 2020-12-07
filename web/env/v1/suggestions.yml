@@ -294,6 +294,8 @@ trello:
 netflix:
   name: Netflix
   url: https://netflix.com
+  icon_url: https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico
+  save_icon: true
   category: Video
   options: [max, widevine]
   priority: 3
