@@ -245,12 +245,6 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
 LibreSprite
 Lightning
 LikeTaskManager
@@ -375,10 +369,6 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -509,8 +499,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -627,11 +615,6 @@ feebas
 feedseries
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
 jexiftoolgui
 jira-timer
 jitsi-meet
