@@ -119,6 +119,13 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -236,6 +243,8 @@ Kage
 Kanon
 KawAnime
 Kcov
+KeePassXC
+KeeWeb
 LibreSprite
 Lightning
 LikeTaskManager
@@ -355,6 +364,10 @@ Planet_Blupi
 PlayMe
 Playbox
 PlotJuggler
+Plover
+Poddr
+PolkaKey
+Postman
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -480,7 +493,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -592,10 +604,9 @@ enve
 erdesigner
 evoplex
 fSpy
-iota1k
-irccloud-desktop
-isle-editor
-jag
+falcon-sql-client
+feebas
+feedseries
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -727,3 +738,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
