@@ -245,6 +245,10 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
+KeyManager
 LibreSprite
 Lightning
 LikeTaskManager
@@ -499,6 +503,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -612,9 +618,8 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-flameshot
-flightgear-airports
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
