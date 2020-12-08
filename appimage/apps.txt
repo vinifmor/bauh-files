@@ -245,6 +245,7 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+Keibo-MoneyTracker-x86_64
 LibreSprite
 Lightning
 LikeTaskManager
@@ -367,7 +368,6 @@ PlotJuggler
 Plover
 Poddr
 PolkaKey
-Postman
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -493,6 +493,13 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -607,6 +614,14 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -743,3 +758,5 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+violetbug
