@@ -258,6 +258,11 @@ KittehPlayer
 Kitupiikki
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+Ladha
 LibreSprite
 Lightning
 LikeTaskManager
@@ -524,6 +529,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -643,6 +649,9 @@ flightgear-airports
 fmradio
 four
 foxfolio
+fre:ac
+freeman
+gLabels
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -781,3 +790,10 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
