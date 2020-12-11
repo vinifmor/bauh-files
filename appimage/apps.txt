@@ -249,11 +249,6 @@ Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
-KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
 LibreSprite
 Lightning
 LikeTaskManager
@@ -379,16 +374,6 @@ PolkaKey
 Postman
 PostyBirb
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
-Pulse
-Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -643,7 +628,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -782,8 +766,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
