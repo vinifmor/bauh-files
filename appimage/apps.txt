@@ -262,6 +262,7 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Laigter
 LibreSprite
 Lightning
 LikeTaskManager
@@ -655,6 +656,8 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
+graphql-playground
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -801,4 +804,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
