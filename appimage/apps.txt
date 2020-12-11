@@ -257,6 +257,9 @@ Kimitzu-Client
 KittehPlayer
 Kitupiikki
 Knowte
+KopiaUI
+LANShare
+LCEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -646,6 +649,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+getswell
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -792,3 +796,6 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
