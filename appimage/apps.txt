@@ -663,6 +663,17 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -819,3 +830,4 @@ youtube-music
 youtube-music-desktop
 zmNinja
 zograscope
+zsync2
