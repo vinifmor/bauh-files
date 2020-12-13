@@ -262,12 +262,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Laigter
-Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -659,10 +653,6 @@ freeman
 gLabels
 getswell
 gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -810,12 +800,3 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-zmNinja
-zograscope
