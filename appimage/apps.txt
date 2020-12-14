@@ -243,11 +243,6 @@ Kage
 Kanon
 KawAnime
 Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -496,6 +491,14 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -615,6 +618,7 @@ flightgear-airports
 fmradio
 four
 foxfolio
+fre:ac
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -752,4 +756,3 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
