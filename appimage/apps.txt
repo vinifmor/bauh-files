@@ -244,6 +244,17 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+KittehPlayer
 LibreSprite
 Lightning
 LikeTaskManager
@@ -372,6 +383,7 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+Procyon
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -503,6 +515,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -619,9 +632,6 @@ feebas
 feedseries
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -759,3 +769,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
