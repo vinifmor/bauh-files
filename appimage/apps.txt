@@ -245,6 +245,16 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+KittehPlayer
 LibreSprite
 Lightning
 LikeTaskManager
@@ -373,6 +383,7 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+Procyon
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -619,6 +630,14 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -757,3 +776,7 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
