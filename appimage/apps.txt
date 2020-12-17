@@ -254,6 +254,11 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+KittehPlayer
+Kitupiikki
+Knowte
+KopiaUI
+LANShare
 LibreSprite
 Lightning
 LikeTaskManager
@@ -388,6 +393,7 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -780,4 +786,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
