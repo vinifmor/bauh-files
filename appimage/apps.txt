@@ -266,6 +266,8 @@ Laigter
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -655,12 +657,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -807,11 +803,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
