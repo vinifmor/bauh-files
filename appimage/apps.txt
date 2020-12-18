@@ -267,7 +267,6 @@ Lemon
 LeoCAD
 Lepton
 LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -820,3 +819,5 @@ xonsh
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
+zsync2
