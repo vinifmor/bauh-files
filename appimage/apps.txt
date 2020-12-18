@@ -266,6 +266,8 @@ Laigter
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -811,3 +813,10 @@ whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+zmNinja
