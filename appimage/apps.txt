@@ -658,6 +658,13 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -805,3 +812,7 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
