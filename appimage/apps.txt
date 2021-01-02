@@ -21,6 +21,7 @@ Archipel
 Archipelago
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
 AsarUI
 AstroShutter
 Astroffers
