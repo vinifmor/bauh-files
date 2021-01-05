@@ -265,8 +265,6 @@ LED.Custom.Palette
 LMMS
 Laigter
 Lemon
-LeoCAD
-Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -657,6 +655,9 @@ fre:ac
 freeman
 gLabels
 getswell
+gibs
+githoard
+glTF_Insight
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -804,3 +805,12 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+zmNinja
+zograscope
