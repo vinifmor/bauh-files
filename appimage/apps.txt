@@ -156,7 +156,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -264,6 +263,11 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Laigter
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -816,3 +820,5 @@ xonsh
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
+zsync2
