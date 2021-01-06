@@ -662,7 +662,6 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -813,3 +812,4 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
+xde
