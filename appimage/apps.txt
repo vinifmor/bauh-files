@@ -264,7 +264,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 Laigter
-Lemon
 LibreSprite
 Lightning
 LikeTaskManager
@@ -658,6 +657,10 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -813,4 +816,3 @@ xonsh
 youtube-music
 youtube-music-desktop
 zmNinja
-zograscope
