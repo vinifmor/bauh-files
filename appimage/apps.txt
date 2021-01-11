@@ -332,7 +332,6 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
-NoSQLBooster
 NoTer
 Nostlan
 Notable
@@ -502,7 +501,6 @@ Spivak
 Spree
 Stacer
 Standard_Notes
-StarUML
 Statsbook_Tool
 StatusPilatus
 SteamCAD
