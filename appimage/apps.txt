@@ -247,6 +247,9 @@ KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
+KevEdit
+KeyManager
+KeyboardClient
 LibreSprite
 Lightning
 LikeTaskManager
@@ -372,6 +375,8 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
+PrimeWorldEditor
 QDriverStation
 QEMU_PowerPC
 QHot
@@ -500,6 +505,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -614,7 +623,6 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-isle-editor
 jag
 jexiftoolgui
 jira-timer
