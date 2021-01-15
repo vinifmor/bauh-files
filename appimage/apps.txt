@@ -115,6 +115,7 @@ Delir
 Demonizer
 Deployer
 DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -197,6 +198,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -220,8 +222,9 @@ Isolate
 JKlubTV
 James
 JoalDesktop
-Join_Desktop
-Joplin
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -335,12 +338,6 @@ PhreshPlayer
 PicGo
 Pile
 Pingendo
-Pingnoo
-Pixsrt
-Plag_Patrol
-Planes
-Planet_Blupi
-PlayMe
 QDriverStation
 QEMU_PowerPC
 QHot
@@ -446,19 +443,6 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
-Storaji
-Strata
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
-Superpaper
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -561,7 +545,8 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 ehdev-shell
-elcalc
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -692,9 +677,8 @@ tT
 tagspaces
 tastee-ui
 tc
-theFrame
-theWeb
-thorium-client
-timer
-tmon
-tnt
+youtube-music
+yuzu
+zmNinja
+zograscope
+zsync2
