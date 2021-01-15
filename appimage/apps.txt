@@ -247,8 +247,6 @@ KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
-KevEdit
-KeyManager
 LibreSprite
 Lightning
 LikeTaskManager
@@ -502,8 +500,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -613,9 +609,11 @@ element
 embedded-ide
 enve
 erdesigner
-impact
-iota1k
-irccloud-desktop
+evoplex
+fSpy
+falcon-sql-client
+feebas
+feedseries
 isle-editor
 jag
 jexiftoolgui
@@ -753,3 +751,6 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
+violetbug
