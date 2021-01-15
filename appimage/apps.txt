@@ -365,6 +365,7 @@ Paletti
 PanWriter
 Panini
 Paper
+Parallelcoin
 Parity_Fether
 Patchwork
 Pathephone
@@ -380,6 +381,7 @@ PhreshPlayer
 PicGo
 Pile
 Pingendo
+Pingnoo
 Pixsrt
 Plag_Patrol
 Planes
