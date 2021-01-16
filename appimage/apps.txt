@@ -253,11 +253,6 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-KittehPlayer
-Kitupiikki
-Knowte
-KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -390,6 +385,8 @@ ProcDepMonitor
 Procyon
 ProofKeeper
 Pullp
+Pulse
+Puppetry
 QDriverStation
 QEMU_PowerPC
 QHot
@@ -637,10 +634,6 @@ falcon-sql-client
 feebas
 feedseries
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -779,4 +772,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
