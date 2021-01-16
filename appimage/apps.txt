@@ -262,9 +262,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Laigter
-Lemon
-LeoCAD
 LibreSprite
 Lightning
 LikeTaskManager
@@ -650,10 +647,6 @@ flameshot
 flightgear-airports
 fmradio
 four
-foxfolio
-fre:ac
-freeman
-gLabels
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -797,7 +790,3 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
