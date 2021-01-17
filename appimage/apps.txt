@@ -209,7 +209,6 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -265,10 +264,6 @@ LED.Custom.Palette
 LMMS
 Laigter
 Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -343,7 +338,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -656,32 +650,6 @@ flightgear-airports
 fmradio
 four
 foxfolio
-fre:ac
-freeman
-gLabels
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-iQPuzzle
-impact
-iota1k
-irccloud-desktop
-isle-editor
-jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -831,12 +799,3 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zmNinja
-zograscope
-zsync2
