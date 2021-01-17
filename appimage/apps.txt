@@ -253,6 +253,7 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
+Kimitzu-Client
 LibreSprite
 Lightning
 LikeTaskManager
@@ -387,6 +388,7 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
+Python
 QDriverStation
 QEMU_PowerPC
 QHot
