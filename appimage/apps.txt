@@ -247,6 +247,10 @@ KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 LibreSprite
 Lightning
 LikeTaskManager
@@ -372,6 +376,14 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+Procyon
+ProofKeeper
+Pullp
+Pulse
 QDriverStation
 QEMU_PowerPC
 QHot
@@ -614,7 +626,8 @@ embedded-ide
 enve
 erdesigner
 evoplex
-iota1k
+fSpy
+falcon-sql-client
 irccloud-desktop
 isle-editor
 jag
