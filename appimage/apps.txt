@@ -574,8 +574,6 @@ Workbench
 Wrapbox
 Wsocks
 XChat
-YUView
-YouTubeSearchFilter
 android-messages-desktop
 ao
 appimagelint
@@ -757,8 +755,8 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
-sqlitebrowser
-stash-electron
+unified-communications
+unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
