@@ -385,8 +385,6 @@ Pingendo
 Pingnoo
 Pixsrt
 Plag_Patrol
-Planes
-Planet_Blupi
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -755,10 +753,10 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
+sqlitebrowser
+stash-electron
+steam-rom-manager
+storyboarder
 updatedeployqt
 upterm
 violetbug
