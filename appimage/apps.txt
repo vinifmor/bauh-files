@@ -182,6 +182,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
+Genesis
+Geometrize
+GetThermal
+Gifcurry
 GrinPlusPlus
 Groot
 Guitar
@@ -340,8 +344,8 @@ Outline-Manager
 P2PDerivatives
 PDFQuirk
 PIA
-Pile
-Pingendo
+POE_Ladder
+PacketSender
 Pingnoo
 Pixsrt
 Plag_Patrol
@@ -519,11 +523,11 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-UniShellect
-V2Ray-Desktop
-VK_Desktop
+Whalebird
+Wire
+WishDemo
+Woke
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -698,7 +702,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-spm
+qSdrSwr
 sqlitebrowser
 stash-electron
 steam-rom-manager
