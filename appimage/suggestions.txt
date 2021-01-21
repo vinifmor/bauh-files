@@ -1,3 +1,5 @@
+2=freetube
+2=heroic games launcher
 1=onlyoffice    
 1=gamehub
 1=rpcs3
