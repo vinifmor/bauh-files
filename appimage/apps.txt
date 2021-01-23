@@ -210,7 +210,6 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -403,7 +402,6 @@ ProcDepMonitor
 Procyon
 ProofKeeper
 Pullp
-Pulse
 QHot
 QMPlay2
 QMediathekView
@@ -602,9 +600,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
-altair
 appimagelint
 appimagetool
 appium-desktop
@@ -812,4 +807,5 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-yuzu
+unreel
+updatedeployqt
