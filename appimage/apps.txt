@@ -606,6 +606,11 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
+ai-bot-workspace
+aillio-ts
+altair
+android-messages-desktop
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -811,6 +816,8 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
 yuzu
-zograscope
 zsync2
