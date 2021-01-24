@@ -170,7 +170,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -343,7 +342,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -406,6 +404,7 @@ Pulse
 Puppetry
 Python
 QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -606,6 +605,9 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
+altair
+android-messages-desktop
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -817,3 +819,15 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
