@@ -210,6 +210,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -402,6 +403,9 @@ ProcDepMonitor
 Procyon
 ProofKeeper
 Pullp
+Pulse
+Puppetry
+Python
 QHot
 QMPlay2
 QMediathekView
@@ -807,5 +811,5 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
+yuzu
+zsync2
