@@ -405,7 +405,6 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
-Python
 QHot
 QMPlay2
 QMediathekView
@@ -808,8 +807,7 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
 yuzu
+zmNinja
+zograscope
 zsync2
