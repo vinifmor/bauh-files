@@ -807,8 +807,8 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
+youtube-music
+youtube-music-desktop
 yuzu
 zmNinja
 zograscope
