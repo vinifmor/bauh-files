@@ -829,3 +829,12 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zmNinja
+zograscope
+zsync2
