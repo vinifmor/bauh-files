@@ -3,6 +3,7 @@ nodejs:
   url: 'https://nodejs.org/dist/v14.15.1/node-v14.15.1-linux-x64.tar.xz'
 
 nativefier:
+  url: 'https://github.com/nativefier/nativefier/archive/v{version}.tar.gz'
   version: '42.0.2'
 
 electron:
