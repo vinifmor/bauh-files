@@ -791,6 +791,7 @@ snapshot-slider
 snomcontrol
 spark-wallet
 spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
