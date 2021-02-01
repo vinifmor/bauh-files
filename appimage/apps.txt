@@ -210,6 +210,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -395,10 +396,6 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 QHot
 QMPlay2
 QMediathekView
@@ -597,11 +594,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
-ao
 appimagelint
 appimagetool
 appium-desktop
@@ -803,11 +795,12 @@ tnt
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zmNinja
+zograscope
+zsync2
