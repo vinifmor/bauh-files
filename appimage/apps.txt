@@ -210,6 +210,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -406,6 +407,7 @@ Pulse
 Puppetry
 Python
 QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -820,3 +822,23 @@ unreel
 updatedeployqt
 upterm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zmNinja
+zograscope
+zsync2
