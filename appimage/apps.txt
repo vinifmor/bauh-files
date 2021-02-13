@@ -572,6 +572,7 @@ VeChain
 Verto
 Vessel
 VidCutter
+Videomass
 Vieb
 Viper_Browser
 Vipster
