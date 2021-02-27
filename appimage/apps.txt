@@ -624,7 +624,9 @@ caprine
 clippy
 clipr
 cncjs
+colorstatic-bash
 cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -709,6 +711,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
+mapollage
 mapton
 marktext
 marlin-conf
