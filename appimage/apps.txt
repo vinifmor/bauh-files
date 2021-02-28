@@ -408,7 +408,6 @@ Puppetry
 Python
 QDriverStation
 QEMU_PowerPC
-QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -771,7 +770,6 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qhot
 qikQR
 qpdf
 qpp::cad
