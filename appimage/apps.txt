@@ -170,6 +170,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -209,7 +210,6 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -404,9 +404,6 @@ Pullp
 Pulse
 Puppetry
 Python
-QDriverStation
-QEMU_PowerPC
-QMPlay2
 QMediathekView
 QNapi
 QTalarm
@@ -609,8 +606,6 @@ aillio-ts
 altair
 android-messages-desktop
 ao
-appimagelint
-appimagetool
 appium-desktop
 autoEdit2
 bioanimation
@@ -822,23 +817,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zmNinja
-zograscope
-zsync2
