@@ -595,6 +595,7 @@ Wrapbox
 Wsocks
 XChat
 YUView
+YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
