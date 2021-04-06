@@ -342,7 +342,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -404,6 +403,7 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
 QMediathekView
 QNapi
 QTalarm
@@ -602,6 +602,9 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
+ai-bot-workspace
+aillio-ts
+altair
 appimagetool
 appium-desktop
 autoEdit2
@@ -812,3 +815,4 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
