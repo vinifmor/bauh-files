@@ -605,6 +605,8 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
+altair
+android-messages-desktop
 appimagetool
 appium-desktop
 autoEdit2
