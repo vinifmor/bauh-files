@@ -404,8 +404,6 @@ Pulse
 Puppetry
 Python
 QDriverStation
-QEMU_PowerPC
-QMPlay2
 QMediathekView
 QNapi
 QTalarm
@@ -604,11 +602,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
-ao
 appimagetool
 appium-desktop
 autoEdit2
@@ -819,5 +812,3 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
-vue-calc
