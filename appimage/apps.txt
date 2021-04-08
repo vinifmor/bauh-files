@@ -170,6 +170,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -608,7 +609,6 @@ aillio-ts
 altair
 android-messages-desktop
 ao
-appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -821,14 +821,3 @@ updatedeployqt
 upterm
 violetbug
 vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
