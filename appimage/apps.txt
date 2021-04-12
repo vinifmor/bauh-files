@@ -790,10 +790,9 @@ tc
 theFrame
 theWeb
 thorium-client
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
+timer
+tmon
+tnt
 x-loc
 xde
 xonsh
