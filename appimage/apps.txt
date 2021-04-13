@@ -210,7 +210,6 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -387,6 +386,16 @@ Pixsrt
 Plag_Patrol
 Planes
 Planet_Blupi
+PlayMe
+Playbox
+PlotJuggler
+Plover
+Poddr
+PolkaKey
+Postman
+PostyBirb
+PraxisLIVE
+PrimeWorldEditor
 QMediathekView
 QNapi
 QTalarm
@@ -587,10 +596,6 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
-altair
-android-messages-desktop
-ao
-appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -795,8 +800,9 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-youtube-music
-yuzu
-zmNinja
-zograscope
-zsync2
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
