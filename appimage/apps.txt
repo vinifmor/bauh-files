@@ -401,6 +401,10 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
 QMediathekView
 QNapi
 QTalarm
@@ -602,8 +606,6 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-ao
 appimagetool
 appium-desktop
 autoEdit2
@@ -815,4 +817,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
