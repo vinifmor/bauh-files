@@ -170,6 +170,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -209,6 +210,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -341,6 +343,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -398,6 +401,11 @@ PrinterClient
 ProcDepMonitor
 Procyon
 ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
 QMediathekView
 QNapi
 QTalarm
@@ -798,12 +806,8 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-violetbug
+youtube-music
+yuzu
+zmNinja
+zograscope
+zsync2
