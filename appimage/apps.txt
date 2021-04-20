@@ -398,16 +398,6 @@ Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
-ProofKeeper
-Pullp
-Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QNapi
 QTalarm
 QUaModbusClient
@@ -605,10 +595,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
 autoEdit2
 bioanimation
 bottlenose
@@ -813,5 +799,4 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
+yuzu
