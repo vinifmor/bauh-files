@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -210,6 +211,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -342,6 +344,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -406,6 +409,7 @@ Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -606,8 +610,6 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-ao
 autoEdit2
 bioanimation
 bottlenose
@@ -814,6 +816,3 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
-violetbug
