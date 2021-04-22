@@ -211,7 +211,6 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -344,7 +343,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -404,12 +402,6 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
-QMPlay2
-QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -816,3 +808,5 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
