@@ -171,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -402,6 +401,10 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QNapi
 QTalarm
 QUaModbusClient
@@ -602,6 +605,8 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+ao
 autoEdit2
 bioanimation
 bottlenose
@@ -810,3 +815,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+violetbug
+vue-calc
+vuerd
+weatherdump
