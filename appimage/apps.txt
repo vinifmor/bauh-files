@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -403,6 +404,10 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -601,6 +606,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
+aillio-ts
+altair
 autoEdit2
 bioanimation
 bottlenose
