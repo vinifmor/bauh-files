@@ -171,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -390,11 +389,6 @@ PlayMe
 Playbox
 PlotJuggler
 Plover
-Poddr
-PolkaKey
-Postman
-PostyBirb
-PraxisLIVE
 QNapi
 QTalarm
 QUaModbusClient
@@ -799,3 +793,5 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+violetbug
