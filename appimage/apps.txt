@@ -610,8 +610,6 @@ altair
 android-messages-desktop
 ao
 appimagelint
-appimagetool
-appium-desktop
 autoEdit2
 bioanimation
 bottlenose
@@ -825,4 +823,3 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
-weweChat
