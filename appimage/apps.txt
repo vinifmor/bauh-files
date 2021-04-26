@@ -395,7 +395,6 @@ Plover
 Poddr
 PolkaKey
 Postman
-PostyBirb
 QNapi
 QTalarm
 QUaModbusClient
@@ -585,7 +584,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-Zap
 autoEdit2
 bioanimation
 bottlenose
@@ -777,11 +775,12 @@ tagspaces
 tastee-ui
 tc
 theFrame
-theWeb
-thorium-client
-timer
-tmon
-tnt
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
 x-loc
 xde
 xonsh
