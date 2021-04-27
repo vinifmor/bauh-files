@@ -200,6 +200,11 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -382,7 +387,6 @@ Pingnoo
 Pixsrt
 Plag_Patrol
 Planes
-Planet_Blupi
 QNapi
 QTalarm
 QUaModbusClient
@@ -746,8 +750,8 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
-upterm
-violetbug
+strans
+stretchly
 vue-calc
 vuerd
 weatherdump
