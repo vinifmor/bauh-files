@@ -204,7 +204,6 @@ GradeStats
 Graviton
 GrinPlusPlus
 Groot
-Guitar
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -382,11 +381,10 @@ Photopea
 PhreshPlayer
 PicGo
 Pile
-Pingendo
-Pingnoo
-Pixsrt
-Plag_Patrol
-Planes
+QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -567,7 +565,9 @@ Wire
 WishDemo
 Woke
 WorkFlowy
-appium-desktop
+Workbench
+Wrapbox
+Wsocks
 autoEdit2
 bioanimation
 bottlenose
