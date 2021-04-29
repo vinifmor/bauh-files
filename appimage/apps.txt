@@ -405,6 +405,7 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
+Python
 QNapi
 QTalarm
 QUaModbusClient
@@ -600,9 +601,6 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Zoom
-Zulip
-accessimap-lecteur-der
-ai-bot-workspace
 autoEdit2
 bioanimation
 bottlenose
@@ -806,6 +804,6 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
 yuzu
-zograscope
 zsync2
