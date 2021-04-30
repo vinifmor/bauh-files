@@ -398,9 +398,6 @@ Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-Procyon
 QNapi
 QTalarm
 QUaModbusClient
@@ -598,10 +595,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
 autoEdit2
 bioanimation
 bottlenose
@@ -799,9 +792,8 @@ timer
 tmon
 tnt
 triagem-touch
-x-loc
-xde
-xonsh
+ttth
+tweet-tray
 youtube-music
 youtube-music-desktop
 yuzu
