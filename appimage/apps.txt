@@ -776,10 +776,9 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-unreel
-updatedeployqt
-upterm
-violetbug
+storyboarder
+strans
+stretchly
 vue-calc
 vuerd
 weatherdump
