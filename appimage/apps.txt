@@ -837,4 +837,3 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
