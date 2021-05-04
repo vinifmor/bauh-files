@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -612,9 +613,6 @@ altair
 android-messages-desktop
 ao
 appimagelint
-appimagetool
-appium-desktop
-autoEdit2
 bioanimation
 bottlenose
 buttercup
@@ -823,7 +821,3 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
-vue-calc
-vuerd
-weatherdump
