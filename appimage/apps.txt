@@ -401,6 +401,17 @@ PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -598,6 +609,9 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
+ai-bot-workspace
+aillio-ts
+altair
 bioanimation
 bottlenose
 buttercup
