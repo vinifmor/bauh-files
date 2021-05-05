@@ -830,5 +830,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
-whu-library-seat
