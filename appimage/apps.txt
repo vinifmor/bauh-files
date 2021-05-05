@@ -210,6 +210,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -840,5 +841,7 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zmNinja
 zograscope
+zsync2
