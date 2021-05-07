@@ -841,3 +841,4 @@ xonsh
 youtube-music
 youtube-music-desktop
 zmNinja
+zograscope
