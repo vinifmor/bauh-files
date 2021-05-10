@@ -33,6 +33,7 @@ AzPainter
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
+Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
 Bezique
@@ -170,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -216,6 +216,7 @@ HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
+Hyperspace
 IGdm
 IagonCloudApp
 ImageMosaicWall
@@ -310,6 +311,7 @@ MineTime
 Minetest
 Mini_Diary
 Minions
+Mirage
 Mob
 Mockman
 Moonlight
@@ -332,6 +334,7 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
+NoTer
 Nostlan
 Notable
 NoteMaster
@@ -441,6 +444,7 @@ Rebaslight
 Record_Compare
 Redict
 RedmineTimeTracker
+ReliefValve
 Responsively
 RetroArch
 RetroShare
@@ -463,6 +467,7 @@ Scatter
 SciQLOP
 ScienceFair
 Scilab
+Scraper
 ScreenCloud
 Scrum-Retroboard
 Scytale
@@ -640,6 +645,7 @@ eNoseAnnotator
 eOSVC
 ehdev-shell
 elcalc
+electron-wechat
 electron-xiami
 element
 embedded-ide
@@ -689,6 +695,7 @@ jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
+ksnip
 laigter
 langly
 laravel-kit
