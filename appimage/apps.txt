@@ -400,6 +400,13 @@ Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
 QNapi
 QTalarm
 QUaModbusClient
@@ -798,8 +805,9 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-youtube-music
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 yuzu
-zmNinja
-zograscope
 zsync2
