@@ -607,12 +607,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
-ao
-appimagelint
-appimagetool
 bioanimation
 bottlenose
 buttercup
@@ -822,7 +816,3 @@ unreel
 updatedeployqt
 upterm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
