@@ -396,6 +396,8 @@ PlotJuggler
 Plover
 Poddr
 PolkaKey
+Postman
+PostyBirb
 QNapi
 QTalarm
 QUaModbusClient
@@ -584,6 +586,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
+ZY_Player
 bioanimation
 bottlenose
 buttercup
@@ -766,8 +769,7 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
-strans
-stretchly
+violetbug
 vue-calc
 vuerd
 weatherdump
