@@ -211,7 +211,6 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -346,7 +345,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -398,6 +396,19 @@ Poddr
 PolkaKey
 Postman
 PostyBirb
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
 QNapi
 QTalarm
 QUaModbusClient
@@ -594,6 +605,11 @@ Zegarek
 ZenroomStudio
 Zoom
 Zulip
+accessimap-lecteur-der
+ai-bot-workspace
+aillio-ts
+altair
+android-messages-desktop
 bioanimation
 bottlenose
 buttercup
@@ -793,8 +809,12 @@ tnt
 triagem-touch
 ttth
 tweet-tray
-youtube-music
-yuzu
-zmNinja
-zograscope
-zsync2
+twetter
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
