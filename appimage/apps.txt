@@ -838,3 +838,9 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zmNinja
+zograscope
+zsync2
