@@ -405,6 +405,9 @@ ProcDepMonitor
 Procyon
 ProofKeeper
 Pullp
+Pulse
+Puppetry
+Python
 QNapi
 QTalarm
 QUaModbusClient
@@ -602,10 +605,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
 bioanimation
 bottlenose
 buttercup
@@ -804,10 +803,10 @@ tmon
 tnt
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+xonsh
+youtube-music
+youtube-music-desktop
 yuzu
+zmNinja
+zograscope
+zsync2
