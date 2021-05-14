@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -210,6 +211,7 @@ Hariona_Launcher
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -345,6 +347,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -836,3 +839,12 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zmNinja
+zograscope
+zsync2
