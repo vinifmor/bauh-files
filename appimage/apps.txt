@@ -397,8 +397,6 @@ PlotJuggler
 Plover
 Poddr
 PolkaKey
-Postman
-PostyBirb
 QNapi
 QTalarm
 QUaModbusClient
@@ -595,7 +593,6 @@ Zegarek
 ZenroomStudio
 Zoom
 Zulip
-accessimap-lecteur-der
 bioanimation
 bottlenose
 buttercup
@@ -783,10 +780,10 @@ stretchly
 subtitles-composer-app
 swradio
 tT
-tagspaces
-tastee-ui
-tc
-theFrame
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
