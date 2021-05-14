@@ -393,10 +393,6 @@ Planes
 Planet_Blupi
 PlayMe
 Playbox
-PlotJuggler
-Plover
-Poddr
-PolkaKey
 QNapi
 QTalarm
 QUaModbusClient
@@ -579,14 +575,6 @@ Woke
 WorkFlowy
 Workbench
 Wrapbox
-Wsocks
-XChat
-YUView
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
-Zap
 bioanimation
 bottlenose
 buttercup
@@ -769,8 +757,7 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
-strans
-stretchly
+violetbug
 vue-calc
 vuerd
 weatherdump
