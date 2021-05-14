@@ -404,6 +404,12 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -608,7 +614,6 @@ android-messages-desktop
 ao
 appimagelint
 appimagetool
-appium-desktop
 bioanimation
 bottlenose
 buttercup
