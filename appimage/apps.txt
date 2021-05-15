@@ -180,12 +180,6 @@ GL_warp2mp4
 GM-Companion
 GSequencer
 GVim
-GXC_Smart_Contract_IDE
-Galacteek
-GameHub
-Ganache
-Genesis
-Geometrize
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -525,8 +519,8 @@ VLC
 VNote
 VPaint
 VeChain
-YesPlayMusic
-YouTubeSearchFilter
+Verto
+Vessel
 Yuna
 ZY_Player
 Zap
@@ -701,8 +695,9 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qikQR
-qpdf
+storyboarder
+strans
+stretchly
 subtitles-composer-app
 swradio
 tT
