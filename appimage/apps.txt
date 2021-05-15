@@ -188,6 +188,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gigantum
+Gingko
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -357,7 +359,7 @@ Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
-PrimeWorldEditor
+Pencil2D
 PrinterClient
 ProcDepMonitor
 Procyon
@@ -548,8 +550,9 @@ Wexond
 Whalebird
 Wire
 WishDemo
-appium-desktop
-autoEdit2
+Woke
+WorkFlowy
+Workbench
 bioanimation
 bottlenose
 buttercup
@@ -717,11 +720,12 @@ sabaki
 saphyr
 scavengers
 school-sections
-tmon
-tnt
-triagem-touch
-ttth
-tweet-tray
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
 twetter
 twitch-wrapper
 uncov
