@@ -182,9 +182,6 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
-GameHub
-Ganache
-Genesis
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -351,7 +348,6 @@ Panini
 Paper
 Parallelcoin
 Parity_Fether
-Patchwork
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -528,11 +524,11 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
-Viper_Browser
-Vipster
-VirtScreen
-Vitomu
+ZapDesktop
+ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
@@ -705,7 +701,7 @@ qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
-ridereceipts
+tc
 theFrame
 theWeb
 thorium-client
