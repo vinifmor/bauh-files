@@ -181,6 +181,9 @@ GM-Companion
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
+Galacteek
+GameHub
+Ganache
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -340,7 +343,7 @@ PIA
 POE_Ladder
 PacketSender
 Padloc
-PlayMe
+Painel-Web
 Playbox
 PlotJuggler
 Plover
@@ -520,9 +523,10 @@ VLC
 VNote
 VPaint
 VeChain
-YouTubeSearchFilter
-Yuna
-ZY_Player
+Verto
+Vessel
+VidCutter
+Videomass
 Zap
 ZapDesktop
 ZeGrapher
@@ -694,6 +698,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
+steam-rom-manager
 storyboarder
 strans
 stretchly
