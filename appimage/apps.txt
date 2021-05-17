@@ -185,6 +185,9 @@ Galacteek
 GameHub
 Ganache
 Genesis
+Geometrize
+GetThermal
+Gifcurry
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -350,8 +353,8 @@ PanWriter
 Panini
 Paper
 Parallelcoin
-Postman
-PostyBirb
+Parity_Fether
+Patchwork
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -699,9 +702,8 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-steam-rom-manager
-storyboarder
-strans
+qTox
+qikQR
 stretchly
 subtitles-composer-app
 swradio
