@@ -187,7 +187,6 @@ Ganache
 Genesis
 Geometrize
 GetThermal
-Gifcurry
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -355,8 +354,8 @@ Paper
 Parallelcoin
 Parity_Fether
 Patchwork
-PraxisLIVE
-PrimeWorldEditor
+Pathephone
+PatternPaint
 PrinterClient
 ProcDepMonitor
 Procyon
@@ -532,7 +531,6 @@ Vessel
 VidCutter
 Videomass
 Vieb
-ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -704,10 +702,9 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-stretchly
-subtitles-composer-app
-swradio
-tT
+qpdf
+qpp::cad
+qr-code-generator-desktop
 tagspaces
 tastee-ui
 tc
