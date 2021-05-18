@@ -178,8 +178,9 @@ GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
-Guitar
-Gulden
+GSequencer
+GVim
+GXC_Smart_Contract_IDE
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -347,7 +348,8 @@ Paper
 Parallelcoin
 Parity_Fether
 Patchwork
-PostyBirb
+Pathephone
+PatternPaint
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -518,6 +520,7 @@ VK_Desktop
 VLC
 VNote
 VPaint
+XChat
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -691,6 +694,7 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
+spark-wallet
 spm
 sqlitebrowser
 stash-electron
