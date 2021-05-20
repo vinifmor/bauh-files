@@ -168,10 +168,10 @@ Fractale
 Fraidycat
 Fraktal
 Franz
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
 FreeTube
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
 GradeStats
@@ -331,9 +331,9 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
+Photopea
+PhreshPlayer
+PicGo
 Pile
 Pingendo
 Pingnoo
@@ -508,7 +508,6 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
-Tusk
 Wexond
 Whalebird
 Wire
@@ -683,7 +682,8 @@ photoname
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
