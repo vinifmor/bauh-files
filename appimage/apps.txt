@@ -169,7 +169,6 @@ Fraidycat
 Fraktal
 Franz
 FreeTube
-GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
@@ -686,7 +685,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 polar-bookshelf
-pomotroid
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
