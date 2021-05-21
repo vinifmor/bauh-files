@@ -184,6 +184,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
+Genesis
+Geometrize
+GetThermal
+Gifcurry
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -348,10 +352,11 @@ Paletti
 PanWriter
 Panini
 Paper
-PolkaKey
-Postman
-PostyBirb
-PraxisLIVE
+Parallelcoin
+Parity_Fether
+Patchwork
+Pathephone
+PatternPaint
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -524,7 +529,8 @@ VPaint
 VeChain
 Verto
 Vessel
-VidCutter
+YouTubeSearchFilter
+Yuna
 ZY_Player
 Zap
 ZapDesktop
@@ -700,6 +706,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
+stretchly
 subtitles-composer-app
 swradio
 tT
