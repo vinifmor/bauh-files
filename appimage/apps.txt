@@ -357,6 +357,7 @@ Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
+PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 Procyon
@@ -531,11 +532,11 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
-Vipster
-VirtScreen
-Vitomu
-VivifyScrum
+ZapDesktop
+ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
@@ -710,9 +711,9 @@ quokkagit
 rasterview
 ridereceipts
 runanode
-theFrame
-theWeb
-thorium-client
+sabaki
+saphyr
+scavengers
 timer
 tmon
 tnt
