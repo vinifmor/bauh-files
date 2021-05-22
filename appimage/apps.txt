@@ -197,7 +197,6 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-GooboxFileShare
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -376,8 +375,7 @@ PhotoFlow
 Photopea
 PhreshPlayer
 PicGo
-Pile
-Pingendo
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -552,10 +550,9 @@ VizGraph
 WalletShell
 WalletTech
 WatchFlower
-WebDesktop
-Webamp
-Wexond
-Whalebird
+ai-bot-workspace
+aillio-ts
+altair
 android-messages-desktop
 ao
 appimagelint
@@ -731,9 +728,8 @@ scavengers
 school-sections
 ser-player
 simple-s3-uploader
-simple-timer
-simplechroot
-slang-ed
+tnt
+triagem-touch
 ttth
 tweet-tray
 twetter
