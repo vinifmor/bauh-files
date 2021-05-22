@@ -196,6 +196,7 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -370,11 +371,12 @@ Pennywise
 Pext
 Phinch
 PhotoFlare
-Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
+PhotoFlow
+Photopea
+PhreshPlayer
+PicGo
+Pile
+Pingendo
 QMPlay2
 QMediathekView
 QNapi
@@ -551,7 +553,7 @@ WatchFlower
 WebDesktop
 Webamp
 Wexond
-android-messages-desktop
+Whalebird
 ao
 appimagelint
 appimagetool
@@ -733,8 +735,9 @@ smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
-unoffical-sonos-controller-for-linux
-unofficial-zalo
+spark-wallet
+spm
+sqlitebrowser
 unreel
 updatedeployqt
 upterm
