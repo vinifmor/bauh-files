@@ -185,6 +185,11 @@ Galacteek
 GameHub
 Ganache
 Genesis
+Geometrize
+GetThermal
+Gifcurry
+Gigantum
+Gingko
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -356,6 +361,7 @@ Pathephone
 PatternPaint
 Pencil2D
 Pennywise
+ProcDepMonitor
 Procyon
 ProofKeeper
 Pullp
@@ -528,10 +534,11 @@ Vessel
 VidCutter
 Videomass
 Vieb
-ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
+Viper_Browser
+Vipster
+VirtScreen
+Vitomu
+VivifyScrum
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -704,8 +711,9 @@ qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
-tagspaces
-tastee-ui
+rasterview
+ridereceipts
+runanode
 tc
 theFrame
 theWeb
