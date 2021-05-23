@@ -190,9 +190,6 @@ GetThermal
 Gifcurry
 Gigantum
 Gingko
-GitHubDesktop
-GitNote
-GitQlient
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -550,8 +547,8 @@ WebDesktop
 Webamp
 Wexond
 Whalebird
-Wire
-WishDemo
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
