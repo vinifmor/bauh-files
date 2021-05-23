@@ -355,8 +355,7 @@ Paper
 Parallelcoin
 Parity_Fether
 Patchwork
-Pathephone
-PatternPaint
+PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -533,11 +532,11 @@ VidCutter
 Videomass
 Vieb
 Viper_Browser
-Vipster
-VirtScreen
-Vitomu
-VivifyScrum
-VizGraph
+ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
+Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
