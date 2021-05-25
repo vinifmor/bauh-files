@@ -157,8 +157,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Beta
 FreeTube
+Geometrize
 GetThermal
 Gifcurry
 Gigantum
@@ -331,6 +331,7 @@ OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
+Outline-Manager
 PhreshPlayer
 PicGo
 Pile
@@ -499,8 +500,8 @@ Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
-Translatium
-TreeSheets
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -681,9 +682,10 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-pingviewer
-pkg2appimage
-playyourdamnturn.com
+saphyr
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
