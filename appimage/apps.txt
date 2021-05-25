@@ -188,8 +188,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gigantum
-Gingko
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -360,7 +358,8 @@ Patchwork
 Pathephone
 PatternPaint
 Pencil2D
-ProcDepMonitor
+Pennywise
+Pext
 Procyon
 ProofKeeper
 Pullp
@@ -540,9 +539,11 @@ Vitomu
 VivifyScrum
 VizGraph
 WalletShell
-ai-bot-workspace
-aillio-ts
-altair
+WalletTech
+WatchFlower
+WebDesktop
+Webamp
+Wexond
 android-messages-desktop
 ao
 appimagelint
@@ -712,7 +713,7 @@ quokkagit
 rasterview
 ridereceipts
 runanode
-sabaki
+tc
 theFrame
 theWeb
 thorium-client
