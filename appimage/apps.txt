@@ -176,8 +176,8 @@ Friture
 FromScratch
 GDevelop
 GIMP
-GL_warp2mp4
-GM-Companion
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -340,8 +340,8 @@ POE_Ladder
 PacketSender
 Padloc
 Painel-Web
-Playbox
-PlotJuggler
+Paletti
+PanWriter
 Plover
 Poddr
 PolkaKey
@@ -511,8 +511,7 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
-V2Ray-Desktop
+Woke
 WorkFlowy
 Workbench
 Wrapbox
@@ -690,9 +689,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+spark-wallet
+spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
