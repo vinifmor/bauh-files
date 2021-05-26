@@ -155,11 +155,13 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-Figma
-Filmulator
-Firefox_Beta
-Firefox_ESR
 FreeTube
+GameHub
+Ganache
+Genesis
+Geometrize
+GetThermal
+Gifcurry
 Gigantum
 Gingko
 GitHubDesktop
@@ -325,8 +327,9 @@ Obsidian
 Olive
 Onenote
 Onshape
-Phinch
-PhotoFlare
+Onyx
+OpenAudible
+OpenBlok
 PhotoFlow
 Photopea
 PhreshPlayer
@@ -500,6 +503,7 @@ Tonuino_Toolbox
 Translatium
 TreeSheets
 Trinity_Desktop
+VivifyScrum
 VizGraph
 WalletShell
 WalletTech
@@ -678,7 +682,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pingviewer
-school-sections
+pkg2appimage
 ser-player
 simple-s3-uploader
 simple-timer
