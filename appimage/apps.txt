@@ -144,9 +144,9 @@ Etcher
 Eternal-Lands
 EverInst
 ExeQt
-Eximchain_Wallet
-Explorook
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -309,10 +309,8 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -488,10 +486,9 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-VK_Desktop
-VLC
-VNote
-VPaint
+Tesseract
+ThermusQt
+Thorium_Reader
 VeChain
 Verto
 Vessel
@@ -673,7 +670,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
