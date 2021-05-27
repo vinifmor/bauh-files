@@ -156,8 +156,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
+Genesis
 Geometrize
 GetThermal
 Gifcurry
@@ -495,9 +495,9 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-TilingGenerator
-Todoist
-Tonuino_Toolbox
+Videomass
+Vieb
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -676,8 +676,8 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
+ridereceipts
+runanode
 sabaki
 saphyr
 scavengers
