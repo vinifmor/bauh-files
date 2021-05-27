@@ -142,11 +142,11 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
-Explorook
+FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -307,10 +307,11 @@ NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
+Nitrokey
+NixNote
+NoTer
+Nostlan
 OWASP Threat Dragon
-POE_Ladder
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -493,7 +494,6 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-VidCutter
 Videomass
 Vieb
 Viper_Browser
