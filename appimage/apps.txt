@@ -312,8 +312,9 @@ NixNote
 NoTer
 Nostlan
 Notable
-NoteMaster
 OWASP Threat Dragon
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -487,13 +488,13 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
+VK_Desktop
+VLC
+VNote
+VPaint
+VeChain
+Verto
+Vessel
 VidCutter
 Videomass
 Vieb
@@ -672,8 +673,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 runanode
