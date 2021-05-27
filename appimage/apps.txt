@@ -154,10 +154,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
 FreeTube
+GameHub
+Ganache
+Genesis
 Geometrize
 GetThermal
 Gifcurry
@@ -323,9 +323,9 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-Pencil2D
-Pennywise
-Pext
+Olive
+Onenote
+Onshape
 Phinch
 PhotoFlare
 PhotoFlow
@@ -495,8 +495,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-Videomass
-Vieb
+TilingGenerator
 Viper_Browser
 Vipster
 VirtScreen
@@ -675,6 +674,7 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
+rasterview
 ridereceipts
 runanode
 sabaki
