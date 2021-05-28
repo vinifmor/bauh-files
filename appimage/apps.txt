@@ -153,7 +153,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Ferdi
 FreeTube
 Galacteek
 GameHub
@@ -312,7 +311,6 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
-Notable
 OWASP Threat Dragon
 Painel-Web
 Paletti
@@ -496,8 +494,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-VidCutter
-Videomass
+TilingGenerator
 Vieb
 Viper_Browser
 Vipster
@@ -677,7 +674,6 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-pb-for-desktop
 ridereceipts
 runanode
 sabaki
