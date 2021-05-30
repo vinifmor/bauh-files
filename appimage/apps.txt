@@ -173,7 +173,7 @@ FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
-Gpredict
+FromScratch
 GradeStats
 Graviton
 GrinPlusPlus
@@ -335,9 +335,10 @@ Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
-PIA
-POE_Ladder
-PacketSender
+Pingendo
+Pingnoo
+Pixsrt
+Plag_Patrol
 Planes
 Planet_Blupi
 PlayMe
@@ -508,8 +509,8 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-Wexond
-Whalebird
+TweakSophia
+UHK.Agent
 Wire
 WishDemo
 Woke
@@ -685,9 +686,9 @@ playyourdamnturn.com
 plotjuggler
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
