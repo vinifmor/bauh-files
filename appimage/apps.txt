@@ -168,8 +168,10 @@ Fractale
 Fraidycat
 Fraktal
 Franz
-Frappe_Accounting
 FreeTube
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
@@ -331,7 +333,8 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Photopea
+Open_Markup_Editor
+Outline-Manager
 PhreshPlayer
 PicGo
 Pile
@@ -509,8 +512,9 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-TweakSophia
-UHK.Agent
+Webamp
+Wexond
+Whalebird
 Wire
 WishDemo
 Woke
@@ -686,8 +690,9 @@ playyourdamnturn.com
 plotjuggler
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
-privacy.sexy
+simplechroot
+slang-ed
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
