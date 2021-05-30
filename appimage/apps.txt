@@ -172,8 +172,8 @@ Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
 FreeTube
-Google_Tasks_Desktop
-Gpredict
+Friture
+FromScratch
 GradeStats
 Graviton
 GrinPlusPlus
@@ -335,7 +335,8 @@ Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
-Pingnoo
+PIA
+POE_Ladder
 Pixsrt
 Plag_Patrol
 Planes
@@ -507,8 +508,8 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
-Webamp
-Wexond
+Tusk
+TweakSophia
 Whalebird
 Wire
 WishDemo
@@ -683,8 +684,9 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-polar-bookshelf
-pomotroid
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
