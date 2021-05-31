@@ -170,8 +170,8 @@ Fraktal
 Franz
 Frappe_Accounting
 FreeCAD2
-FreeTexturePacker
 FreeTube
+GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
 GradeStats
@@ -333,7 +333,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-P2PDerivatives
+PicGo
 Pile
 Pingendo
 Pingnoo
@@ -511,10 +511,10 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-UniShellect
-V2Ray-Desktop
+Wire
+WishDemo
+Woke
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -685,9 +685,9 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
+simplechroot
+slang-ed
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
