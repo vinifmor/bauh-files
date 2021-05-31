@@ -150,9 +150,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
+FF-Password-Exporter
 FreeTube
-GM-Companion
-GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
@@ -314,11 +313,10 @@ NoTer
 Nostlan
 Notable
 NoteMaster
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
 OWASP Threat Dragon
+PanWriter
+Panini
+Paper
 Parallelcoin
 Parity_Fether
 Patchwork
@@ -488,11 +486,10 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
-VPaint
+TeslaCam_Browser
+Tesseract
+ThermusQt
+Thorium_Reader
 VeChain
 Verto
 Vessel
@@ -678,10 +675,9 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
-pingviewer
+runanode
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
