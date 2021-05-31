@@ -140,7 +140,7 @@ Endless_Sky
 EnvKey
 Eplee
 Eqonomize
-Franz
+Etcher
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
@@ -307,8 +307,9 @@ NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
+Nitrokey
+NixNote
 OWASP Threat Dragon
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -659,11 +660,11 @@ ngrev
 nheko
 nimbus-weather
 nordvpn-linux
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
+notepadqq
+noteshrink-qt
+nx-software-center
+nxshell
+ommpfritt
 qTox
 qikQR
 qpdf
