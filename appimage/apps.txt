@@ -160,10 +160,9 @@ Filmulator
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
+Fluent_Reader
+FocusWriter
 FreeTube
-Gifcurry
-Gigantum
-Gingko
 GitHubDesktop
 GitNote
 GitQlient
@@ -320,9 +319,7 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVis
 OWASP Threat Dragon
-Patchwork
 Pathephone
 PatternPaint
 Pencil2D
@@ -498,8 +495,7 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-Todoist
-Tonuino_Toolbox
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -675,14 +671,12 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
-pingviewer
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
