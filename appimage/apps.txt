@@ -159,14 +159,13 @@ Figma
 Filmulator
 Firefox_Beta
 Firefox_ESR
-Firefox_Nightly
-Fluent_Reader
-FocusWriter
-FontForge
-FontLet
-Fractale
-Fraidycat
 FreeTube
+Gifcurry
+Gigantum
+Gingko
+GitHubDesktop
+GitNote
+GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
@@ -323,7 +322,7 @@ OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
-Obsidian
+PatternPaint
 Pencil2D
 Pennywise
 Pext
@@ -681,6 +680,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pingviewer
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
