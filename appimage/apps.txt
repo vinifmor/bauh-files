@@ -319,8 +319,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
-Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
@@ -496,8 +496,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-VidCutter
-Videomass
+TilingGenerator
 Vieb
 Viper_Browser
 Vipster
