@@ -157,6 +157,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Beta
 FreeTube
 Geometrize
 GetThermal
@@ -323,8 +324,7 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Pencil2D
 Pennywise
 Pext
 Phinch
@@ -496,12 +496,15 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-TilingGenerator
-Todoist
-Tonuino_Toolbox
-Translatium
-TreeSheets
-Trinity_Desktop
+Vessel
+VidCutter
+Videomass
+Vieb
+Viper_Browser
+Vipster
+VirtScreen
+Vitomu
+VivifyScrum
 VizGraph
 WalletShell
 WalletTech
@@ -676,10 +679,10 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
-pingviewer
+ridereceipts
+runanode
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
