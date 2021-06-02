@@ -151,8 +151,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
 FreeTube
+GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
@@ -322,7 +322,6 @@ OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
-Obsidian
 Pencil2D
 Pennywise
 Pext
@@ -495,7 +494,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-Videomass
+TilingGenerator
 Vieb
 Viper_Browser
 Vipster
@@ -675,6 +674,7 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
+pb-for-desktop
 ridereceipts
 runanode
 sabaki
