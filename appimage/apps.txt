@@ -157,6 +157,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Beta
 FreeTube
 GetThermal
 Gifcurry
@@ -324,7 +325,8 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
+Pennywise
+Pext
 Phinch
 PhotoFlare
 PhotoFlow
@@ -501,8 +503,9 @@ Translatium
 TreeSheets
 Trinity_Desktop
 Tropy
-WalletTech
-WatchFlower
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 WebDesktop
 Webamp
 Wexond
@@ -677,8 +680,8 @@ pdf-sync
 perl-executing-browser
 photoname
 pingviewer
-school-sections
-ser-player
+pkg2appimage
+playyourdamnturn.com
 simple-s3-uploader
 simple-timer
 simplechroot
