@@ -141,13 +141,12 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
-Explorook
-Exportoo
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -312,8 +311,8 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
+Notable
 OWASP Threat Dragon
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -494,7 +493,6 @@ Thorium_Reader
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
-Tiled
 VidCutter
 Videomass
 Vieb
@@ -665,10 +663,9 @@ nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
-nx-software-center
-nxshell
-ommpfritt
-onnx2bnn
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 qTox
 qikQR
 qpdf
