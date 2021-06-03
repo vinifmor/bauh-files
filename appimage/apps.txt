@@ -154,8 +154,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Fidias_Database_Migration_App
+Figma
 FreeTube
-GameHub
 Ganache
 Genesis
 Geometrize
@@ -311,11 +312,12 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
-Notable
-NoteMaster
-OCRmyPDF
-OCVWarp
 OWASP Threat Dragon
+Padloc
+Painel-Web
+Paletti
+PanWriter
+Panini
 Paper
 Parallelcoin
 Parity_Fether
@@ -493,6 +495,7 @@ Thorium_Reader
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
+Vessel
 VidCutter
 Videomass
 Vieb
@@ -676,8 +679,9 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-perl-executing-browser
-photoname
+runanode
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
