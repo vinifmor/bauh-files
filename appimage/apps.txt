@@ -312,9 +312,8 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
-Notable
-NoteMaster
 OWASP Threat Dragon
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -496,7 +495,8 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-TilingGenerator
+VidCutter
+Videomass
 Vieb
 Viper_Browser
 Vipster
@@ -669,8 +669,8 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
-onnx2daq
-openblok
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
