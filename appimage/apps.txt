@@ -180,6 +180,11 @@ GL_warp2mp4
 GM-Companion
 GSequencer
 GVim
+GXC_Smart_Contract_IDE
+Galacteek
+GameHub
+Ganache
+Genesis
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -348,8 +353,7 @@ Parallelcoin
 Parity_Fether
 Patchwork
 Pathephone
-PraxisLIVE
-PrimeWorldEditor
+PatternPaint
 PrinterClient
 ProcDepMonitor
 Procyon
@@ -522,8 +526,8 @@ VeChain
 Verto
 Vessel
 VidCutter
-ZY_Player
-Zap
+Videomass
+Vieb
 ZapDesktop
 ZeGrapher
 Zegarek
@@ -704,8 +708,8 @@ rasterview
 ridereceipts
 runanode
 sabaki
-saphyr
-scavengers
+theWeb
+thorium-client
 timer
 tmon
 tnt
