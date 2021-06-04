@@ -358,8 +358,8 @@ Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
-Pencil2D
-Pennywise
+PrimeWorldEditor
+PrinterClient
 ProcDepMonitor
 Procyon
 ProofKeeper
@@ -533,9 +533,9 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Zap
-ZapDesktop
-ZeGrapher
+Viper_Browser
+Vipster
+VirtScreen
 Zegarek
 ZenroomStudio
 Zoom
@@ -716,8 +716,8 @@ runanode
 sabaki
 saphyr
 scavengers
-school-sections
-ser-player
+thorium-client
+timer
 tmon
 tnt
 triagem-touch
