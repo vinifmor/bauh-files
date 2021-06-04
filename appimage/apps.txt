@@ -184,11 +184,6 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
-Genesis
-Geometrize
-GetThermal
-Gifcurry
-Gigantum
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -358,6 +353,7 @@ Parity_Fether
 Patchwork
 Pathephone
 PatternPaint
+PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -535,7 +531,7 @@ Videomass
 Vieb
 Viper_Browser
 Vipster
-VirtScreen
+ZeGrapher
 Zegarek
 ZenroomStudio
 Zoom
@@ -716,7 +712,7 @@ runanode
 sabaki
 saphyr
 scavengers
-thorium-client
+school-sections
 timer
 tmon
 tnt
