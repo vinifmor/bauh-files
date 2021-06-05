@@ -392,6 +392,13 @@ Plag_Patrol
 Planes
 Planet_Blupi
 PlayMe
+Playbox
+PlotJuggler
+Plover
+Poddr
+PolkaKey
+Postman
+PostyBirb
 QNapi
 QTalarm
 QUaModbusClient
@@ -575,6 +582,9 @@ Workbench
 Wrapbox
 Wsocks
 XChat
+YUView
+YesPlayMusic
+YouTubeSearchFilter
 bioanimation
 bottlenose
 buttercup
@@ -759,8 +769,8 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-vue-calc
-vuerd
+subtitles-composer-app
+swradio
 weatherdump
 westeroscraftlauncher
 weweChat
