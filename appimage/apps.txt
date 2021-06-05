@@ -586,6 +586,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
+ZY_Player
+Zap
+ZapDesktop
 bioanimation
 bottlenose
 buttercup
@@ -770,9 +773,9 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-vue-calc
-vuerd
-weatherdump
+subtitles-composer-app
+swradio
+tT
 westeroscraftlauncher
 weweChat
 wezterm
