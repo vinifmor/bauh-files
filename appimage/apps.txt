@@ -397,6 +397,8 @@ PlotJuggler
 Plover
 Poddr
 PolkaKey
+Postman
+PostyBirb
 QNapi
 QTalarm
 QUaModbusClient
@@ -577,6 +579,13 @@ WishDemo
 Woke
 WorkFlowy
 Workbench
+Wrapbox
+Wsocks
+XChat
+YUView
+YesPlayMusic
+YouTubeSearchFilter
+Yuna
 bioanimation
 bottlenose
 buttercup
@@ -757,9 +766,10 @@ spark-wallet
 spm
 sqlitebrowser
 stash-electron
-updatedeployqt
-upterm
-violetbug
+steam-rom-manager
+storyboarder
+strans
+stretchly
 vue-calc
 vuerd
 weatherdump
