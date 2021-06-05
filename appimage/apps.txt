@@ -199,9 +199,6 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Gpredict
-GradeStats
-Graviton
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -565,9 +562,8 @@ Wexond
 Whalebird
 Wire
 WishDemo
-appimagelint
-appimagetool
-appium-desktop
+Woke
+WorkFlowy
 autoEdit2
 bioanimation
 bottlenose
@@ -746,10 +742,10 @@ snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
+spm
+sqlitebrowser
+stash-electron
+steam-rom-manager
 upterm
 violetbug
 vue-calc
