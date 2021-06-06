@@ -204,6 +204,8 @@ GradeStats
 Graviton
 GrinPlusPlus
 Groot
+Guitar
+Gulden
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -389,6 +391,10 @@ Pixsrt
 Plag_Patrol
 Planes
 Planet_Blupi
+PlayMe
+Playbox
+PlotJuggler
+Plover
 QNapi
 QTalarm
 QUaModbusClient
@@ -569,7 +575,8 @@ WishDemo
 Woke
 WorkFlowy
 Workbench
-autoEdit2
+Wrapbox
+Wsocks
 bioanimation
 bottlenose
 buttercup
@@ -754,9 +761,9 @@ steam-rom-manager
 storyboarder
 strans
 stretchly
-vue-calc
-vuerd
-weatherdump
+subtitles-composer-app
+swradio
+tT
 westeroscraftlauncher
 weweChat
 wezterm
