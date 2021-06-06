@@ -22,6 +22,7 @@ Archipelago
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
+Artisan
 AsarUI
 AstroShutter
 Astroffers
@@ -38,6 +39,7 @@ Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
 Bezique
+Birds_Kitchen
 BitShares
 Bitwarden_Connector
 Black_Chocobo
@@ -53,9 +55,11 @@ Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
+Bottles
 Brackets
 BrainVerse
 BrainWaves
+BrickStore
 BscanFFTwebcam
 Buche
 Buckets
@@ -70,6 +74,7 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
+CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -162,6 +167,7 @@ Filmulator
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
+Flippy_Qualitative_Testbench
 Fluent_Reader
 FocusWriter
 FontForge
@@ -195,7 +201,8 @@ Gingko
 GitHubDesktop
 GitNote
 GitQlient
-Glimpse-Image-Editor
+Gulden
+HDRMerge
 Hariona_Launcher
 HastyHeroes
 Heimer
@@ -208,6 +215,7 @@ HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -258,6 +266,7 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
+Lagrange
 Laigter
 Left
 Lemon
@@ -279,6 +288,7 @@ M
 MAngbandClient
 MDL
 MLV-App
+MMapper
 MQTT-Explorer
 MQTTCute
 MagicFountain
@@ -365,6 +375,7 @@ Panini
 Paper
 Parallelcoin
 Parity_Fether
+Passky
 Patchwork
 Pathephone
 PatternPaint
@@ -374,12 +385,13 @@ Pext
 Phinch
 PhotoFlare
 PhotoFlow
-PhotoQuick
-Photopea
-PhreshPlayer
-PicGo
-Pile
-Pingendo
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -409,6 +421,7 @@ RSS-Guard
 RTNeuron
 Rabix_Composer
 Radix_Wallet
+Rainbow_Board
 Rambox
 Rats_on_The_Boat
 Raven_Reader
@@ -439,6 +452,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
+SchildiChat
 SciQLOP
 ScienceFair
 Scilab
@@ -447,6 +461,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
+Serial_Studio
 Shadowsocks
 ShareMyHost
 Sharp-Tune
@@ -525,6 +540,7 @@ Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
+Trezor_Suite
 Trinity_Desktop
 Tropy
 Tulip
@@ -560,9 +576,10 @@ WatchFlower
 WatchIt
 WebDesktop
 Webamp
-Wexond
-Whalebird
+aillio-ts
+altair
 android-messages-desktop
+antimicroX
 ao
 appimagelint
 appimagetool
@@ -738,15 +755,15 @@ saphyr
 scavengers
 school-sections
 ser-player
-simple-s3-uploader
-simple-timer
-simplechroot
-slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
+tmon
+tnt
+torrenttools
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
