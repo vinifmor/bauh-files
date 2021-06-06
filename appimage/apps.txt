@@ -191,8 +191,19 @@ Gifcurry
 Gigantum
 Gingko
 GitHubDesktop
-HDRMerge
-Hariona_Launcher
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
 HastyHeroes
 Heimer
 HermesMessenger
@@ -204,6 +215,7 @@ HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
+ITUSB1_Manager
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -366,6 +378,7 @@ Pext
 Phinch
 PhotoFlare
 PhotoFlow
+PhotoQuick
 Photopea
 PhreshPlayer
 PicGo
@@ -378,7 +391,8 @@ Planes
 Planet_Blupi
 PlayMe
 Playbox
-QNapi
+PlotJuggler
+Plover
 QTalarm
 QUaModbusClient
 Qawl
@@ -424,6 +438,7 @@ RyoWallet
 SBLauncher
 SFRT_Attendance
 SMF-DSP
+SMathStudio
 SUMOCO
 SWC-Minecraft-Launcher
 Sabaki
@@ -556,8 +571,9 @@ Whalebird
 Wire
 WishDemo
 Woke
+Wonderwall
 WorkFlowy
-autoEdit2
+Workbench
 bioanimation
 bottlenose
 buttercup
@@ -697,6 +713,7 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
+pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
