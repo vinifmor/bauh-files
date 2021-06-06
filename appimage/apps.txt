@@ -389,9 +389,6 @@ Pixsrt
 Plag_Patrol
 Planes
 Planet_Blupi
-PlayMe
-Playbox
-PlotJuggler
 QNapi
 QTalarm
 QUaModbusClient
@@ -572,7 +569,7 @@ WishDemo
 Woke
 WorkFlowy
 Workbench
-Wrapbox
+autoEdit2
 bioanimation
 bottlenose
 buttercup
