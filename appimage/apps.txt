@@ -197,6 +197,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gigantum
+Gingko
+GitHubDesktop
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -381,7 +383,7 @@ Pext
 Phinch
 PhotoFlare
 PhotoFlow
-PhotoQuick
+Procyon
 ProofKeeper
 Pullp
 Pulse
@@ -569,6 +571,7 @@ VizGraph
 WalletShell
 WalletTech
 WatchFlower
+WatchIt
 ai-bot-workspace
 aillio-ts
 altair
@@ -752,8 +755,9 @@ ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
-ttth
-tweet-tray
+slang-ed
+smtk2ssrf
+snake.js
 twetter
 twitch-wrapper
 uncov
