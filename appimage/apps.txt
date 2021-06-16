@@ -178,9 +178,7 @@ Fraktal
 Franz
 Frappe_Accounting
 FreeCAD2
-FreeTexturePacker
 FreeTube
-GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
@@ -353,9 +351,8 @@ Outline-Manager
 P2PDerivatives
 PDFQuirk
 PIA
-POE_Ladder
-PacketSender
-Padloc
+Pile
+Pingendo
 Pingnoo
 Pixsrt
 Plag_Patrol
@@ -537,9 +534,7 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
-Tusk
-TweakSophia
-UHK.Agent
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -719,8 +714,6 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-polar-bookshelf
 simple-s3-uploader
 simple-timer
 simplechroot
