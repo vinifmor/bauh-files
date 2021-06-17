@@ -179,6 +179,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTube
+GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
@@ -348,12 +349,14 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-P2PDerivatives
-PDFQuirk
-PIA
-POE_Ladder
-PacketSender
-Padloc
+PhotoQuick
+Photopea
+PhreshPlayer
+PicGo
+Pile
+Pingendo
+Pingnoo
+Pixsrt
 Plag_Patrol
 Planes
 Planet_Blupi
@@ -536,7 +539,8 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-Whalebird
+UltraGrid
+UltraScreen
 Wire
 WishDemo
 Woke
@@ -715,6 +719,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 polar-bookshelf
+pomotroid
 simplechroot
 slang-ed
 smtk2ssrf
