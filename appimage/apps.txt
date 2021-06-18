@@ -185,10 +185,9 @@ FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
-GM-Companion
-GSequencer
-GVim
-GXC_Smart_Contract_IDE
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -355,7 +354,7 @@ PDFQuirk
 PIA
 POE_Ladder
 PacketSender
-Pixsrt
+Padloc
 Plag_Patrol
 Planes
 Planet_Blupi
@@ -539,6 +538,7 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
 Wire
 WishDemo
 Woke
@@ -718,9 +718,10 @@ playyourdamnturn.com
 plotjuggler
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
