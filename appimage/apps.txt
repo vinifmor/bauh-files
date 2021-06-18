@@ -187,6 +187,8 @@ GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
+GVim
+GXC_Smart_Contract_IDE
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -359,10 +361,11 @@ Paletti
 PanWriter
 Panini
 Paper
-Parallelcoin
-Parity_Fether
-Passky
-Patchwork
+PlotJuggler
+Plover
+Poddr
+PolkaKey
+Popsicle
 Postman
 PostyBirb
 PraxisLIVE
@@ -541,7 +544,8 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-Workbench
+VNote
+VPaint
 Wrapbox
 Wsocks
 XChat
@@ -723,6 +727,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
+spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
