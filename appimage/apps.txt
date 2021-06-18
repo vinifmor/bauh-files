@@ -195,7 +195,6 @@ Ganache
 Genesis
 Geometrize
 GetThermal
-Gifcurry
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -372,8 +371,7 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
-PatternPaint
+Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
@@ -554,8 +552,7 @@ VLC
 VNote
 VPaint
 VeChain
-Wsocks
-XChat
+Verto
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -739,10 +736,9 @@ qTox
 qikQR
 qpdf
 qpp::cad
-qr-code-generator-desktop
-quokkagit
-rasterview
-ridereceipts
+swradio
+tT
+tagspaces
 tastee-ui
 tc
 theFrame
