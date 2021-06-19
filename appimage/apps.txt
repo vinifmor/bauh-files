@@ -204,6 +204,7 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -392,8 +393,10 @@ PhotoQuick
 Photopea
 PhreshPlayer
 PicGo
-Pile
-Pingendo
+Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -580,8 +583,8 @@ WebDesktop
 Webamp
 Wexond
 Whalebird
-Wire
-WishDemo
+altair
+android-messages-desktop
 antimicroX
 ao
 appimagelint
@@ -770,6 +773,8 @@ spark-wallet
 spm
 sqlitebrowser
 stash-electron
+steam-rom-manager
+storyboarder
 updatedeployqt
 upterm
 violetbug
