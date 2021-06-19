@@ -194,6 +194,8 @@ GameHub
 Ganache
 Genesis
 Geometrize
+GetThermal
+Gifcurry
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -372,6 +374,7 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
+Pencil2D
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -561,9 +564,10 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-ZenroomStudio
-Zoom
-Zulip
+VizGraph
+WalletShell
+WalletTech
+WatchFlower
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
@@ -746,8 +750,9 @@ scavengers
 school-sections
 ser-player
 simple-s3-uploader
-torrenttools
-triagem-touch
+simple-timer
+simplechroot
+slang-ed
 ttth
 tweet-tray
 twetter
