@@ -196,10 +196,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gigantum
-Gingko
-GitHubDesktop
-GitNote
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -374,10 +370,10 @@ Panini
 Paper
 Parallelcoin
 Parity_Fether
-Passky
-Patchwork
-Pathephone
-PatternPaint
+Poddr
+PolkaKey
+Popsicle
+Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
@@ -558,8 +554,7 @@ VNote
 VPaint
 VeChain
 Verto
-Vessel
-VidCutter
+XChat
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -747,7 +742,6 @@ qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
-tagspaces
 tastee-ui
 tc
 theFrame
