@@ -196,10 +196,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gigantum
-Gingko
-GitHubDesktop
-GitNote
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -381,7 +377,7 @@ PatternPaint
 Pencil2D
 Pennywise
 Pext
-PrimeWorldEditor
+Phinch
 PrinterClient
 ProcDepMonitor
 ProcSpin
@@ -573,7 +569,8 @@ VizGraph
 WalletShell
 WalletTech
 WatchFlower
-WatchIt
+Zulip
+accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
@@ -761,7 +758,8 @@ slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
-twitch-wrapper
+snomcontrol
+spark-wallet
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
