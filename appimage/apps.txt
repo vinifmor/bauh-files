@@ -196,7 +196,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gigantum
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -375,10 +374,9 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-Pencil2D
-Pennywise
-Pext
-Phinch
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
@@ -556,7 +554,7 @@ VPaint
 VeChain
 Verto
 Vessel
-VidCutter
+YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
@@ -749,8 +747,8 @@ saphyr
 scavengers
 school-sections
 ser-player
-simple-s3-uploader
-simple-timer
+tmon
+tnt
 torrenttools
 triagem-touch
 ttth
