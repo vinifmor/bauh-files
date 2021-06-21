@@ -197,7 +197,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gigantum
-Gingko
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -379,8 +378,7 @@ PatternPaint
 Pencil2D
 Pennywise
 Pext
-PrimeWorldEditor
-PrinterClient
+Phinch
 ProcDepMonitor
 ProcSpin
 Procyon
@@ -753,7 +751,6 @@ school-sections
 ser-player
 simple-s3-uploader
 simple-timer
-simplechroot
 torrenttools
 triagem-touch
 ttth
