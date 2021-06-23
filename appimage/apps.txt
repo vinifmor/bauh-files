@@ -180,7 +180,6 @@ Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
 FreeTube
-Friture
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
@@ -355,9 +354,9 @@ PDFQuirk
 PIA
 POE_Ladder
 PacketSender
-Padloc
-Painel-Web
-Paletti
+Pingnoo
+Pixsrt
+Plag_Patrol
 Planes
 Planet_Blupi
 PlayMe
@@ -530,11 +529,11 @@ Translatium
 TreeSheets
 Trezor_Suite
 Trinity_Desktop
-Tropy
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-Turntable
+Vitomu
+VivifyScrum
+VizGraph
+WalletShell
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -716,8 +715,7 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-scavengers
-school-sections
+playyourdamnturn.com
 ser-player
 simple-s3-uploader
 simple-timer
