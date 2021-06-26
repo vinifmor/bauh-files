@@ -374,6 +374,7 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
+PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -546,9 +547,10 @@ UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
+WishDemo
+Woke
+Wonderwall
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -737,7 +739,8 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
-tT
+quokkagit
+rasterview
 tagspaces
 tastee-ui
 tc
