@@ -374,9 +374,9 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
+Pencil2D
+Pennywise
+Pext
 ProcDepMonitor
 ProcSpin
 Procyon
@@ -549,7 +549,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
+Wrapbox
 Wsocks
 XChat
 YUView
@@ -741,9 +741,9 @@ rasterview
 ridereceipts
 runanode
 sabaki
-saphyr
-scavengers
-school-sections
+theWeb
+thorium-client
+timer
 tmon
 tnt
 torrenttools
