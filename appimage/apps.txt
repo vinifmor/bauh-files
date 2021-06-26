@@ -196,10 +196,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gigantum
-Gingko
-GitHubDesktop
-GitNote
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -378,7 +374,6 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-Pencil2D
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -561,10 +556,10 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
-Vipster
-VirtScreen
-Vitomu
+Yuna
+ZY_Player
+Zap
+ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -751,7 +746,7 @@ saphyr
 scavengers
 school-sections
 ser-player
-simple-s3-uploader
+tmon
 tnt
 torrenttools
 triagem-touch
