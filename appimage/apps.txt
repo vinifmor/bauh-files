@@ -195,7 +195,6 @@ Ganache
 Genesis
 Geometrize
 GetThermal
-Gifcurry
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -369,10 +368,10 @@ PanWriter
 Panini
 Paper
 Parallelcoin
-Plover
-Poddr
-PolkaKey
-Popsicle
+Parity_Fether
+Passky
+Patchwork
+Pathephone
 Postman
 PostyBirb
 PraxisLIVE
@@ -545,9 +544,9 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
-V2Ray-Desktop
-VK_Desktop
+Wire
+WishDemo
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -736,8 +735,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-stretchly
-subtitles-composer-app
+qpp::cad
+qr-code-generator-desktop
 swradio
 tT
 tagspaces
