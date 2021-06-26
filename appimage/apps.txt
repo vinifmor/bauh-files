@@ -195,6 +195,10 @@ Ganache
 Genesis
 Geometrize
 GetThermal
+Gifcurry
+Gigantum
+Gingko
+GitHubDesktop
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -371,8 +375,8 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Postman
-PostyBirb
+Pathephone
+PatternPaint
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -551,9 +555,10 @@ VNote
 VPaint
 VeChain
 Verto
-XChat
-YUView
-YesPlayMusic
+Vessel
+VidCutter
+Videomass
+Vieb
 YouTubeSearchFilter
 Yuna
 ZY_Player
