@@ -203,6 +203,7 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -382,11 +383,10 @@ Patchwork
 Pathephone
 PatternPaint
 Pencil2D
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
+Pennywise
+Pext
+Phinch
+PhotoFlare
 Procyon
 ProofKeeper
 Pullp
@@ -570,10 +570,9 @@ VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
+WalletShell
+WalletTech
+WatchFlower
 ai-bot-workspace
 aillio-ts
 altair
@@ -762,7 +761,7 @@ smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
-spark-wallet
+uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
