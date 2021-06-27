@@ -392,7 +392,7 @@ PhotoQuick
 Photopea
 PhreshPlayer
 PicGo
-Puppetry
+Pile
 Python
 QDriverStation
 QEMU_PowerPC
@@ -565,10 +565,10 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Yuna
-ZY_Player
-Zap
-ZapDesktop
+Viper_Browser
+Vipster
+VirtScreen
+Vitomu
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -764,7 +764,7 @@ snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
-unified-communications
+spm
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
