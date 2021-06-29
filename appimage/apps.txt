@@ -169,14 +169,14 @@ Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
+FocusWriter
+FontForge
+FontLet
+Fractale
+Fraidycat
+Fraktal
+Franz
 FreeTube
-Gigantum
-Gingko
-GitHubDesktop
-GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
@@ -339,8 +339,9 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-PatternPaint
-Pencil2D
+Olive
+Onenote
+Onshape
 Pennywise
 Pext
 Phinch
@@ -520,9 +521,8 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-VidCutter
-Videomass
-Vieb
+Todoist
+Tonuino_Toolbox
 Viper_Browser
 Vipster
 VirtScreen
@@ -711,7 +711,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-scavengers
 school-sections
 ser-player
 simple-s3-uploader
