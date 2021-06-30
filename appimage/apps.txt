@@ -177,7 +177,6 @@ Fraidycat
 Fraktal
 Franz
 FreeTube
-Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
@@ -341,8 +340,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
-Onshape
 Pencil2D
 Pennywise
 Pext
@@ -523,8 +520,9 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-Todoist
-Tonuino_Toolbox
+Vessel
+VidCutter
+Videomass
 Vieb
 Viper_Browser
 Vipster
@@ -713,8 +711,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-sabaki
-saphyr
+pingviewer
 scavengers
 school-sections
 ser-player
