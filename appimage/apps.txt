@@ -364,9 +364,9 @@ PanWriter
 Panini
 Paper
 Parallelcoin
-Parity_Fether
-Passky
-Patchwork
+Poddr
+PolkaKey
+Popsicle
 Postman
 PostyBirb
 PraxisLIVE
@@ -725,8 +725,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-stash-electron
-steam-rom-manager
+qSdrSwr
+qTox
 storyboarder
 strans
 stretchly
