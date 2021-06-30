@@ -189,8 +189,6 @@ GM-Companion
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
-Galacteek
-GameHub
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -358,12 +356,14 @@ PIA
 POE_Ladder
 PacketSender
 Padloc
-Painel-Web
-Paletti
-PanWriter
-Panini
-Paper
-Parallelcoin
+Pixsrt
+Plag_Patrol
+Planes
+Planet_Blupi
+PlayMe
+Playbox
+PlotJuggler
+Plover
 Poddr
 PolkaKey
 Popsicle
@@ -536,7 +536,8 @@ Tumblr_Scraper
 Turntable
 Tusk
 TweakSophia
-Wexond
+UHK.Agent
+UltraGrid
 Whalebird
 Wire
 WishDemo
@@ -727,6 +728,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+steam-rom-manager
 storyboarder
 strans
 stretchly
