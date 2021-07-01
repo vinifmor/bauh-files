@@ -185,7 +185,7 @@ FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
-GM-Companion
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -531,9 +531,10 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-TweakSophia
-UHK.Agent
-UltraGrid
+WebDesktop
+Webamp
+Wexond
+Whalebird
 Wire
 WishDemo
 Woke
@@ -715,7 +716,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-smtk2ssrf
+protonmail-desktop
 snake.js
 snapshot-slider
 snomcontrol
