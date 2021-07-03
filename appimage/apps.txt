@@ -196,7 +196,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gigantum
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -375,8 +374,8 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-PostyBirb
-PraxisLIVE
+Pencil2D
+Pennywise
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -558,6 +557,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
+Yuna
 ZY_Player
 Zap
 ZapDesktop
@@ -743,8 +743,9 @@ rasterview
 ridereceipts
 runanode
 sabaki
-theWeb
-thorium-client
+saphyr
+scavengers
+school-sections
 timer
 tmon
 tnt
