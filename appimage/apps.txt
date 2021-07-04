@@ -190,6 +190,9 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
+GameHub
+Ganache
+Genesis
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -366,7 +369,8 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-PolkaKey
+Pathephone
+PatternPaint
 Popsicle
 Postman
 PostyBirb
@@ -548,6 +552,9 @@ VNote
 VPaint
 VeChain
 Verto
+Vessel
+Wrapbox
+Wsocks
 XChat
 YUView
 YesPlayMusic
@@ -734,8 +741,9 @@ qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
-swradio
-tT
+rasterview
+ridereceipts
+runanode
 tagspaces
 tastee-ui
 tc
