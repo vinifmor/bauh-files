@@ -193,6 +193,9 @@ Galacteek
 GameHub
 Ganache
 Genesis
+Geometrize
+GetThermal
+Gifcurry
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -371,6 +374,7 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
+Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
@@ -551,6 +555,8 @@ VPaint
 VeChain
 Verto
 Vessel
+Wsocks
+XChat
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -734,10 +740,11 @@ qTox
 qikQR
 qpdf
 qpp::cad
-subtitles-composer-app
-swradio
-tT
-tagspaces
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
+runanode
 tastee-ui
 tc
 theFrame
