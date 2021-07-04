@@ -197,7 +197,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gigantum
-Gingko
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -382,6 +381,7 @@ Pext
 Phinch
 PhotoFlare
 PhotoFlow
+PhotoQuick
 Procyon
 ProofKeeper
 Pullp
@@ -559,7 +559,8 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Yuna
+Viper_Browser
+Vipster
 ZY_Player
 Zap
 ZapDesktop
@@ -755,7 +756,8 @@ simplechroot
 slang-ed
 smtk2ssrf
 snake.js
-twetter
+snapshot-slider
+snomcontrol
 twitch-wrapper
 uncov
 unified-communications
