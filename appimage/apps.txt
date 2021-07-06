@@ -189,6 +189,10 @@ GM-Companion
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
+Galacteek
+GameHub
+Ganache
+Genesis
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -362,9 +366,8 @@ PanWriter
 Panini
 Paper
 Parallelcoin
-Parity_Fether
-Passky
-Patchwork
+Poddr
+PolkaKey
 Popsicle
 Postman
 PostyBirb
@@ -541,11 +544,10 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-Wonderwall
-WorkFlowy
-Workbench
-Wrapbox
-Wsocks
+VLC
+VNote
+VPaint
+VeChain
 XChat
 YUView
 YesPlayMusic
@@ -733,7 +735,6 @@ qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
-ridereceipts
 tastee-ui
 tc
 theFrame
