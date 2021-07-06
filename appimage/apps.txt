@@ -189,10 +189,6 @@ GM-Companion
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
-Galacteek
-GameHub
-Ganache
-Genesis
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -369,8 +365,9 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
-PatternPaint
+Popsicle
+Postman
+PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -544,7 +541,7 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-VLC
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -736,7 +733,7 @@ qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
-tagspaces
+ridereceipts
 tastee-ui
 tc
 theFrame
