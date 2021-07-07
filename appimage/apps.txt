@@ -166,7 +166,6 @@ Figma
 Filmulator
 Firefox_Beta
 Firefox_ESR
-Firefox_Nightly
 FreeTube
 Gifcurry
 Gigantum
@@ -341,8 +340,7 @@ Obsidian
 Olive
 Onenote
 Onshape
-Onyx
-OpenAudible
+Pext
 Phinch
 PhotoFlare
 PhotoFlow
@@ -519,7 +517,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-TilingGenerator
+VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -707,9 +705,8 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
