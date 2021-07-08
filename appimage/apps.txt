@@ -178,8 +178,9 @@ Fraktal
 Franz
 Frappe_Accounting
 FreeCAD2
-FreeTexturePacker
 FreeTube
+GoldenCheetah
+GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Gpredict
@@ -345,6 +346,7 @@ Onenote
 Onshape
 Onyx
 OpenAudible
+Pennywise
 Pext
 Phinch
 PhotoFlare
@@ -526,7 +528,8 @@ TilingGenerator
 Todoist
 Tonuino_Toolbox
 Translatium
-Viper_Browser
+TreeSheets
+Trezor_Suite
 Vipster
 VirtScreen
 Vitomu
@@ -714,8 +717,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-scavengers
-school-sections
+pkg2appimage
+playyourdamnturn.com
+plotjuggler
 ser-player
 simple-s3-uploader
 simple-timer
