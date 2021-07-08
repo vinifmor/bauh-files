@@ -163,8 +163,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
+Galacteek
 GameHub
 Ganache
 Genesis
@@ -342,6 +342,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+Onshape
 Pencil2D
 Pennywise
 Pext
@@ -522,9 +523,9 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-VidCutter
-Videomass
-Vieb
+Todoist
+Tonuino_Toolbox
+Translatium
 Viper_Browser
 Vipster
 VirtScreen
