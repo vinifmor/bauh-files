@@ -161,14 +161,14 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
+Firefox_Beta
+Firefox_ESR
+Firefox_Nightly
+Flippy_Qualitative_Testbench
 FreeTube
-Galacteek
-GameHub
-Ganache
-Genesis
-Geometrize
-GetThermal
-Gifcurry
 Gigantum
 Gingko
 GitHubDesktop
@@ -336,8 +336,9 @@ ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
-Pathephone
-PatternPaint
+OWallet
+Obsidian
+Olive
 Pencil2D
 Pennywise
 Pext
@@ -515,9 +516,9 @@ ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
-VeChain
-Verto
-Vessel
+Thunderbird_Nightly
+Tiled
+TilingGenerator
 VidCutter
 Videomass
 Vieb
@@ -707,8 +708,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-saphyr
-scavengers
+pigs-n-cows
+pingviewer
 school-sections
 ser-player
 simple-s3-uploader
