@@ -169,8 +169,9 @@ Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
+FocusWriter
+FontForge
 FreeTube
-Gigantum
 Gingko
 GitHubDesktop
 GitNote
@@ -347,8 +348,9 @@ OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
+PhotoFlow
+PhotoQuick
+Photopea
 PhreshPlayer
 PicGo
 Pile
@@ -523,8 +525,9 @@ Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
-Viper_Browser
-Vipster
+Translatium
+TreeSheets
+Trezor_Suite
 VirtScreen
 Vitomu
 VivifyScrum
@@ -713,8 +716,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-polar-bookshelf
+ser-player
+simple-s3-uploader
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
