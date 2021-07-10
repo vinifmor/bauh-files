@@ -184,8 +184,9 @@ Friture
 FromScratch
 GDevelop
 GIMP
-GrinPlusPlus
-Groot
+GL_warp2mp4
+GM-Companion
+GSequencer
 Guitar
 Gulden
 HDRMerge
@@ -357,7 +358,8 @@ Padloc
 Painel-Web
 Paletti
 PanWriter
-Playbox
+Panini
+Paper
 PlotJuggler
 Plover
 Poddr
@@ -530,9 +532,9 @@ Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
-Tusk
-TweakSophia
-UHK.Agent
+WatchIt
+WebDesktop
+Webamp
 Wexond
 Whalebird
 Wire
@@ -717,8 +719,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-snake.js
-snapshot-slider
+puush-qt
+pyappimage
 snomcontrol
 spark-wallet
 spm
