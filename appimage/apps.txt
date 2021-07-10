@@ -367,6 +367,7 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
+Popsicle
 Postman
 PostyBirb
 PraxisLIVE
@@ -535,9 +536,10 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
-TweakSophia
-UHK.Agent
-UltraGrid
+WebDesktop
+Webamp
+Wexond
+Whalebird
 Wire
 WishDemo
 Woke
@@ -730,6 +732,7 @@ qTox
 qikQR
 qpdf
 qpp::cad
+qr-code-generator-desktop
 swradio
 tT
 tagspaces
