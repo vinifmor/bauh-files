@@ -339,16 +339,15 @@ OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
-Obsidian
-Olive
-Onenote
-Onshape
-Onyx
-OpenAudible
-OpenBlok
-OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Patchwork
+Pathephone
+PatternPaint
+Pencil2D
+Pennywise
+Pext
+Phinch
+PhotoFlare
+PhotoFlow
 PhotoQuick
 Photopea
 PhreshPlayer
@@ -523,8 +522,8 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-Todoist
-Tonuino_Toolbox
+VidCutter
+Videomass
 Vieb
 Viper_Browser
 Vipster
@@ -714,7 +713,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-saphyr
 scavengers
 school-sections
 ser-player
