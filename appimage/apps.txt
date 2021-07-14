@@ -167,7 +167,6 @@ Filmulator
 Firefox_Beta
 Firefox_ESR
 FreeTube
-Geometrize
 GetThermal
 Gifcurry
 Gigantum
@@ -338,7 +337,6 @@ ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
-OWallet
 Patchwork
 Pathephone
 PatternPaint
@@ -522,7 +520,6 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -713,7 +710,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-scavengers
 school-sections
 ser-player
 simple-s3-uploader
