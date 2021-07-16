@@ -171,8 +171,6 @@ Flippy_Qualitative_Testbench
 Fluent_Reader
 FocusWriter
 FontForge
-FontLet
-Fractale
 FreeTube
 GitHubDesktop
 GitNote
@@ -342,12 +340,12 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-Pathephone
-PatternPaint
-Pencil2D
-Pennywise
-Pext
-Phinch
+Olive
+Onenote
+Onshape
+Onyx
+OpenAudible
+OpenBlok
 PhotoFlare
 PhotoFlow
 PhotoQuick
@@ -528,9 +526,7 @@ Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
-Viper_Browser
-Vipster
-VirtScreen
+Trezor_Suite
 Vitomu
 VivifyScrum
 VizGraph
@@ -716,10 +712,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-saphyr
-scavengers
-school-sections
-ser-player
+pkg2appimage
+playyourdamnturn.com
 simple-s3-uploader
 simple-timer
 simplechroot
