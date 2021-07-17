@@ -190,7 +190,9 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
-Gulden
+GameHub
+Ganache
+Genesis
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -550,7 +552,7 @@ VPaint
 VeChain
 Verto
 Vessel
-Wsocks
+VidCutter
 XChat
 YUView
 YesPlayMusic
@@ -740,7 +742,7 @@ quokkagit
 rasterview
 ridereceipts
 runanode
-sabaki
+tagspaces
 tastee-ui
 tc
 theFrame
