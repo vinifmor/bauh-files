@@ -190,6 +190,9 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
+GameHub
+Ganache
+Genesis
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -366,8 +369,8 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-PolkaKey
-Popsicle
+Pathephone
+PatternPaint
 Postman
 PostyBirb
 PraxisLIVE
@@ -543,11 +546,12 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-Woke
-Wonderwall
-WorkFlowy
-Workbench
-Wrapbox
+VLC
+VNote
+VPaint
+VeChain
+Verto
+Vessel
 Wsocks
 XChat
 YUView
@@ -738,6 +742,8 @@ quokkagit
 rasterview
 ridereceipts
 runanode
+sabaki
+tastee-ui
 tc
 theFrame
 theWeb
