@@ -194,7 +194,6 @@ GameHub
 Ganache
 Genesis
 Geometrize
-GetThermal
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -548,8 +547,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-VeChain
+Workbench
+Wrapbox
 Wsocks
 XChat
 YUView
@@ -741,7 +740,7 @@ rasterview
 ridereceipts
 runanode
 sabaki
-theFrame
+saphyr
 theWeb
 thorium-client
 timer
