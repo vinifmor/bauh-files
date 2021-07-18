@@ -192,7 +192,6 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
-Genesis
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -369,9 +368,6 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
-PatternPaint
-Popsicle
 Postman
 PostyBirb
 PraxisLIVE
@@ -544,8 +540,6 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
-V2Ray-Desktop
 Wire
 WishDemo
 Woke
@@ -735,9 +729,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qikQR
-qpdf
-qpp::cad
+storyboarder
 strans
 stretchly
 subtitles-composer-app
