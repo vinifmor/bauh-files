@@ -195,7 +195,6 @@ Ganache
 Genesis
 Geometrize
 GetThermal
-Gifcurry
 HDRMerge
 Hariona_Launcher
 HastyHeroes
@@ -374,7 +373,6 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -549,10 +547,9 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-Wonderwall
-WorkFlowy
-Workbench
-Wrapbox
+VNote
+VPaint
+VeChain
 Wsocks
 XChat
 YUView
@@ -744,12 +741,11 @@ rasterview
 ridereceipts
 runanode
 sabaki
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
-simple-timer
+theFrame
+theWeb
+thorium-client
+timer
+tmon
 tnt
 torrenttools
 triagem-touch
