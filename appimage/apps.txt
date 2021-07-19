@@ -169,9 +169,9 @@ Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
+FocusWriter
+FontForge
 FreeTube
-Gigantum
-Gingko
 GitHubDesktop
 GitNote
 GitQlient
@@ -342,7 +342,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-Pencil2D
+Onshape
 Pennywise
 Pext
 Phinch
@@ -714,7 +714,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
