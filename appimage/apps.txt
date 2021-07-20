@@ -153,12 +153,12 @@ EverInst
 ExeQt
 Eximchain_Wallet
 Explorook
-FreeTexturePacker
+Exportoo
+EyeStalker
+F-CRM
+FAT_Wallet
+FF-Password-Exporter
 FreeTube
-Friture
-FromScratch
-GDevelop
-GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -330,8 +330,9 @@ NixNote
 NoTer
 Nostlan
 Notable
+NoteMaster
+OCRmyPDF
 OWASP Threat Dragon
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -515,11 +516,11 @@ TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
+V2Ray-Desktop
+VK_Desktop
+VLC
+VNote
+VPaint
 VeChain
 Verto
 Vessel
@@ -709,7 +710,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-quokkagit
+pdf-sync
 rasterview
 ridereceipts
 runanode
