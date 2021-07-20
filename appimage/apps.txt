@@ -144,6 +144,8 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
+EnvKey
+FontForge
 FontLet
 Fractale
 Fraidycat
@@ -318,11 +320,13 @@ NCSA_Mosaic
 NMEASimulator
 NanoVault
 Negibox
-Neon
-NepaliUnicode
-Newlogic
-Nexus_Wallet
 OWASP Threat Dragon
+OpenTodoList
+Open_Markup_Editor
+Outline-Manager
+P2PDerivatives
+PDFQuirk
+PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -504,10 +508,12 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
+Turntable
+Tusk
+TweakSophia
+UHK.Agent
+UltraGrid
+UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -688,6 +694,8 @@ ngPost
 ngrev
 nheko
 nimbus-weather
+nordvpn-linux
+privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
