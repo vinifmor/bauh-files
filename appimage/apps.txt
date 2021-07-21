@@ -153,12 +153,12 @@ EverInst
 ExeQt
 Eximchain_Wallet
 Explorook
-Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
-FF-Password-Exporter
+FreeTexturePacker
 FreeTube
+Friture
+FromScratch
+GDevelop
+GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -327,9 +327,10 @@ Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
+NixNote
+NoTer
+Nostlan
 OWASP Threat Dragon
-POE_Ladder
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -515,8 +516,8 @@ TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
-V2Ray-Desktop
-VK_Desktop
+ThermusQt
+Thorium_Reader
 VLC
 VNote
 VPaint
@@ -704,9 +705,8 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-osu
-p2p-chat
-parsec-linux-appimage
+qikQR
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
