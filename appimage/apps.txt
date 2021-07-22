@@ -157,8 +157,9 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
 FreeTube
+GIMP
+GL_warp2mp4
 GM-Companion
 GSequencer
 GVim
@@ -325,12 +326,11 @@ NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -514,8 +514,9 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-V2Ray-Desktop
-VK_Desktop
+Tesseract
+ThermusQt
+Thorium_Reader
 VLC
 VNote
 VPaint
@@ -702,8 +703,7 @@ ommpfritt
 onnx2bnn
 onnx2daq
 openblok
-ossia_score
-osu
+qTox
 qikQR
 qpdf
 qpp::cad
