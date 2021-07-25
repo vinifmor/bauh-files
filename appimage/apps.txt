@@ -191,12 +191,6 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
-GameHub
-Ganache
-Genesis
-Geometrize
-GetThermal
-Gifcurry
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -374,8 +368,10 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
-PatternPaint
+PolkaKey
+Popsicle
+Postman
+PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
@@ -554,7 +550,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
+Wonderwall
+WorkFlowy
+Workbench
 Wrapbox
 Wsocks
 XChat
@@ -741,7 +739,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
+strans
+stretchly
 subtitles-composer-app
 swradio
 tT
