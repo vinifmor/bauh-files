@@ -188,8 +188,7 @@ GL_warp2mp4
 GM-Companion
 GSequencer
 GVim
-GXC_Smart_Contract_IDE
-Galacteek
+Guitar
 Gulden
 HDRMerge
 Hariona_Launcher
@@ -542,10 +541,10 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
-Whalebird
-Wire
-WishDemo
-Woke
+UltraScreen
+UniShellect
+V2Ray-Desktop
+VK_Desktop
 Wonderwall
 WorkFlowy
 Workbench
@@ -737,8 +736,8 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
-swradio
-tT
+quokkagit
+rasterview
 tagspaces
 tastee-ui
 tc
