@@ -149,7 +149,6 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-Fraidycat
 Fraktal
 Franz
 Frappe_Accounting
@@ -326,15 +325,16 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
+Niffler
+Nitrokey
+NixNote
+NoTer
+Nostlan
+Notable
+NoteMaster
+OCRmyPDF
+OCVWarp
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
-PacketSender
-Padloc
-Painel-Web
-Paletti
-PanWriter
 Panini
 Paper
 Parallelcoin
@@ -517,7 +517,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -709,7 +708,6 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-qTox
 qikQR
 qpdf
 qpp::cad
