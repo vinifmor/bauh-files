@@ -149,7 +149,6 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-Fraktal
 Franz
 Frappe_Accounting
 FreeCAD2
@@ -328,13 +327,12 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
-NoTer
-Nostlan
-Notable
-NoteMaster
-OCRmyPDF
-OCVWarp
 OWASP Threat Dragon
+PacketSender
+Padloc
+Painel-Web
+Paletti
+PanWriter
 Panini
 Paper
 Parallelcoin
@@ -516,7 +514,8 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
+UHK.Agent
+UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -705,9 +704,9 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
-onnx2daq
-openblok
-ossia_score
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
