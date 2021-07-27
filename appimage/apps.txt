@@ -147,7 +147,7 @@ Endless_Sky
 EnvKey
 Eplee
 Eqonomize
-Fraktal
+Etcher
 Franz
 Frappe_Accounting
 FreeCAD2
@@ -508,9 +508,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TweakSophia
-UHK.Agent
-UltraGrid
+TagTime-desktop
+Taskizer
+TeXstudio
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -694,6 +694,7 @@ nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
+puush-qt
 pyappimage
 python2
 python3
