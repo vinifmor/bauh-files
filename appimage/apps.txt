@@ -135,9 +135,8 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
+Figma
+Filmulator
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -314,9 +313,9 @@ Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
-MyPaint
-My_Jira
 OWASP Threat Dragon
+Onenote
+Onshape
 Onyx
 OpenAudible
 OpenBlok
@@ -509,10 +508,10 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Turntable
-Tusk
-TweakSophia
-UHK.Agent
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 UltraGrid
 UltraScreen
 UniShellect
@@ -693,7 +692,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
+nheko
 pomotroid
 pretty-handy-privacy
 privacy.sexy
