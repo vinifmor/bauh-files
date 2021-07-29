@@ -150,8 +150,8 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-Frappe_Accounting
-FreeCAD2
+EverInst
+ExeQt
 FreeTexturePacker
 FreeTube
 Friture
@@ -322,11 +322,12 @@ NanoVault
 Negibox
 Neon
 NepaliUnicode
+Newlogic
+Nexus_Wallet
+Niffler
+Nitrokey
+NixNote
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -511,10 +512,9 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-UltraGrid
-UltraScreen
-UniShellect
-V2Ray-Desktop
+TeXstudio
+TeleDrive
+TeslaCam_Browser
 VK_Desktop
 VLC
 VNote
@@ -691,9 +691,8 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
-pomotroid
-pretty-handy-privacy
+nheko
+nimbus-weather
 privacy.sexy
 protonmail-desktop
 puush-qt
