@@ -133,8 +133,7 @@ Downline
 Dragoman
 Drill
 Dust3D
-FastQt
-Ferdi
+Dwyco_Phoo
 Fidias_Database_Migration_App
 Figma
 Filmulator
@@ -310,8 +309,8 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
+Museeks
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -502,7 +501,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -684,7 +682,7 @@ moolticute
 movie-monad
 mtCellEdit
 mutool
-my-budget
+pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
