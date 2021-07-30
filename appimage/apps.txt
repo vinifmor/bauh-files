@@ -145,8 +145,9 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-FontLet
-Fractale
+EnvKey
+Eplee
+Eqonomize
 Fraidycat
 Fraktal
 Franz
@@ -321,10 +322,10 @@ NMEASimulator
 NanoVault
 Negibox
 Neon
+NepaliUnicode
+Newlogic
+Nexus_Wallet
 OWASP Threat Dragon
-Outline-Manager
-P2PDerivatives
-PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -697,8 +698,9 @@ nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
-noteshrink-qt
-nx-software-center
+protonmail-desktop
+puush-qt
+pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
