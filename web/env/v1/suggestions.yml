@@ -317,3 +317,11 @@ disneyplus:
   category: Video
   options: [max, widevine]
   priority: 3
+
+notion:
+  name: Notion
+  url: https://www.notion.so
+  save_icon: false
+  category: Network
+  options: [tray_min]
+  priority: 2
