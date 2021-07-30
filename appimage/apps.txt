@@ -133,7 +133,7 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
+Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
@@ -307,10 +307,10 @@ Mob
 Mockman
 Moonlight
 Motrix
-OSRS_Tools
-OVis
+Mr.Dclutterer
+MuPDF
+Museeks
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -497,10 +497,10 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-Translatium
-TreeSheets
-Trezor_Suite
-Trinity_Desktop
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -679,11 +679,10 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-mtCellEdit
-mutool
-my-budget
-mybelka
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
