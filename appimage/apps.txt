@@ -133,6 +133,7 @@ Downline
 Dragoman
 Drill
 Dust3D
+FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
@@ -500,7 +501,7 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
+Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -679,12 +680,13 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
-pkg2appimage
-playyourdamnturn.com
+movie-monad
+mtCellEdit
+mutool
+my-budget
+mybelka
+n3h
+nRF_Connect
 plotjuggler
 pnpm
 polar-bookshelf
