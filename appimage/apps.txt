@@ -161,8 +161,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Ferdi
 FreeTube
+GVim
+GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
@@ -332,11 +333,12 @@ Nostlan
 Notable
 NoteMaster
 OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
 OWASP Threat Dragon
+PanWriter
+Panini
+Paper
+Parallelcoin
+Parity_Fether
 Passky
 Patchwork
 Pathephone
@@ -522,6 +524,7 @@ Thorium_Reader
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
+Verto
 Vessel
 VidCutter
 Videomass
@@ -709,6 +712,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
+quokkagit
 rasterview
 ridereceipts
 runanode
