@@ -147,13 +147,12 @@ EncryptPad
 Endless_Sky
 EnvKey
 Eplee
-Eqonomize
-Etcher
-Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
-Explorook
+Fraidycat
+Fraktal
+Franz
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -327,11 +326,9 @@ Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
-NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -703,9 +700,9 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-onnx2bnn
-onnx2daq
-openblok
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
