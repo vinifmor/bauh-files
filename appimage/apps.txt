@@ -158,11 +158,11 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
+FastQt
+Ferdi
 FreeTube
-GM-Companion
-GSequencer
-GVim
-GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
@@ -336,8 +336,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
 OWASP Threat Dragon
+Parity_Fether
+Passky
 Patchwork
 Pathephone
 PatternPaint
@@ -515,7 +516,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
+UniShellect
+V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
@@ -706,11 +708,11 @@ openblok
 ossia_score
 osu
 p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
-pdf-sync
-perl-executing-browser
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
 runanode
 sabaki
 saphyr
