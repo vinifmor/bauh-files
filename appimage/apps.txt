@@ -159,10 +159,9 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
-Ferdi
 FreeTube
+GSequencer
+GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
@@ -328,13 +327,11 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
-NoTer
-Nostlan
-Notable
-NoteMaster
-OCRmyPDF
-OCVWarp
 OWASP Threat Dragon
+Padloc
+Painel-Web
+Paletti
+PanWriter
 Panini
 Paper
 Parallelcoin
@@ -519,7 +516,6 @@ TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
-VK_Desktop
 VLC
 VNote
 VPaint
@@ -710,9 +706,8 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-qpp::cad
-qr-code-generator-desktop
-quokkagit
+patchbay
+pb-for-desktop
 rasterview
 ridereceipts
 runanode
