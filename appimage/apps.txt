@@ -151,6 +151,7 @@ Eqonomize
 Etcher
 Eternal-Lands
 EverInst
+ExeQt
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -324,9 +325,10 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
+Niffler
+Nitrokey
+NixNote
 OWASP Threat Dragon
-PIA
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -514,8 +516,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UniShellect
-V2Ray-Desktop
+TeslaCam_Browser
+Tesseract
 VK_Desktop
 VLC
 VNote
@@ -705,7 +707,7 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
