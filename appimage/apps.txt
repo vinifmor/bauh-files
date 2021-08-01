@@ -149,8 +149,8 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Franz
-Frappe_Accounting
+Eternal-Lands
+EverInst
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -324,12 +324,11 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
-Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
 OWASP Threat Dragon
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -515,6 +514,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
@@ -700,10 +700,12 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
+onnx2bnn
+onnx2daq
+openblok
+ossia_score
+osu
+p2p-chat
 qpdf
 qpp::cad
 qr-code-generator-desktop
