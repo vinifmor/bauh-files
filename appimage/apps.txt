@@ -149,9 +149,7 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Fraidycat
-Fraktal
-Franz
+Eternal-Lands
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
@@ -327,7 +325,6 @@ NepaliUnicode
 Newlogic
 Nexus_Wallet
 OWASP Threat Dragon
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -512,9 +509,8 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
+TweakSophia
+UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
@@ -703,8 +699,7 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-python3
-qBittorrent_Enhanced_Edition
+onnx2bnn
 qSdrSwr
 qTox
 qikQR
