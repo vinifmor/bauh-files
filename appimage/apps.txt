@@ -151,7 +151,8 @@ Eqonomize
 Etcher
 Eternal-Lands
 EverInst
-ExeQt
+Franz
+Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -328,9 +329,10 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
+NoTer
+Nostlan
+Notable
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -516,8 +518,10 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
+UltraGrid
+UltraScreen
+UniShellect
+V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
@@ -702,11 +706,11 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-onnx2bnn
-onnx2daq
-openblok
-ossia_score
-osu
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
