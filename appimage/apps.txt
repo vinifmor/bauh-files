@@ -121,8 +121,8 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Eternal-Lands
-EverInst
+Deployer
+Detect_It_Easy
 ExeQt
 Eximchain_Wallet
 Explorook
@@ -306,7 +306,6 @@ MoarPerf
 Mob
 Mockman
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -487,10 +486,9 @@ Stele
 Stellarium
 StockStalk
 StopLight
-TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
+Storaji
+Strata
+Streamlink
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
@@ -669,8 +667,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ommpfritt
-onnx2bnn
+marlin-conf
+mdview
 onnx2daq
 openblok
 ossia_score
