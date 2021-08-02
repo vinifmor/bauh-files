@@ -305,8 +305,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
+OCVvid2fulldome
+ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -677,9 +677,9 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
-movie-monad
-mtCellEdit
+pdf-sync
+perl-executing-browser
+photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
