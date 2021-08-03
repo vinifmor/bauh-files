@@ -130,9 +130,8 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
-Dragoman
-Drill
-Dust3D
+FF-Password-Exporter
+FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
@@ -307,10 +306,9 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -503,7 +501,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -683,10 +680,9 @@ mki3dgame
 moniteur-admin
 moolticute
 movie-monad
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+mtCellEdit
+mutool
+my-budget
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
