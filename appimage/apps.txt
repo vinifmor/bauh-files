@@ -135,11 +135,9 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
-ElectroCRUD
+Filmulator
+Firefox_Beta
+Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -316,7 +314,6 @@ Musicalypse
 MyCrypto
 MyPaint
 My_Jira
-NCSA_Mosaic
 OWASP Threat Dragon
 OpenBlok
 OpenTodoList
@@ -506,9 +503,9 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tumblr_Scraper
-Turntable
-Tusk
+Synthein
+T.Viewer
+Tablo_Tools
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -689,10 +686,9 @@ mybelka
 n3h
 nRF_Connect
 neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
