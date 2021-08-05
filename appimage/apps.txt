@@ -149,6 +149,7 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
+Fraktal
 Franz
 Frappe_Accounting
 FreeCAD2
@@ -324,9 +325,8 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
-Niffler
-Nitrokey
 OWASP Threat Dragon
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -700,9 +700,9 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-onnx2bnn
-onnx2daq
-openblok
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
