@@ -148,7 +148,7 @@ Endless_Sky
 EnvKey
 Eplee
 Eqonomize
-Etcher
+Fraidycat
 Fraktal
 Franz
 Frappe_Accounting
@@ -322,10 +322,11 @@ NMEASimulator
 NanoVault
 Negibox
 Neon
-NepaliUnicode
-Newlogic
-Nexus_Wallet
 OWASP Threat Dragon
+Outline-Manager
+P2PDerivatives
+PDFQuirk
+PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -514,6 +515,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -700,6 +702,7 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
