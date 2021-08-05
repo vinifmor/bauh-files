@@ -130,6 +130,7 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
+Dragoman
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -310,9 +311,9 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
+Music_Blocks
+Musicalypse
 OWASP Threat Dragon
-OWallet
-Obsidian
 Olive
 Onenote
 Onshape
@@ -504,6 +505,7 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
+Syncplay
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -687,6 +689,7 @@ mutool
 my-budget
 mybelka
 n3h
+nRF_Connect
 playyourdamnturn.com
 plotjuggler
 pnpm
