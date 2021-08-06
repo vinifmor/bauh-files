@@ -133,10 +133,12 @@ Downline
 Dragoman
 Drill
 Dust3D
-Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+Eksplode.re
+ElDumper
+Electorrent
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -307,7 +309,7 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-OVis
+MuPDF
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -499,11 +501,11 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Trezor_Suite
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
 Tusk
@@ -675,7 +677,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-parsec-linux-appimage
+mjml-app
 patchbay
 pb-for-desktop
 pdf-sync
