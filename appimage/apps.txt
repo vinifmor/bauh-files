@@ -153,13 +153,12 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
-FreeCAD2
-FreeTexturePacker
+Explorook
+Exportoo
+EyeStalker
+F-CRM
+FAT_Wallet
 FreeTube
-Friture
-FromScratch
-GDevelop
-GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -324,9 +323,8 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
+Nexus_Wallet
 OWASP Threat Dragon
-P2PDerivatives
-PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -516,8 +514,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UltraGrid
-UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -704,11 +700,11 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+onnx2bnn
+onnx2daq
+openblok
+ossia_score
+osu
 qikQR
 qpdf
 qpp::cad
