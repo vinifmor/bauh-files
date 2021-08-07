@@ -151,8 +151,9 @@ Eqonomize
 Etcher
 Eternal-Lands
 EverInst
-ExeQt
-Eximchain_Wallet
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -322,8 +323,9 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
+Nexus_Wallet
+Niffler
 OWASP Threat Dragon
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -512,7 +514,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UniShellect
+TeslaCam_Browser
 V2Ray-Desktop
 VK_Desktop
 VLC
@@ -698,10 +700,10 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-onnx2bnn
-onnx2daq
-openblok
-ossia_score
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
