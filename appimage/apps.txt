@@ -153,12 +153,11 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
-Explorook
-Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
 FreeTube
+Friture
+FromScratch
+GDevelop
+GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -323,7 +322,6 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
-Nexus_Wallet
 OWASP Threat Dragon
 PIA
 POE_Ladder
@@ -704,7 +702,6 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-osu
 qikQR
 qpdf
 qpp::cad
