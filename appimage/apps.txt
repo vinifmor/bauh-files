@@ -164,8 +164,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
+Galacteek
+GameHub
+Ganache
 Genesis
 Geometrize
 GetThermal
@@ -326,9 +328,9 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
-NoTer
-Nostlan
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -518,10 +520,11 @@ TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
-VPaint
-VeChain
-Verto
-Vessel
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
+TilingGenerator
 VidCutter
 Videomass
 Vieb
@@ -705,10 +708,12 @@ openblok
 ossia_score
 osu
 p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
-pdf-sync
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
 ridereceipts
 runanode
 sabaki
