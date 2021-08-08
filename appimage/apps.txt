@@ -160,9 +160,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
 FreeTube
+GSequencer
+GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
@@ -325,12 +325,10 @@ NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -518,12 +516,12 @@ TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
+VK_Desktop
+VLC
+VNote
+VPaint
+VeChain
+Verto
 Vessel
 VidCutter
 Videomass
