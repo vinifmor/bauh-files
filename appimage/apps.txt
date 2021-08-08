@@ -160,9 +160,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
 FreeTube
+GSequencer
+GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
@@ -326,9 +326,11 @@ Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
+NixNote
+NoTer
+Nostlan
+Notable
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -521,8 +523,9 @@ Thorium_Reader
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
-Tiled
-TilingGenerator
+Verto
+Vessel
+VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -708,9 +711,9 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
+quokkagit
+rasterview
+ridereceipts
 runanode
 sabaki
 saphyr
