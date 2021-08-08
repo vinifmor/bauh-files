@@ -153,8 +153,8 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
+Explorook
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -325,8 +325,8 @@ Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
-NixNote
 OWASP Threat Dragon
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -516,8 +516,8 @@ TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
-Thorium_Reader
-Thunderbird
+VNote
+VPaint
 VeChain
 Verto
 Vessel
@@ -702,13 +702,13 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
-pdf-sync
-perl-executing-browser
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
 runanode
 sabaki
 saphyr
