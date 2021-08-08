@@ -322,9 +322,8 @@ NanoVault
 Negibox
 Neon
 NepaliUnicode
-Newlogic
-Nexus_Wallet
 OWASP Threat Dragon
+PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -514,8 +513,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UltraScreen
-UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
@@ -701,7 +698,6 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
-onnx2bnn
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
