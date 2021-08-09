@@ -149,10 +149,11 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Franz
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
+Eternal-Lands
+EverInst
+ExeQt
+Eximchain_Wallet
+Explorook
 FreeTube
 Friture
 FromScratch
@@ -317,12 +318,13 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-NanoVault
-Negibox
-Neon
-NepaliUnicode
-Newlogic
 OWASP Threat Dragon
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
+Outline-Manager
+P2PDerivatives
+PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -511,7 +513,8 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
+UltraGrid
+UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -695,7 +698,8 @@ nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
-pyappimage
+nx-software-center
+nxshell
 python2
 python3
 qBittorrent_Enhanced_Edition
