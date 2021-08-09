@@ -153,7 +153,6 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
-Explorook
 FreeTube
 Friture
 FromScratch
@@ -323,8 +322,8 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
+Nexus_Wallet
 OWASP Threat Dragon
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -513,11 +512,10 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UniShellect
-V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
+TeslaCam_Browser
+Tesseract
+ThermusQt
+Thorium_Reader
 VPaint
 VeChain
 Verto
@@ -700,9 +698,8 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
-onnx2daq
-openblok
-ossia_score
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
