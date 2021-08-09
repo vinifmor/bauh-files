@@ -150,9 +150,10 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
+Franz
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -323,8 +324,8 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
+Niffler
 OWASP Threat Dragon
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -512,10 +513,11 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
+UniShellect
+V2Ray-Desktop
+VK_Desktop
+VLC
+VNote
 VPaint
 VeChain
 Verto
@@ -698,6 +700,7 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
+onnx2daq
 qSdrSwr
 qTox
 qikQR
