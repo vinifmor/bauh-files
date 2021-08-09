@@ -132,13 +132,11 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
+FastQt
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -306,9 +304,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
+Moonlight
+Motrix
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -502,9 +499,7 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
+Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -683,11 +678,10 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-pdf-sync
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+movie-monad
+mtCellEdit
+mutool
+my-budget
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
