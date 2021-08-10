@@ -129,7 +129,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
@@ -305,7 +304,6 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -497,10 +495,10 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Todoist
-Tonuino_Toolbox
-Translatium
-TreeSheets
+Summoners.War.Exporter
+Sup
+Superpaper
+SwagLyrics
 Trezor_Suite
 Trinity_Desktop
 Tropy
@@ -685,8 +683,8 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pingviewer
-pkg2appimage
+mybelka
+n3h
 playyourdamnturn.com
 plotjuggler
 pnpm
