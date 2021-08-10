@@ -302,8 +302,8 @@ Mini_Diary
 Minions
 Mirage
 MoarPerf
-OCRmyPDF
-OCVWarp
+Mob
+Mockman
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -496,6 +496,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
@@ -674,9 +675,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
-mki3dgame
+p2p-chat
+parsec-linux-appimage
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
@@ -706,6 +707,7 @@ qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
+rmw
 runanode
 sabaki
 saphyr
