@@ -135,6 +135,8 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
+Fidias_Database_Migration_App
+Figma
 Filmulator
 Firefox_Beta
 Firefox_ESR
@@ -303,14 +305,15 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
-OVis
+Moonlight
+Motrix
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
 Onenote
 Onshape
 Onyx
@@ -501,9 +504,11 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-Turntable
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 Tusk
 TweakSophia
 UHK.Agent
@@ -684,7 +689,9 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-pnpm
+neovim
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
