@@ -129,7 +129,7 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-FAT_Wallet
+Downline
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -305,8 +305,8 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-ONLYOFFICE
-OSRS_Tools
+Motrix
+Mr.Dclutterer
 OVis
 OWASP Threat Dragon
 OWallet
@@ -496,7 +496,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-Superpaper
+Translatium
 TreeSheets
 Trezor_Suite
 Trinity_Desktop
@@ -680,10 +680,9 @@ moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
-mutool
-my-budget
-mybelka
-n3h
+pigs-n-cows
+pingviewer
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
