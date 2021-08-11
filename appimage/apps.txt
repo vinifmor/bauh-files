@@ -129,7 +129,8 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-FAT_Wallet
+Downline
+Dragoman
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -308,10 +309,11 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
 Onenote
 Onshape
 Onyx
@@ -499,9 +501,11 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-Trinity_Desktop
-Tropy
-Tulip
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
@@ -685,9 +689,10 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-plotjuggler
-pnpm
-polar-bookshelf
+neovim
+ngPost
+ngrev
+nheko
 pomotroid
 pretty-handy-privacy
 privacy.sexy
