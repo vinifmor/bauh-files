@@ -139,10 +139,10 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
-Elements
-Elphyre-WalletShell
-Emacs
+Firefox_ESR
+Firefox_Nightly
+Flippy_Qualitative_Testbench
+Fluent_Reader
 FocusWriter
 FontForge
 FontLet
@@ -314,10 +314,10 @@ Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
-My_Jira
-NCSA_Mosaic
-NMEASimulator
 OWASP Threat Dragon
+Onyx
+OpenAudible
+OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
@@ -508,10 +508,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-Tusk
-TweakSophia
-UHK.Agent
-UltraGrid
+TagTime-desktop
+Taskizer
+TeXstudio
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -692,8 +691,8 @@ neovim
 ngPost
 ngrev
 nheko
-pretty-handy-privacy
-privacy.sexy
+nimbus-weather
+nordvpn-linux
 protonmail-desktop
 puush-qt
 pyappimage
