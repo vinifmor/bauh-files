@@ -127,7 +127,8 @@ DevHub
 Diffuse
 Disass
 Discord
-DockStation
+Exportoo
+EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
@@ -304,8 +305,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVvid2fulldome
-OCVvid2fulldome.txt
+Moonlight
+Motrix
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -495,12 +496,12 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Summoners.War.Exporter
-Sup
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
+Todoist
+Tonuino_Toolbox
+Translatium
+TreeSheets
+Trezor_Suite
+Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -678,6 +679,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+moolticute
 pdf-sync
 perl-executing-browser
 photoname
