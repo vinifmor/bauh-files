@@ -136,10 +136,10 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
-ElectroCRUD
+Figma
+Filmulator
+Firefox_Beta
+Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -306,10 +306,10 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -509,6 +509,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -688,12 +689,13 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
-nordvpn-linux
+playyourdamnturn.com
+plotjuggler
+pnpm
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
