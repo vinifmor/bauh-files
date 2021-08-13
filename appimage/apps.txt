@@ -149,14 +149,13 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Fraktal
-Franz
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
+Eternal-Lands
+EverInst
+ExeQt
+Eximchain_Wallet
+Explorook
+Exportoo
 FreeTube
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -325,9 +324,9 @@ NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
+Nitrokey
+NixNote
 OWASP Threat Dragon
-POE_Ladder
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -515,9 +514,8 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-V2Ray-Desktop
-VK_Desktop
-VLC
+Tesseract
+ThermusQt
 VNote
 VPaint
 VeChain
@@ -703,8 +701,6 @@ ommpfritt
 onnx2bnn
 onnx2daq
 openblok
-ossia_score
-osu
 qikQR
 qpdf
 qpp::cad
