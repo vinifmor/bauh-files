@@ -156,6 +156,7 @@ Eximchain_Wallet
 Explorook
 Exportoo
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -327,6 +328,9 @@ Niffler
 Nitrokey
 NixNote
 OWASP Threat Dragon
+PIA
+POE_Ladder
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -516,6 +520,10 @@ TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
+UniShellect
+V2Ray-Desktop
+VK_Desktop
+VLC
 VNote
 VPaint
 VeChain
@@ -701,9 +709,10 @@ ommpfritt
 onnx2bnn
 onnx2daq
 openblok
-qikQR
-qpdf
-qpp::cad
+ossia_score
+osu
+p2p-chat
+parsec-linux-appimage
 qr-code-generator-desktop
 quokkagit
 rasterview
