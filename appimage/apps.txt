@@ -139,7 +139,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -310,12 +310,12 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
-OVis
+Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
+MyPaint
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
-Onenote
 Onshape
 Onyx
 OpenAudible
@@ -507,9 +507,9 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-Turntable
+Synthein
+T.Viewer
+Tablo_Tools
 Tusk
 TweakSophia
 UHK.Agent
@@ -694,9 +694,9 @@ neovim
 ngPost
 ngrev
 nheko
-pomotroid
-pretty-handy-privacy
-privacy.sexy
+nimbus-weather
+nordvpn-linux
+notepadqq
 protonmail-desktop
 puush-qt
 pyappimage
