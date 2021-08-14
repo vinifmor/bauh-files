@@ -161,6 +161,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FreeTube
+GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
@@ -323,13 +324,11 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
-Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -516,13 +515,14 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
+V2Ray-Desktop
+VK_Desktop
+VLC
+VNote
+VPaint
+VeChain
+Verto
+Vessel
 VidCutter
 Videomass
 Vieb
