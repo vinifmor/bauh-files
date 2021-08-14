@@ -154,9 +154,9 @@ EverInst
 ExeQt
 Eximchain_Wallet
 Explorook
-Exportoo
-EyeStalker
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -324,9 +324,9 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
-Niffler
-Nitrokey
 OWASP Threat Dragon
+PIA
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -515,12 +515,12 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
+V2Ray-Desktop
+VK_Desktop
+VLC
+VNote
+VPaint
+VeChain
 Verto
 Vessel
 VidCutter
