@@ -165,11 +165,10 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Beta
+Firefox_ESR
+Firefox_Nightly
 FreeTube
-Ganache
-Genesis
-Geometrize
-GetThermal
 Gifcurry
 Gigantum
 Gingko
@@ -335,10 +334,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
-Parallelcoin
-Parity_Fether
-Passky
 Patchwork
 Pathephone
 PatternPaint
@@ -524,10 +523,9 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-Vessel
-VidCutter
-Videomass
-Vieb
+TilingGenerator
+Todoist
+Tonuino_Toolbox
 Viper_Browser
 Vipster
 VirtScreen
@@ -715,10 +713,9 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-runanode
-sabaki
-saphyr
-scavengers
+pingviewer
+pkg2appimage
+playyourdamnturn.com
 school-sections
 ser-player
 simple-s3-uploader
