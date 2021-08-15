@@ -160,10 +160,10 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FastQt
+Ferdi
+Fidias_Database_Migration_App
 FreeTube
-GSequencer
-GVim
-GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Ganache
@@ -326,9 +326,10 @@ Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
+NixNote
+NoTer
+Nostlan
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -519,11 +520,10 @@ Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
-VPaint
-VeChain
-Verto
-Vessel
-VidCutter
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
+TilingGenerator
 Videomass
 Vieb
 Viper_Browser
