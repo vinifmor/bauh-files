@@ -160,12 +160,12 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
 FreeTube
+GVim
+GXC_Smart_Contract_IDE
+Galacteek
+GameHub
+Ganache
 Genesis
 Geometrize
 GetThermal
@@ -331,10 +331,9 @@ Nostlan
 Notable
 NoteMaster
 OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
 OWASP Threat Dragon
+Panini
+Paper
 Parallelcoin
 Parity_Fether
 Passky
@@ -523,7 +522,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-TilingGenerator
+VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -714,7 +713,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-sabaki
 saphyr
 scavengers
 school-sections
