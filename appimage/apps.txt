@@ -160,13 +160,13 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FastQt
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
+Firefox_Beta
 FreeTube
-GVim
-GXC_Smart_Contract_IDE
-Galacteek
-GameHub
-Ganache
-Genesis
 Geometrize
 GetThermal
 Gifcurry
@@ -329,9 +329,10 @@ NixNote
 NoTer
 Nostlan
 Notable
-NoteMaster
-OCRmyPDF
 OWASP Threat Dragon
+Painel-Web
+Paletti
+PanWriter
 Panini
 Paper
 Parallelcoin
@@ -522,6 +523,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
+TilingGenerator
 VidCutter
 Videomass
 Vieb
@@ -710,9 +712,10 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+ridereceipts
+rmw
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
