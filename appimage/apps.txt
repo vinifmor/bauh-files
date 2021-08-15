@@ -164,8 +164,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Filmulator
 FreeTube
-GameHub
 Ganache
 Genesis
 Geometrize
@@ -333,8 +333,9 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
 OWASP Threat Dragon
-Paper
 Parallelcoin
 Parity_Fether
 Passky
@@ -520,8 +521,9 @@ Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
-VeChain
-Verto
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
 Vessel
 VidCutter
 Videomass
@@ -713,7 +715,8 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-pingviewer
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
