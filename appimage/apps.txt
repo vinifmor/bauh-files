@@ -162,11 +162,11 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
-Firefox_Beta
 FreeTube
+Galacteek
+GameHub
+Ganache
+Genesis
 Geometrize
 GetThermal
 Gifcurry
@@ -328,7 +328,6 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
-Notable
 OWASP Threat Dragon
 Painel-Web
 Paletti
@@ -516,14 +515,13 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
-TilingGenerator
+VK_Desktop
+VLC
+VNote
+VPaint
+VeChain
+Verto
+Vessel
 VidCutter
 Videomass
 Vieb
@@ -712,7 +710,6 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-ridereceipts
 rmw
 runanode
 sabaki
