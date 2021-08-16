@@ -148,7 +148,8 @@ Endless_Sky
 EnvKey
 Eplee
 Eqonomize
-Fraktal
+Etcher
+Eternal-Lands
 Franz
 Frappe_Accounting
 FreeCAD2
@@ -317,14 +318,15 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
+NanoVault
+Negibox
+Neon
+NepaliUnicode
+Newlogic
+Nexus_Wallet
+Niffler
+Nitrokey
 OWASP Threat Dragon
-OpenTodoList
-Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
-PDFQuirk
-PIA
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -512,8 +514,9 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-V2Ray-Desktop
-VK_Desktop
+TeslaCam_Browser
+Tesseract
+ThermusQt
 VLC
 VNote
 VPaint
@@ -699,8 +702,10 @@ nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
-qTox
-qikQR
+openblok
+ossia_score
+osu
+p2p-chat
 qpdf
 qpp::cad
 qr-code-generator-desktop
