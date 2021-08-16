@@ -120,10 +120,11 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 Explorook
 Exportoo
 EyeStalker
@@ -299,9 +300,9 @@ MineTime
 Minetest
 Mini_Diary
 Minions
-Notable
-NoteMaster
-OCRmyPDF
+Mirage
+MoarPerf
+Mob
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -494,7 +495,7 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
+Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
