@@ -135,10 +135,8 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
+Figma
+Filmulator
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -306,10 +304,9 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
+Moonlight
+Motrix
+Mr.Dclutterer
 OVis
 OWASP Threat Dragon
 OWallet
@@ -506,8 +503,7 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Tropy
-Tulip
+Syncplay
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
@@ -686,9 +682,11 @@ moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
-pigs-n-cows
-pingviewer
-pkg2appimage
+mutool
+my-budget
+mybelka
+n3h
+nRF_Connect
 playyourdamnturn.com
 plotjuggler
 pnpm
