@@ -320,12 +320,12 @@ NCSA_Mosaic
 NMEASimulator
 NanoVault
 Negibox
+Neon
+NepaliUnicode
+Newlogic
+Nexus_Wallet
+Niffler
 OWASP Threat Dragon
-Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
-PDFQuirk
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -515,8 +515,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UniShellect
-V2Ray-Desktop
+TeslaCam_Browser
+Tesseract
 VK_Desktop
 VLC
 VNote
@@ -694,10 +694,10 @@ neovim
 ngPost
 ngrev
 nheko
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
 puush-qt
 pyappimage
 python2
