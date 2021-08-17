@@ -133,13 +133,11 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
-ElectroCRUD
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -308,10 +306,10 @@ Mob
 Mockman
 Moonlight
 Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -510,8 +508,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -692,7 +689,7 @@ n3h
 nRF_Connect
 neovim
 ngPost
-ngrev
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
