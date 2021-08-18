@@ -318,8 +318,8 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NanoVault
-Negibox
 OWASP Threat Dragon
+Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
@@ -509,7 +509,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TweakSophia
+TagTime-desktop
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -691,11 +691,11 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
-puush-qt
+nheko
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
 pyappimage
 python2
 python3
