@@ -133,12 +133,12 @@ Downline
 Dragoman
 Drill
 Dust3D
-FastQt
-Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
-Firefox_Beta
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+Eksplode.re
+ElDumper
+Electorrent
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -309,7 +309,7 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
-OVis
+Museeks
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -505,7 +505,8 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
+Tropy
+Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 Turntable
@@ -690,7 +691,8 @@ mybelka
 n3h
 nRF_Connect
 neovim
-pnpm
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
