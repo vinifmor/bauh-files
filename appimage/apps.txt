@@ -134,11 +134,11 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -305,11 +305,11 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -503,8 +503,7 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
+Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -691,8 +690,8 @@ mybelka
 n3h
 nRF_Connect
 neovim
-ngPost
-ngrev
+plotjuggler
+pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
