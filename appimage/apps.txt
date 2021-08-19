@@ -124,7 +124,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Eximchain_Wallet
+Diffuse
 Explorook
 Exportoo
 EyeStalker
@@ -299,11 +299,11 @@ Mindmapp
 MineTime
 Minetest
 Mini_Diary
-Nostlan
-Notable
-NoteMaster
-OCRmyPDF
-OCVWarp
+Minions
+Mirage
+MoarPerf
+Mob
+Mockman
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -496,7 +496,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Todoist
+Summoners.War.Exporter
 Tonuino_Toolbox
 Translatium
 TreeSheets
