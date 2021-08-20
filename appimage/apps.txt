@@ -143,8 +143,9 @@ ElectroCRUD
 Elements
 Elphyre-WalletShell
 Emacs
-FocusWriter
-FontForge
+EncryptPad
+Endless_Sky
+EnvKey
 FontLet
 Fractale
 Fraidycat
@@ -309,13 +310,14 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OWASP Threat Dragon
-Obsidian
-Olive
-Onenote
-Onshape
-Onyx
-OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
@@ -510,6 +512,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
 UltraGrid
 UltraScreen
 UniShellect
@@ -697,8 +700,9 @@ notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
-python3
-qBittorrent_Enhanced_Edition
+ommpfritt
+onnx2bnn
+onnx2daq
 qSdrSwr
 qTox
 qikQR
