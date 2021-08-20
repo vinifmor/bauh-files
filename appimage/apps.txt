@@ -132,7 +132,7 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-FastQt
+Dust3D
 Ferdi
 Fidias_Database_Migration_App
 Figma
@@ -498,9 +498,11 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
-Trezor_Suite
-Trinity_Desktop
-Tropy
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -684,7 +686,8 @@ mutool
 my-budget
 mybelka
 n3h
-playyourdamnturn.com
+nRF_Connect
+neovim
 plotjuggler
 pnpm
 polar-bookshelf
