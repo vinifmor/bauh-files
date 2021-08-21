@@ -158,13 +158,13 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
+FastQt
+Ferdi
+Fidias_Database_Migration_App
+Figma
 FreeTube
-GL_warp2mp4
-GM-Companion
-GSequencer
-GVim
-GXC_Smart_Contract_IDE
-Galacteek
 GameHub
 Genesis
 Geometrize
@@ -328,6 +328,7 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
+Notable
 OWASP Threat Dragon
 Painel-Web
 Paletti
@@ -523,7 +524,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-Vessel
+TilingGenerator
 VidCutter
 Videomass
 Vieb
@@ -712,9 +713,9 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-ridereceipts
-rmw
-runanode
+photoname
+pigs-n-cows
+pingviewer
 sabaki
 saphyr
 scavengers
