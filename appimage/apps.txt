@@ -164,8 +164,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Filmulator
 FreeTube
-GameHub
 Genesis
 Geometrize
 GetThermal
@@ -326,10 +326,9 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -525,7 +524,6 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
-VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -714,8 +712,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-pigs-n-cows
-pingviewer
+rmw
+runanode
 sabaki
 saphyr
 scavengers
