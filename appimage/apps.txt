@@ -159,11 +159,11 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
-Ferdi
-Fidias_Database_Migration_App
 FreeTube
+GM-Companion
+GSequencer
+GVim
+GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
@@ -323,8 +323,8 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
+Niffler
 OWASP Threat Dragon
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -517,8 +517,8 @@ TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
-Thorium_Reader
-Thunderbird
+VLC
+VNote
 VPaint
 VeChain
 Verto
@@ -709,9 +709,9 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-quokkagit
-rasterview
-ridereceipts
+pdf-sync
+perl-executing-browser
+photoname
 rmw
 runanode
 sabaki
