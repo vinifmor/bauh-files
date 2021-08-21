@@ -162,10 +162,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
 FreeTube
+GXC_Smart_Contract_IDE
+Galacteek
+GameHub
 Genesis
 Geometrize
 GetThermal
@@ -326,10 +326,11 @@ Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
+NoTer
+Nostlan
+Notable
+NoteMaster
 OWASP Threat Dragon
-PacketSender
-Padloc
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -524,6 +525,7 @@ Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
+VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -711,7 +713,7 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
+ridereceipts
 rmw
 runanode
 sabaki
