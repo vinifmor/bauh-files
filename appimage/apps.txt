@@ -150,9 +150,9 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -322,7 +322,6 @@ Neon
 NepaliUnicode
 Newlogic
 OWASP Threat Dragon
-PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -513,8 +512,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UniShellect
-V2Ray-Desktop
+TeslaCam_Browser
 VK_Desktop
 VLC
 VNote
@@ -700,9 +698,8 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
-onnx2daq
-openblok
-ossia_score
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
