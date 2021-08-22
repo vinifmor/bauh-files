@@ -153,13 +153,14 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
+Explorook
+Exportoo
+EyeStalker
+F-CRM
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 FreeTube
-Friture
-FromScratch
-GDevelop
-GIMP
-GL_warp2mp4
-GM-Companion
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
@@ -322,12 +323,11 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
-Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
 OWASP Threat Dragon
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -515,6 +515,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 VK_Desktop
 VLC
 VNote
@@ -705,8 +706,9 @@ openblok
 ossia_score
 osu
 p2p-chat
-qpp::cad
-qr-code-generator-desktop
+parsec-linux-appimage
+patchbay
+pb-for-desktop
 quokkagit
 rasterview
 ridereceipts
