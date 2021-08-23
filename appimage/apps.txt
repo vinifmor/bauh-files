@@ -149,11 +149,11 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Fraktal
-Franz
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
+Eternal-Lands
+EverInst
+ExeQt
+Eximchain_Wallet
+Explorook
 FreeTube
 Friture
 FromScratch
@@ -321,10 +321,10 @@ NanoVault
 Negibox
 Neon
 NepaliUnicode
+Newlogic
+Nexus_Wallet
+Niffler
 OWASP Threat Dragon
-P2PDerivatives
-PDFQuirk
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -514,9 +514,9 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
-ThermusQt
+UniShellect
+V2Ray-Desktop
+VK_Desktop
 VLC
 VNote
 VPaint
@@ -703,8 +703,9 @@ ommpfritt
 onnx2bnn
 onnx2daq
 openblok
-qTox
-qikQR
+ossia_score
+osu
+p2p-chat
 qpdf
 qpp::cad
 qr-code-generator-desktop
