@@ -134,7 +134,9 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
+FastQt
+Ferdi
+Fidias_Database_Migration_App
 Figma
 Filmulator
 Firefox_Beta
@@ -303,7 +305,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVvid2fulldome
+Moonlight
+Motrix
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -504,11 +507,12 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tumblr_Scraper
-Turntable
-Tusk
-TweakSophia
-UHK.Agent
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 UltraGrid
 UltraScreen
 UniShellect
@@ -688,6 +692,7 @@ n3h
 nRF_Connect
 neovim
 ngPost
+pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
