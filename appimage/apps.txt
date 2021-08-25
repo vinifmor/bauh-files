@@ -119,12 +119,11 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Eplee
-Eqonomize
-Etcher
-Eternal-Lands
-EverInst
-ExeQt
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
 Eximchain_Wallet
 Explorook
 Exportoo
@@ -304,9 +303,7 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVWarp
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -491,9 +488,8 @@ StopLight
 Storaji
 Strata
 Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
+Thunderbird
+Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
@@ -678,7 +674,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
