@@ -140,12 +140,12 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
-FocusWriter
-FontForge
-FontLet
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+Endless_Sky
+EnvKey
 Fractale
 Fraidycat
 Fraktal
@@ -318,10 +318,10 @@ NCSA_Mosaic
 NMEASimulator
 NanoVault
 Negibox
+Neon
+NepaliUnicode
+Newlogic
 OWASP Threat Dragon
-Outline-Manager
-P2PDerivatives
-PDFQuirk
 PIA
 POE_Ladder
 PacketSender
