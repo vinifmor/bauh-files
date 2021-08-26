@@ -143,8 +143,8 @@ ElectroCRUD
 Elements
 Elphyre-WalletShell
 Emacs
-FocusWriter
-FontForge
+EncryptPad
+Endless_Sky
 FontLet
 Fractale
 Fraidycat
@@ -308,11 +308,11 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
-Onenote
 Onshape
 Onyx
 OpenAudible
@@ -688,9 +688,9 @@ mybelka
 n3h
 nRF_Connect
 neovim
-ngPost
-ngrev
-nheko
+pnpm
+polar-bookshelf
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
