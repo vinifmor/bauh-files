@@ -151,6 +151,7 @@ Eqonomize
 Etcher
 Eternal-Lands
 EverInst
+Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -321,6 +322,7 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
+Nexus_Wallet
 OWASP Threat Dragon
 PIA
 POE_Ladder
@@ -512,9 +514,9 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-UniShellect
-V2Ray-Desktop
-VK_Desktop
+TeslaCam_Browser
+Tesseract
+ThermusQt
 VLC
 VNote
 VPaint
@@ -703,6 +705,7 @@ onnx2daq
 openblok
 ossia_score
 osu
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
