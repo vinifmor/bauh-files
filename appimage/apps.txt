@@ -150,8 +150,7 @@ Eplee
 Eqonomize
 Etcher
 Eternal-Lands
-Franz
-Frappe_Accounting
+EverInst
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -319,11 +318,10 @@ NCSA_Mosaic
 NMEASimulator
 NanoVault
 Negibox
+Neon
+NepaliUnicode
+Newlogic
 OWASP Threat Dragon
-Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
-PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -514,7 +512,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
+UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
@@ -704,7 +702,7 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-qikQR
+osu
 qpdf
 qpp::cad
 qr-code-generator-desktop
