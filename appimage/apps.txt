@@ -160,10 +160,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FastQt
+Ferdi
 FreeTube
-GSequencer
-GVim
-GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
@@ -330,7 +329,6 @@ NoTer
 Nostlan
 Notable
 OWASP Threat Dragon
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -524,8 +522,7 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-Vessel
-VidCutter
+TilingGenerator
 Videomass
 Vieb
 Viper_Browser
@@ -712,10 +709,10 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-rasterview
-ridereceipts
-rmw
-runanode
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 sabaki
 saphyr
 scavengers
