@@ -147,9 +147,9 @@ EncryptPad
 Endless_Sky
 EnvKey
 Eplee
-Eqonomize
-Etcher
-Eternal-Lands
+Fractale
+Fraidycat
+Fraktal
 Franz
 Frappe_Accounting
 FreeCAD2
@@ -320,10 +320,10 @@ NMEASimulator
 NanoVault
 Negibox
 Neon
-NepaliUnicode
-Newlogic
-Nexus_Wallet
 OWASP Threat Dragon
+Outline-Manager
+P2PDerivatives
+PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -705,7 +705,7 @@ onnx2daq
 openblok
 ossia_score
 osu
-qikQR
+p2p-chat
 qpdf
 qpp::cad
 qr-code-generator-desktop
