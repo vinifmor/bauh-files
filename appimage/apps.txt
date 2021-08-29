@@ -149,13 +149,13 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
-Explorook
-Exportoo
+Franz
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -322,12 +322,10 @@ Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
-Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
 OWASP Threat Dragon
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -515,7 +513,6 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
 VK_Desktop
 VLC
 VNote
@@ -705,10 +702,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
+qpdf
+qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
