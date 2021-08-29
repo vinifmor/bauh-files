@@ -153,9 +153,8 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
-Explorook
-Exportoo
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -519,7 +518,6 @@ TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
-VNote
 VPaint
 VeChain
 Verto
@@ -706,10 +704,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
