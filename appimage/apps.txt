@@ -329,8 +329,8 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
+Notable
 OWASP Threat Dragon
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -521,7 +521,7 @@ TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
-VLC
+Thunderbird
 VNote
 VPaint
 VeChain
@@ -713,11 +713,11 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-qr-code-generator-desktop
-quokkagit
-rasterview
-ridereceipts
-rmw
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 runanode
 sabaki
 saphyr
