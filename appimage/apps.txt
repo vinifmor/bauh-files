@@ -149,7 +149,7 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Franz
+Eternal-Lands
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
@@ -319,7 +319,6 @@ NMEASimulator
 NanoVault
 Negibox
 OWASP Threat Dragon
-Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
@@ -703,9 +702,8 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-osu
-p2p-chat
-parsec-linux-appimage
+qikQR
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
