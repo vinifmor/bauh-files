@@ -140,10 +140,11 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
+Firefox_ESR
+Firefox_Nightly
+Flippy_Qualitative_Testbench
+Fluent_Reader
+FocusWriter
 FontForge
 FontLet
 Fractale
@@ -317,6 +318,7 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 OWASP Threat Dragon
+OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
@@ -507,9 +509,9 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Turntable
-Tusk
-TweakSophia
+Tablo_Tools
+TagTime-desktop
+Taskizer
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -696,8 +698,9 @@ nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
-pyappimage
-python2
+nx-software-center
+nxshell
+ommpfritt
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
