@@ -140,11 +140,12 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-Firefox_ESR
-Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
-FocusWriter
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
+Endless_Sky
+EnvKey
 FontForge
 FontLet
 Fractale
@@ -317,9 +318,10 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
-OpenBlok
-OpenTodoList
 Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
@@ -512,7 +514,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-UHK.Agent
+TeXstudio
+TeleDrive
 UltraGrid
 UltraScreen
 UniShellect
@@ -701,6 +704,7 @@ noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
+onnx2bnn
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
