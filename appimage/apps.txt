@@ -152,7 +152,8 @@ Etcher
 Eternal-Lands
 EverInst
 ExeQt
-Eximchain_Wallet
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -324,10 +325,10 @@ Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
-NixNote
-NoTer
-Nostlan
 OWASP Threat Dragon
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -518,8 +519,10 @@ TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
-VPaint
-VeChain
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
 Verto
 Vessel
 VidCutter
@@ -704,7 +707,7 @@ onnx2daq
 openblok
 ossia_score
 osu
-qikQR
+p2p-chat
 qpdf
 qpp::cad
 qr-code-generator-desktop
