@@ -152,8 +152,8 @@ Etcher
 Eternal-Lands
 EverInst
 ExeQt
-FreeCAD2
-FreeTexturePacker
+Eximchain_Wallet
+Explorook
 FreeTube
 Friture
 FromScratch
@@ -326,7 +326,6 @@ Nexus_Wallet
 Niffler
 Nitrokey
 OWASP Threat Dragon
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -516,13 +515,12 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
+V2Ray-Desktop
+VK_Desktop
+VLC
+VNote
+VPaint
+VeChain
 Verto
 Vessel
 VidCutter
@@ -708,8 +706,8 @@ openblok
 ossia_score
 osu
 p2p-chat
-qpdf
-qpp::cad
+parsec-linux-appimage
+patchbay
 qr-code-generator-desktop
 quokkagit
 rasterview
