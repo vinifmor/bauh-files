@@ -127,7 +127,7 @@ DevHub
 Diffuse
 Disass
 Discord
-DockStation
+EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
@@ -303,10 +303,11 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -682,7 +683,6 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
