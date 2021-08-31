@@ -120,12 +120,11 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Eqonomize
-Etcher
-Eternal-Lands
-EverInst
-ExeQt
-Eximchain_Wallet
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 Explorook
 Exportoo
 EyeStalker
@@ -305,7 +304,6 @@ MoarPerf
 Mob
 Mockman
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -496,7 +494,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Todoist
+Summoners.War.Exporter
 Tonuino_Toolbox
 Translatium
 TreeSheets
@@ -681,8 +679,8 @@ mki3dgame
 moniteur-admin
 moolticute
 movie-monad
-mtCellEdit
-mutool
+photoname
+pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
