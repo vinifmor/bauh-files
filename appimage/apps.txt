@@ -140,6 +140,7 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
+Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -306,13 +307,14 @@ Mob
 Mockman
 Moonlight
 Motrix
-OSRS_Tools
-OVis
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
+MyPaint
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
-Onenote
 Onshape
 Onyx
 OpenAudible
@@ -503,10 +505,11 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-Turntable
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 Tusk
 TweakSophia
 UHK.Agent
@@ -690,8 +693,9 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
-pomotroid
+nheko
+nimbus-weather
+nordvpn-linux
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
