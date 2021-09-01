@@ -139,7 +139,6 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -308,10 +307,9 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -511,7 +509,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -689,8 +686,7 @@ mutool
 my-budget
 mybelka
 n3h
-nRF_Connect
-neovim
+playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
