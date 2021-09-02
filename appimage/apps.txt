@@ -136,10 +136,9 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
-ElectroCRUD
+Figma
+Filmulator
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -310,14 +309,14 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
-MyPaint
-My_Jira
-NCSA_Mosaic
-NMEASimulator
 OWASP Threat Dragon
+OWallet
+Obsidian
+Olive
+Onenote
+Onshape
+Onyx
+OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
@@ -510,7 +509,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
