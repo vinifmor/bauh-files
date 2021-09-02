@@ -129,7 +129,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
@@ -304,7 +303,6 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -497,7 +495,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-TilingGenerator
+Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
