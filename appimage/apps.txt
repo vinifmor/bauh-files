@@ -128,10 +128,11 @@ Diffuse
 Disass
 Discord
 DockStation
-F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 FastQt
 Ferdi
 Fidias_Database_Migration_App
@@ -298,8 +299,9 @@ Mindmapp
 MineTime
 Minetest
 Mini_Diary
-Nostlan
-Notable
+Minions
+Mirage
+MoarPerf
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -495,6 +497,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
+Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -680,6 +683,7 @@ mki3dgame
 moniteur-admin
 moolticute
 movie-monad
+perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
