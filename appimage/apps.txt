@@ -145,7 +145,8 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-FontLet
+EnvKey
+Eplee
 Fractale
 Fraidycat
 Fraktal
@@ -313,8 +314,8 @@ Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
+My_Jira
 OWASP Threat Dragon
-Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
@@ -511,7 +512,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-UltraScreen
+TeleDrive
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -692,7 +693,8 @@ ngPost
 ngrev
 nheko
 nimbus-weather
-privacy.sexy
+nordvpn-linux
+notepadqq
 protonmail-desktop
 puush-qt
 pyappimage
