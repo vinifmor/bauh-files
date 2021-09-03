@@ -136,10 +136,8 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
-ElectroCRUD
+Filmulator
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -306,10 +304,10 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
-OVis
+Motrix
+Mr.Dclutterer
+MuPDF
+Museeks
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -510,9 +508,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-Tusk
-TweakSophia
-UHK.Agent
+TagTime-desktop
+Taskizer
+TeXstudio
 UltraGrid
 UltraScreen
 UniShellect
@@ -688,10 +686,11 @@ mtCellEdit
 mutool
 my-budget
 mybelka
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
+n3h
+nRF_Connect
+neovim
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
