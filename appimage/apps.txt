@@ -145,10 +145,9 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-EnvKey
-Eplee
-Eqonomize
-Etcher
+FontLet
+Fractale
+Fraidycat
 Fraktal
 Franz
 Frappe_Accounting
@@ -314,7 +313,6 @@ Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
-My_Jira
 OWASP Threat Dragon
 Onyx
 OpenAudible
@@ -513,7 +511,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -695,16 +692,15 @@ ngPost
 ngrev
 nheko
 nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nx-software-center
-nxshell
-ommpfritt
-onnx2bnn
-onnx2daq
-openblok
-ossia_score
+privacy.sexy
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
