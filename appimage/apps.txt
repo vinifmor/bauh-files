@@ -305,11 +305,10 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -512,7 +511,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 UltraGrid
 UltraScreen
 UniShellect
@@ -702,8 +700,8 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
-onnx2daq
-openblok
+qBittorrent_Enhanced_Edition
+qSdrSwr
 qTox
 qikQR
 qpdf
