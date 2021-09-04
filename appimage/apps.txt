@@ -142,9 +142,10 @@ Electorrent
 ElectroCRUD
 Elements
 Elphyre-WalletShell
-Fluent_Reader
-FocusWriter
-FontForge
+Emacs
+EncryptPad
+Endless_Sky
+EnvKey
 FontLet
 Fractale
 Fraidycat
@@ -312,10 +313,11 @@ Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OWASP Threat Dragon
-Onshape
-Onyx
-OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
@@ -511,9 +513,9 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-UltraScreen
-UniShellect
-V2Ray-Desktop
+TeleDrive
+TeslaCam_Browser
+Tesseract
 VK_Desktop
 VLC
 VNote
@@ -700,9 +702,11 @@ nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
-qTox
-qikQR
-qpdf
+openblok
+ossia_score
+osu
+p2p-chat
+parsec-linux-appimage
 qpp::cad
 qr-code-generator-desktop
 quokkagit
