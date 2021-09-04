@@ -153,12 +153,11 @@ Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
-FreeTexturePacker
+Explorook
+Exportoo
+EyeStalker
+F-CRM
 FreeTube
-Friture
-FromScratch
-GDevelop
-GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -318,9 +317,8 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NanoVault
-Negibox
-Neon
 OWASP Threat Dragon
+Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
@@ -707,8 +705,8 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-qpp::cad
-qr-code-generator-desktop
+patchbay
+pb-for-desktop
 quokkagit
 rasterview
 ridereceipts
