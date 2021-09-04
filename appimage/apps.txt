@@ -147,7 +147,7 @@ EncryptPad
 Endless_Sky
 EnvKey
 Eplee
-Fractale
+Eqonomize
 Fraidycat
 Fraktal
 Franz
@@ -316,6 +316,7 @@ MyCrypto
 MyPaint
 My_Jira
 OWASP Threat Dragon
+Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
@@ -510,9 +511,10 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
+TweakSophia
+UHK.Agent
+UltraGrid
+UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
