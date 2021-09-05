@@ -149,12 +149,13 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Franz
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
+Eternal-Lands
+EverInst
+ExeQt
+Eximchain_Wallet
+Explorook
+Exportoo
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -311,8 +312,9 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-MyCrypto
 OWASP Threat Dragon
+Olive
+Onenote
 Onshape
 Onyx
 OpenAudible
@@ -510,8 +512,9 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
+UHK.Agent
+UltraGrid
+UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -703,8 +706,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
+qikQR
+qpdf
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
