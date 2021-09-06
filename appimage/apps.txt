@@ -140,7 +140,8 @@ ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
-FireDM
+Electorrent
+ElectroCRUD
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -307,13 +308,13 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
-OVis
+Moonlight
+Motrix
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
 OWASP Threat Dragon
-OWallet
-Obsidian
 Olive
 Onenote
 Onshape
@@ -509,8 +510,8 @@ SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
-TurboWarp
-Turntable
+T.Viewer
+Tablo_Tools
 Tusk
 TweakSophia
 UHK.Agent
@@ -693,7 +694,7 @@ mutool
 my-budget
 mybelka
 n3h
-nRF_Connect
+playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
