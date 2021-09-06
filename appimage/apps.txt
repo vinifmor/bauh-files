@@ -147,10 +147,10 @@ Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
-Endless_Sky
-EnvKey
-Eplee
-Eqonomize
+Fluent_Reader
+FocusWriter
+FontForge
+FontLet
 Fractale
 Fraidycat
 Fraktal
@@ -318,8 +318,8 @@ Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
+My_Jira
 OWASP Threat Dragon
-Onshape
 Onyx
 OpenAudible
 OpenBlok
@@ -514,9 +514,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
+Turntable
+Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -702,7 +702,7 @@ neovim
 ngPost
 ngrev
 nheko
-nimbus-weather
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
