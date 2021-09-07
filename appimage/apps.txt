@@ -113,10 +113,10 @@ CustomRPC
 CutePeaks
 CuteVariant
 Cutter
-ElectroCRUD
-Electron_App_Store
-Elements
-Elphyre-WalletShell
+DFileManager
+Dana
+DawnlightSearch
+DbGate
 Emacs
 EncryptPad
 Endless_Sky
@@ -482,7 +482,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Statsbook_Tool
+T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -671,10 +671,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-notepadqq
-noteshrink-qt
-nx-software-center
-nxshell
+mapollage
+mapton
+marktext
 ommpfritt
 onnx2bnn
 onnx2daq
