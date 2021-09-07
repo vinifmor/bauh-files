@@ -133,7 +133,7 @@ DockStation
 DokiDokiModManager
 Downline
 Dragoman
-Drill
+FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
@@ -308,6 +308,7 @@ MoarPerf
 Mob
 Mockman
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -504,11 +505,10 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Trinity_Desktop
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
@@ -692,9 +692,8 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
-n3h
-nRF_Connect
+pkg2appimage
+playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
