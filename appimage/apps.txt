@@ -122,10 +122,9 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Diffuse
+Eqonomize
+Etcher
+Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
@@ -308,10 +307,10 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -510,7 +509,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -690,14 +688,12 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
-movie-monad
-mtCellEdit
-mutool
-my-budget
-mybelka
-n3h
-nRF_Connect
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
