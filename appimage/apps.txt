@@ -136,9 +136,9 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
+FastQt
+Ferdi
+Fidias_Database_Migration_App
 Figma
 Filmulator
 FireDM
@@ -321,9 +321,9 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NanoVault
-Negibox
-Neon
 OWASP Threat Dragon
+OpenTodoList
+Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
@@ -517,8 +517,9 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
-TeslaCam_Browser
+UHK.Agent
+UltraGrid
+UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
@@ -702,13 +703,13 @@ ngPost
 ngrev
 nheko
 nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nx-software-center
-nxshell
-ommpfritt
-onnx2bnn
+pretty-handy-privacy
+privacy.sexy
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
