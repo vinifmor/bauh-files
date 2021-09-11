@@ -135,11 +135,12 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
+FMS_File_Explorer
+FastQt
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -308,10 +309,10 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -510,9 +511,10 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tumblr_Scraper
-TurboWarp
-Turntable
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
 Tusk
 TweakSophia
 UHK.Agent
@@ -698,6 +700,7 @@ n3h
 nRF_Connect
 neovim
 ngPost
+pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
