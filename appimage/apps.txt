@@ -140,10 +140,9 @@ ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
-Electorrent
-ElectroCRUD
-Electron_App_Store
-Elements
+FireDM
+Firefox_Beta
+Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -313,10 +312,10 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
 OWASP Threat Dragon
+OWallet
+Obsidian
+Olive
 Onenote
 Onshape
 Onyx
@@ -504,12 +503,13 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
-TreeSheets
-Trezor_Suite
-Trinity_Desktop
-Tropy
-Tulip
-Tumblr_Downloader_GUI
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 Tumblr_Scraper
 TurboWarp
 Turntable
@@ -697,7 +697,7 @@ mybelka
 n3h
 nRF_Connect
 neovim
-pnpm
+ngPost
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
