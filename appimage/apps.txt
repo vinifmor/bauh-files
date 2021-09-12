@@ -141,7 +141,9 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-Firefox_Beta
+ElectroCRUD
+Electron_App_Store
+Elements
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -309,11 +311,12 @@ Mob
 Mockman
 Moonlight
 Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
+Obsidian
 Olive
 Onenote
 Onshape
@@ -511,6 +514,7 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
 Turntable
 Tusk
 TweakSophia
@@ -694,11 +698,12 @@ mutool
 my-budget
 mybelka
 n3h
-nRF_Connect
-neovim
-ngPost
-ngrev
-nheko
+pkg2appimage
+playyourdamnturn.com
+plotjuggler
+pnpm
+polar-bookshelf
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
