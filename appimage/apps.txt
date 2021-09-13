@@ -125,8 +125,8 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
-Digitales_Klassenzimmer
+EverInst
+ExeQt
 Eximchain_Wallet
 Explorook
 Exportoo
@@ -493,8 +493,8 @@ StockStalk
 StopLight
 Storaji
 Strata
-Streamlink
-Streamon
+Thorium_Reader
+Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
@@ -679,7 +679,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-openblok
+media_mate
 ossia_score
 osu
 p2p-chat
