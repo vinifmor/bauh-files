@@ -113,10 +113,10 @@ CustomRPC
 CutePeaks
 CuteVariant
 Cutter
-DFileManager
-Dana
-DawnlightSearch
-DbGate
+Electorrent
+ElectroCRUD
+Electron_App_Store
+Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -298,8 +298,8 @@ Melodie
 MeowSQL
 MeshLab
 MicroPad
-Newlogic
-Nexus_Wallet
+MieSimulatorGUI
+Mindmapp
 Niffler
 Nitrokey
 NixNote
@@ -498,9 +498,8 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
+Substrate_IDE
+Subsurface
 TilingGenerator
 Todoist
 Tonuino_Toolbox
@@ -679,7 +678,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ommpfritt
 onnx2bnn
 onnx2daq
