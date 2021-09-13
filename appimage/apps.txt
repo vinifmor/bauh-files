@@ -126,7 +126,6 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-ExeQt
 Eximchain_Wallet
 Explorook
 Exportoo
@@ -304,9 +303,8 @@ Minetest
 Mini_Diary
 Minions
 Mirage
-MoarPerf
-Mob
-Mockman
+OCRmyPDF
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -498,8 +496,6 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -690,8 +686,7 @@ moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
-mutool
-my-budget
+pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
