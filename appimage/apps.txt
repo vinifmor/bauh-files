@@ -130,8 +130,8 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
+EyeStalker
+F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
@@ -300,8 +300,8 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Minetest
-Mini_Diary
+NixNote
+NoTer
 Nostlan
 Notable
 NoteMaster
@@ -502,7 +502,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-Translatium
+Superpaper
 TreeSheets
 Trezor_Suite
 Trinity_Desktop
