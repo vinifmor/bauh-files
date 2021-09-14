@@ -112,7 +112,8 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-ElectroCRUD
+Cutter
+DFileManager
 Electron_App_Store
 Elements
 Elphyre-WalletShell
@@ -289,11 +290,12 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
-Melodie
-MeowSQL
+NCSA_Mosaic
+NMEASimulator
+NanoVault
+Negibox
+Neon
+NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
@@ -484,7 +486,8 @@ Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
-Steem_Messenger
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -671,7 +674,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+nxshell
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
