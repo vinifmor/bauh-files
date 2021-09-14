@@ -108,9 +108,9 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
+Cura
+CustomRPC
+CutePeaks
 Eksplode.re
 ElDumper
 Electorrent
@@ -297,9 +297,10 @@ MegaBasterd
 Melodie
 MeowSQL
 MeshLab
-Newlogic
-Nexus_Wallet
-Niffler
+MicroPad
+MieSimulatorGUI
+Mindmapp
+MineTime
 Nitrokey
 NixNote
 NoTer
@@ -489,8 +490,7 @@ StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
-Taskizer
-TeXstudio
+Stellarium
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -678,8 +678,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
+ommpfritt
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
