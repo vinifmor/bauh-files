@@ -113,7 +113,6 @@ CustomRPC
 CutePeaks
 CuteVariant
 Cutter
-Electorrent
 ElectroCRUD
 Electron_App_Store
 Elements
@@ -298,7 +297,6 @@ Melodie
 MeowSQL
 MeshLab
 MicroPad
-Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -485,8 +483,6 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Statsbook_Tool
-Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -679,7 +675,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ommpfritt
 onnx2bnn
 onnx2daq
