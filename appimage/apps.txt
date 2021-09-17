@@ -126,6 +126,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Eternal-Lands
 EverInst
 ExeQt
 Eximchain_Wallet
@@ -302,7 +303,8 @@ MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
-Nitrokey
+MiniZinc_IDE
+Mini_Diary
 NixNote
 NoTer
 Nostlan
@@ -501,6 +503,7 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
+Subsurface
 Thunderbird_Nightly
 Tiled
 TilingGenerator
@@ -682,8 +685,9 @@ mapollage
 mapton
 marktext
 marlin-conf
-ommpfritt
-onnx2bnn
+mdview
+media-dupes
+media_mate
 onnx2daq
 openblok
 ossia_score
