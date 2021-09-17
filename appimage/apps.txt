@@ -118,7 +118,7 @@ Dana
 DawnlightSearch
 DbGate
 DeDop-studio
-EncryptPad
+DeadGame-2048
 Endless_Sky
 EnvKey
 Eplee
@@ -299,12 +299,12 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
-MineTime
-Minetest
-MiniZinc_IDE
-Mini_Diary
-Minions
-Mirage
+Niffler
+Nitrokey
+NixNote
+NoTer
+Nostlan
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -492,8 +492,8 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-StopLight
-Storaji
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -678,7 +678,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
