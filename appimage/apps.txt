@@ -142,8 +142,7 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-Electron_App_Store
-Elements
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -311,7 +310,7 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-OCVvid2fulldome
+Motrix
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -519,7 +518,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TweakSophia
+TeXstudio
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -700,7 +699,7 @@ mutool
 my-budget
 mybelka
 n3h
-nRF_Connect
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
