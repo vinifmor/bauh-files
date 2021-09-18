@@ -138,8 +138,9 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-Figma
-Filmulator
+Eksplode.re
+ElDumper
+Electorrent
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -307,11 +308,11 @@ Minions
 Mirage
 MoarPerf
 Mob
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
+Mockman
+Moonlight
+Motrix
+Mr.Dclutterer
+MuPDF
 OVis
 OWASP Threat Dragon
 OWallet
@@ -511,9 +512,10 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 Turntable
 Tusk
 TweakSophia
@@ -696,7 +698,8 @@ mtCellEdit
 mutool
 my-budget
 mybelka
-pkg2appimage
+n3h
+nRF_Connect
 playyourdamnturn.com
 plotjuggler
 pnpm
