@@ -146,10 +146,9 @@ Electron_App_Store
 Elements
 Elphyre-WalletShell
 Emacs
-Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
-FocusWriter
+EncryptPad
+Endless_Sky
+EnvKey
 FontForge
 FontLet
 Fractale
@@ -316,7 +315,6 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -521,8 +519,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-Tusk
-TweakSophia
+TeXstudio
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -708,8 +705,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-pnpm
-polar-bookshelf
+nheko
 pomotroid
 pretty-handy-privacy
 privacy.sexy
