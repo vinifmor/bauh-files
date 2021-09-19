@@ -139,9 +139,9 @@ Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
-ElDumper
-Electorrent
-ElectroCRUD
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -315,7 +315,6 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -520,8 +519,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TweakSophia
-UHK.Agent
+TeXstudio
+TeleDrive
 UltraGrid
 UltraScreen
 UniShellect
