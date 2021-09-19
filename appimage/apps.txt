@@ -139,12 +139,13 @@ Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
-Fidias_Database_Migration_App
-Figma
-Filmulator
-FireDM
-Firefox_Beta
-Firefox_ESR
+ElDumper
+Electorrent
+ElectroCRUD
+Electron_App_Store
+Elements
+Elphyre-WalletShell
+Emacs
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -315,6 +316,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
+Music_Blocks
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -519,8 +521,9 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
+Tusk
+TweakSophia
+UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
@@ -705,10 +708,10 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
-nimbus-weather
-nordvpn-linux
-notepadqq
+pnpm
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
