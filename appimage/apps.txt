@@ -149,8 +149,8 @@ Emacs
 EncryptPad
 Endless_Sky
 EnvKey
-FontForge
-FontLet
+Eplee
+Eqonomize
 Fractale
 Fraidycat
 Fraktal
@@ -315,14 +315,14 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
-Onenote
-Onshape
-Onyx
-OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
@@ -520,8 +520,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-UHK.Agent
-UltraGrid
+TeleDrive
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -705,7 +704,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
