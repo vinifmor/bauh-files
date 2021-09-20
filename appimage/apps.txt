@@ -124,7 +124,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-Eternal-Lands
+DevHub
 EverInst
 ExeQt
 Eximchain_Wallet
@@ -299,7 +299,7 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
-MineTime
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -499,9 +499,8 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
+Tiled
+TilingGenerator
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -680,7 +679,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ommpfritt
 onnx2bnn
 onnx2daq
