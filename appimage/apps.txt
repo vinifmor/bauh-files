@@ -125,6 +125,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
 EverInst
 ExeQt
 Eximchain_Wallet
@@ -299,10 +300,11 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
-Niffler
-Nitrokey
-NixNote
-NoTer
+MineTime
+Minetest
+MiniZinc_IDE
+Mini_Diary
+Minions
 Nostlan
 Notable
 NoteMaster
@@ -499,8 +501,9 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Tiled
-TilingGenerator
+Subsurface
+Subtitle_Composer
+SultanPOS
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -679,6 +682,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
+marlin-conf
 ommpfritt
 onnx2bnn
 onnx2daq
