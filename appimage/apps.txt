@@ -300,8 +300,8 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Minetest
-MiniZinc_IDE
+Nitrokey
+NixNote
 NoTer
 Nostlan
 Notable
@@ -500,7 +500,8 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-TilingGenerator
+Subtitle_Composer
+SultanPOS
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -680,7 +681,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
+ommpfritt
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
