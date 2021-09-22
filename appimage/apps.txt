@@ -131,9 +131,8 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
-Drill
+F-CRM
+FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -309,8 +308,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
+OCVvid2fulldome
+ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -508,9 +507,10 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Trinity_Desktop
-Tropy
-Tulip
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -694,8 +694,8 @@ moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
-mutool
-my-budget
+pigs-n-cows
+pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
