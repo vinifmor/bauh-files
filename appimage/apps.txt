@@ -139,8 +139,7 @@ Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
-ElDumper
-Electorrent
+Filmulator
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -309,15 +308,14 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
+OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
+Obsidian
+Olive
 Onenote
 Onshape
 Onyx
@@ -513,11 +511,10 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
+Tumblr_Scraper
+TurboWarp
+Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -701,7 +698,6 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
