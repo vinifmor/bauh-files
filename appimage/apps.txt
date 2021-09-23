@@ -125,6 +125,9 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Eplee
+Eqonomize
+Etcher
 Eternal-Lands
 EverInst
 ExeQt
@@ -310,8 +313,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -504,13 +507,12 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Summoners.War.Exporter
-Sup
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
+Todoist
+Tonuino_Toolbox
+Translatium
+TreeSheets
+Trezor_Suite
+Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -691,7 +693,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
 patchbay
 pb-for-desktop
 pdf-sync
