@@ -128,13 +128,13 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
+EverInst
+ExeQt
+ExifCleaner
+Eximchain_Wallet
+Explorook
+Exportoo
+EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
@@ -314,7 +314,8 @@ Minions
 Mirage
 MoarPerf
 Mob
-Mockman
+NoteMaster
+OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -514,6 +515,7 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
+SwiftnessX
 Trezor_Suite
 Trinity_Desktop
 Tropy
@@ -701,7 +703,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
+pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
