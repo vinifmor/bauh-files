@@ -145,9 +145,10 @@ ElDumper
 Electorrent
 ElectroCRUD
 Electron_App_Store
-Firefox_Beta
-Firefox_ESR
-Firefox_Nightly
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
 Flippy_Qualitative_Testbench
 Fluent_Reader
 FocusWriter
@@ -315,7 +316,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
+OCRmyPDF
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -526,7 +528,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-UHK.Agent
+TeleDrive
 UltraGrid
 UltraScreen
 UniShellect
@@ -712,7 +714,6 @@ mybelka
 n3h
 nRF_Connect
 neovim
-playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
