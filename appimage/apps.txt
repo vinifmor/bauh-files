@@ -150,10 +150,9 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-EnvKey
-Eplee
-Eqonomize
-Etcher
+Fluent_Reader
+FocusWriter
+FontForge
 FontLet
 Fractale
 Fraidycat
@@ -322,10 +321,9 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -526,10 +524,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
+Turntable
+Tusk
+TweakSophia
+UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
@@ -718,7 +716,6 @@ neovim
 ngPost
 ngrev
 nheko
-polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
