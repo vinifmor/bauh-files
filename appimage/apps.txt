@@ -151,7 +151,7 @@ Emacs
 EncryptPad
 Endless_Sky
 EnvKey
-Eplee
+FocusWriter
 FontForge
 FontLet
 Fractale
@@ -326,9 +326,8 @@ Musicalypse
 MyCrypto
 MyPaint
 My_Jira
-NCSA_Mosaic
-NMEASimulator
 OWASP Threat Dragon
+Onshape
 Onyx
 OpenAudible
 OpenBlok
@@ -527,8 +526,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
+TweakSophia
+UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
@@ -713,13 +712,13 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
-pomotroid
-pretty-handy-privacy
+neovim
+ngPost
+ngrev
+nheko
+nimbus-weather
+nordvpn-linux
+notepadqq
 privacy.sexy
 protonmail-desktop
 puush-qt
