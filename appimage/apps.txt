@@ -317,8 +317,8 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-MuPDF
-Museeks
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -522,8 +522,7 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -711,9 +710,9 @@ n3h
 nRF_Connect
 neovim
 ngPost
-ngrev
-nheko
-nimbus-weather
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
