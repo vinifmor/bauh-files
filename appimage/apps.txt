@@ -143,13 +143,11 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
-Electron_App_Store
-Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
-Endless_Sky
+FireDM
+Firefox_Beta
+Firefox_ESR
+Firefox_Nightly
+Flippy_Qualitative_Testbench
 Fluent_Reader
 FocusWriter
 FontForge
@@ -321,11 +319,10 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
-MyPaint
 OWASP Threat Dragon
+OWallet
+Obsidian
+Olive
 Onenote
 Onshape
 Onyx
@@ -526,7 +523,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TweakSophia
+TeXstudio
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -715,9 +712,8 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
-pomotroid
-pretty-handy-privacy
+nheko
+nimbus-weather
 privacy.sexy
 protonmail-desktop
 puush-qt
