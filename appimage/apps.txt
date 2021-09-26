@@ -146,7 +146,8 @@ Electorrent
 ElectroCRUD
 Electron_App_Store
 Elements
-Firefox_ESR
+Elphyre-WalletShell
+Emacs
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -318,7 +319,8 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-MuPDF
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -520,7 +522,7 @@ SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
-T.Viewer
+Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
@@ -707,9 +709,10 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pingviewer
-pkg2appimage
-playyourdamnturn.com
+mybelka
+n3h
+nRF_Connect
+neovim
 plotjuggler
 pnpm
 polar-bookshelf
