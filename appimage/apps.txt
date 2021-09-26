@@ -150,8 +150,9 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-FocusWriter
-FontForge
+EnvKey
+Eplee
+Eqonomize
 FontLet
 Fractale
 Fraidycat
@@ -323,9 +324,10 @@ Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
-MyPaint
-My_Jira
 OWASP Threat Dragon
+Olive
+Onenote
+Onshape
 Onyx
 OpenAudible
 OpenBlok
@@ -522,8 +524,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-Tusk
-TweakSophia
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -721,6 +725,7 @@ nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
+onnx2daq
 qSdrSwr
 qTox
 qikQR
