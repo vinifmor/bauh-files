@@ -146,10 +146,10 @@ Electorrent
 ElectroCRUD
 Electron_App_Store
 Elements
-Firefox_Beta
-Firefox_ESR
-Firefox_Nightly
-Flippy_Qualitative_Testbench
+Elphyre-WalletShell
+Emacs
+EncryptPad
+Endless_Sky
 Fluent_Reader
 FocusWriter
 FontForge
@@ -318,14 +318,13 @@ Mob
 Mockman
 Moonlight
 Motrix
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
-OVis
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+MyCrypto
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
 Onenote
 Onshape
 Onyx
@@ -526,8 +525,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
+UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
@@ -717,7 +715,6 @@ ngPost
 ngrev
 nheko
 nimbus-weather
-nordvpn-linux
 privacy.sexy
 protonmail-desktop
 puush-qt
