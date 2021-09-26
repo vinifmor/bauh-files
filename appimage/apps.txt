@@ -150,11 +150,11 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-Fluent_Reader
-FocusWriter
-FontForge
-FontLet
-Fractale
+EnvKey
+Eplee
+Eqonomize
+Etcher
+Eternal-Lands
 Fraidycat
 Fraktal
 Franz
@@ -324,10 +324,11 @@ Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OWASP Threat Dragon
-Onenote
-Onshape
-Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
@@ -525,7 +526,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-UHK.Agent
+TeXstudio
+TeleDrive
 UltraGrid
 UltraScreen
 UniShellect
@@ -715,9 +717,10 @@ ngPost
 ngrev
 nheko
 nimbus-weather
-privacy.sexy
-protonmail-desktop
-puush-qt
+nordvpn-linux
+notepadqq
+noteshrink-qt
+nx-software-center
 pyappimage
 python2
 python3
