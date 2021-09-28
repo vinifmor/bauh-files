@@ -122,8 +122,8 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-EnvKey
-Eplee
+Delir
+Demonizer
 Eqonomize
 Etcher
 Eternal-Lands
@@ -302,7 +302,8 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Neon
+MicroPad
+MieSimulatorGUI
 NepaliUnicode
 Newlogic
 Nexus_Wallet
@@ -499,6 +500,8 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
+StockStalk
+StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -687,9 +690,10 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-nx-software-center
-nxshell
-ommpfritt
+mapton
+marktext
+marlin-conf
+mdview
 onnx2bnn
 onnx2daq
 openblok
