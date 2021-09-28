@@ -118,7 +118,7 @@ Cutter
 DFileManager
 Dana
 DawnlightSearch
-DbGate
+Elements
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -301,7 +301,7 @@ MediaElch
 MegaBasterd
 Melodie
 Memento
-NX_Software_Center
+MeowSQL
 NanoVault
 Negibox
 Neon
@@ -501,7 +501,7 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -687,7 +687,7 @@ liskish-wallet
 lumi
 luminance-hdr
 luna
-makoureactor
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
