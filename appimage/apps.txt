@@ -115,10 +115,10 @@ CustomRPC
 CutePeaks
 CuteVariant
 Cutter
-ElectroCRUD
-Electron_App_Store
-Elements
-Elphyre-WalletShell
+DFileManager
+Dana
+DawnlightSearch
+DbGate
 Emacs
 EncryptPad
 Endless_Sky
@@ -303,7 +303,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-MieSimulatorGUI
+Neon
+NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
@@ -500,7 +501,7 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-TeslaCam_Browser
+StopLight
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -687,9 +688,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
-marktext
+noteshrink-qt
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
