@@ -119,6 +119,7 @@ DFileManager
 Dana
 DawnlightSearch
 DbGate
+Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
@@ -500,8 +501,7 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -687,7 +687,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
