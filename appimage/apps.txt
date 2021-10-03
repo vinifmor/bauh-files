@@ -154,8 +154,8 @@ EnvKey
 Eplee
 Eqonomize
 Etcher
-Fractale
-Fraidycat
+Eternal-Lands
+EverInst
 Fraktal
 Franz
 Frappe_Accounting
@@ -329,12 +329,12 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
-NanoVault
-Negibox
-Neon
-NepaliUnicode
-Newlogic
 OWASP Threat Dragon
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
+Outline-Manager
+P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
@@ -529,7 +529,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -716,8 +715,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
-nimbus-weather
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
