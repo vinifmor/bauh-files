@@ -146,10 +146,10 @@ Electorrent
 ElectroCRUD
 Electron_App_Store
 Elements
-Elphyre-WalletShell
-Emacs
-EncryptPad
-Endless_Sky
+Firefox_Beta
+Firefox_ESR
+Firefox_Nightly
+Flippy_Qualitative_Testbench
 Fluent_Reader
 FocusWriter
 FontForge
@@ -322,11 +322,10 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
+Musicalypse
+MyCrypto
+MyPaint
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
-Onenote
 Onshape
 Onyx
 OpenAudible
@@ -527,9 +526,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TweakSophia
-UHK.Agent
-UltraGrid
+TeXstudio
+TeleDrive
 UltraScreen
 UniShellect
 V2Ray-Desktop
@@ -716,7 +714,6 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
