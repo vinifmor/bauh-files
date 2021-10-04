@@ -317,10 +317,10 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -522,12 +522,12 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
-Turntable
-Tusk
-TweakSophia
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -712,8 +712,8 @@ mutool
 my-budget
 mybelka
 n3h
-pkg2appimage
-playyourdamnturn.com
+nRF_Connect
+neovim
 plotjuggler
 pnpm
 polar-bookshelf
