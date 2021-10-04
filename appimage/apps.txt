@@ -148,8 +148,7 @@ Electron_App_Store
 Elements
 Elphyre-WalletShell
 Emacs
-EncryptPad
-Endless_Sky
+Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
 FocusWriter
@@ -327,7 +326,6 @@ Musicalypse
 MyCrypto
 MyPaint
 OWASP Threat Dragon
-Olive
 Onenote
 Onshape
 Onyx
@@ -526,12 +524,11 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Tumblr_Scraper
-TurboWarp
-Turntable
-Tusk
-TweakSophia
-UHK.Agent
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 UltraGrid
 UltraScreen
 UniShellect
@@ -715,10 +712,9 @@ mutool
 my-budget
 mybelka
 n3h
-nRF_Connect
-neovim
-ngPost
-ngrev
+pkg2appimage
+playyourdamnturn.com
+plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
