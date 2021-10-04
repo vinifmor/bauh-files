@@ -147,7 +147,7 @@ ElectroCRUD
 Electron_App_Store
 Elements
 Elphyre-WalletShell
-Emacs
+Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
@@ -321,11 +321,11 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
-MyPaint
+OVis
 OWASP Threat Dragon
+OWallet
+Obsidian
+Olive
 Onenote
 Onshape
 Onyx
@@ -522,13 +522,13 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+TurboWarp
+Turntable
+Tusk
+TweakSophia
+UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
