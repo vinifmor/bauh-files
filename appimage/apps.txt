@@ -137,7 +137,7 @@ Downline
 Dragoman
 Drill
 Dust3D
-FF-Password-Exporter
+Dwyco_Phoo
 FMS_File_Explorer
 FastQt
 Ferdi
@@ -319,11 +319,10 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
-OSRS_Tools
-OVis
+Museeks
+Music_Blocks
+Musicalypse
 OWASP Threat Dragon
-OWallet
-Obsidian
 Olive
 Onenote
 Onshape
@@ -524,7 +523,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-Turntable
 Tusk
 TweakSophia
 UHK.Agent
@@ -713,8 +711,8 @@ mybelka
 n3h
 nRF_Connect
 neovim
-plotjuggler
-pnpm
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
