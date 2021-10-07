@@ -133,7 +133,7 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
+Explorook
 Exportoo
 EyeStalker
 F-CRM
@@ -316,6 +316,7 @@ Mirage
 MoarPerf
 Mob
 Mockman
+NoteMaster
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -514,8 +515,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
-Superpaper
+Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
@@ -703,13 +703,13 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
-mki3dgame
-moniteur-admin
-moolticute
-movie-monad
-mtCellEdit
-mutool
+osu
+p2p-chat
+parsec-linux-appimage
+patchbay
+pb-for-desktop
+pdf-sync
+perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
