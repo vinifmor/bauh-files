@@ -117,7 +117,8 @@ CuteVariant
 Cutter
 DFileManager
 Dana
-Elphyre-WalletShell
+DawnlightSearch
+DbGate
 Emacs
 EncryptPad
 Endless_Sky
@@ -296,6 +297,8 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
+Melodie
 NMEASimulator
 NX_Software_Center
 NanoVault
@@ -489,6 +492,7 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
+Stacer
 Synthein
 T.Viewer
 Tablo_Tools
@@ -676,9 +680,11 @@ lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
-linuxdeployqt
-liskish-wallet
-lumi
+nRF_Connect
+neovim
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
