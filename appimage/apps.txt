@@ -150,9 +150,7 @@ Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
-EnvKey
-Eplee
-Eqonomize
+FocusWriter
 FontForge
 FontLet
 Fractale
@@ -325,8 +323,6 @@ Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
-MyPaint
-My_Jira
 OWASP Threat Dragon
 Onenote
 Onshape
@@ -523,12 +519,11 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tropy
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
-Turntable
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
 Tusk
 TweakSophia
 UHK.Agent
@@ -719,9 +714,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
-nimbus-weather
-nordvpn-linux
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
