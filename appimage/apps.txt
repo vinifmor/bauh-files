@@ -136,6 +136,7 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -310,10 +311,11 @@ Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
-Nostlan
-Notable
-NoteMaster
-OCRmyPDF
+Mirage
+MoarPerf
+Mob
+Mockman
+Moonlight
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -516,8 +518,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Trinity_Desktop
-Tropy
+Symphonium
+SyncMyL2P
+Syncplay
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -701,8 +704,9 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+patchbay
+pb-for-desktop
+pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
