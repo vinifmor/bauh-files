@@ -144,6 +144,8 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
+Electron_App_Store
+Elements
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -315,9 +317,10 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
+Motrix
+Mr.Dclutterer
+MuPDF
+Museeks
 OVis
 OWASP Threat Dragon
 OWallet
@@ -522,9 +525,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-Tusk
-TweakSophia
-UHK.Agent
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 UltraGrid
 UltraScreen
 UniShellect
@@ -710,7 +714,8 @@ mybelka
 n3h
 nRF_Connect
 neovim
-pnpm
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
