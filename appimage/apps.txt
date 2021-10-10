@@ -144,7 +144,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
+FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -315,10 +315,10 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -369,6 +369,7 @@ PlayMe
 Playbox
 PlotJuggler
 Plover
+PocketCasts_Electron
 Poddr
 PolkaKey
 Popsicle
@@ -520,10 +521,10 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
-Turntable
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 Tusk
 TweakSophia
 UHK.Agent
@@ -712,9 +713,9 @@ mybelka
 n3h
 nRF_Connect
 neovim
-pnpm
-polar-bookshelf
-pomotroid
+ngPost
+ngrev
+nheko
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
