@@ -144,7 +144,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-FireDM
+ElectroCRUD
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -313,8 +313,9 @@ Mini_Diary
 Minions
 Mirage
 MoarPerf
-Mob
-Mockman
+NoteMaster
+OCRmyPDF
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -714,8 +715,8 @@ n3h
 nRF_Connect
 neovim
 ngPost
-ngrev
-nheko
+polar-bookshelf
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
