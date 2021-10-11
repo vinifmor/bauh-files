@@ -143,7 +143,7 @@ ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
-Filmulator
+Electorrent
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -315,11 +315,12 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -519,9 +520,9 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
@@ -709,9 +710,7 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
-n3h
-nRF_Connect
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
