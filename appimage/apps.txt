@@ -120,7 +120,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Elphyre-WalletShell
+DeDop-studio
 Emacs
 EncryptPad
 Endless_Sky
@@ -301,7 +301,7 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NMEASimulator
+Memento
 NX_Software_Center
 NanoVault
 Negibox
@@ -505,9 +505,9 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-StopLight
-Storaji
-Strata
+TeslaCam_Browser
+Tesseract
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -690,11 +690,11 @@ liskish-wallet
 lumi
 luminance-hdr
 luna
-makoureactor
-mandelbulber2
-mapollage
-mapton
-marktext
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
