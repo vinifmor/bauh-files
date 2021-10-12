@@ -120,7 +120,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
@@ -305,9 +304,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Neon
-NepaliUnicode
-Newlogic
+MieSimulatorGUI
+Mindmapp
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -502,9 +500,8 @@ Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
-Taskizer
-TeXstudio
-TeleDrive
+Stele
+Stellarium
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -695,8 +692,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
