@@ -120,6 +120,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
@@ -299,13 +300,13 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Melodie
-Memento
-MeowSQL
-MeshLab
-MicroPad
-MieSimulatorGUI
-Mindmapp
+NMEASimulator
+NX_Software_Center
+NanoVault
+Negibox
+Neon
+NepaliUnicode
+Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -691,7 +692,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
