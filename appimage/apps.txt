@@ -117,8 +117,8 @@ CuteVariant
 Cutter
 DFileManager
 Dana
-Electron_App_Store
-Elements
+Datcord
+DawnlightSearch
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -304,7 +304,6 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
@@ -497,13 +496,12 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
+Statsbook_Tool
+StatusPilatus
+SteamCAD
+Steem_Messenger
+Stele
+Stellarium
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -692,7 +690,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
