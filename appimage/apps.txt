@@ -120,10 +120,10 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
+Elements
+Elphyre-WalletShell
+Emacs
+EncryptPad
 Endless_Sky
 EnvKey
 Eplee
@@ -304,7 +304,6 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-MicroPad
 Negibox
 Neon
 NepaliUnicode
@@ -696,9 +695,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-noteshrink-qt
-nx-software-center
-nxshell
+marktext
+marlin-conf
 ommpfritt
 onnx2bnn
 onnx2daq
