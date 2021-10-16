@@ -314,8 +314,7 @@ Minions
 Mirage
 MoarPerf
 Mob
-NoteMaster
-OCRmyPDF
+Mockman
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -520,7 +519,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -707,7 +705,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
