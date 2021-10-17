@@ -133,11 +133,10 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-Explorook
-Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
+DokiDokiModManager
+Downline
+Dragoman
+Drill
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -315,7 +314,6 @@ Mirage
 MoarPerf
 Mob
 Mockman
-OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -711,8 +709,7 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
-n3h
+pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
