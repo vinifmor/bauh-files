@@ -145,7 +145,8 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-FireDM
+Electron_App_Store
+Elements
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -519,9 +520,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
+Trinity_Desktop
+Tropy
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -713,7 +713,7 @@ mutool
 my-budget
 mybelka
 n3h
-pkg2appimage
+nRF_Connect
 playyourdamnturn.com
 plotjuggler
 pnpm
