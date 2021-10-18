@@ -111,7 +111,8 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-ERScaffold
+CustomRPC
+CutePeaks
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -293,10 +294,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Museeks
-Music_Blocks
-Musicalypse
-MyCrypto
+MazeSolver
+McPodcast
+Mechvibes
 MyPaint
 My_Jira
 NCSA_Mosaic
@@ -497,7 +497,8 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-T.Viewer
+Statsbook_Tool
+StatusPilatus
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -683,8 +684,9 @@ lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
-linuxdeployqt
-liskish-wallet
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
