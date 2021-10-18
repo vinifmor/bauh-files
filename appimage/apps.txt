@@ -104,12 +104,12 @@ Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -495,7 +495,6 @@ Speaky_MiniPlayer
 SpeedyLoader
 Spivak
 Stacer
-SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -684,7 +683,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-neovim
 ngPost
 ngrev
 nheko
