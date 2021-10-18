@@ -110,9 +110,8 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
-Cura
-CustomRPC
-CutePeaks
+Dwyco_Phoo
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -294,9 +293,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
+Music_Blocks
+Musicalypse
+MyCrypto
 MyPaint
 My_Jira
 NCSA_Mosaic
@@ -496,9 +495,9 @@ Speaky_MiniPlayer
 SpeedyLoader
 Spivak
 Stacer
-Standard_Notes
-Statsbook_Tool
-StatusPilatus
+SynfigStudio
+Synthein
+T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -684,7 +683,7 @@ lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
-nRF_Connect
+linuxdeployqt
 neovim
 ngPost
 ngrev
