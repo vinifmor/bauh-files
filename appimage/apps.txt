@@ -114,7 +114,7 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-Cutter
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -294,10 +294,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Music_Blocks
-Musicalypse
-MyCrypto
-MyPaint
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
 My_Jira
 NCSA_Mosaic
 NMEASimulator
@@ -495,9 +495,9 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-Syncplay
-SynfigStudio
-Synthein
+Stacer
+Standard_Notes
+Statsbook_Tool
 T.Viewer
 Tablo_Tools
 TagTime-desktop
