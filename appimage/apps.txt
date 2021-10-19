@@ -128,7 +128,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -305,10 +305,10 @@ MeowSQL
 MeshLab
 MicroPad
 MieSimulatorGUI
-Mindmapp
-MineTime
-Minetest
-MiniZinc_IDE
+NepaliUnicode
+Newlogic
+Nexus_Wallet
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -700,9 +700,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-mjml-app
+ossia_score
+osu
+p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
