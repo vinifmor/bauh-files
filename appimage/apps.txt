@@ -114,8 +114,7 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-Cutter
-DFileManager
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -298,8 +297,8 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MyPaint
-My_Jira
+MediaElch
+MegaBasterd
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
@@ -497,8 +496,8 @@ Speaky_MiniPlayer
 SpeedyLoader
 Spivak
 Stacer
-SynfigStudio
-Synthein
+Standard_Notes
+Statsbook_Tool
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -685,10 +684,11 @@ lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
-linuxdeployqt
-liskish-wallet
-lumi
-luminance-hdr
+n3h
+nRF_Connect
+neovim
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
