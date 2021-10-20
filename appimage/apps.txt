@@ -123,7 +123,8 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
+Endless_Sky
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -303,6 +304,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
+Neon
 NepaliUnicode
 Newlogic
 Nexus_Wallet
@@ -500,8 +502,8 @@ StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
-Stellarium
-StockStalk
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -688,9 +690,10 @@ lumi
 luminance-hdr
 luna
 makoureactor
-notepadqq
-noteshrink-qt
-nx-software-center
+mandelbulber2
+mapollage
+mapton
+marktext
 nxshell
 ommpfritt
 onnx2bnn
