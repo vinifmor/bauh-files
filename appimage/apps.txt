@@ -121,8 +121,8 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-EncryptPad
-Endless_Sky
+DeadGame-2048
+DeepTags
 EnvKey
 Eplee
 Eqonomize
@@ -293,13 +293,12 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Music_Blocks
-Musicalypse
-MyCrypto
-MyPaint
-My_Jira
-NCSA_Mosaic
-NMEASimulator
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
+MegaBasterd
+Melodie
 NX_Software_Center
 NanoVault
 Negibox
@@ -503,7 +502,6 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -693,7 +691,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
