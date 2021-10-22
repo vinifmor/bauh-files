@@ -122,7 +122,7 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
+Endless_Sky
 EnvKey
 Eplee
 Eqonomize
@@ -302,7 +302,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Neon
+MicroPad
 NepaliUnicode
 Newlogic
 Nexus_Wallet
@@ -497,7 +497,7 @@ Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
-TagTime-desktop
+SteamCAD
 Taskizer
 TeXstudio
 TeleDrive
@@ -691,8 +691,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ommpfritt
-onnx2bnn
+marlin-conf
+mdview
 onnx2daq
 openblok
 ossia_score
