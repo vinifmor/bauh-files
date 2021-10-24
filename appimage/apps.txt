@@ -129,9 +129,9 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-ExeQt
-ExifCleaner
-Eximchain_Wallet
+Digitales_Klassenzimmer
+Disass
+Discord
 Explorook
 Exportoo
 EyeStalker
@@ -309,8 +309,8 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
-Minions
-Mirage
+NoTer
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -509,10 +509,9 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
+Tiled
+TilingGenerator
+Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
@@ -702,7 +701,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-pb-for-desktop
+moniteur-admin
+moolticute
 pdf-sync
 perl-executing-browser
 photoname
