@@ -117,8 +117,9 @@ CuteVariant
 Cutter
 DFileManager
 Dana
-Electron_App_Store
-Elements
+Datcord
+DawnlightSearch
+DbGate
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -299,7 +300,8 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NX_Software_Center
+Memento
+MeowSQL
 NanoVault
 Negibox
 Neon
@@ -499,7 +501,7 @@ Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
-TeXstudio
+Stele
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -681,11 +683,11 @@ lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
-nRF_Connect
-neovim
-ngPost
-ngrev
-nheko
+linuxdeployqt
+liskish-wallet
+lumi
+luminance-hdr
+luna
 nimbus-weather
 nordvpn-linux
 notepadqq
