@@ -105,7 +105,7 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
+DokiDokiModManager
 Downline
 Dragoman
 Drill
@@ -160,7 +160,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -200,7 +199,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -293,11 +291,11 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
+Music_Blocks
+Musicalypse
+MyCrypto
+MyPaint
+My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
@@ -321,7 +319,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -491,13 +488,15 @@ Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
-Speaky_MiniPlayer
-SpeedyLoader
-Spivak
-Stacer
-Standard_Notes
-Statsbook_Tool
-StatusPilatus
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
@@ -675,8 +674,9 @@ ksnip
 laigter
 langly
 laravel-kit
-movie-monad
-mtCellEdit
+launcher
+le
+ledger-live-desktop
 mutool
 my-budget
 mybelka
@@ -794,8 +794,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
