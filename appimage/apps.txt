@@ -108,12 +108,13 @@ CrossMobile
 Cryplicity
 Crypter
 Cryptr
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
+Cscrypto
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
+CuteVariant
+Cutter
 Electorrent
 ElectroCRUD
 Electron_App_Store
@@ -291,7 +292,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Museeks
+Mattermost_Desktop
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -683,6 +684,7 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 liskish-wallet
+lumi
 ngrev
 nheko
 nimbus-weather
