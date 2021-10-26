@@ -102,8 +102,9 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Disass
-Discord
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 DockStation
 DokiDokiModManager
 Downline
@@ -160,7 +161,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -200,7 +200,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -289,10 +288,11 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Markman
-Martian
-MasterVyrn
-Mattermost_Desktop
+Moonlight
+Motrix
+Mr.Dclutterer
+MuPDF
+Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -321,7 +321,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -487,13 +486,15 @@ SnippetStore
 Soapy_SDR
 SocNetV
 Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-SpeedyLoader
-Spivak
+SultanPOS
+Summoners.War.Exporter
+Sup
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
@@ -673,10 +674,11 @@ jumpfm
 keyrier-json
 kitupiikki
 ksnip
-mki3dgame
-moniteur-admin
-moolticute
-movie-monad
+laigter
+langly
+laravel-kit
+launcher
+le
 mtCellEdit
 mutool
 my-budget
@@ -797,6 +799,4 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
-zsync2
