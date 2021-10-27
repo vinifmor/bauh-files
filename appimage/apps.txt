@@ -114,8 +114,6 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-Cutter
-ElDumper
 Electorrent
 ElectroCRUD
 Electron_App_Store
@@ -300,12 +298,10 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-Memento
-MeowSQL
-MeshLab
-MicroPad
-MieSimulatorGUI
-Mindmapp
+NanoVault
+Negibox
+Neon
+NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
@@ -502,9 +498,6 @@ StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
-Stellarium
-StockStalk
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -698,8 +691,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-onnx2daq
-openblok
 ossia_score
 osu
 p2p-chat
