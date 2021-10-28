@@ -108,7 +108,7 @@ CrossMobile
 Cryplicity
 Crypter
 Cryptr
-Cscrypto
+Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
@@ -293,8 +293,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-MuPDF
-Museeks
+Mattermost_Desktop
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -496,8 +495,7 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-Stacer
-Standard_Notes
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -682,12 +680,11 @@ launcher
 le
 ledger-live-desktop
 lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
-linuxdeployqt
-liskish-wallet
-lumi
+mybelka
+n3h
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
