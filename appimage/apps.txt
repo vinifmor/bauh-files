@@ -122,6 +122,7 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
+DeepTags
 Endless_Sky
 EnvKey
 Eplee
@@ -301,7 +302,8 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-MeshLab
+NanoVault
+Negibox
 Neon
 NepaliUnicode
 Newlogic
@@ -501,7 +503,8 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-TeleDrive
+StockStalk
+StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -687,7 +690,8 @@ liskish-wallet
 lumi
 luminance-hdr
 luna
-nordvpn-linux
+makoureactor
+mandelbulber2
 notepadqq
 noteshrink-qt
 nx-software-center
