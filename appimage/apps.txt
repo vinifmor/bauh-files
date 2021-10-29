@@ -111,10 +111,10 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-CustomRPC
-CutePeaks
-CuteVariant
-Cutter
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -294,8 +294,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MuPDF
-Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -689,9 +687,9 @@ linux_czkawka_gui
 linuxdeployqt
 liskish-wallet
 lumi
-luminance-hdr
-luna
-makoureactor
+ngrev
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
