@@ -136,7 +136,7 @@ DockStation
 DokiDokiModManager
 Downline
 Dragoman
-Drill
+F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
@@ -307,8 +307,8 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Minetest
-MiniZinc_IDE
+Nexus_Wallet
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -512,10 +512,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
+Tiled
+TilingGenerator
+Todoist
 Tonuino_Toolbox
 Translatium
 TreeSheets
@@ -705,8 +704,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+patchbay
+pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
