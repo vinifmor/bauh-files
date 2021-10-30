@@ -134,8 +134,7 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
+EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
@@ -307,7 +306,6 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
@@ -510,8 +508,7 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
-Subsurface
+Thunderbird_Nightly
 Tiled
 TilingGenerator
 Todoist
@@ -703,7 +700,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
 patchbay
 pb-for-desktop
 pdf-sync
