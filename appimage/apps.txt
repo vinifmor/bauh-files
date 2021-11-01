@@ -120,6 +120,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
@@ -304,7 +305,7 @@ MeowSQL
 MeshLab
 MicroPad
 MieSimulatorGUI
-Mindmapp
+NepaliUnicode
 Newlogic
 Nexus_Wallet
 Niffler
@@ -504,6 +505,7 @@ Stele
 Stellarium
 StockStalk
 StopLight
+Storaji
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -693,11 +695,12 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
-media_mate
-meta-grabber
+nxshell
+ommpfritt
+onnx2bnn
+onnx2daq
+openblok
+ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
