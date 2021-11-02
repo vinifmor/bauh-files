@@ -128,6 +128,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -304,7 +305,8 @@ MeowSQL
 MeshLab
 MicroPad
 MieSimulatorGUI
-Mindmapp
+NepaliUnicode
+Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -504,7 +506,8 @@ Stellarium
 StockStalk
 StopLight
 Storaji
-Strata
+Tesseract
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -692,9 +695,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
+nxshell
+ommpfritt
+onnx2bnn
+onnx2daq
 openblok
 ossia_score
 osu
