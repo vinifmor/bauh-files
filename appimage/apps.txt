@@ -98,10 +98,10 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
-Detect_It_Easy
-DevHub
-Diffuse
-Digitales_Klassenzimmer
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
 Disass
 Discord
 DockStation
@@ -160,6 +160,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -199,6 +200,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -286,7 +288,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
+Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -319,6 +321,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -484,14 +487,13 @@ SnippetStore
 Soapy_SDR
 SocNetV
 Software-Challenge-GUI
-Summoners.War.Exporter
-Sup
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
+Sonist
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
+SpeedyLoader
+Spivak
 Syncplay
 SynfigStudio
 Synthein
@@ -675,12 +677,12 @@ laigter
 langly
 laravel-kit
 launcher
-le
-ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
+mtCellEdit
+mutool
+my-budget
+mybelka
+n3h
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -786,3 +788,16 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
