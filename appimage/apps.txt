@@ -105,6 +105,7 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
+DockStation
 DokiDokiModManager
 Downline
 Dragoman
@@ -293,6 +294,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -491,12 +493,11 @@ Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Speaky_MiniPlayer
+SpeedyLoader
+Spivak
+Stacer
+Standard_Notes
 Synthein
 T.Viewer
 Tablo_Tools
@@ -687,7 +688,6 @@ linux_czkawka_gui
 linuxdeployqt
 liskish-wallet
 lumi
-ngrev
 nheko
 nimbus-weather
 nordvpn-linux
