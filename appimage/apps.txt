@@ -102,10 +102,9 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Disass
-Discord
-DockStation
-DokiDokiModManager
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Downline
 Dragoman
 Drill
@@ -160,6 +159,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -199,6 +199,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -288,10 +289,9 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
+Martian
+MasterVyrn
+Mattermost_Desktop
 Musicalypse
 MyCrypto
 MyPaint
@@ -319,6 +319,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -487,10 +488,8 @@ Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
+Spark.Payments
+Speaky_MiniPlayer
 SyncMyL2P
 Syncplay
 SynfigStudio
@@ -677,12 +676,11 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-my-budget
-mybelka
-n3h
-nRF_Connect
-neovim
-ngPost
+lescovex
+lightning-peach-wallet
+linux-intel-undervolt-gui
+linux_czkawka_gui
+linuxdeployqt
 ngrev
 nheko
 nimbus-weather
@@ -792,3 +790,10 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
