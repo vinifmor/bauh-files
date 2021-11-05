@@ -121,7 +121,7 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-EncryptPad
+DeadGame-2048
 Endless_Sky
 EnvKey
 Eplee
@@ -509,8 +509,7 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Thunderbird_Beta
-Thunderbird_Nightly
+Substrate_IDE
 Tiled
 TilingGenerator
 Todoist
@@ -696,9 +695,9 @@ mapton
 marktext
 marlin-conf
 mdview
-onnx2daq
-openblok
-ossia_score
+media-dupes
+media_mate
+meta-grabber
 osu
 p2p-chat
 parsec-linux-appimage
