@@ -133,6 +133,7 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
+Eximchain_Wallet
 Explorook
 Exportoo
 EyeStalker
@@ -312,9 +313,10 @@ MiniZinc_IDE
 Mini_Diary
 Minions
 Mirage
-MoarPerf
-Mob
-Mockman
+NoTer
+Nostlan
+Notable
+NoteMaster
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -515,11 +517,11 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
+Todoist
+Tonuino_Toolbox
+Translatium
+TreeSheets
+Trezor_Suite
 Trinity_Desktop
 Tropy
 Tulip
@@ -703,6 +705,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
+mjml-app
 p2p-chat
 parsec-linux-appimage
 patchbay
