@@ -133,7 +133,6 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-Eximchain_Wallet
 Explorook
 Exportoo
 EyeStalker
@@ -308,11 +307,10 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Minetest
-MiniZinc_IDE
-Mini_Diary
-Minions
-Mirage
+Nexus_Wallet
+Niffler
+Nitrokey
+NixNote
 NoTer
 Nostlan
 Notable
@@ -516,7 +514,6 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -706,8 +703,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-p2p-chat
-parsec-linux-appimage
+mki3dgame
 patchbay
 pb-for-desktop
 pdf-sync
