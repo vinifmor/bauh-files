@@ -138,7 +138,7 @@ Downline
 Dragoman
 Drill
 Dust3D
-FMS_File_Explorer
+Dwyco_Phoo
 FastQt
 Ferdi
 Fidias_Database_Migration_App
@@ -309,8 +309,8 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
-Minions
-Mirage
+NoTer
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -519,7 +519,6 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -706,12 +705,13 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
-pkg2appimage
-playyourdamnturn.com
+movie-monad
+mtCellEdit
+mutool
+my-budget
+mybelka
+n3h
+nRF_Connect
 plotjuggler
 pnpm
 polar-bookshelf
