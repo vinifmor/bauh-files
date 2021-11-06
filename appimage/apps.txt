@@ -131,9 +131,10 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
-Eximchain_Wallet
-Explorook
-Exportoo
+Discord
+DockStation
+DokiDokiModManager
+Downline
 EyeStalker
 F-CRM
 FAT_Wallet
@@ -309,6 +310,7 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
+NixNote
 NoTer
 Nostlan
 Notable
@@ -516,8 +518,10 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
-Trezor_Suite
-Trinity_Desktop
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -708,6 +712,8 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
+mybelka
+n3h
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
