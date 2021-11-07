@@ -144,7 +144,6 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
 Filmulator
 FireDM
 Firefox_Beta
@@ -316,7 +315,6 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -525,10 +523,9 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
+Synthein
+T.Viewer
+Tablo_Tools
 Turntable
 Tusk
 TweakSophia
@@ -720,7 +717,6 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
