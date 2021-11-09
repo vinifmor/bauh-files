@@ -288,8 +288,8 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
-Markman
+Moonlight
+Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
@@ -493,7 +493,7 @@ Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
-SyncMyL2P
+Spivak
 Syncplay
 SynfigStudio
 Synthein
@@ -678,7 +678,7 @@ langly
 laravel-kit
 launcher
 le
-ledger-live-desktop
+mutool
 my-budget
 mybelka
 n3h
