@@ -93,19 +93,18 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Downline
 Dragoman
 Drill
@@ -160,6 +159,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -199,6 +199,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -287,7 +288,6 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
@@ -319,6 +319,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -489,11 +490,12 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SpeedyLoader
-Spivak
-Stacer
-Standard_Notes
-Statsbook_Tool
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -675,12 +677,11 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
-linuxdeployqt
-liskish-wallet
+mybelka
+n3h
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -794,5 +795,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
 zsync2
