@@ -119,7 +119,6 @@ DFileManager
 Dana
 Datcord
 DawnlightSearch
-DbGate
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -298,10 +297,9 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-My_Jira
-NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
+MegaBasterd
+Melodie
+Memento
 NanoVault
 Negibox
 Neon
@@ -504,9 +502,9 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-TeslaCam_Browser
-Tesseract
-ThermusQt
+StopLight
+Storaji
+Strata
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -694,7 +692,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
