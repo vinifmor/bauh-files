@@ -99,11 +99,11 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
+Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
 DokiDokiModManager
 Downline
 Dragoman
@@ -159,7 +159,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -199,7 +198,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -280,12 +278,13 @@ M
 MAngbandClient
 MDL
 MLV-App
-Minions
-Mirage
-MoarPerf
-Mob
-Mockman
-Moonlight
+MMapper
+MQTT-Explorer
+MQTTCute
+MagicFountain
+Malice
+Manta
+Mapeo
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -318,7 +317,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -483,8 +481,8 @@ SmartGit
 SnippetStore
 Soapy_SDR
 SocNetV
-Summoners.War.Exporter
-Sup
+Software-Challenge-GUI
+Sonist
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -677,12 +675,12 @@ launcher
 le
 ledger-live-desktop
 lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
-linuxdeployqt
-liskish-wallet
-lumi
+n3h
+nRF_Connect
+neovim
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -786,14 +784,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
