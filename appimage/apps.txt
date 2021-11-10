@@ -121,6 +121,7 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
+DeadGame-2048
 EncryptPad
 Endless_Sky
 EnvKey
@@ -302,6 +303,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
+Negibox
 Neon
 NepaliUnicode
 Newlogic
@@ -504,6 +506,7 @@ Stellarium
 StockStalk
 StopLight
 Storaji
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -694,9 +697,10 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
-meta-grabber
+onnx2bnn
+onnx2daq
+openblok
+ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
