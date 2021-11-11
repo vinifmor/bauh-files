@@ -113,8 +113,6 @@ CubicSDR
 Cura
 CustomRPC
 CutePeaks
-CuteVariant
-Cutter
 Eksplode.re
 ElDumper
 Electorrent
@@ -297,9 +295,8 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
+MyPaint
+My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
@@ -503,9 +500,6 @@ StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -694,7 +688,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
