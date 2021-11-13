@@ -124,7 +124,7 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Demonizer
+Eplee
 Eqonomize
 Etcher
 Eternal-Lands
@@ -303,8 +303,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-NepaliUnicode
-Newlogic
+MieSimulatorGUI
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -506,7 +505,6 @@ StopLight
 Storaji
 Strata
 Streamlink
-Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
@@ -705,7 +703,6 @@ moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
-pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
