@@ -134,6 +134,7 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
@@ -311,9 +312,9 @@ MiniZinc_IDE
 Mini_Diary
 Minions
 Mirage
-Nostlan
-Notable
-NoteMaster
+MoarPerf
+Mob
+Mockman
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -515,9 +516,10 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-Superpaper
-SwagLyrics
-SwiftnessX
+Tonuino_Toolbox
+Translatium
+TreeSheets
+Trezor_Suite
 Trinity_Desktop
 Tropy
 Tulip
@@ -709,6 +711,8 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
+pigs-n-cows
+pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
