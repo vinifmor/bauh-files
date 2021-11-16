@@ -106,10 +106,11 @@ Cromberg
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -496,6 +497,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -682,6 +684,7 @@ lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
+nRF_Connect
 neovim
 ngPost
 ngrev
