@@ -110,6 +110,7 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -293,6 +294,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
@@ -493,9 +495,8 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-Syncplay
-SynfigStudio
-Synthein
+Stacer
+Standard_Notes
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -678,8 +679,8 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-lescovex
-lightning-peach-wallet
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
