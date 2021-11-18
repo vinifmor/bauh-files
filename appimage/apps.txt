@@ -99,7 +99,7 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-Diffuse
+ConsoleWorkbench
 Digitales_Klassenzimmer
 Disass
 Discord
@@ -159,6 +159,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -198,6 +199,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -285,8 +287,8 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Motrix
-Mr.Dclutterer
+Mark_Mind
+Markman
 MuPDF
 Museeks
 Music_Blocks
@@ -317,6 +319,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -385,6 +388,7 @@ Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -480,7 +484,7 @@ SmartGit
 SnippetStore
 Soapy_SDR
 SocNetV
-Software-Challenge-GUI
+SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
@@ -575,6 +579,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -669,8 +675,8 @@ ksnip
 laigter
 langly
 laravel-kit
-launcher
-le
+movie-monad
+mtCellEdit
 mutool
 my-budget
 mybelka
@@ -776,3 +782,21 @@ vREST_NG
 vifm
 violetbug
 vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
