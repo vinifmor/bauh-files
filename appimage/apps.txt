@@ -128,11 +128,12 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
+Eternal-Lands
+EverInst
+ExeQt
+ExifCleaner
+Eximchain_Wallet
+Explorook
 Exportoo
 EyeStalker
 F-CRM
@@ -305,6 +306,7 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
+Newlogic
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -506,9 +508,10 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
@@ -701,6 +704,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+moolticute
 pdf-sync
 perl-executing-browser
 photoname
