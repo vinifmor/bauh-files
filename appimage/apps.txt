@@ -140,8 +140,10 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Ferdi
-Fidias_Database_Migration_App
+Eagle_Mode
+Eksplode.re
+ElDumper
+Electorrent
 Figma
 Filmulator
 FireDM
@@ -313,7 +315,8 @@ Minions
 Mirage
 MoarPerf
 Mob
-Mockman
+Notable
+NoteMaster
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -516,6 +519,8 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
+SwiftnessX
+SwitchHosts!
 Trezor_Suite
 Trinity_Desktop
 Tropy
@@ -708,9 +713,10 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
-n3h
-nRF_Connect
+pigs-n-cows
+pingviewer
+pkg2appimage
+playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
