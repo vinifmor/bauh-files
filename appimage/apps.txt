@@ -122,9 +122,9 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-Endless_Sky
-EnvKey
-Eplee
+DeepTags
+Delir
+Demonizer
 Eqonomize
 Etcher
 Eternal-Lands
@@ -503,7 +503,7 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Tesseract
+Storaji
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -697,10 +697,10 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-mjml-app
-mki3dgame
+osu
+p2p-chat
+parsec-linux-appimage
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
