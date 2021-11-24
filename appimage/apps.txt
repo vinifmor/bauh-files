@@ -120,7 +120,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
 Elphyre-WalletShell
 Emacs
 EncryptPad
@@ -304,8 +303,8 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-MicroPad
-MieSimulatorGUI
+Negibox
+Neon
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -498,7 +497,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Statsbook_Tool
+Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -695,10 +694,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-nx-software-center
-nxshell
-ommpfritt
-onnx2bnn
+marlin-conf
+mdview
+media-dupes
 onnx2daq
 openblok
 ossia_score
