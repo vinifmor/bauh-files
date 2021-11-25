@@ -128,7 +128,6 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
 Eternal-Lands
 EverInst
 ExeQt
@@ -308,10 +307,10 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Minetest
-MiniZinc_IDE
-Mini_Diary
-Minions
+Nextcloud
+Nexus_Wallet
+Niffler
+Nitrokey
 NixNote
 NoTer
 Nostlan
@@ -511,8 +510,8 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
-Subsurface
+Thunderbird_Beta
+Thunderbird_Nightly
 Tiled
 TilingGenerator
 Todoist
@@ -706,9 +705,8 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
-movie-monad
-mtCellEdit
+pb-for-desktop
+pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
