@@ -123,7 +123,8 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
+EncryptPad
+Endless_Sky
 EnvKey
 Eplee
 Eqonomize
@@ -304,6 +305,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
+Negibox
 Neon
 NepaliUnicode
 Newlogic
@@ -502,8 +504,9 @@ StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
-TeXstudio
-TeleDrive
+Stellarium
+StockStalk
+StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -697,6 +700,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
