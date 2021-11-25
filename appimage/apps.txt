@@ -120,12 +120,12 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
+Elphyre-WalletShell
+Emacs
+EncryptPad
+Endless_Sky
+EnvKey
+Eplee
 Eqonomize
 Etcher
 Eternal-Lands
@@ -505,6 +505,7 @@ Stele
 Stellarium
 StockStalk
 StopLight
+Storaji
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -697,7 +698,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-onnx2daq
+media_mate
 openblok
 ossia_score
 osu
