@@ -134,11 +134,10 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
-FF-Password-Exporter
+Downline
+Dragoman
+Drill
+Dust3D
 FMS_File_Explorer
 FastQt
 Ferdi
@@ -314,7 +313,7 @@ Minions
 Mirage
 MoarPerf
 Mob
-NoteMaster
+Mockman
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -508,8 +507,8 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
-Substrate_IDE
+Thunderbird_Beta
+Thunderbird_Nightly
 Tiled
 TilingGenerator
 Todoist
