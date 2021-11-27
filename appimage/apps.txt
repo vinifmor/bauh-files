@@ -133,8 +133,7 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-Explorook
-Exportoo
+DokiDokiModManager
 EyeStalker
 F-CRM
 FAT_Wallet
@@ -309,8 +308,7 @@ Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
-Niffler
-Nitrokey
+Mini_Diary
 NixNote
 NoTer
 Nostlan
@@ -516,8 +514,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-Tonuino_Toolbox
-Translatium
+Superpaper
 TreeSheets
 Trezor_Suite
 Trinity_Desktop
@@ -707,12 +704,10 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-mtCellEdit
-mutool
-my-budget
-mybelka
-n3h
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
