@@ -134,6 +134,8 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
@@ -314,6 +316,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
+Moonlight
+OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -512,7 +516,8 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Tonuino_Toolbox
+Sup
+Superpaper
 Translatium
 TreeSheets
 Trezor_Suite
@@ -707,9 +712,12 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
+mybelka
+n3h
+nRF_Connect
+neovim
+ngPost
+ngrev
 pnpm
 polar-bookshelf
 pomotroid
