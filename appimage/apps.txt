@@ -146,6 +146,7 @@ ElDumper
 Electorrent
 ElectroCRUD
 Electron_App_Store
+Elements
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -316,7 +317,7 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -517,10 +518,12 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
-Trezor_Suite
-Trinity_Desktop
-Tropy
-Tulip
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -714,6 +717,7 @@ n3h
 nRF_Connect
 neovim
 ngPost
+pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
