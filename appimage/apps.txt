@@ -137,8 +137,8 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
+FAT_Wallet
+FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
@@ -317,7 +317,6 @@ Mob
 Mockman
 Moonlight
 Motrix
-OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -523,8 +522,8 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tulip
-Tumblr_Downloader_GUI
+SynfigStudio
+Synthein
 Tumblr_Scraper
 TurboWarp
 Turntable
@@ -718,8 +717,8 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
-pomotroid
+nheko
+nimbus-weather
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
