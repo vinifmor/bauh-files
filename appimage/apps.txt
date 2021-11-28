@@ -139,11 +139,11 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
-Eksplode.re
-ElDumper
-Electorrent
+FastQt
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -313,7 +313,7 @@ Minions
 Mirage
 MoarPerf
 Mob
-Mockman
+NoteMaster
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -510,8 +510,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Tiled
-TilingGenerator
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -709,6 +710,7 @@ mtCellEdit
 mutool
 my-budget
 mybelka
+n3h
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
