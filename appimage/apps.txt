@@ -133,6 +133,7 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
+DokiDokiModManager
 Exportoo
 EyeStalker
 F-CRM
@@ -308,7 +309,7 @@ Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
-Mini_Diary
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -507,12 +508,12 @@ StopLight
 Storaji
 Strata
 Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
+Thorium_Reader
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
+TilingGenerator
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -710,6 +711,7 @@ mtCellEdit
 mutool
 my-budget
 mybelka
+n3h
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
