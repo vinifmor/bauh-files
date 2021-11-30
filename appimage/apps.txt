@@ -101,9 +101,9 @@ Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
-Digitales_Klassenzimmer
-Disass
-Discord
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
 DockStation
 DokiDokiModManager
 Downline
@@ -290,9 +290,10 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
-Mattermost_Desktop
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
@@ -491,7 +492,6 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
@@ -678,7 +678,8 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-mybelka
+lescovex
+lightning-peach-wallet
 n3h
 nRF_Connect
 neovim
