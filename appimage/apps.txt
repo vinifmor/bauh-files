@@ -122,7 +122,8 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-Endless_Sky
+DeepTags
+Delir
 EnvKey
 Eplee
 Eqonomize
@@ -501,7 +502,8 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-TeslaCam_Browser
+StockStalk
+StopLight
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -695,6 +697,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+openblok
 ossia_score
 osu
 p2p-chat
