@@ -125,10 +125,10 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Diffuse
+Eqonomize
+Etcher
+Eternal-Lands
+EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
@@ -302,7 +302,6 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-MicroPad
 Neon
 NepaliUnicode
 Newlogic
@@ -502,9 +501,8 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
-Storaji
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -696,7 +694,8 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+onnx2bnn
+onnx2daq
 openblok
 ossia_score
 osu
