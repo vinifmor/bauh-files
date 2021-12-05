@@ -130,9 +130,8 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
+ExifCleaner
+Eximchain_Wallet
 Explorook
 Exportoo
 EyeStalker
@@ -308,7 +307,6 @@ MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
-Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
@@ -507,12 +505,11 @@ StockStalk
 StopLight
 Storaji
 Strata
-ThermusQt
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
+Streamlink
+Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
 TilingGenerator
 Todoist
 Tonuino_Toolbox
@@ -707,7 +704,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
