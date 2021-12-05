@@ -143,8 +143,6 @@ ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
-Electorrent
-Figma
 Filmulator
 FireDM
 Firefox_Beta
@@ -317,9 +315,8 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -519,8 +516,8 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-Trezor_Suite
-Trinity_Desktop
+SwitchHosts!
+Symphonium
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -716,9 +713,8 @@ mybelka
 n3h
 nRF_Connect
 neovim
-ngPost
-ngrev
-nheko
+pnpm
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
