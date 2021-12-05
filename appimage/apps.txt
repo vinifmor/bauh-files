@@ -513,6 +513,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
+Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -712,11 +713,11 @@ mutool
 my-budget
 mybelka
 n3h
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
+nRF_Connect
+neovim
+ngPost
+ngrev
+nheko
 pomotroid
 pretty-handy-privacy
 privacy.sexy
