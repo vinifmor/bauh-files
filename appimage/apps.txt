@@ -111,8 +111,8 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-ERScaffold
-Eagle_Mode
+CustomRPC
+CutePeaks
 Eksplode.re
 ElDumper
 Electorrent
@@ -293,6 +293,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
@@ -490,12 +491,11 @@ Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Speaky_MiniPlayer
+SpeedyLoader
+Spivak
+Stacer
+Standard_Notes
 Synthein
 T.Viewer
 Tablo_Tools
@@ -690,7 +690,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
