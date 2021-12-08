@@ -122,7 +122,9 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
+EncryptPad
+Endless_Sky
+EnvKey
 Eplee
 Eqonomize
 Etcher
@@ -298,8 +300,9 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NX_Software_Center
-NanoVault
+Memento
+MeowSQL
+MeshLab
 Negibox
 Neon
 NepaliUnicode
@@ -693,9 +696,9 @@ mapton
 marktext
 marlin-conf
 mdview
-onnx2daq
-openblok
-ossia_score
+media-dupes
+media_mate
+meta-grabber
 osu
 p2p-chat
 parsec-linux-appimage
