@@ -127,8 +127,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
-Electron_App_Store
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -303,8 +302,6 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Mini_Diary
-Neon
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -504,9 +501,7 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-Substrate_IDE
-Symphonium
-Tesseract
+StopLight
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -695,12 +690,10 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-marlin-conf
-mdview
-media-dupes
-mki3dgame
-ngPost
+ommpfritt
+onnx2bnn
+onnx2daq
+openblok
 ossia_score
 osu
 p2p-chat
