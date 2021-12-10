@@ -114,10 +114,10 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-ElDumper
-Electorrent
-ElectroCRUD
-Electron_App_Store
+Cutter
+DFileManager
+Dana
+Datcord
 Elements
 Elphyre-WalletShell
 Emacs
@@ -160,6 +160,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -199,6 +200,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -297,8 +299,8 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NX_Software_Center
-NanoVault
+Memento
+MeowSQL
 Negibox
 Neon
 NepaliUnicode
@@ -319,6 +321,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -490,8 +493,8 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-SynfigStudio
-Synthein
+Stacer
+Standard_Notes
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -680,15 +683,16 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 liskish-wallet
+logseq
 lumi
-luminance-hdr
-luna
-makoureactor
-mandelbulber2
-mapollage
-mapton
-marktext
-marlin-conf
+nheko
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
+nx-software-center
+nxshell
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -791,3 +795,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
