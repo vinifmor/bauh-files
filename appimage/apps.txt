@@ -127,9 +127,9 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
-Diffuse
-Digitales_Klassenzimmer
+Eternal-Lands
+EverInst
+ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
@@ -305,9 +305,9 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
-MineTime
-Minetest
-MiniZinc_IDE
+Nextcloud
+Nexus_Wallet
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -503,6 +503,7 @@ Stele
 Stellarium
 StockStalk
 StopLight
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -699,9 +700,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
-mki3dgame
+p2p-chat
+parsec-linux-appimage
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
