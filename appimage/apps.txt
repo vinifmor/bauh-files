@@ -124,9 +124,8 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Demonizer
-Deployer
-Detect_It_Easy
+Eplee
+Eqonomize
 Etcher
 Eternal-Lands
 EverInst
@@ -302,8 +301,7 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-NanoVault
-Negibox
+MeshLab
 Neon
 NepaliUnicode
 Newlogic
@@ -497,10 +495,9 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
+Statsbook_Tool
+StatusPilatus
+SteamCAD
 Taskizer
 TeXstudio
 TeleDrive
@@ -699,7 +696,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-openblok
 ossia_score
 osu
 p2p-chat
