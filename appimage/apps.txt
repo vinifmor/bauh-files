@@ -144,9 +144,10 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-Filmulator
-FireDM
-Firefox_Beta
+ElectroCRUD
+Electron_App_Store
+Elements
+Elphyre-WalletShell
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -315,8 +316,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
+OCRmyPDF
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -520,7 +521,6 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
 Tropy
 Tulip
 Tumblr_Downloader_GUI
