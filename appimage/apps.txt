@@ -144,10 +144,10 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
-Electron_App_Store
-Elements
-Elphyre-WalletShell
+Figma
+Filmulator
+FireDM
+Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -316,6 +316,9 @@ Mirage
 MoarPerf
 Mob
 Mockman
+Mr.Dclutterer
+Music_Blocks
+Nitrokey
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -521,6 +524,7 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
+SyncMyL2P
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -718,7 +722,8 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
+onnx2bnn
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
