@@ -13,3 +13,5 @@ electron:
 
 electron-wvvmp:
   version: '11.0.3'
+  url: 'https://github.com/castlabs/electron-releases/releases/download/v{version}-wvvmp/electron-v{version}-wvvmp-linux-{arch}.zip'
+  sha_url: 'https://github.com/castlabs/electron-releases/releases/download/v{version}-wvvmp/SHASUMS256.txt'
