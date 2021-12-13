@@ -8,6 +8,8 @@ nativefier:
 
 electron:
   version: '11.0.3'
+  url: 'https://github.com/electron/electron/releases/download/v{version}/electron-v{version}-linux-{arch}.zip'
+  sha_url: 'https://github.com/electron/electron/releases/download/v{version}/SHASUMS256.txt'
 
 electron-wvvmp:
   version: '11.0.3'
