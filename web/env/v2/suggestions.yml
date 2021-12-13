@@ -1,0 +1,329 @@
+youtube:
+  name: YouTube
+  url: https://www.youtube.com
+  category: Network
+  priority: 1
+
+facebook:
+  name: Facebook
+  url: https://www.facebook.com
+  category: Network
+  priority: 3
+
+instagram:
+  name: Instagram
+  url: https://www.instagram.com
+  category: Network
+  save_icon: true
+  priority: 3
+
+twitch:
+  name: Twitch
+  description:
+    en: Streaming service
+    pt: Serviço de streaming
+    es: Servicio de streaming
+    it: Servizio di streaming
+    ca: Servei de streaming
+    de: Streaming-Dienst
+  url: https://www.twitch.tv
+  category: Network
+  priority: 1
+
+whatsapp:
+  name: WhatsApp
+  description: 
+    en: Messaging and call service
+    pt: Serviço de mensagens e chamadas
+    es: Servicio de mensajes y llamadas
+    it: Servizio di messaggi e chiamate
+    ca: Servei de missatges i trucades
+    de: Ein Nachrichten- und Anrufservice
+  url: https://web.whatsapp.com
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
+"
+  category: Network
+  options: [tray_min]
+  priority: 3
+
+telegram:
+  name: Telegram
+  description: 
+    en: Messaging and call service
+    pt: Serviço de mensagens e chamadas
+    es: Servicio de mensajes y llamadas
+    it: Servizio di messaggi e chiamate
+    ca: Servei de missatges i trucades
+    de: Ein Nachrichten- und Anrufservice
+  url: https://web.telegram.org
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+slack:
+  name: Slack
+  description: 
+    en: Cloud message service
+    pt: Serviço de mensagens na nuvem
+    es: Servicio de mensajes en la nube
+    it: Servizio di messaggi cloud
+    ca: Servei de missatges al núvol
+    de: Cloud-Nachrichtendienst
+  url: https://slack.com
+  category: Network
+  options: [tray_min]
+  priority: 3
+
+
+office:
+  name: Microsoft Office
+  description:
+    en: Cloud's Office
+    pt: Office na nuvem
+    es: Office de la nube
+    it: Office's Word
+    ca: Office del núvol
+    de: Office der Wolke
+  url: https://www.office.com
+  category: Office
+  priority: 0
+
+ms_excel:
+  name: Microsoft Excel
+  description:
+    en: Cloud's Excel
+    pt: Excel na nuvem
+    es: Excel de la nube
+    it: Excel's Word
+    ca: Excel del núvol
+    de: Excel der Wolke
+  url: https://www.office.com/launch/excel
+  icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico
+  save_icon: true
+  category: Office
+  priority: 1
+
+ms_word:
+  name: Microsoft Word
+  description:
+    en: Cloud's Word
+    pt: Word na nuvem
+    es: Word de la nube
+    it: Cloud's Word
+    ca: Word del núvol
+    de: Word der Wolke
+  url: https://www.office.com/launch/word
+  icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-word-svg-8eedb3d95e.ico
+  save_icon: true
+  category: Office
+  priority: 1
+
+ms_pp:
+  name: Microsoft Powerpoint
+  description:
+    en: Cloud's Powerpoint
+    pt: Powerpoint na nuvem
+    es: Powerpoint de la nube
+    it: Cloud's Powerpoint
+    ca: Powerpoint del núvol
+    de: Powerpoint der Wolke
+  url: https://www.office.com/launch/powerpoint
+  icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico
+  save_icon: true
+  category: Office
+  priority: 1
+
+ms_outlook:
+  name: Microsoft Outlook
+  url: https://outlook.live.com
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+ms_drive:
+  name: Microsoft One Drive
+  url: https://www.onedrive.live.com
+  category: Utility
+  priority: 0
+
+reddit:
+  name: Reddit
+  url: https://www.reddit.com
+  category: Network
+  priority: 0
+
+google-drive:
+  name: Google Drive
+  url: https://drive.google.com
+  category: Utility
+  priority: 1
+
+google-keep:
+  name: Google Keep
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  url: https://keep.google.com
+  icon_url: https://ssl.gstatic.com/keep/icon_128.png
+  save_icon: false
+  category: Utility
+  options: [tray_min]
+  priority: 2
+
+google-photos:
+  name: Google Photos
+  url: https://photos.google.com
+  save_icon: false
+  category: Network
+  priority: 2
+
+google-cal:
+  name: Google Calendar
+  url: https://calendar.google.com
+  icon_url: https://calendar.google.com/googlecalendar/images/favicon_v2018_256.png
+  category: Utility
+  options: [tray_min]
+  priority: 1
+
+google-sheets:
+  name: Google Sheets
+  url: https://docs.google.com/spreadsheets/
+  icon_url: https://ssl.gstatic.com/docs/spreadsheets/favicon3.ico
+  category: Office
+  priority: 1
+
+google-docs:
+  name: Google Docs
+  url: https://docs.google.com/document
+  icon_url: https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico
+  category: Office
+  priority: 1
+
+google-pres:
+  name: Google Presentation
+  url: https://docs.google.com/presentation
+  icon_url: https://ssl.gstatic.com/docs/presentations/images/favicon5.ico
+  category: Office
+  priority: 1
+
+google-hangouts:
+  name: Google Hangouts
+  url: https://hangouts.google.com
+  category: Network
+  options: [tray_min]
+  priority: 0
+
+gmail:
+  name: GMail
+  url: https://gmail.com
+  icon_url: https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
+  save_icon: true
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+mega:
+  name: Mega
+  url: https://www.mega.nz
+  category: Utility
+  priority: 0
+
+tweetdeck:
+  name: TweetDeck
+  url: https://tweetdeck.twitter.com
+  category: Network
+  priority: 2
+
+twitter:
+  name: Twitter
+  url: https://twitter.com
+  category: Network
+  priority: 3
+
+evernote:
+  name: Evernote
+  url: https://www.evernote.com/client/web
+  icon_url: https://www.evernote.com/favicon.ico?v2
+  save_icon: false
+  category: Utility
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  options: [tray_min]
+  priority: 2
+
+onenote:
+  name: OneNote
+  url: https://www.onenote.com
+  icon_url: https://site-cdn.onenote.net/161241631557_Images/FavIcon_OneNote.ico
+  save_icon: false
+  category: Utility
+  description:
+    en: Cloud notes service
+    pt: Serviço de notas em nuvem
+    es: Servicio de notas en la nube
+    it: Servizio note cloud
+    ca: Servei de notes al núvol
+    de: Cloud Notes-Dienst
+  options: [tray_min]
+  priority: 1
+
+protonmail:
+  name: ProtonMail
+  url: https://protonmail.com
+  save_icon: false
+  category: Network
+  options: [tray_min]
+  priority: 2
+
+trello:
+  name: Trello
+  url: https://trello.com
+  icon_url: https://a.trellocdn.com/prgb/dist/images/ios/apple-touch-icon-precomposed.8de2074e8a785dd5d498.png
+  save_icon: true
+  category: Network
+  options: [max]
+  priority: 1
+
+netflix:
+  name: Netflix
+  url: https://netflix.com
+  icon_url: https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico
+  save_icon: true
+  category: Video
+  options: [max, widevine]
+  priority: 3
+
+primevideo:
+  name: Prime Video
+  url: https://primevideo.com
+  icon_url: https://m.media-amazon.com/images/G/01/digital/video/DVUI/favicons/favicon._CB527404570_.png
+  save_icon: true
+  category: Video
+  options: [max, widevine]
+  priority: 3
+
+disneyplus:
+  name: Disney Plus
+  url: https://disneyplus.com
+  icon_url: https://prod-static.disney-plus.net/us-west-2/builds/9a2417ffbea5858e7ced61f994f7a565140a9e26_1605588680949/images/favicons/safari-pinned-tab.svg
+  save_icon: true
+  category: Video
+  options: [max, widevine]
+  priority: 3
+
+notion:
+  name: Notion
+  url: https://www.notion.so
+  save_icon: false
+  category: Network
+  options: [tray_min]
+  priority: 2

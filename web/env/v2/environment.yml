@@ -1,0 +1,13 @@
+nodejs:
+  version: '14.15.1'
+  url: 'https://nodejs.org/dist/v{version}/node-v{version}-linux-x64.tar.xz'
+
+nativefier:
+  url: 'https://github.com/nativefier/nativefier/archive/v{version}.tar.gz'
+  version: '42.0.2'
+
+electron:
+  version: '11.0.3'
+
+electron-wvvmp:
+  version: '11.0.3'
