@@ -1,17 +1,17 @@
 nodejs:
-  version: '14.15.1'
+  version: '16.13.1'
   url: 'https://nodejs.org/dist/v{version}/node-v{version}-linux-x64.tar.xz'
 
 nativefier:
   url: 'https://github.com/nativefier/nativefier/archive/v{version}.tar.gz'
-  version: '42.0.2'
+  version: '45.0.8'
 
 electron:
-  version: '11.0.3'
+  version: '13.6.3'
   url: 'https://github.com/electron/electron/releases/download/v{version}/electron-v{version}-linux-{arch}.zip'
   sha_url: 'https://github.com/electron/electron/releases/download/v{version}/SHASUMS256.txt'
 
 electron-wvvmp:
-  version: '11.0.3'
+  version: '13.6.3'
   url: 'https://github.com/castlabs/electron-releases/releases/download/v{version}-wvvmp/electron-v{version}-wvvmp-linux-{arch}.zip'
   sha_url: 'https://github.com/castlabs/electron-releases/releases/download/v{version}-wvvmp/SHASUMS256.txt'
