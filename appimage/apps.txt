@@ -121,7 +121,6 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-EncryptPad
 Endless_Sky
 EnvKey
 Eplee
@@ -301,11 +300,10 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-MeshLab
-MicroPad
-MieSimulatorGUI
-Mindmapp
-MineTime
+Neon
+NepaliUnicode
+Newlogic
+Nextcloud
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -501,10 +499,9 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-TeleDrive
-TeslaCam_Browser
-Tesseract
-ThermusQt
+StockStalk
+StopLight
+Storaji
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -702,7 +699,6 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
