@@ -128,8 +128,9 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
-Digitales_Klassenzimmer
+Eternal-Lands
+EverInst
+ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
@@ -306,7 +307,7 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Nexus_Wallet
+Minetest
 Niffler
 Nitrokey
 NixNote
@@ -697,11 +698,11 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
-mjml-app
-mki3dgame
+ossia_score
+osu
+p2p-chat
+parsec-linux-appimage
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
