@@ -128,7 +128,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
+EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
@@ -303,9 +303,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Neon
-NepaliUnicode
-Newlogic
+MieSimulatorGUI
+Mindmapp
 Nextcloud
 Nexus_Wallet
 Niffler
@@ -504,8 +503,8 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Tesseract
-ThermusQt
+Storaji
+Strata
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -697,8 +696,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
+onnx2daq
+openblok
+ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
