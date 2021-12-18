@@ -143,7 +143,7 @@ ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
-Electorrent
+Figma
 Filmulator
 FireDM
 Firefox_Beta
@@ -313,8 +313,8 @@ Mini_Diary
 Minions
 Mirage
 MoarPerf
-Notable
-NoteMaster
+Mob
+Mockman
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -514,12 +514,12 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Todoist
-Tonuino_Toolbox
-Translatium
-TreeSheets
-Trezor_Suite
-Trinity_Desktop
+Sup
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -713,6 +713,7 @@ mutool
 my-budget
 mybelka
 n3h
+nRF_Connect
 playyourdamnturn.com
 plotjuggler
 pnpm
