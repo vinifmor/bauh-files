@@ -314,7 +314,7 @@ Minions
 Mirage
 MoarPerf
 Mob
-Mockman
+NoteMaster
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -508,11 +508,12 @@ Storaji
 Strata
 Streamlink
 Streamon
-Thunderbird_Beta
-Thunderbird_Nightly
-Tiled
-TilingGenerator
-Todoist
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 Tonuino_Toolbox
 Translatium
 TreeSheets
@@ -710,7 +711,7 @@ mtCellEdit
 mutool
 my-budget
 mybelka
-n3h
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
