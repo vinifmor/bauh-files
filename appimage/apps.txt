@@ -145,7 +145,6 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -314,10 +313,8 @@ Minions
 Mirage
 MoarPerf
 Mob
-Notable
-NoteMaster
-OCRmyPDF
-OCVWarp
+Mockman
+Moonlight
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -520,10 +517,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Tropy
+Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -717,10 +712,9 @@ mybelka
 n3h
 nRF_Connect
 neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
+pnpm
+polar-bookshelf
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
