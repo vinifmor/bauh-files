@@ -122,7 +122,8 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
+EncryptPad
+Endless_Sky
 EnvKey
 Eplee
 Eqonomize
@@ -302,6 +303,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
+MicroPad
 Neon
 NepaliUnicode
 Newlogic
@@ -501,11 +503,10 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
-Storaji
-Strata
-Streamlink
+TeleDrive
+TeslaCam_Browser
+Tesseract
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -695,8 +696,9 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+ommpfritt
+onnx2bnn
+onnx2daq
 openblok
 ossia_score
 osu
