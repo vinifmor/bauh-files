@@ -130,7 +130,7 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-ExifCleaner
+Disass
 Eximchain_Wallet
 Explorook
 Exportoo
@@ -303,13 +303,13 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-NepaliUnicode
-Newlogic
-Nextcloud
-Nexus_Wallet
-Niffler
-Nitrokey
-NixNote
+MieSimulatorGUI
+Mindmapp
+MineTime
+Minetest
+MiniZinc_IDE
+Mini_Diary
+Minions
 NoTer
 Nostlan
 Notable
@@ -507,6 +507,7 @@ Storaji
 Strata
 Streamlink
 Streamon
+Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
 TilingGenerator
@@ -700,6 +701,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+mki3dgame
 pb-for-desktop
 pdf-sync
 perl-executing-browser
