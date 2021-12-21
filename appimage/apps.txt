@@ -114,12 +114,12 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-ElDumper
-Electorrent
-ElectroCRUD
-Electron_App_Store
-Elements
-Elphyre-WalletShell
+Cutter
+DFileManager
+Dana
+Datcord
+DawnlightSearch
+DbGate
 Emacs
 EncryptPad
 Endless_Sky
@@ -297,8 +297,8 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
-Melodie
+NCSA_Mosaic
+NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
@@ -493,7 +493,7 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-Stacer
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -692,7 +692,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ommpfritt
 onnx2bnn
 onnx2daq
