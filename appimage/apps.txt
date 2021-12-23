@@ -299,10 +299,11 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
+Melodie
+Memento
+MeowSQL
+MeshLab
+MicroPad
 Neon
 NepaliUnicode
 Newlogic
@@ -502,8 +503,6 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -696,8 +695,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ommpfritt
-onnx2bnn
+marlin-conf
+mdview
 onnx2daq
 openblok
 ossia_score
