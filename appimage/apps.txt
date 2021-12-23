@@ -120,8 +120,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Elphyre-WalletShell
-Emacs
+DeDop-studio
+DeadGame-2048
 EncryptPad
 Endless_Sky
 EnvKey
@@ -304,8 +304,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Neon
-NepaliUnicode
+MieSimulatorGUI
+Mindmapp
 Newlogic
 Nextcloud
 Nexus_Wallet
@@ -503,6 +503,8 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
+StockStalk
+StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -697,6 +699,7 @@ mapton
 marktext
 marlin-conf
 mdview
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
