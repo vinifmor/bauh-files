@@ -145,8 +145,7 @@ Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
-Electron_App_Store
-Elements
+FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -315,7 +314,7 @@ Minions
 Mirage
 MoarPerf
 Mob
-Notable
+Mockman
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -516,8 +515,8 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
-Superpaper
+Todoist
+Tonuino_Toolbox
 Translatium
 TreeSheets
 Trezor_Suite
@@ -715,7 +714,8 @@ mtCellEdit
 mutool
 my-budget
 mybelka
-pkg2appimage
+n3h
+nRF_Connect
 playyourdamnturn.com
 plotjuggler
 pnpm
