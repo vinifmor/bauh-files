@@ -148,9 +148,10 @@ ElectroCRUD
 Electron_App_Store
 Elements
 Elphyre-WalletShell
-Emacs
-EncryptPad
-Endless_Sky
+Firefox_ESR
+Firefox_Nightly
+Flippy_Qualitative_Testbench
+Fluent_Reader
 FocusWriter
 FontForge
 FontLet
@@ -318,8 +319,8 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-MuPDF
-Museeks
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -522,7 +523,7 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
+Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
@@ -716,9 +717,9 @@ n3h
 nRF_Connect
 neovim
 ngPost
-polar-bookshelf
-pomotroid
-pretty-handy-privacy
+ngrev
+nheko
+nimbus-weather
 privacy.sexy
 protonmail-desktop
 puush-qt
