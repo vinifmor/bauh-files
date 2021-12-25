@@ -142,7 +142,8 @@ Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
-Figma
+ElDumper
+Electorrent
 Filmulator
 FireDM
 Firefox_Beta
@@ -309,6 +310,7 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
+Nitrokey
 NixNote
 NoTer
 Nostlan
@@ -518,6 +520,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -713,8 +717,9 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-plotjuggler
-pnpm
+neovim
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
