@@ -144,7 +144,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
+FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -314,6 +314,7 @@ Mirage
 MoarPerf
 Mob
 Mockman
+OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -521,11 +522,11 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+TurboWarp
+Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
