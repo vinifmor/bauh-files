@@ -146,7 +146,8 @@ ElDumper
 Electorrent
 ElectroCRUD
 Electron_App_Store
-Firefox_Beta
+Elements
+Elphyre-WalletShell
 Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
@@ -523,11 +524,12 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+TurboWarp
+Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -720,6 +722,7 @@ neovim
 ngPost
 ngrev
 nheko
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
