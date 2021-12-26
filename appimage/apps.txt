@@ -144,9 +144,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
-Electron_App_Store
-Elements
+FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -316,12 +314,12 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
+OCRmyPDF
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -528,9 +526,8 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
+Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -720,8 +717,7 @@ n3h
 nRF_Connect
 neovim
 ngPost
-ngrev
-nheko
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
