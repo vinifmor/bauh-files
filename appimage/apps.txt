@@ -138,7 +138,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
 FMS_File_Explorer
 FastQt
 Ferdi
@@ -309,9 +308,8 @@ Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
-Mini_Diary
-Minions
-Mirage
+Nitrokey
+NixNote
 NoTer
 Nostlan
 Notable
@@ -521,9 +519,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Trinity_Desktop
-Tropy
-Tulip
+Symphonium
+SyncMyL2P
+Syncplay
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -716,8 +714,8 @@ mutool
 my-budget
 mybelka
 n3h
-pkg2appimage
-playyourdamnturn.com
+nRF_Connect
+neovim
 plotjuggler
 pnpm
 polar-bookshelf
