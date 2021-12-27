@@ -124,9 +124,10 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Demonizer
-Deployer
-Detect_It_Easy
+EnvKey
+Eplee
+Eqonomize
+Etcher
 Eternal-Lands
 EverInst
 ExeQt
@@ -299,8 +300,9 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NX_Software_Center
-NanoVault
+Memento
+MeowSQL
+MeshLab
 Negibox
 Neon
 NepaliUnicode
@@ -510,7 +512,8 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
+Thunderbird_Nightly
+Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
@@ -704,8 +707,9 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-pb-for-desktop
-pdf-sync
+moniteur-admin
+moolticute
+movie-monad
 perl-executing-browser
 photoname
 pigs-n-cows
