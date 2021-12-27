@@ -133,11 +133,10 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
+Exportoo
+EyeStalker
+F-CRM
+FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -310,9 +309,8 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
-Minions
-Mirage
-MoarPerf
+NixNote
+NoTer
 Nostlan
 Notable
 NoteMaster
@@ -514,8 +512,6 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -714,8 +710,6 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pigs-n-cows
-pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
