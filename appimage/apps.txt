@@ -126,7 +126,7 @@ DeepTags
 Delir
 Demonizer
 Deployer
-Etcher
+Detect_It_Easy
 Eternal-Lands
 EverInst
 ExeQt
@@ -305,9 +305,9 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
-Nextcloud
-Nexus_Wallet
-Niffler
+MineTime
+Minetest
+MiniZinc_IDE
 Nitrokey
 NixNote
 NoTer
@@ -502,7 +502,6 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -698,7 +697,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+openblok
 ossia_score
 osu
 p2p-chat
