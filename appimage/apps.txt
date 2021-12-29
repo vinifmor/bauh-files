@@ -128,7 +128,6 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -307,7 +306,6 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Nextcloud
 Nexus_Wallet
 Niffler
 Nitrokey
@@ -513,7 +511,6 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
@@ -701,7 +698,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-onnx2daq
 openblok
 ossia_score
 osu
