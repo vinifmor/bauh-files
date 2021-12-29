@@ -120,10 +120,11 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-EncryptPad
-Endless_Sky
-EnvKey
-Eplee
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
 Eqonomize
 Etcher
 Eternal-Lands
@@ -302,7 +303,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Newlogic
+MieSimulatorGUI
+Mindmapp
 Nextcloud
 Nexus_Wallet
 Niffler
@@ -502,8 +504,8 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
-Strata
+Tesseract
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -698,7 +700,8 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-p2p-chat
+mini-qml
+mira-backup
 parsec-linux-appimage
 patchbay
 pb-for-desktop
