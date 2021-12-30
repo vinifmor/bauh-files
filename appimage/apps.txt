@@ -129,7 +129,8 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
+ExeQt
+ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
@@ -302,7 +303,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-NepaliUnicode
+MieSimulatorGUI
 Newlogic
 Nextcloud
 Nexus_Wallet
@@ -504,7 +505,8 @@ Stellarium
 StockStalk
 StopLight
 Storaji
-Thorium_Reader
+Strata
+Streamlink
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
@@ -694,8 +696,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+onnx2bnn
+onnx2daq
 openblok
 ossia_score
 osu
