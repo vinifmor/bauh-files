@@ -308,7 +308,7 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
-NixNote
+Minions
 NoTer
 Nostlan
 Notable
@@ -522,7 +522,7 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Tumblr_Scraper
+Synthein
 TurboWarp
 Turntable
 Tusk
@@ -718,8 +718,8 @@ neovim
 ngPost
 ngrev
 nheko
-nimbus-weather
-nordvpn-linux
+pretty-handy-privacy
+privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
