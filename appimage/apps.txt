@@ -309,6 +309,7 @@ Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
+Mirage
 NoTer
 Nostlan
 Notable
@@ -520,9 +521,9 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
@@ -717,7 +718,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-nheko
+pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
