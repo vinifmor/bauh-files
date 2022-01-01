@@ -142,8 +142,8 @@ Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
-Figma
-Filmulator
+ElDumper
+Electorrent
 FireDM
 Firefox_Beta
 Firefox_ESR
@@ -310,9 +310,9 @@ MiniZinc_IDE
 Mini_Diary
 Minions
 Mirage
-Nostlan
-Notable
-NoteMaster
+MoarPerf
+Mob
+Mockman
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -525,9 +525,8 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
+Tusk
+TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
@@ -718,7 +717,7 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-pomotroid
+nheko
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
