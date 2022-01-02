@@ -144,8 +144,8 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
-Electron_App_Store
+Filmulator
+FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -309,7 +309,7 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
-Nitrokey
+Minions
 NixNote
 NoTer
 Nostlan
@@ -523,8 +523,8 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
@@ -718,8 +718,8 @@ mybelka
 n3h
 nRF_Connect
 neovim
-ngPost
-ngrev
+plotjuggler
+pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
