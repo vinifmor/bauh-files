@@ -144,7 +144,7 @@ Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
-ElectroCRUD
+FireDM
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -312,7 +312,7 @@ Minions
 Mirage
 MoarPerf
 Mob
-NoteMaster
+Mockman
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -521,9 +521,9 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
+SynfigStudio
+Synthein
+T.Viewer
 Turntable
 Tusk
 TweakSophia
