@@ -139,7 +139,8 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-FastQt
+ERScaffold
+Eagle_Mode
 Ferdi
 Fidias_Database_Migration_App
 Figma
@@ -309,8 +310,9 @@ Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
-NoTer
-Nostlan
+Mirage
+MoarPerf
+Mob
 Notable
 NoteMaster
 OCRmyPDF
@@ -522,7 +524,8 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
+Tumblr_Downloader_GUI
+Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
@@ -714,8 +717,9 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-plotjuggler
-pnpm
+neovim
+ngPost
+ngrev
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
