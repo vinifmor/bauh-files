@@ -313,8 +313,8 @@ Mini_Diary
 Minions
 Mirage
 MoarPerf
-Mob
-Mockman
+Nostlan
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -524,10 +524,10 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tulip
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 Turntable
 Tusk
 TweakSophia
@@ -721,8 +721,8 @@ nRF_Connect
 neovim
 ngPost
 ngrev
-polar-bookshelf
-pomotroid
+nheko
+nimbus-weather
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
