@@ -99,9 +99,7 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
+DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
@@ -162,7 +160,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -202,7 +199,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -289,9 +285,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
-Markman
-Martian
+Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -324,7 +318,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -494,11 +487,9 @@ Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
-Speaky_MiniPlayer
-SpeedyLoader
-Spivak
-Stacer
-Standard_Notes
+SwiftnessX
+SwitchHosts!
+Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
@@ -685,9 +676,6 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
 my-budget
 mybelka
 n3h
@@ -800,13 +788,3 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
