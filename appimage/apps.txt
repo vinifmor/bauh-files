@@ -103,7 +103,7 @@ ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
-CrossCode_Map_Editor
+Discord
 DockStation
 DokiDokiModManager
 Downline
@@ -160,6 +160,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -285,11 +286,10 @@ MQTTCute
 MagicFountain
 Malice
 Manta
-Mapeo
-Mark_Mind
-Markman
-Martian
-MasterVyrn
+Moonlight
+Motrix
+Mr.Dclutterer
+MuPDF
 Museeks
 Music_Blocks
 Musicalypse
@@ -319,6 +319,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -486,13 +487,11 @@ SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
+SpeedyLoader
+Spivak
 SynfigStudio
 Synthein
 T.Viewer
@@ -587,6 +586,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -677,10 +677,11 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
+logseq
+my-budget
+mybelka
+n3h
+nRF_Connect
 neovim
 ngPost
 ngrev
