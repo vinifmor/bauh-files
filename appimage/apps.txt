@@ -120,10 +120,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Emacs
-EncryptPad
-Endless_Sky
-EnvKey
+DeDop-studio
+DeadGame-2048
+DeepTags
 Eplee
 Eqonomize
 Etcher
@@ -502,7 +501,6 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -686,11 +684,10 @@ linuxdeployqt
 liskish-wallet
 logseq
 lumi
-ngrev
-nheko
-nimbus-weather
-nordvpn-linux
-notepadqq
+luminance-hdr
+luna
+makoureactor
+mandelbulber2
 noteshrink-qt
 nx-software-center
 nxshell
