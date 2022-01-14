@@ -120,7 +120,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Elphyre-WalletShell
 Emacs
 EncryptPad
 Endless_Sky
@@ -302,7 +301,6 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Negibox
 Neon
 NepaliUnicode
 Newlogic
@@ -503,8 +501,6 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -696,10 +692,9 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-marlin-conf
-mdview
-media-dupes
+nxshell
+ommpfritt
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
