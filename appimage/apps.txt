@@ -122,10 +122,10 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-Endless_Sky
-EnvKey
-Eplee
-Eqonomize
+DeepTags
+Delir
+Demonizer
+Deployer
 Etcher
 Eternal-Lands
 EverInst
@@ -296,7 +296,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
+NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
@@ -503,8 +503,7 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
-Strata
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -697,7 +696,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+onnx2daq
 openblok
 ossia_score
 osu
