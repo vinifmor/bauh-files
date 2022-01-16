@@ -128,6 +128,10 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+DokiDokiModManager
+Downline
+ElectroCRUD
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -308,6 +312,8 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
+MoarPerf
+Nitrokey
 NixNote
 NoTer
 Nostlan
@@ -518,8 +524,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
+TeslaCam_Browser
+Trinity_Desktop
+Tropy
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -711,8 +718,10 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
-n3h
+ngrev
+notepadqq
+pingviewer
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
