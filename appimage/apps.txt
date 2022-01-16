@@ -143,7 +143,7 @@ ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
-Elements
+Electorrent
 Figma
 Filmulator
 FireDM
@@ -315,8 +315,6 @@ Mirage
 MoarPerf
 Mob
 Mockman
-NMEASimulator
-NixNote
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -525,12 +523,12 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
+Tulip
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+TurboWarp
+Turntable
+Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
@@ -719,7 +717,7 @@ my-budget
 mybelka
 n3h
 nRF_Connect
-p2p-chat
+playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
