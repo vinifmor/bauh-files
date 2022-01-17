@@ -130,8 +130,8 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-ExifCleaner
-Eximchain_Wallet
+Disass
+Discord
 Explorook
 Exportoo
 EyeStalker
@@ -300,7 +300,7 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-MeshLab
+Negibox
 Neon
 NepaliUnicode
 Newlogic
@@ -510,8 +510,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-TilingGenerator
-Todoist
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 Tonuino_Toolbox
 Translatium
 TreeSheets
