@@ -98,8 +98,8 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
-DevHub
-Diffuse
+Comic-Reader
+ConsoleWorkbench
 Digitales_Klassenzimmer
 Disass
 Discord
@@ -159,7 +159,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -199,7 +198,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -318,7 +316,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -490,7 +487,7 @@ Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
-Syncplay
+Spivak
 SynfigStudio
 Synthein
 T.Viewer
@@ -585,7 +582,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -671,16 +667,15 @@ keyrier-json
 kitupiikki
 ksnip
 laigter
-langly
-laravel-kit
-launcher
-le
-ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
-logseq
+moolticute
+movie-monad
+mtCellEdit
+mutool
+my-budget
+mybelka
+n3h
+nRF_Connect
+neovim
 ngPost
 ngrev
 nheko
