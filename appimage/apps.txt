@@ -100,10 +100,11 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
+DevHub
+Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
 DockStation
 DokiDokiModManager
 Downline
@@ -199,7 +200,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -287,8 +287,9 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Motrix
-Mr.Dclutterer
+Markman
+Martian
+MasterVyrn
 MuPDF
 Museeks
 Music_Blocks
@@ -675,10 +676,10 @@ langly
 laravel-kit
 launcher
 le
-mutool
-my-budget
-mybelka
-n3h
+ledger-live-desktop
+lescovex
+lightning-peach-wallet
+linux-intel-undervolt-gui
 nRF_Connect
 neovim
 ngPost
@@ -793,8 +794,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
