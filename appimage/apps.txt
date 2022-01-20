@@ -100,17 +100,15 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
+Cool_Retro_Term
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -161,6 +159,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -200,6 +199,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -290,8 +290,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-MuPDF
-Museeks
+Mattermost_Desktop
 Music_Blocks
 Musicalypse
 MyPaint
@@ -320,6 +319,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -491,9 +491,7 @@ Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
-SyncMyL2P
-Syncplay
-SynfigStudio
+Spivak
 Synthein
 T.Viewer
 Tablo_Tools
@@ -587,6 +585,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -677,9 +676,9 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
+logseq
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -794,3 +793,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
