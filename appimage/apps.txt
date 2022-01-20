@@ -111,9 +111,8 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-CustomRPC
-CutePeaks
-CuteVariant
+Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -292,7 +291,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
@@ -493,8 +491,7 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-Stacer
-Standard_Notes
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -689,8 +686,6 @@ logseq
 lumi
 luminance-hdr
 luna
-makoureactor
-mandelbulber2
 notepadqq
 noteshrink-qt
 nx-software-center
