@@ -295,9 +295,9 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
-MegaBasterd
-Melodie
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
@@ -501,7 +501,6 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
 TeslaCam_Browser
 Tesseract
 ThermusQt
