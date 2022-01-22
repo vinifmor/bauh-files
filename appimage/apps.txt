@@ -125,10 +125,10 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Etcher
-Eternal-Lands
-EverInst
-ExeQt
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 ExifCleaner
 Eximchain_Wallet
 Explorook
@@ -299,7 +299,7 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-MeshLab
+Neon
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -694,7 +694,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
