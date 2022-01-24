@@ -90,8 +90,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-DbGate
-DeDop-studio
+CleepDesktop
+ClementineRemote
 DeadGame-2048
 DeepTags
 Delir
@@ -181,6 +181,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
+Glimpse-Image-Editor
 Guitar
 Gulden
 HDRMerge
@@ -262,7 +263,6 @@ LiveMe_Pro_Tools
 Local_Browser
 Loginized
 LosslessCut
-Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
@@ -305,6 +305,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -352,8 +353,6 @@ Planet_Blupi
 PlayMe
 Playbox
 PlotJuggler
-Plover
-PocketCasts_Electron
 QNapi
 QTalarm
 QUaModbusClient
@@ -533,6 +532,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
+YouTubeSearchFilter
+Yuna
+ZY_Player
 android-messages-desktop
 antimicroX
 ao
@@ -622,7 +624,6 @@ jitsi-meet
 jmbde
 jscad-desktop
 jumpfm
-keyrier-json
 logseq
 mira-backup
 mjml-app
