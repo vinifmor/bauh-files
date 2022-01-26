@@ -104,13 +104,14 @@ Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
-Cura
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -290,6 +291,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
+Mattermost_Desktop
 Music_Blocks
 Musicalypse
 MyPaint
@@ -491,6 +493,7 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
+Syncplay
 SynfigStudio
 Synthein
 T.Viewer
@@ -685,7 +688,8 @@ liskish-wallet
 logseq
 lumi
 luminance-hdr
-nordvpn-linux
+luna
+makoureactor
 notepadqq
 noteshrink-qt
 nx-software-center
