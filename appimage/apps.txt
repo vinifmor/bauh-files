@@ -131,9 +131,8 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
-Discord
-DockStation
-DokiDokiModManager
+Eximchain_Wallet
+Explorook
 Exportoo
 EyeStalker
 F-CRM
@@ -306,10 +305,11 @@ MicroPad
 MieSimulatorGUI
 Mindmapp
 MineTime
-Minetest
-MiniZinc_IDE
-Mini_Diary
-Minions
+Nextcloud
+Nexus_Wallet
+Niffler
+Nitrokey
+NixNote
 NoTer
 Nostlan
 Notable
@@ -711,8 +711,6 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pigs-n-cows
-pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
