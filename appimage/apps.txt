@@ -135,9 +135,8 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
-EyeStalker
-F-CRM
-FAT_Wallet
+Dragoman
+Drill
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
@@ -308,6 +307,7 @@ Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -519,7 +519,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -713,7 +712,7 @@ mtCellEdit
 mutool
 my-budget
 mybelka
-n3h
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
