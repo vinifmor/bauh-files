@@ -299,10 +299,10 @@ MediaElch
 MegaBasterd
 Melodie
 Memento
-MeowSQL
-MeshLab
-MicroPad
-MieSimulatorGUI
+NanoVault
+Negibox
+Neon
+NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
@@ -704,7 +704,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
+pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
