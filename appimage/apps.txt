@@ -302,7 +302,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-NepaliUnicode
+MieSimulatorGUI
 Newlogic
 Nextcloud
 Nexus_Wallet
@@ -518,10 +518,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+Tropy
+Tulip
+Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
@@ -711,9 +710,10 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
+mybelka
+n3h
+nRF_Connect
+neovim
 pnpm
 polar-bookshelf
 pomotroid
