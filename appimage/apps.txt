@@ -134,10 +134,10 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
+EyeStalker
+F-CRM
+FAT_Wallet
+FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
@@ -308,8 +308,7 @@ MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
-Minions
-Mirage
+NixNote
 NoTer
 Nostlan
 Notable
@@ -519,9 +518,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
+Tropy
+Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -712,8 +710,7 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-mybelka
-n3h
+pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
