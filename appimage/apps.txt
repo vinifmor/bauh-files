@@ -127,10 +127,10 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
+Etcher
+Eternal-Lands
+EverInst
+ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
@@ -298,7 +298,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
@@ -506,9 +505,9 @@ Stellarium
 StockStalk
 StopLight
 Storaji
-Strata
-Streamlink
-Streamon
+ThermusQt
+Thorium_Reader
+Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
@@ -698,8 +697,8 @@ mapton
 marktext
 marlin-conf
 mdview
-onnx2bnn
-onnx2daq
+media-dupes
+media_mate
 openblok
 ossia_score
 osu
