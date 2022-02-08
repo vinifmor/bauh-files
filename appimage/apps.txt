@@ -124,10 +124,10 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Eplee
-Eqonomize
-Etcher
-Eternal-Lands
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
 EverInst
 ExeQt
 ExifCleaner
@@ -302,8 +302,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-MieSimulatorGUI
-Mindmapp
+NepaliUnicode
+Newlogic
 Nextcloud
 Nexus_Wallet
 Niffler
@@ -503,8 +503,8 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
-Strata
+Tesseract
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
