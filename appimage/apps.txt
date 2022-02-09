@@ -119,12 +119,12 @@ DFileManager
 Dana
 Datcord
 DawnlightSearch
-DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
+Elphyre-WalletShell
+Emacs
+EncryptPad
+Endless_Sky
+EnvKey
+Eplee
 Eqonomize
 Etcher
 Eternal-Lands
@@ -297,8 +297,8 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Melodie
-Memento
+NMEASimulator
+NX_Software_Center
 NanoVault
 Negibox
 Neon
@@ -501,8 +501,7 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -695,7 +694,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-ommpfritt
 onnx2bnn
 onnx2daq
 openblok
