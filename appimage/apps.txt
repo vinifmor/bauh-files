@@ -129,7 +129,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
+ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
@@ -300,7 +300,7 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-Negibox
+MeshLab
 Neon
 NepaliUnicode
 Newlogic
@@ -505,10 +505,11 @@ StockStalk
 StopLight
 Storaji
 Strata
-Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
+Thorium_Reader
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
+Tiled
 TilingGenerator
 Todoist
 Tonuino_Toolbox
@@ -698,9 +699,10 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-mjml-app
+osu
+p2p-chat
+parsec-linux-appimage
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
