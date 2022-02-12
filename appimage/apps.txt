@@ -128,11 +128,11 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-EverInst
-ExeQt
-ExifCleaner
-Eximchain_Wallet
-Explorook
+Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
 Exportoo
 EyeStalker
 F-CRM
@@ -301,7 +301,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-MicroPad
+Neon
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -514,7 +514,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-Translatium
+Superpaper
 TreeSheets
 Trezor_Suite
 Trinity_Desktop
@@ -703,9 +703,9 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-patchbay
-pb-for-desktop
-pdf-sync
+mki3dgame
+moniteur-admin
+moolticute
 perl-executing-browser
 photoname
 pigs-n-cows
