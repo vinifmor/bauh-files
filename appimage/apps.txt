@@ -133,10 +133,10 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
+Explorook
+Exportoo
+EyeStalker
+F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
@@ -517,9 +517,9 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
-Translatium
-TreeSheets
-Trezor_Suite
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 Trinity_Desktop
 Tropy
 Tulip
@@ -709,7 +709,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-pdf-sync
+movie-monad
 perl-executing-browser
 photoname
 pigs-n-cows
