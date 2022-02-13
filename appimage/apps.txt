@@ -129,6 +129,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
@@ -300,9 +301,9 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-MeshLab
-MicroPad
-MieSimulatorGUI
+Negibox
+Neon
+NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
@@ -513,8 +514,9 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
-Superpaper
+Todoist
+Tonuino_Toolbox
+Translatium
 TreeSheets
 Trezor_Suite
 Trinity_Desktop
@@ -705,8 +707,9 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
-movie-monad
+pb-for-desktop
+pdf-sync
+perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
