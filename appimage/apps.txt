@@ -123,7 +123,7 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Endless_Sky
+Delir
 EnvKey
 Eplee
 Eqonomize
@@ -299,7 +299,7 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-Memento
+NX_Software_Center
 NanoVault
 Negibox
 Neon
@@ -506,6 +506,7 @@ StockStalk
 StopLight
 Storaji
 Strata
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -699,6 +700,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+openblok
 ossia_score
 osu
 p2p-chat
