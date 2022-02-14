@@ -124,9 +124,8 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-EnvKey
-Eplee
-Eqonomize
+Demonizer
+Deployer
 Etcher
 Eternal-Lands
 EverInst
@@ -299,9 +298,9 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NX_Software_Center
-NanoVault
-Negibox
+Memento
+MeowSQL
+MeshLab
 Neon
 NepaliUnicode
 Newlogic
@@ -506,9 +505,8 @@ StockStalk
 StopLight
 Storaji
 Strata
-ThermusQt
-Thorium_Reader
-Thunderbird
+Streamlink
+Streamon
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
@@ -700,7 +698,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-openblok
 ossia_score
 osu
 p2p-chat
