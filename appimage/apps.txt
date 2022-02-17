@@ -129,8 +129,8 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
-Disass
+ExeQt
+ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
@@ -297,8 +297,8 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-NMEASimulator
-NX_Software_Center
+Melodie
+Memento
 NanoVault
 Negibox
 Neon
@@ -505,10 +505,10 @@ StockStalk
 StopLight
 Storaji
 Strata
-Thorium_Reader
-Thunderbird
-Thunderbird_Beta
-Thunderbird_Nightly
+Streamlink
+Streamon
+Stunt_Car_Remake
+Substrate_IDE
 Tiled
 TilingGenerator
 Todoist
