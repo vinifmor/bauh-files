@@ -128,7 +128,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
+EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
@@ -299,7 +299,7 @@ MediaElch
 MegaBasterd
 Melodie
 Memento
-NanoVault
+MeowSQL
 Negibox
 Neon
 NepaliUnicode
@@ -504,11 +504,12 @@ Stellarium
 StockStalk
 StopLight
 Storaji
-Strata
-Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
+Tesseract
+ThermusQt
+Thorium_Reader
+Thunderbird
+Thunderbird_Beta
+Thunderbird_Nightly
 Tiled
 TilingGenerator
 Todoist
