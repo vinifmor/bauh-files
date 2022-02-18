@@ -124,10 +124,10 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
+Eplee
+Eqonomize
+Etcher
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -301,7 +301,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Neon
+MicroPad
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -508,10 +508,9 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
+Thunderbird_Nightly
+Tiled
+TilingGenerator
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -697,7 +696,7 @@ mapton
 marktext
 marlin-conf
 mdview
-onnx2daq
+media-dupes
 openblok
 ossia_score
 osu
