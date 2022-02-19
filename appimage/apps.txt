@@ -130,9 +130,9 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
+ExifCleaner
+Eximchain_Wallet
+Explorook
 Exportoo
 EyeStalker
 F-CRM
@@ -302,7 +302,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-NepaliUnicode
+MieSimulatorGUI
 Newlogic
 Nextcloud
 Nexus_Wallet
@@ -513,7 +513,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Tonuino_Toolbox
+Sup
 Translatium
 TreeSheets
 Trezor_Suite
@@ -704,7 +704,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
+pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
