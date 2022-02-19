@@ -131,8 +131,8 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
-Discord
-DockStation
+Eximchain_Wallet
+Explorook
 Exportoo
 EyeStalker
 F-CRM
@@ -516,9 +516,8 @@ Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
+Trezor_Suite
+Trinity_Desktop
 Tropy
 Tulip
 Tumblr_Downloader_GUI
@@ -711,7 +710,8 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pkg2appimage
+mybelka
+n3h
 playyourdamnturn.com
 plotjuggler
 pnpm
