@@ -125,9 +125,10 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
-DevHub
+Eplee
+Eqonomize
+Etcher
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -299,7 +300,8 @@ MediaElch
 MegaBasterd
 Melodie
 Memento
-NanoVault
+MeowSQL
+MeshLab
 Negibox
 Neon
 NepaliUnicode
@@ -507,6 +509,7 @@ Storaji
 Strata
 Streamlink
 Streamon
+Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
@@ -702,7 +705,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+parsec-linux-appimage
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
