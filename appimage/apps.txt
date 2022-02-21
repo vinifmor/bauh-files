@@ -128,6 +128,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Eternal-Lands
 EverInst
 ExeQt
 ExifCleaner
@@ -304,6 +305,7 @@ MeshLab
 MicroPad
 MieSimulatorGUI
 Mindmapp
+MineTime
 Nextcloud
 Nexus_Wallet
 Niffler
@@ -517,9 +519,9 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
+Trezor_Suite
+Trinity_Desktop
+Tropy
 Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
@@ -704,9 +706,10 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-patchbay
-pb-for-desktop
-pdf-sync
+mki3dgame
+moniteur-admin
+moolticute
+movie-monad
 perl-executing-browser
 photoname
 pigs-n-cows
