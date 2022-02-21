@@ -123,7 +123,7 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-EnvKey
+Delir
 Eplee
 Eqonomize
 Etcher
@@ -292,9 +292,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
+Musicalypse
+MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
@@ -502,7 +501,7 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-TeslaCam_Browser
+StopLight
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -696,7 +695,8 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+onnx2daq
+openblok
 ossia_score
 osu
 p2p-chat
