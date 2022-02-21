@@ -122,6 +122,7 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
+DeepTags
 Endless_Sky
 EnvKey
 Eplee
@@ -298,8 +299,9 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-NX_Software_Center
-NanoVault
+Memento
+MeowSQL
+MeshLab
 Negibox
 Neon
 NepaliUnicode
@@ -502,10 +504,10 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-StopLight
-Storaji
-Strata
-Streamlink
+TeslaCam_Browser
+Tesseract
+ThermusQt
+Thorium_Reader
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
@@ -696,8 +698,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
+onnx2bnn
+onnx2daq
+openblok
 ossia_score
 osu
 p2p-chat
