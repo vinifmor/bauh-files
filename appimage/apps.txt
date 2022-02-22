@@ -110,7 +110,7 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
-Cura
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -502,9 +502,9 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-TeleDrive
-TeslaCam_Browser
-Tesseract
+StockStalk
+StopLight
+Storaji
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -695,9 +695,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
+ommpfritt
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
