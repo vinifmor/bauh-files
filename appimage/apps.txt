@@ -121,6 +121,7 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
+Emacs
 EncryptPad
 Endless_Sky
 EnvKey
@@ -297,8 +298,9 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Melodie
-Memento
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
 NanoVault
 Negibox
 Neon
@@ -502,9 +504,9 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-StopLight
-Storaji
-Strata
+TeslaCam_Browser
+Tesseract
+ThermusQt
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -696,7 +698,8 @@ mapton
 marktext
 marlin-conf
 mdview
-onnx2daq
+media-dupes
+media_mate
 openblok
 ossia_score
 osu
