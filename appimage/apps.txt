@@ -111,9 +111,9 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-CustomRPC
-CutePeaks
-CuteVariant
+ERScaffold
+Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -292,6 +292,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
@@ -682,7 +683,9 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+liskish-wallet
 logseq
+lumi
 ngrev
 nheko
 nimbus-weather
