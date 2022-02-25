@@ -90,13 +90,13 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-DawnlightSearch
-DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
 Deployer
 Detect_It_Easy
 DevHub
@@ -187,13 +187,19 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -271,8 +277,7 @@ Loginized
 LosslessCut
 M
 MAngbandClient
-Minetest
-MiniZinc_IDE
+MDL
 Mini_Diary
 Minions
 Mirage
@@ -312,7 +317,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -366,6 +370,9 @@ Poddr
 PolkaKey
 Popsicle
 Postman
+PostyBirb
+PraxisLIVE
+PrimeWorldEditor
 QNapi
 QTalarm
 QUaModbusClient
@@ -467,7 +474,6 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
@@ -649,9 +655,8 @@ jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
+ksnip
 logseq
-mjml-app
-mki3dgame
 moniteur-admin
 moolticute
 movie-monad
@@ -748,5 +753,7 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-yuzu
-zsync2
+twetter
+twitch-wrapper
+uncov
+unified-communications
