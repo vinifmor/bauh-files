@@ -135,7 +135,7 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
-F-CRM
+Dragoman
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
@@ -301,10 +301,10 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-MieSimulatorGUI
-Mindmapp
-MineTime
-Minetest
+NepaliUnicode
+Newlogic
+Nextcloud
+Nexus_Wallet
 Niffler
 Nitrokey
 NixNote
@@ -512,7 +512,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
+Tonuino_Toolbox
 Translatium
 TreeSheets
 Trezor_Suite
@@ -709,7 +709,8 @@ movie-monad
 mtCellEdit
 mutool
 my-budget
-pkg2appimage
+mybelka
+n3h
 playyourdamnturn.com
 plotjuggler
 pnpm
