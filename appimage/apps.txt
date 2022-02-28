@@ -123,9 +123,9 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-EnvKey
-Eplee
-Eqonomize
+Delir
+Demonizer
+Deployer
 Etcher
 Eternal-Lands
 EverInst
@@ -296,8 +296,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-My_Jira
-NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
@@ -506,7 +504,6 @@ StockStalk
 StopLight
 Storaji
 Strata
-Streamlink
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
@@ -696,8 +693,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-onnx2bnn
-onnx2daq
+mdview
+media-dupes
 openblok
 ossia_score
 osu
