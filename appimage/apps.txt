@@ -130,10 +130,10 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
+ExifCleaner
+Eximchain_Wallet
+Explorook
+Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
@@ -511,7 +511,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Todoist
+Summoners.War.Exporter
 Tonuino_Toolbox
 Translatium
 TreeSheets
