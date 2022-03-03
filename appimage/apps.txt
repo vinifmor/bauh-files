@@ -130,11 +130,10 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-ExeQt
-ExifCleaner
-Eximchain_Wallet
-Explorook
-Exportoo
+Disass
+Discord
+DockStation
+DokiDokiModManager
 EyeStalker
 F-CRM
 FAT_Wallet
@@ -302,7 +301,6 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Neon
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -513,7 +511,6 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Summoners.War.Exporter
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -708,7 +705,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
