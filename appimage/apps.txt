@@ -129,7 +129,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-ExeQt
+Digitales_Klassenzimmer
 ExifCleaner
 Eximchain_Wallet
 Explorook
@@ -300,7 +300,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-MicroPad
+Neon
 NepaliUnicode
 Newlogic
 Nextcloud
@@ -508,10 +508,12 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Tiled
-TilingGenerator
-Todoist
-Tonuino_Toolbox
+Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
+Superpaper
 Translatium
 TreeSheets
 Trezor_Suite
