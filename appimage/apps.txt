@@ -126,8 +126,7 @@ DeepTags
 Delir
 Demonizer
 Deployer
-Detect_It_Easy
-DevHub
+Etcher
 Eternal-Lands
 EverInst
 ExeQt
@@ -300,8 +299,7 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-MeshLab
-MicroPad
+Negibox
 Neon
 NepaliUnicode
 Newlogic
@@ -506,8 +504,7 @@ StockStalk
 StopLight
 Storaji
 Strata
-ThermusQt
-Thorium_Reader
+Streamlink
 Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
@@ -703,8 +700,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-p2p-chat
-parsec-linux-appimage
+mjml-app
 patchbay
 pb-for-desktop
 pdf-sync
