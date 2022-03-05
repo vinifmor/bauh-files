@@ -102,9 +102,10 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+Disass
+Discord
+DockStation
+DokiDokiModManager
 Downline
 Dragoman
 Drill
@@ -490,6 +491,7 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -677,9 +679,7 @@ ledger-live-desktop
 lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
-linux_czkawka_gui
 logseq
-nRF_Connect
 neovim
 ngPost
 ngrev
