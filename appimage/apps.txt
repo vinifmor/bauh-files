@@ -102,17 +102,14 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
-Cura
-Detect_It_Easy
-Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
 Drill
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -163,7 +160,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -202,7 +198,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -293,7 +288,6 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-MoarPerf
 Museeks
 Music_Blocks
 Musicalypse
@@ -323,7 +317,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -494,13 +487,12 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SpeedyLoader
-Spivak
-Stacer
-Stellarium
-Streamlink
-Stunt_Car_Remake
-Sup
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -593,7 +585,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -687,8 +678,7 @@ ledger-live-desktop
 lescovex
 lightning-peach-wallet
 linux-intel-undervolt-gui
-logseq
-mandelbulber2
+media_mate
 neovim
 ngPost
 ngrev
