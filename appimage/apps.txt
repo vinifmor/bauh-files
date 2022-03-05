@@ -102,8 +102,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Discord
-DockStation
+Cromberg
+CrossCode_Map_Editor
 DokiDokiModManager
 Downline
 Dragoman
@@ -285,9 +285,9 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
-Markman
-Martian
+Motrix
+Mr.Dclutterer
+MuPDF
 Museeks
 Music_Blocks
 Musicalypse
@@ -489,8 +489,7 @@ Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
-Syncplay
-SynfigStudio
+Spivak
 Synthein
 T.Viewer
 Tablo_Tools
