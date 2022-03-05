@@ -105,9 +105,9 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
-Crypter
-Cryptr
+Downline
+Dragoman
+Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -159,6 +159,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -197,6 +198,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -280,10 +282,11 @@ MMapper
 MQTT-Explorer
 MQTTCute
 MagicFountain
-Mockman
-Moonlight
-Motrix
-Mr.Dclutterer
+Malice
+Manta
+Mapeo
+Mark_Mind
+Markman
 MuPDF
 Museeks
 Music_Blocks
@@ -314,6 +317,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -484,11 +488,10 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
+SpeedyLoader
+Spivak
+Stacer
+Standard_Notes
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -580,6 +583,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -670,11 +674,12 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-mybelka
-n3h
-nRF_Connect
-neovim
-ngPost
+lescovex
+lightning-peach-wallet
+linux-intel-undervolt-gui
+linux_czkawka_gui
+linuxdeployqt
+logseq
 ngrev
 nheko
 nimbus-weather
@@ -786,3 +791,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
