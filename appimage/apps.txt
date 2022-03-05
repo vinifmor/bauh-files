@@ -105,7 +105,9 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Downline
+Cura
+CuteVariant
+DeadGame-2048
 Dragoman
 Drill
 Dust3D
@@ -287,8 +289,9 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-MuPDF
-Museeks
+Martian
+MasterVyrn
+Mattermost_Desktop
 Music_Blocks
 Musicalypse
 MyPaint
@@ -492,6 +495,9 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Statsbook_Tool
+Stellarium
+Subtitle_Composer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -680,9 +686,10 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 logseq
-ngrev
-nheko
-nimbus-weather
+lumi
+luminance-hdr
+luna
+my-budget
 nordvpn-linux
 notepadqq
 noteshrink-qt
