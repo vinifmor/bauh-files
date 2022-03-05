@@ -97,16 +97,17 @@ Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
-DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -158,7 +159,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -197,7 +197,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -281,10 +280,9 @@ MMapper
 MQTT-Explorer
 MQTTCute
 MagicFountain
-Malice
-Manta
-Mapeo
-Mark_Mind
+Mockman
+Moonlight
+Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
@@ -316,7 +314,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -486,7 +483,7 @@ Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
-Symphonium
+Speaky_MiniPlayer
 SyncMyL2P
 Syncplay
 SynfigStudio
@@ -583,7 +580,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -674,12 +670,13 @@ laravel-kit
 launcher
 le
 ledger-live-desktop
-lescovex
-lightning-peach-wallet
-linux-intel-undervolt-gui
-linux_czkawka_gui
-linuxdeployqt
-logseq
+mybelka
+n3h
+nRF_Connect
+neovim
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -789,8 +786,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
