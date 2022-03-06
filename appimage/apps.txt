@@ -110,7 +110,8 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
-Cura
+Dwyco_Phoo
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -286,10 +287,11 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Markman
-Martian
-MasterVyrn
-Mattermost_Desktop
+Motrix
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
@@ -492,6 +494,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -681,7 +684,8 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
