@@ -105,10 +105,10 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Downline
-Dragoman
-Drill
-Dust3D
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -287,6 +287,7 @@ Manta
 Mapeo
 Mark_Mind
 Markman
+Martian
 MuPDF
 Museeks
 Music_Blocks
@@ -490,7 +491,8 @@ Spark.Payments
 Speaky_MiniPlayer
 SpeedyLoader
 Spivak
-Stacer
+SynfigStudio
+Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -680,6 +682,7 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 logseq
+ngPost
 ngrev
 nheko
 nimbus-weather
