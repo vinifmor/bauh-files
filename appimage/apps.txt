@@ -108,7 +108,10 @@ CrossMobile
 Cryplicity
 Crypter
 Cryptr
-Dust3D
+Cscrypto
+CubicSDR
+DevHub
+Drill
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -290,6 +293,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MegaBasterd
+Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
@@ -493,10 +498,13 @@ Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
+StatusPilatus
+SteamCAD
+Steem_Messenger
+Stele
+Stellarium
+Strata
+SwitchHosts!
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -682,6 +690,8 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
+luna
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
