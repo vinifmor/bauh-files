@@ -108,11 +108,10 @@ CrossMobile
 Cryplicity
 Crypter
 Cryptr
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -291,7 +290,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
@@ -494,8 +492,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-T.Viewer
-Tablo_Tools
+Statsbook_Tool
 TagTime-desktop
 Taskizer
 TeXstudio
@@ -685,7 +682,6 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
 nordvpn-linux
 notepadqq
 noteshrink-qt
