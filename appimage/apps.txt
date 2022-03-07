@@ -88,8 +88,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
+Datcord
+DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -176,10 +176,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
-GitQlient
 Guitar
 Gulden
 HDRMerge
@@ -262,7 +258,6 @@ LiveMe_Pro_Tools
 Local_Browser
 Loginized
 LosslessCut
-Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
@@ -354,8 +349,6 @@ PlayMe
 Playbox
 PlotJuggler
 Plover
-PocketCasts_Electron
-Poddr
 QNapi
 QTalarm
 QUaModbusClient
@@ -449,8 +442,9 @@ Slippi
 SmallBASIC
 SmartGit
 SnippetStore
-Soapy_SDR
-SocNetV
+Subsurface
+Subtitle_Composer
+SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
@@ -536,14 +530,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
 android-messages-desktop
 antimicroX
 ao
@@ -634,7 +620,6 @@ jmbde
 jscad-desktop
 jumpfm
 logseq
-mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
@@ -729,9 +714,8 @@ thorium-client
 timer
 tmon
 tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
+youtube-music
+youtube-music-desktop
 yuzu
+zograscope
 zsync2
