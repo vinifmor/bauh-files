@@ -98,8 +98,8 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
-DevHub
-Diffuse
+Comic-Reader
+ConsoleWorkbench
 Digitales_Klassenzimmer
 Disass
 Discord
@@ -159,7 +159,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -186,13 +185,18 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -274,7 +278,8 @@ MDL
 MLV-App
 MMapper
 MQTT-Explorer
-MoarPerf
+MQTTCute
+MagicFountain
 Mob
 Mockman
 Moonlight
@@ -310,7 +315,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -362,6 +366,13 @@ Plover
 PocketCasts_Electron
 Poddr
 PolkaKey
+Popsicle
+Postman
+PostyBirb
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 QNapi
 QTalarm
 QUaModbusClient
@@ -458,7 +469,7 @@ SnippetStore
 Soapy_SDR
 SocNetV
 Software-Challenge-GUI
-Sup
+Sonist
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -545,6 +556,14 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
+Zulip
+accessimap-lecteur-der
+ai-bot-workspace
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -552,7 +571,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -635,9 +653,10 @@ jmbde
 jscad-desktop
 jumpfm
 keyrier-json
-kitupiikki
-ksnip
-logseq
+mira-backup
+mjml-app
+mki3dgame
+moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
@@ -731,6 +750,14 @@ tmon
 tnt
 torrenttools
 triagem-touch
-yuzu
-zograscope
-zsync2
+ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
