@@ -90,7 +90,6 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -182,9 +181,6 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
 Guitar
 Gulden
 HDRMerge
@@ -268,7 +264,7 @@ Local_Browser
 Loginized
 LosslessCut
 M
-Minetest
+MAngbandClient
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -357,7 +353,6 @@ Planet_Blupi
 PlayMe
 Playbox
 PlotJuggler
-Plover
 QNapi
 QTalarm
 QUaModbusClient
@@ -634,11 +629,10 @@ jira-timer
 jitsi-meet
 jmbde
 jscad-desktop
+jumpfm
+keyrier-json
+kitupiikki
 logseq
-meta-grabber
-mini-qml
-mira-backup
-mjml-app
 mki3dgame
 moniteur-admin
 moolticute
