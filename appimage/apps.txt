@@ -90,6 +90,12 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -181,6 +187,7 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
 Guitar
 Gulden
 HDRMerge
@@ -265,6 +272,12 @@ Loginized
 LosslessCut
 M
 MAngbandClient
+MDL
+Malice
+MediaElch
+Mindmapp
+MineTime
+Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -448,8 +461,10 @@ SmartGit
 SnippetStore
 Soapy_SDR
 SocNetV
-Summoners.War.Exporter
-Sup
+Software-Challenge-GUI
+Sonist
+Sourcetrail
+Sovren.Batch.Parser
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -632,7 +647,12 @@ jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
+ksnip
+laigter
+langly
+laravel-kit
 logseq
+mjml-app
 mki3dgame
 moniteur-admin
 moolticute
@@ -729,6 +749,7 @@ tnt
 torrenttools
 triagem-touch
 ttth
+unified-communications
 yuzu
 zograscope
 zsync2
