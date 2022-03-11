@@ -97,10 +97,7 @@ Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
-Comic-Reader
-Cromberg
-Deployer
-Detect_It_Easy
+Colorpicker
 DevHub
 Diffuse
 Digitales_Klassenzimmer
@@ -162,7 +159,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -190,14 +186,15 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
+Gpredict
+GradeStats
 Graviton
-Guitar
+GrinPlusPlus
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -280,12 +277,7 @@ MLV-App
 MMapper
 MQTT-Explorer
 MQTTCute
-MagicFountain
-Malice
-Mapeo
-MazeSolver
-Mechvibes
-Mini_Diary
+Mob
 Mockman
 Moonlight
 Motrix
@@ -320,7 +312,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -373,7 +364,10 @@ PocketCasts_Electron
 Poddr
 PolkaKey
 Popsicle
-QNapi
+Postman
+PostyBirb
+PraxisLIVE
+PrimeWorldEditor
 QTalarm
 QUaModbusClient
 QaterialGallery
@@ -424,6 +418,7 @@ RyoWallet
 SBLauncher
 SFRT_Attendance
 SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SUMOCO
@@ -471,10 +466,8 @@ SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-Subtitle_Composer
+SwagLyrics
+SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
@@ -563,14 +556,12 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-android-messages-desktop
 antimicroX
 ao
 appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -657,12 +648,8 @@ kitupiikki
 ksnip
 laigter
 langly
-le
-logseq
-moniteur-admin
-moolticute
-movie-monad
-mtCellEdit
+laravel-kit
+launcher
 mutool
 my-budget
 mybelka
@@ -758,4 +745,9 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-yuzu
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
