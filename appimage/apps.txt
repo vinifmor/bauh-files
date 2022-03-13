@@ -109,8 +109,9 @@ Cryplicity
 Crypter
 Cryptr
 Cscrypto
-CubicSDR
-Cura
+Drill
+Dust3D
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -287,10 +288,12 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+Markman
+Martian
+MasterVyrn
+Mattermost_Desktop
+Melodie
+Minions
 Music_Blocks
 Musicalypse
 MyPaint
@@ -495,6 +498,9 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Superpaper
+SwitchHosts!
+Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -685,6 +691,7 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
