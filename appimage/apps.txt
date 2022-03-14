@@ -100,10 +100,10 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
 DokiDokiModManager
 Downline
 Dragoman
@@ -280,8 +280,8 @@ MDL
 MLV-App
 MMapper
 MQTT-Explorer
-MQTTCute
-MagicFountain
+MoarPerf
+Mob
 Mockman
 Moonlight
 Motrix
@@ -316,7 +316,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -489,7 +488,7 @@ Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
-SpeedyLoader
+SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
@@ -672,9 +671,9 @@ ksnip
 laigter
 langly
 laravel-kit
-mtCellEdit
-mutool
-my-budget
+launcher
+le
+ledger-live-desktop
 mybelka
 n3h
 nRF_Connect
