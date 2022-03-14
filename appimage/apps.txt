@@ -280,8 +280,8 @@ MDL
 MLV-App
 MMapper
 MQTT-Explorer
-MoarPerf
-Mob
+MQTTCute
+MagicFountain
 Mockman
 Moonlight
 Motrix
@@ -672,8 +672,8 @@ laigter
 langly
 laravel-kit
 launcher
-le
-ledger-live-desktop
+mutool
+my-budget
 mybelka
 n3h
 nRF_Connect
