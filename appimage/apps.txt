@@ -94,8 +94,8 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-Delir
-Demonizer
+Code_OSS
+Colon
 Deployer
 Detect_It_Easy
 DevHub
@@ -189,6 +189,8 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
+GrinPlusPlus
+Groot
 Gulden
 HDRMerge
 HastyHeroes
@@ -274,9 +276,8 @@ M
 MAngbandClient
 MDL
 MLV-App
-Mini_Diary
-Minions
-Mirage
+MMapper
+MQTT-Explorer
 MoarPerf
 Mob
 Mockman
@@ -369,8 +370,6 @@ Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 QTalarm
 QUaModbusClient
 QaterialGallery
@@ -468,10 +467,10 @@ SnippetStore
 Soapy_SDR
 SocNetV
 Software-Challenge-GUI
-Sup
-Superpaper
-SwagLyrics
-SwiftnessX
+Sonist
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
 SwitchHosts!
 Symphonium
 SyncMyL2P
@@ -560,6 +559,8 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
+ai-bot-workspace
+aillio-ts
 altair
 android-messages-desktop
 antimicroX
@@ -651,8 +652,8 @@ jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
-mki3dgame
-moniteur-admin
+ksnip
+laigter
 moolticute
 movie-monad
 mtCellEdit
