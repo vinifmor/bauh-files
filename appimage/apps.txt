@@ -56,8 +56,8 @@ BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
-CP_Editor
-CPod
+Bodhi
+Book_Manager
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
@@ -169,7 +169,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -290,10 +289,9 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
-NoTer
-Nostlan
-Notable
-NoteMaster
+Museeks
+Music_Blocks
+Musicalypse
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -301,7 +299,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -368,6 +365,10 @@ Pulse
 Puppetry
 Python
 QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
+QNapi
 QTalarm
 QUaModbusClient
 QaterialGallery
@@ -431,8 +432,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
-Silverkey
+SciQLOP
+ScienceFair
 SimDSP
 Simdock
 SimplEOS
@@ -559,8 +560,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-autoEdit2
-bioanimation
+ZY_Player
 bottlenose
 buttercup
 cabal-desktop
@@ -621,6 +621,11 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -688,7 +693,7 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-perl-executing-browser
+qSdrSwr
 qTox
 qikQR
 qpdf
