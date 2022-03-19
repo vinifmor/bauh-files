@@ -68,9 +68,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Chiaki
-Circle-Z
-CircuitBlocks
+BulkReviewer
+BulkURLOpener
+BunqDesktop
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -320,9 +320,9 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
-Neon
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -465,9 +465,9 @@ Scytale
 Sengi
 Serial_Studio
 Shadowsocks
-Shannon_Calculator
-ShareMyHost
-Sharp-Tune
+SmallBASIC
+SmartGit
+SnippetStore
 Soapy_SDR
 SocNetV
 Software-Challenge-GUI
@@ -726,9 +726,8 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
