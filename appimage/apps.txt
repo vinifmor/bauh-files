@@ -67,10 +67,9 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-CP_Editor
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
+Buckets
+BulkReviewer
+BulkURLOpener
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -189,10 +188,13 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
 HastyHeroes
-Heimer
-HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -316,11 +318,11 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-Newlogic
-OCVvid2fulldome
-OCVvid2fulldome.txt
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
 ONLYOFFICE
-OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -464,10 +466,9 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Sharp-Tune
-SlackBackup
+Serial_Studio
+Simdock
 Slacktronic
-Slippi
 SmallBASIC
 SmartGit
 SnippetStore
@@ -593,7 +594,7 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-appimagetool
+appimagelint
 bauh
 colorstatic-bash
 cordlauncher
@@ -734,7 +735,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
+polar-bookshelf
+pomotroid
 qpp::cad
 qr-code-generator-desktop
 quokkagit
