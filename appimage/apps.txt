@@ -65,15 +65,13 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-BscanFFTwebcam
-Buche
-Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
-CRG_Data_Tool
+Cate-Desktop
 Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -193,7 +191,6 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -323,8 +320,8 @@ NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
-NixNote
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -464,10 +461,10 @@ Scraper
 ScreenCloud
 Scrum-Retroboard
 Scytale
-Sengi
-Serial_Studio
-Shadowsocks
-Sharp-Tune
+Skrifa
+SlackBackup
+Slacktronic
+Slippi
 SmallBASIC
 SmartGit
 SnippetStore
@@ -593,7 +590,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-android-messages-desktop
 bauh
 cordlauncher
 cric
@@ -733,7 +729,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qBittorrent_Enhanced_Edition
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
