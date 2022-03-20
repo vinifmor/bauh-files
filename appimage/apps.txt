@@ -70,8 +70,7 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-Circle-Z
-CircuitBlocks
+BunqDesktop
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -194,7 +193,6 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-HastyHeroes
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -320,9 +318,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-NX_Software_Center
-NanoVault
 ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -462,13 +459,13 @@ SciQLOP
 ScienceFair
 Scilab
 Scraper
-ScreenCloud
-Scrum-Retroboard
-Scytale
-Sengi
-Serial_Studio
-Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
+Skrifa
+SlackBackup
 Slacktronic
+Slippi
 SmallBASIC
 SmartGit
 SnippetStore
@@ -589,13 +586,12 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
-appimagelint
 bauh
+cabal-desktop
+caprine
+clippy
+clipr
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -735,8 +731,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-polar-bookshelf
-pomotroid
 qpp::cad
 qr-code-generator-desktop
 quokkagit
