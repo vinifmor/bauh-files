@@ -65,10 +65,10 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-Cate-Desktop
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
+BscanFFTwebcam
+Buche
+Buckets
+BulkReviewer
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -317,9 +317,9 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -461,8 +461,7 @@ Scraper
 ScreenCloud
 Scrum-Retroboard
 Scytale
-Skrifa
-SlackBackup
+Sengi
 Slacktronic
 Slippi
 SmallBASIC
@@ -586,11 +585,12 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+caprine
+clippy
+clipr
+cncjs
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
