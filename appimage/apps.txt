@@ -186,7 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -238,9 +237,9 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -288,7 +287,7 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -475,7 +474,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -543,8 +541,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-autoEdit2
-bioanimation
+ZY_Player
 bottlenose
 buttercup
 cabal-desktop
@@ -598,9 +595,12 @@ gerbv
 getswell
 gibs
 githoard
-iota1k
-iptvnator
-irccloud-desktop
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -665,7 +665,7 @@ onnx2daq
 openblok
 ossia_score
 osu
-puush-qt
+p2p-chat
 pyappimage
 python2
 python3
@@ -738,4 +738,3 @@ weweChat
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
