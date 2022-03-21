@@ -71,7 +71,6 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-CP_Editor
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -193,12 +192,9 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-GoldenCheetah
 GoldenDict
-GpgFrontend
-Groot
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -324,9 +320,7 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
-Neon
-NoteMaster
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -469,11 +463,8 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-ShareMyHost
-Simdock
-SimplEOS
-Skrifa
-Slippi
+Serial_Studio
+Shadowsocks
 SmallBASIC
 SmartGit
 SnippetStore
@@ -599,10 +590,10 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-appimagelint
+appium-desktop
 bauh
-clipr
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -739,7 +730,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-playyourdamnturn.com
+qikQR
 qpp::cad
 qr-code-generator-desktop
 quokkagit
