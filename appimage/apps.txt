@@ -69,9 +69,8 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
 CRG_Data_Tool
-Calculist
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -193,13 +192,11 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-GpgFrontend
-GradeStats
+Gpredict
+HermesMessenger
 Heroic Games Launcher
+HexoClient
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -322,10 +319,10 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-Niffler
+NX_Software_Center
+NanoVault
+Nexus_Wallet
 OCRmyPDF
-OSRS_Tools
-OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -462,14 +459,14 @@ Scatter
 SchildiChat
 SciQLOP
 ScienceFair
-Scilab
-Scraper
 ScreenCloud
-Scrum-Retroboard
-Scytale
-Shadowsocks
-Sheikah
+SigDigger
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 Skrifa
+SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
@@ -597,10 +594,10 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-aillio-ts
 antimicroX
 bauh
-cabal-desktop
+buttercup
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -738,7 +735,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
+qTox
 qpp::cad
 qr-code-generator-desktop
 quokkagit
