@@ -64,8 +64,8 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
-Calculist
+BulkURLOpener
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -188,8 +188,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitQlient
-GradeStats
+Gulden
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -314,7 +314,7 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-NoteMaster
+MyPaint
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -460,10 +460,11 @@ SciQLOP
 ScienceFair
 Scilab
 Scraper
-SimplEOS
-SimpleInstaBot
-Singlebox
-Skrifa
+ScreenCloud
+Scrum-Retroboard
+Scytale
+Sengi
+Shadowsocks
 SlackBackup
 Slacktronic
 Slippi
@@ -594,6 +595,7 @@ Zulip
 accessimap-lecteur-der
 bauh
 cncjs
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -726,8 +728,9 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-pb-for-desktop
-photoname
+pkg2appimage
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
