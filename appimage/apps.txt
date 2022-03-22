@@ -54,8 +54,7 @@ Blizzard_4
 Blockbench
 Bloks
 BloomRPC
-Blowfish
-BottleBats
+CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
@@ -187,7 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -240,11 +238,9 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-KopiaUI
-Left
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -357,8 +353,7 @@ Plover
 PocketCasts_Electron
 Poddr
 PolkaKey
-Popsicle
-Postman
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -418,7 +413,7 @@ SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
-Scrum-Retroboard
+SafeSurfer-Desktop
 Shotcut
 Shuttle
 SigDigger
@@ -473,9 +468,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
-SynfigStudio
-TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -544,7 +536,6 @@ YesPlayMusic
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -597,13 +588,11 @@ freeman
 gLabels
 gerbv
 getswell
-gsubs
-guglielmo
-hero-display
-htmldoc
-iota1k
-iptvnator
-irccloud-desktop
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 isle-editor
 jag
 jexiftoolgui
@@ -665,9 +654,9 @@ nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
-plotjuggler
-privacy.sexy
-protonmail-desktop
+openblok
+ossia_score
+osu
 puush-qt
 pyappimage
 python2
@@ -739,4 +728,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-youtube-music
