@@ -53,13 +53,12 @@ Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
+BloomRPC
+Blowfish
+BlueGlow
+Board_Game_Star
+Bodhi
 Book_Manager
-BscanFFTwebcam
-CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
-CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
@@ -187,8 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GpgFrontend
-Gpredict
 HDRMerge
 HastyHeroes
 Heimer
@@ -289,9 +286,9 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-Music_Blocks
+Nexus_Wallet
+Niffler
+Nitrokey
 NixNote
 NoTer
 Nostlan
@@ -362,7 +359,11 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-QEMU_PowerPC
+ProcSpin
+Procyon
+ProofKeeper
+Pullp
+Pulse
 QNapi
 QTalarm
 QUaModbusClient
@@ -427,7 +428,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scilab
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -487,6 +488,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -555,7 +557,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-Zulip
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -614,10 +616,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
 isle-editor
 jag
 jexiftoolgui
@@ -685,7 +683,7 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-plotjuggler
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -760,3 +758,6 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
+youtube-music
+youtube-music-desktop
