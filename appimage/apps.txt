@@ -53,13 +53,13 @@ Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
-BloomRPC
-Blowfish
-BlueGlow
 Board_Game_Star
-Bodhi
-Book_Manager
-BottleBats
+BrickStore
+CIAA_Suite
+CPU-X
+CP_Editor
+CPod
+CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -186,10 +187,13 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GpgFrontend
+Gpredict
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -291,8 +295,9 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-NoTer
-Nostlan
+MuPDF
+Museeks
+NepaliUnicode
 Notable
 NoteMaster
 OCRmyPDF
@@ -368,6 +373,8 @@ Pulse
 Puppetry
 Python
 QDriverStation
+QEMU_PowerPC
+QMPlay2
 QNapi
 QTalarm
 QUaModbusClient
@@ -431,6 +438,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -556,9 +564,9 @@ XChat
 XELFViewer
 XPEViewer
 YUView
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
+accessimap-lecteur-der
+android-messages-desktop
+appium-desktop
 autoEdit2
 bioanimation
 bottlenose
@@ -684,7 +692,8 @@ onnx2daq
 openblok
 ossia_score
 osu
-pyappimage
+pnpm
+pomotroid
 python2
 python3
 qBittorrent_Enhanced_Edition
