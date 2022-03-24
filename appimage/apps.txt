@@ -56,7 +56,8 @@ Bloks
 BloomRPC
 Blowfish
 BlueGlow
-Board_Game_Star
+CPU-X
+CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
@@ -185,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -237,8 +239,8 @@ KeyManager
 KeyboardClient
 Keys
 KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -354,7 +356,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PraxisLIVE
 QNapi
 QTalarm
 QUaModbusClient
@@ -416,8 +417,8 @@ SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
-SavvyCAN
-Scatter
+Shuttle
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -476,9 +477,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
-TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -544,7 +542,8 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
+appimagetool
+appium-desktop
 autoEdit2
 bioanimation
 bottlenose
@@ -601,11 +600,8 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -670,10 +666,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
+puush-qt
+pyappimage
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -747,10 +743,3 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
