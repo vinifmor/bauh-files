@@ -64,8 +64,9 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-CasterSoundboard
-Cate-Desktop
+BrickStore
+BscanFFTwebcam
+BulkReviewer
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -171,6 +172,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -190,6 +192,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -240,6 +243,21 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -287,10 +305,11 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
+NCSA_Mosaic
+NanoVault
+Nitrokey
+NixNote
+NoTer
 Nostlan
 Notable
 NoteMaster
@@ -301,6 +320,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -364,6 +384,12 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -428,7 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+Scytale
 Silverkey
 SimDSP
 Simdock
@@ -488,6 +514,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -560,9 +587,11 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
-clippy
-clipr
-cncjs
+Zoom
+Zulip
+accessimap-lecteur-der
+aillio-ts
+bauh
 colorstatic-bash
 cordlauncher
 cric
@@ -616,6 +645,18 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -638,6 +679,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -761,4 +803,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
+zsync2
