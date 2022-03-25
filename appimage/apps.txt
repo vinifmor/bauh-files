@@ -60,11 +60,8 @@ Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
-BulkReviewer
-BulkURLOpener
-BunqDesktop
-CP_Editor
-CPod
+BrainVerse
+Cabal_Desktop_Mini
 Calculist
 Carpenters
 CasterSoundboard
@@ -174,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -190,9 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-Graviton
-GrinPlusPlus
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -249,12 +243,6 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
 LMMS
 LPub3D
 LibreSprite
@@ -308,9 +296,9 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-NepaliUnicode
-Nitrokey
+NMEASimulator
+Nostlan
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -319,7 +307,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -452,8 +439,9 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
-Scraper
+ScreenCloud
+Shadowsocks
+Shotcut
 Silverkey
 SimDSP
 Simdock
@@ -583,9 +571,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-aillio-ts
+Zoom
 bauh
-buttercup
 cabal-desktop
 caprine
 clippy
@@ -678,7 +665,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -721,12 +707,12 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
 parsec-linux-appimage
-playyourdamnturn.com
-pomotroid
 privacy.sexy
 pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
