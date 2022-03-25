@@ -61,8 +61,6 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-BytespeicherTrayIcon
-CP_Editor
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -173,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -193,7 +190,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -244,7 +240,6 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
 LibreSprite
 Lightning
 LikeTaskManager
@@ -294,10 +289,9 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
-NepaliUnicode
+NixNote
+NoTer
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -307,7 +301,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -372,7 +365,6 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
-QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -437,9 +429,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shannon_Calculator
-Sharp-Tune
-SigDigger
+Silverkey
+SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -563,16 +554,17 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
+appimagetool
+appium-desktop
+autoEdit2
+bioanimation
+bottlenose
+buttercup
+cabal-desktop
+caprine
+clippy
+clipr
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -625,19 +617,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -660,7 +639,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -705,12 +683,10 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-patchbay
-pb-for-desktop
-pdf-sync
-perl-executing-browser
-pretty-handy-privacy
-privacy.sexy
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 qTox
 qikQR
 qpdf
@@ -786,6 +762,3 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
-zograscope
-zsync2
