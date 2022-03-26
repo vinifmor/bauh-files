@@ -76,9 +76,11 @@ BytespeicherTrayIcon
 CATcher
 CIAA_Suite
 CPU-X
-CP_Editor
-CircuitBlocks
+Cate-Desktop
+City_Hub
+ClementineRemote
 Cliniface
+Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
@@ -194,8 +196,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Groot
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -329,11 +330,11 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
+Nexus_Wallet
+Niffler
+ONLYOFFICE
 OWASP Threat Dragon
 Onenote
-Onshape
-Onyx
-OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
@@ -467,8 +468,8 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-SlackBackup
-Slacktronic
+ShareMyHost
+Silverkey
 Slippi
 SmallBASIC
 SmartGit
@@ -599,10 +600,10 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+appimagetool
 bauh
-bioanimation
-cabal-desktop
-dbet-wallet
+cric
+dashy-app
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -739,10 +740,9 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pomotroid
-puush-qt
-qikQR
-quokkagit
+pnpm
+rasterview
+ridereceipts
 rmw
 runanode
 sabaki
