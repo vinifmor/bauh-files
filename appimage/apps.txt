@@ -72,11 +72,10 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Bypass_Cors
+BytespeicherTrayIcon
+CATcher
 CIAA_Suite
-CRIC
-CircuitBlocks
-CleepDesktop
-ClementineRemote
+CPU-X
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -195,11 +194,11 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-GooboxFileShare
-Heimer
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+HastyHeroes
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -327,13 +326,12 @@ NanoVault
 Negibox
 Neon
 NepaliUnicode
-Newlogic
-Nextcloud
-Nexus_Wallet
-NoteMaster
-ONLYOFFICE
-OVis
 OWASP Threat Dragon
+Obsidian
+Olive
+Onenote
+Onshape
+Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
@@ -468,8 +466,9 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Shannon_Calculator
-ShareMyHost
+SimDSP
+SimpleInstaBot
+Singlebox
 Slacktronic
 Slippi
 SmallBASIC
@@ -599,11 +598,9 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
-altair
-appimagelint
-appium-desktop
 bauh
-bioanimation
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -739,9 +736,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pyappimage
+plotjuggler
 qikQR
-qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
