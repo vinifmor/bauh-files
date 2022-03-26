@@ -68,10 +68,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -188,9 +187,10 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
-HastyHeroes
-Heimer
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -313,16 +313,15 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-NoteMaster
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVis
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -455,7 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Silverkey
+ScienceFair
 SimDSP
 Simdock
 SimplEOS
