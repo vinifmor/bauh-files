@@ -68,8 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -189,6 +188,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -316,10 +316,10 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
+OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -454,9 +454,9 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
-Scilab
-Scraper
+Silverkey
+SimDSP
+Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
