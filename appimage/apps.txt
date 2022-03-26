@@ -71,6 +71,7 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -187,8 +188,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+Groot
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -316,10 +317,11 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
-OVis
+NMEASimulator
+NX_Software_Center
+NanoVault
+Niffler
+NixNote
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -456,9 +458,10 @@ Scatter
 SchildiChat
 ScienceFair
 Scilab
-Scraper
 ScreenCloud
-Scrum-Retroboard
+Sharp-Tune
+Shotcut
+SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
@@ -589,10 +592,12 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
+autoEdit2
 bauh
-colorstatic-bash
-cordlauncher
-cric
+buttercup
+cabal-desktop
+caprine
+clipr
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -729,7 +734,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
+plotjuggler
+puush-qt
+pyappimage
 qr-code-generator-desktop
 quokkagit
 rasterview
