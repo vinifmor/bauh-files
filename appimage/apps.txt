@@ -68,9 +68,10 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Chiaki
-Circle-Z
-CircuitBlocks
+BulkReviewer
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -187,9 +188,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
-HastyHeroes
-Heimer
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -311,8 +314,7 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Notable
-NoteMaster
+Musicalypse
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -454,7 +456,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Silverkey
+ScienceFair
 SimDSP
 Simdock
 SimplEOS
@@ -586,11 +588,10 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
+Zoom
+Zulip
+accessimap-lecteur-der
 bauh
-clippy
-clipr
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -724,7 +725,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-qBittorrent_Enhanced_Edition
+pdf-sync
 qSdrSwr
 qTox
 qikQR
