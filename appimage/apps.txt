@@ -68,9 +68,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
+CIAA_Suite
+Chiaki
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -188,7 +188,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
+Guitar
 HDRMerge
 HastyHeroes
 Heimer
@@ -313,9 +313,8 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Nostlan
-Notable
-NoteMaster
+Musicalypse
+Newlogic
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -457,10 +456,11 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
-Scilab
-Scraper
-ScreenCloud
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -591,7 +591,8 @@ Zegarek
 ZenroomStudio
 Zoom
 Zulip
-accessimap-lecteur-der
+android-messages-desktop
+appimagelint
 bauh
 colorstatic-bash
 cordlauncher
@@ -732,6 +733,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pretty-handy-privacy
 qpdf
 qpp::cad
 qr-code-generator-desktop
