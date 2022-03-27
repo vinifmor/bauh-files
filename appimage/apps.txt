@@ -75,12 +75,9 @@ Bypass_Cors
 BytespeicherTrayIcon
 CATcher
 CIAA_Suite
-CPU-X
-CRG_Data_Tool
-CasterSoundboard
-Cate-Desktop
 ChainX_Signer
 Cliniface
+Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
@@ -197,9 +194,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-HastyHeroes
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -329,10 +324,10 @@ NX_Software_Center
 NanoVault
 Negibox
 Neon
+NepaliUnicode
+Newlogic
+Nextcloud
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
 Onenote
 Onshape
 Onyx
@@ -467,13 +462,11 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
-Scrum-Retroboard
-Scytale
-Shadowsocks
-Shannon_Calculator
-SigDigger
-SimDSP
 SimpleInstaBot
+Singlebox
+Skrifa
+SlackBackup
+Slacktronic
 Slippi
 SmallBASIC
 SmartGit
@@ -600,9 +593,9 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-ai-bot-workspace
-aillio-ts
 bauh
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -740,7 +733,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-polar-bookshelf
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
