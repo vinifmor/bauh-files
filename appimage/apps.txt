@@ -68,8 +68,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
+ChainX_Signer
+Chiaki
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -188,6 +189,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
+GitJournal
 HastyHeroes
 Heimer
 HermesMessenger
@@ -313,9 +316,10 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
+My_Jira
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -453,6 +457,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -727,7 +732,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-qikQR
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
