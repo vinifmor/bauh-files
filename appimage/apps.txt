@@ -58,9 +58,11 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-Book_Manager
-BottleBats
-Bottles
+Buche
+BulkURLOpener
+BunqDesktop
+CPU-X
+CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -171,6 +173,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -191,6 +194,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -243,6 +247,9 @@ Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Klogg
+Knowte
+KopiaUI
+LANShare
 LibreSprite
 Lightning
 LikeTaskManager
@@ -289,7 +296,7 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
+Motrix
 Niffler
 Nitrokey
 NixNote
@@ -304,6 +311,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -367,6 +375,11 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
 QMediathekView
 QNapi
 QTalarm
@@ -431,9 +444,10 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SigDigger
-SigmaSpectra
-Silverkey
+SchildiChat
+Sengi
+Shadowsocks
+Shotcut
 SimDSP
 Simdock
 SimplEOS
@@ -556,11 +570,12 @@ Wsocks
 XChat
 XELFViewer
 XPEViewer
-YUView
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
+ZapDesktop
+accessimap-lecteur-der
+appimagelint
+appimagetool
+appium-desktop
+autoEdit2
 bioanimation
 bottlenose
 buttercup
@@ -686,7 +701,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-puush-qt
+patchbay
+pkg2appimage
+polar-bookshelf
 pyappimage
 python2
 python3
@@ -767,3 +784,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
+zograscope
+zsync2
