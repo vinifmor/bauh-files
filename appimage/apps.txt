@@ -58,9 +58,10 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-CPod
-CRG_Data_Tool
-CRIC
+Book_Manager
+BottleBats
+Bottles
+CIAA_Suite
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -186,6 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -239,6 +241,7 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
+Kimitzu-Client
 LiberTEM
 LibreSprite
 Lightning
@@ -288,9 +291,9 @@ Mob
 Mockman
 Moonlight
 Motrix
-Nitrokey
-NixNote
-NoTer
+Mr.Dclutterer
+MuPDF
+Museeks
 Nostlan
 Notable
 NoteMaster
@@ -359,6 +362,7 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
 QMediathekView
 QNapi
 QTalarm
@@ -422,9 +426,9 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
-Shuttle
-SigDigger
-SigmaSpectra
+Scatter
+SchildiChat
+Shadowsocks
 Silverkey
 SimDSP
 Simdock
@@ -550,9 +554,10 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
+antimicroX
+appimagetool
+appium-desktop
+autoEdit2
 bioanimation
 bottlenose
 buttercup
@@ -753,3 +758,9 @@ whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
