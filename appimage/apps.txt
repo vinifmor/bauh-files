@@ -64,7 +64,6 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
 CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
@@ -188,8 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitQlient
-GooboxFileShare
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -260,8 +258,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -318,8 +314,7 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NixNote
+OCVvid2fulldome
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -457,8 +452,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shotcut
-SigmaSpectra
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -594,7 +588,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-cabal-desktop
 colorstatic-bash
 cordlauncher
 cric
@@ -728,9 +721,8 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-python2
-python3
-qBittorrent_Enhanced_Edition
+pb-for-desktop
+pdf-sync
 qSdrSwr
 qTox
 qikQR
