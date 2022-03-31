@@ -65,9 +65,8 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-Buckets
-CRIC
-CasterSoundboard
+BytespeicherTrayIcon
+CPU-X
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -191,8 +190,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Glimpse-Image-Editor
-HastyHeroes
+GitHubDesktop
+GitJournal
+GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -320,7 +320,7 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -458,6 +458,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+ScreenCloud
 SigmaSpectra
 Silverkey
 SimDSP
@@ -586,8 +587,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-Zegarek
-android-messages-desktop
+ZenroomStudio
+autoEdit2
 bauh
 bioanimation
 bottlenose
@@ -727,15 +728,14 @@ onnx2daq
 openblok
 ossia_score
 osu
-privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+p2p-chat
+parsec-linux-appimage
+patchbay
+pb-for-desktop
+pdf-sync
+perl-executing-browser
+photoname
+pnpm
 qikQR
 qpdf
 qpp::cad
