@@ -57,12 +57,13 @@ BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
-CP_Editor
-CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
+Bodhi
+Book_Manager
+BottleBats
+Bottles
+Brackets
+BrainVerse
+BrainWaves
 Carpenters
 CasterSoundboard
 Cate-Desktop
@@ -191,6 +192,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,8 +243,8 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LANShare
-Left
+LMMS
+Laigter
 LibreSprite
 Lightning
 LikeTaskManager
@@ -294,6 +296,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
+Neon
 Nostlan
 Notable
 NoteMaster
@@ -304,6 +307,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -362,6 +366,14 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -428,6 +440,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -546,12 +559,12 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Workbench
+Wrapbox
+Wsocks
 XChat
 XELFViewer
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
+XPEViewer
 antimicroX
 ao
 appimagelint
@@ -608,12 +621,17 @@ foxfolio
 fre:ac
 freeman
 gLabels
+gerbv
+getswell
+gibs
+githoard
 glTF_Insight
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
+htmldoc
 iptvnator
 irccloud-desktop
 isle-editor
@@ -681,7 +699,8 @@ openblok
 ossia_score
 osu
 p2p-chat
-pyappimage
+plotjuggler
+privacy.sexy
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -759,3 +778,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
