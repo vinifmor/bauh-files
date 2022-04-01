@@ -63,8 +63,8 @@ BottleBats
 Bottles
 Brackets
 BrainVerse
-Carpenters
-CasterSoundboard
+BrainWaves
+BrickStore
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -186,8 +186,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
-HDRMerge
+Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -244,6 +244,11 @@ Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LPub3D
 LibreSprite
 Lightning
 LikeTaskManager
@@ -296,16 +301,17 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Nostlan
-Notable
-NoteMaster
+Musicalypse
+MyPaint
+My_Jira
+NCSA_Mosaic
+Neon
 OCRmyPDF
-OCVWarp
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -369,6 +375,7 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -435,8 +442,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shotcut
-SigmaSpectra
+Shadowsocks
 Silverkey
 SimDSP
 Simdock
@@ -561,10 +567,10 @@ XChat
 XELFViewer
 XPEViewer
 YUView
-ao
-appimagelint
+YesPlayMusic
+YouTubeSearchFilter
+Yuna
 appimagetool
-appium-desktop
 autoEdit2
 bioanimation
 bottlenose
@@ -626,7 +632,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hsinstall
+impact
 iptvnator
 irccloud-desktop
 isle-editor
@@ -697,9 +703,8 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-polar-bookshelf
-qBittorrent_Enhanced_Edition
-qSdrSwr
+pdf-sync
+perl-executing-browser
 qTox
 qikQR
 qpdf
@@ -775,4 +780,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
+zsync2
