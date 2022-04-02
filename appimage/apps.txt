@@ -68,8 +68,8 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Carpenters
-Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -189,8 +189,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
 GitJournal
-HastyHeroes
+GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -317,8 +318,8 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-Nostlan
-OCVvid2fulldome
+NMEASimulator
+Neon
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -585,6 +586,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
+ZapDesktop
 bauh
 bottlenose
 buttercup
@@ -730,6 +732,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
+pigs-n-cows
+pingviewer
 qikQR
 qpdf
 qpp::cad
