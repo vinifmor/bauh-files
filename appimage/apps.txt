@@ -64,9 +64,11 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
+BrickStore
+BscanFFTwebcam
 Buche
-Cate-Desktop
-Cerebral-Debugger
+Buckets
+BunqDesktop
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -187,9 +189,10 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
-HastyHeroes
-Heimer
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -316,7 +319,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-Newlogic
+NX_Software_Center
+NanoVault
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -584,10 +588,9 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-autoEdit2
+Zegarek
+ZenroomStudio
 bauh
-cabal-desktop
-caprine
 clippy
 clipr
 cncjs
