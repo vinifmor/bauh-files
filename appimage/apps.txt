@@ -64,8 +64,7 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
-BunqDesktop
+BulkURLOpener
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -189,10 +188,10 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
-Graviton
+Gpredict
+GradeStats
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -316,10 +315,10 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-My_Jira
-NCSA_Mosaic
-NMEASimulator
+Nitrokey
+OCVWarp
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -457,7 +456,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+Sheikah
 Silverkey
 SimDSP
 Simdock
@@ -585,10 +584,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appium-desktop
-autoEdit2
+ZY_Player
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -735,9 +732,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
-qpp::cad
-qr-code-generator-desktop
+python2
+python3
+qikQR
 quokkagit
 rasterview
 ridereceipts
