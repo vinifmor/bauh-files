@@ -65,10 +65,10 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-BscanFFTwebcam
-Buche
-Buckets
-CPod
+Cate-Desktop
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -187,9 +187,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-Google_Tasks_Desktop
+Groot
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -258,8 +258,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -580,11 +578,12 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
-ZapDesktop
+appimagetool
+appium-desktop
+autoEdit2
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -730,6 +729,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qBittorrent_Enhanced_Edition
 qpdf
 qpp::cad
 qr-code-generator-desktop
