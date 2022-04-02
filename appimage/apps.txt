@@ -68,9 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Bypass_Cors
-CasterSoundboard
-Cerebral-Debugger
+CPod
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -190,8 +188,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
-HastyHeroes
+GitHubDesktop
+Google_Tasks_Desktop
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -316,9 +314,9 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-My_Jira
-NCSA_Mosaic
+OCVWarp
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -456,8 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scraper
-SigDigger
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -588,7 +585,6 @@ Yuna
 ZY_Player
 ZapDesktop
 bauh
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -729,11 +725,11 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
