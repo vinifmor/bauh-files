@@ -67,8 +67,10 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-ChainX_Signer
-Chiaki
+Buckets
+Bypass_Cors
+CasterSoundboard
+Cerebral-Debugger
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -187,7 +189,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitQlient
+Gingko
 HDRMerge
 HastyHeroes
 Heimer
@@ -314,9 +316,9 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-OCVWarp
+My_Jira
+NCSA_Mosaic
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -454,8 +456,9 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scytale
-SigmaSpectra
+Scraper
+SigDigger
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -583,8 +586,9 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appium-desktop
+ZapDesktop
 bauh
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -724,8 +728,8 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-plotjuggler
-pretty-handy-privacy
+pb-for-desktop
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
