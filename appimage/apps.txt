@@ -61,10 +61,11 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-CasterSoundboard
+Brackets
+BrainVerse
+BrainWaves
+BrickStore
+BunqDesktop
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -191,7 +192,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Google_Tasks_Desktop
+Graviton
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -315,9 +316,10 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-OCVWarp
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -455,6 +457,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -582,9 +585,10 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
 appium-desktop
+autoEdit2
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
