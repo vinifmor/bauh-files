@@ -61,10 +61,10 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
-BrainVerse
-BrainWaves
-BrickStore
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -187,10 +187,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Groot
-HDRMerge
-HastyHeroes
-Heimer
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
+Google_Tasks_Desktop
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -258,6 +259,8 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -452,7 +455,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -578,11 +580,11 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-appimagetool
+YouTubeSearchFilter
+Yuna
+ZY_Player
 appium-desktop
-autoEdit2
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -729,7 +731,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qBittorrent_Enhanced_Edition
 qpdf
 qpp::cad
 qr-code-generator-desktop
