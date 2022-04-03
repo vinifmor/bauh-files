@@ -64,11 +64,9 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
-BscanFFTwebcam
-Buche
-Buckets
-BunqDesktop
+CasterSoundboard
+Cate-Desktop
+Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -191,8 +189,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -318,9 +316,8 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
+OCVvid2fulldome
+ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -585,12 +582,14 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
+Zoom
+autoEdit2
 bauh
+bioanimation
+bottlenose
+buttercup
+cabal-desktop
+caprine
 clippy
 clipr
 cncjs
@@ -730,9 +729,9 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
 pingviewer
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
