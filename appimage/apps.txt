@@ -68,8 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-CP_Editor
-Chiaki
+BulkReviewer
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -188,9 +187,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GitJournal
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -313,15 +311,12 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
+Musicalypse
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 NanoVault
-NixNote
-Notable
-NoteMaster
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -580,12 +575,11 @@ Workbench
 Wrapbox
 Wsocks
 XChat
-XELFViewer
-XPEViewer
-YUView
-YesPlayMusic
-ZeGrapher
-ZenroomStudio
+android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 bauh
