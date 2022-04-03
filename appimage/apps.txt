@@ -68,7 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
+BulkURLOpener
 Chiaki
 Circle-Z
 CircuitBlocks
@@ -189,10 +189,11 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
-HastyHeroes
-Heimer
-HermesMessenger
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -317,8 +318,7 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-Nitrokey
+OCVvid2fulldome
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -456,7 +456,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
 Silverkey
 SimDSP
 Simdock
@@ -583,10 +582,10 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
-ZY_Player
-ZapDesktop
+appium-desktop
+autoEdit2
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -733,7 +732,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qikQR
+privacy.sexy
 qpdf
 qpp::cad
 qr-code-generator-desktop
