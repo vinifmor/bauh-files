@@ -68,7 +68,8 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
+CP_Editor
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -187,8 +188,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
-HastyHeroes
+Gingko
+GitHubDesktop
+GitJournal
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -311,10 +313,11 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Musicalypse
-Negibox
-Niffler
-Nitrokey
+NanoVault
+NixNote
+Notable
+NoteMaster
+OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -455,7 +458,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shadowsocks
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -581,8 +584,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
+ZeGrapher
+ZenroomStudio
+appium-desktop
 autoEdit2
 bauh
 bioanimation
@@ -729,8 +733,9 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-qTox
-qikQR
+photoname
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
