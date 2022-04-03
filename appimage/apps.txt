@@ -70,8 +70,7 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-CRG_Data_Tool
-CircuitBlocks
+Chiaki
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -190,8 +189,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GoldenDict
-GradeStats
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -317,8 +315,8 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-NCSA_Mosaic
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -456,7 +454,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Sengi
+Scytale
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -585,9 +584,9 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-Zulip
+ZenroomStudio
 bauh
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -733,6 +732,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qSdrSwr
 qpdf
 qpp::cad
 qr-code-generator-desktop
