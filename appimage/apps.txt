@@ -68,12 +68,12 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-CP_Editor
-Carpenters
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
+BulkReviewer
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
+BytespeicherTrayIcon
+CATcher
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -190,8 +190,10 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HastyHeroes
-Heimer
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -318,7 +320,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-ONLYOFFICE
+NX_Software_Center
+NepaliUnicode
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -455,8 +458,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
-Silverkey
+Scilab
+Sengi
 SimDSP
 Simdock
 SimplEOS
@@ -583,10 +586,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
+ZY_Player
 ZapDesktop
-autoEdit2
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -733,7 +735,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
+pkg2appimage
+pnpm
 qpp::cad
 qr-code-generator-desktop
 quokkagit
