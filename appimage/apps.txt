@@ -69,10 +69,9 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
+ChainX_Signer
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -193,10 +192,10 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Heimer
-HermesMessenger
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -318,9 +317,8 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-NCSA_Mosaic
-NMEASimulator
 OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -461,8 +459,8 @@ SchildiChat
 ScienceFair
 Scilab
 Scraper
-Shadowsocks
-SimDSP
+Simdock
+SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -588,10 +586,10 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+ZeGrapher
+ai-bot-workspace
 bauh
 bottlenose
-buttercup
-cabal-desktop
 caprine
 clippy
 clipr
@@ -734,7 +732,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-pingviewer
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
