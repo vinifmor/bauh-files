@@ -62,9 +62,9 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
-BulkURLOpener
-Calculist
-Carpenters
+BrainVerse
+BrainWaves
+CPU-X
 CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
@@ -187,6 +187,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitNote
+GrinPlusPlus
 HDRMerge
 HastyHeroes
 Heimer
@@ -241,8 +243,6 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Klogg
 LibreSprite
 Lightning
 LikeTaskManager
@@ -294,7 +294,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -369,8 +369,6 @@ Pullp
 Pulse
 Puppetry
 Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -436,7 +434,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-Shotcut
+SchildiChat
 SigmaSpectra
 Silverkey
 SimDSP
@@ -562,8 +560,9 @@ XChat
 XELFViewer
 XPEViewer
 YUView
-ZeGrapher
-appimagetool
+YesPlayMusic
+YouTubeSearchFilter
+Yuna
 appium-desktop
 autoEdit2
 bioanimation
@@ -692,9 +691,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-privacy.sexy
-puush-qt
-pyappimage
+p2p-chat
+parsec-linux-appimage
+pkg2appimage
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -771,6 +770,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
-youtube-music
-youtube-music-desktop
+yuzu
