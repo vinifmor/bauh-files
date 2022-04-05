@@ -61,7 +61,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
+BrainWaves
+Cabal_Desktop_Mini
 Calculist
 Carpenters
 CasterSoundboard
@@ -186,7 +187,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GoldenCheetah
 Gulden
 HDRMerge
 HastyHeroes
@@ -242,7 +242,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LMMS
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -291,11 +291,11 @@ Mob
 Mockman
 Moonlight
 Motrix
-Niffler
-Nitrokey
-NixNote
-NoTer
-Nostlan
+Mr.Dclutterer
+MuPDF
+Museeks
+My_Jira
+NanoVault
 Notable
 NoteMaster
 OCRmyPDF
@@ -362,7 +362,14 @@ PostyBirb
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-QDriverStation
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
 QMPlay2
 QMediathekView
 QNapi
@@ -428,7 +435,6 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
@@ -553,8 +559,7 @@ Wrapbox
 Wsocks
 XChat
 XELFViewer
-android-messages-desktop
-antimicroX
+XPEViewer
 ao
 appimagelint
 appimagetool
@@ -619,6 +624,7 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
+guiscrcpy
 iptvnator
 irccloud-desktop
 isle-editor
@@ -643,7 +649,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -686,10 +691,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-protonmail-desktop
+p2p-chat
+parsec-linux-appimage
 puush-qt
-pyappimage
-python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -762,4 +766,6 @@ whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
+wxMaxima
+x-loc
 youtube-music
