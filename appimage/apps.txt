@@ -64,7 +64,6 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-CPU-X
 CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
@@ -187,12 +186,12 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitNote
-GrinPlusPlus
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -294,7 +293,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Nostlan
+Music_Blocks
 Notable
 NoteMaster
 OCRmyPDF
@@ -304,6 +303,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -369,6 +369,8 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -434,7 +436,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -556,13 +558,13 @@ WorkFlowy
 Workbench
 Wrapbox
 Wsocks
-XChat
-XELFViewer
-XPEViewer
 YUView
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
+altair
+android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 bioanimation
@@ -623,8 +625,6 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-guglielmo
-guiscrcpy
 iptvnator
 irccloud-desktop
 isle-editor
@@ -693,9 +693,9 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-pkg2appimage
-python2
-python3
+patchbay
+pb-for-desktop
+pingviewer
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -770,4 +770,9 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
+youtube-music
+youtube-music-desktop
 yuzu
+zograscope
+zsync2
