@@ -61,7 +61,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
+Cabal_Desktop_Mini
 Calculist
 Carpenters
 CasterSoundboard
@@ -171,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -187,12 +186,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GrinPlusPlus
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -243,10 +241,8 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Klogg
-Knowte
-KopiaUI
+Lagrange
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -295,11 +291,13 @@ Mob
 Mockman
 Moonlight
 Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
-Musicalypse
+My_Jira
+NCSA_Mosaic
+NepaliUnicode
+NixNote
+NoTer
+Nostlan
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -308,7 +306,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -365,17 +362,7 @@ Postman
 PostyBirb
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
-Pullp
-Pulse
 Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -440,7 +427,8 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
-Scatter
+Scytale
+Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
@@ -565,13 +553,13 @@ Wrapbox
 Wsocks
 XChat
 XELFViewer
-XPEViewer
 YUView
-Zegarek
+antimicroX
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -631,11 +619,8 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
-guiscrcpy
 hero-display
-hotspot
-hpack
-hsinstall
+htmldoc
 iptvnator
 irccloud-desktop
 isle-editor
@@ -660,7 +645,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -703,8 +687,8 @@ onnx2daq
 openblok
 ossia_score
 osu
-patchbay
-puush-qt
+pdf-sync
+polar-bookshelf
 pyappimage
 python2
 python3
@@ -783,8 +767,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
