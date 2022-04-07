@@ -60,9 +60,8 @@ Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
-Bottles
-Brackets
-BrainVerse
+CRIC
+Cabal_Desktop_Mini
 Calculist
 Carpenters
 CasterSoundboard
@@ -172,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -188,12 +186,10 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -245,8 +241,6 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-Klogg
-Knowte
 KopiaUI
 LibreSprite
 Lightning
@@ -299,8 +293,8 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
+Nostlan
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -309,7 +303,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -373,10 +366,6 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -442,8 +431,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-Shuttle
-SigDigger
+Scrum-Retroboard
 SigmaSpectra
 Silverkey
 SimDSP
@@ -562,11 +550,9 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Workbench
-Wrapbox
-Wsocks
-XChat
-XELFViewer
+ai-bot-workspace
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -574,7 +560,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -625,21 +610,12 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -664,7 +640,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -707,7 +682,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-photoname
 puush-qt
 pyappimage
 python2
@@ -789,6 +763,4 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
-zsync2
