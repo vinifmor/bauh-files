@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -186,11 +187,13 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Graviton
-HDRMerge
+Glimpse-Image-Editor
+GpgFrontend
+Gulden
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,6 +244,14 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
 LibreSprite
 Lightning
 LikeTaskManager
@@ -289,10 +300,9 @@ Mob
 Mockman
 Moonlight
 Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
+NixNote
+NoTer
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -302,6 +312,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -364,6 +375,10 @@ ProcSpin
 Procyon
 ProofKeeper
 Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -426,9 +441,11 @@ SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
-Sheikah
-Shotcut
-Shuttle
+SafeSurfer-Desktop
+Safe_Multisig
+SavvyCAN
+Scatter
+Sengi
 SigDigger
 SigmaSpectra
 Silverkey
@@ -481,7 +498,15 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -546,8 +571,7 @@ Wsocks
 XChat
 XELFViewer
 XPEViewer
-YouTubeSearchFilter
-ao
+YUView
 appimagelint
 appimagetool
 appium-desktop
@@ -612,6 +636,11 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 iptvnator
 irccloud-desktop
 isle-editor
@@ -678,8 +707,8 @@ onnx2daq
 openblok
 ossia_score
 osu
-pb-for-desktop
-pingviewer
+p2p-chat
+plotjuggler
 pyappimage
 python2
 python3
@@ -757,3 +786,9 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
