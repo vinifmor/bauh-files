@@ -65,7 +65,7 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-Cate-Desktop
+BscanFFTwebcam
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -171,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -186,11 +187,12 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
-HDRMerge
-HastyHeroes
-Heimer
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,7 +243,21 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -291,11 +307,11 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-MuPDF
-Museeks
-Music_Blocks
 Neon
-Niffler
+NixNote
+NoTer
+Nostlan
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -304,6 +320,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -437,7 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shotcut
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -563,10 +580,10 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-Zoom
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -628,6 +645,8 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
+hotspot
+hpack
 iptvnator
 irccloud-desktop
 isle-editor
@@ -652,6 +671,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -694,10 +714,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-plotjuggler
-pyappimage
-python2
-python3
+p2p-chat
+parsec-linux-appimage
+patchbay
+pb-for-desktop
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -771,3 +791,10 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
