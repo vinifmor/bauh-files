@@ -58,12 +58,12 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-BrainWaves
-CPod
+Book_Manager
+BottleBats
+Bottles
+Brackets
+Buckets
 CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
 Carpenters
 CasterSoundboard
 Cate-Desktop
@@ -172,7 +172,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -188,13 +187,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GooboxFileShare
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,7 +238,8 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
-Klogg
+Keys
+LeoCAD
 Lepton
 LibAssist
 LiberTEM
@@ -292,7 +290,8 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Niffler
+Motrix
+NMEASimulator
 Nitrokey
 NixNote
 NoTer
@@ -306,7 +305,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -361,6 +359,16 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -425,7 +433,9 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
-SigDigger
+Scatter
+SchildiChat
+Scytale
 SigmaSpectra
 Silverkey
 SimDSP
@@ -545,6 +555,7 @@ Woke
 Wonderwall
 WorkFlowy
 Workbench
+ZeGrapher
 ai-bot-workspace
 aillio-ts
 altair
@@ -555,7 +566,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -606,8 +616,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-glTF_Insight
-huwinterpreter
+gerbv
+getswell
 hw-probe
 hyper
 impact
@@ -636,7 +646,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -676,10 +685,10 @@ nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
-playyourdamnturn.com
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+openblok
+ossia_score
+osu
+pb-for-desktop
 puush-qt
 pyappimage
 python2
@@ -745,4 +754,19 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
 xonsh
+youtube-music
+youtube-music-desktop
