@@ -67,7 +67,6 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-Cate-Desktop
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -189,13 +188,13 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
+GitJournal
+GitNote
 GitQlient
 Glimpse-Image-Editor
-HastyHeroes
-Heimer
-HermesMessenger
+Glyphr_Studio_Desktop
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -315,13 +314,14 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVis
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -459,8 +459,8 @@ SchildiChat
 ScienceFair
 Scilab
 Scraper
-Shotcut
-SimplEOS
+ScreenCloud
+Scrum-Retroboard
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -584,9 +584,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-autoEdit2
+ZY_Player
+ZapDesktop
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
