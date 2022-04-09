@@ -69,9 +69,10 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-CP_Editor
-Circle-Z
-CircuitBlocks
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
+CasterSoundboard
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -193,11 +194,10 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Gulden
-HermesMessenger
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -318,11 +318,10 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+Niffler
 OVis
 OWASP Threat Dragon
 OWallet
@@ -458,9 +457,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
-Silverkey
-SimDSP
+ScienceFair
+ScreenCloud
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -586,10 +584,10 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appium-desktop
-autoEdit2
+ZY_Player
+ZapDesktop
+ZeGrapher
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -736,8 +734,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qikQR
-qpdf
+privacy.sexy
 qpp::cad
 qr-code-generator-desktop
 quokkagit
