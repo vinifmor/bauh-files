@@ -70,9 +70,7 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-BunqDesktop
-CPod
-Cate-Desktop
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -189,9 +187,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GitJournal
+Gulden
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -315,15 +313,15 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-MyPaint
-My_Jira
-NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
-Neon
+Nitrokey
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -456,6 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+Scytale
 Silverkey
 SimDSP
 Simdock
@@ -585,8 +584,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+ZeGrapher
 bauh
-buttercup
 cabal-desktop
 caprine
 clippy
@@ -726,7 +725,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
+qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
