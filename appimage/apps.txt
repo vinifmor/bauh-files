@@ -67,11 +67,12 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
+Buckets
+BulkReviewer
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
+BytespeicherTrayIcon
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -191,11 +192,10 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+HermesMessenger
 Heroic Games Launcher
+HexoClient
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -319,7 +319,8 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
-OSRS_Tools
+NanoVault
+NixNote
 OVis
 OWASP Threat Dragon
 OWallet
@@ -455,7 +456,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -583,9 +583,11 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
+Zulip
+autoEdit2
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -727,10 +729,10 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-perl-executing-browser
-photoname
-pigs-n-cows
-polar-bookshelf
+python3
+qSdrSwr
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
