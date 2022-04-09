@@ -69,7 +69,8 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
+CP_Editor
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -187,10 +188,12 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 Gulden
-HDRMerge
-HastyHeroes
-Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -313,7 +316,8 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-Nitrokey
+MyPaint
+My_Jira
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -454,7 +458,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scytale
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -582,10 +586,12 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
+appium-desktop
+autoEdit2
 bauh
+bioanimation
+bottlenose
+buttercup
 cabal-desktop
 caprine
 clippy
@@ -725,9 +731,11 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 qikQR
 qpdf
 qpp::cad
