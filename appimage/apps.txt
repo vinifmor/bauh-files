@@ -67,8 +67,8 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-ChainX_Signer
-Chiaki
+Buckets
+CPod
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -188,13 +188,13 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
-GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+GoldenDict
+GradeStats
+Heimer
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -320,8 +320,7 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
-Neon
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -456,11 +455,10 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
-Scilab
-Scraper
-ScreenCloud
-Scrum-Retroboard
+Shannon_Calculator
+SimDSP
+Simdock
+SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -585,7 +583,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
 bauh
 bottlenose
 buttercup
@@ -732,7 +729,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-pingviewer
+pyappimage
 qpdf
 qpp::cad
 qr-code-generator-desktop
