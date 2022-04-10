@@ -68,8 +68,8 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
 CIAA_Suite
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -189,7 +189,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Google_Tasks_Desktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -314,9 +313,7 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-Niffler
-NoteMaster
-OCRmyPDF
+MyPaint
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -457,7 +454,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Sharp-Tune
 Silverkey
 SimDSP
 Simdock
@@ -585,10 +581,10 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-autoEdit2
+ZY_Player
+ZapDesktop
+aillio-ts
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -731,7 +727,7 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-qTox
+photoname
 qikQR
 qpdf
 qpp::cad
