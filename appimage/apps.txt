@@ -71,9 +71,9 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CATcher
+CRIC
+Carpenters
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -196,11 +196,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -318,13 +318,13 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVis
+My_Jira
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -461,11 +461,11 @@ Scatter
 SchildiChat
 ScienceFair
 Scilab
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Scraper
+ScreenCloud
+Scrum-Retroboard
+Scytale
+ShareMyHost
 Skrifa
 SlackBackup
 Slacktronic
@@ -593,9 +593,9 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+clippy
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -736,6 +736,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pnpm
 qpdf
 qpp::cad
 qr-code-generator-desktop
