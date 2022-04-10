@@ -71,8 +71,7 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -190,7 +189,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GpgFrontend
 HastyHeroes
 Heimer
 HermesMessenger
@@ -321,10 +319,9 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
-Neon
-Nexus_Wallet
+NixNote
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -457,8 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shadowsocks
-SigDigger
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -585,11 +581,14 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
+Zulip
+autoEdit2
 bauh
+bioanimation
+bottlenose
+buttercup
+cabal-desktop
 caprine
 clippy
 clipr
@@ -731,9 +730,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-pigs-n-cows
-pingviewer
-polar-bookshelf
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
