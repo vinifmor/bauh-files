@@ -73,6 +73,7 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -190,8 +191,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GoldenDict
-GpgFrontend
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -320,11 +320,11 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
-NanoVault
-Negibox
-Neon
-Niffler
+Nitrokey
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -458,7 +458,7 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Silverkey
+Scrum-Retroboard
 SimDSP
 Simdock
 SimplEOS
@@ -589,7 +589,9 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
-ZenroomStudio
+Zoom
+appimagelint
+appimagetool
 bauh
 clippy
 clipr
@@ -733,6 +735,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+python2
 qpdf
 qpp::cad
 qr-code-generator-desktop
