@@ -68,8 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkURLOpener
-Chiaki
+BulkReviewer
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -190,8 +189,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -314,8 +313,7 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-MyPaint
-NepaliUnicode
+OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -456,7 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Sharp-Tune
+SigDigger
 Silverkey
 SimDSP
 Simdock
@@ -587,9 +585,8 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
-Zoom
 bauh
+cabal-desktop
 caprine
 clippy
 clipr
@@ -730,10 +727,11 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-pyappimage
-qTox
-qikQR
-qpdf
+photoname
+pigs-n-cows
+pingviewer
+pomotroid
+pretty-handy-privacy
 qpp::cad
 qr-code-generator-desktop
 quokkagit
