@@ -69,9 +69,9 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
-BunqDesktop
-CP_Editor
+CIAA_Suite
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -189,11 +189,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+Google_Tasks_Desktop
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -316,15 +314,15 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-MyPaint
-My_Jira
-NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
 Niffler
-Nitrokey
+NoteMaster
+OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -459,7 +457,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScreenCloud
+Sharp-Tune
 Silverkey
 SimDSP
 Simdock
@@ -587,7 +585,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-aillio-ts
 autoEdit2
 bauh
 bioanimation
@@ -733,7 +730,7 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-qSdrSwr
+perl-executing-browser
 qTox
 qikQR
 qpdf
