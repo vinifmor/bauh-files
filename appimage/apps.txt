@@ -59,7 +59,8 @@ BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
-BottleBats
+Buche
+CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
@@ -186,12 +187,12 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
+GoldenCheetah
+Gpredict
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -242,7 +243,10 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LeoCAD
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -295,7 +299,7 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Nostlan
+NCSA_Mosaic
 Notable
 NoteMaster
 OCRmyPDF
@@ -369,6 +373,9 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -430,8 +437,8 @@ SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
-SafeSurfer-Desktop
-Safe_Multisig
+Sheikah
+Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
@@ -493,7 +500,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -553,9 +559,9 @@ Woke
 Wonderwall
 WorkFlowy
 Workbench
-Wrapbox
-Wsocks
-ZeGrapher
+ai-bot-workspace
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -615,14 +621,10 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -690,8 +692,8 @@ openblok
 ossia_score
 osu
 p2p-chat
-pyappimage
-python2
+parsec-linux-appimage
+patchbay
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -770,5 +772,3 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-zograscope
-zsync2
