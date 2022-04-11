@@ -59,7 +59,8 @@ BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
-BottleBats
+Bypass_Cors
+CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
@@ -186,7 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GpgFrontend
+GitNote
 Gulden
 HDRMerge
 HastyHeroes
@@ -242,7 +243,10 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LiberTEM
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -290,12 +294,13 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
-Mr.Dclutterer
-MuPDF
-Museeks
-NX_Software_Center
-Neon
+NanoVault
+Nextcloud
+Niffler
+Nitrokey
+NixNote
+NoTer
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -305,6 +310,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -366,7 +372,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -426,7 +431,8 @@ SMathStudio
 SMath_Studio
 SUMOCO
 SUbillManager
-ShareMyHost
+SWC-Minecraft-Launcher
+Sabaki
 Sharp-Tune
 Sheikah
 Shotcut
@@ -487,6 +493,8 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
+TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -542,9 +550,9 @@ Wexond
 Whalebird
 Wire
 WishDemo
+Woke
+Wonderwall
 WorkFlowy
-Zoom
-Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
@@ -604,9 +612,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -678,7 +685,8 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-pretty-handy-privacy
+osu
+protonmail-desktop
 puush-qt
 pyappimage
 python2
@@ -757,5 +765,5 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-youtube-music
-zograscope
+xonsh
+youtube-music-desktop
