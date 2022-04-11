@@ -68,7 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-CP_Editor
+Cerebral-Debugger
 Chiaki
 Circle-Z
 CircuitBlocks
@@ -194,8 +194,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GpgFrontend
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -321,7 +322,8 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
+Nitrokey
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -456,6 +458,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+Sheikah
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -583,9 +587,11 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZeGrapher
+appium-desktop
+autoEdit2
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -730,6 +736,8 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
+polar-bookshelf
+privacy.sexy
 qikQR
 qpdf
 qpp::cad
