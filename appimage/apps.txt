@@ -63,8 +63,8 @@ BottleBats
 Bottles
 Brackets
 BrainVerse
-BrainWaves
-BrickStore
+Carpenters
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -246,6 +246,7 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LANShare
 LibreSprite
 Lightning
 LikeTaskManager
@@ -299,7 +300,9 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-My_Jira
+NCSA_Mosaic
+Newlogic
+Nitrokey
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -440,6 +443,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+Shadowsocks
 SigmaSpectra
 Silverkey
 SimDSP
@@ -563,9 +567,9 @@ Wrapbox
 Wsocks
 XChat
 XELFViewer
-XPEViewer
-YUView
-YesPlayMusic
+antimicroX
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -630,6 +634,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hotspot
 iptvnator
 irccloud-desktop
 isle-editor
@@ -700,7 +705,8 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-pb-for-desktop
+pretty-handy-privacy
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
