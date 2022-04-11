@@ -63,7 +63,7 @@ BottleBats
 Bottles
 Brackets
 BrainVerse
-Carpenters
+BscanFFTwebcam
 CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
@@ -186,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GrinPlusPlus
 Gulden
 HDRMerge
 HastyHeroes
@@ -240,9 +241,7 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-LCEdit
+LibAssist
 LiberTEM
 LibreSprite
 Lightning
@@ -295,9 +294,8 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Nostlan
-Notable
-NoteMaster
+Music_Blocks
+Musicalypse
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -370,6 +368,8 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -436,7 +436,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+Sengi
 Silverkey
 SimDSP
 Simdock
@@ -560,8 +560,8 @@ Wsocks
 XChat
 XELFViewer
 XPEViewer
-YUView
-YesPlayMusic
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -623,9 +623,7 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-guglielmo
-guiscrcpy
-hpack
+hyper
 iptvnator
 irccloud-desktop
 isle-editor
@@ -695,8 +693,8 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-photoname
-qBittorrent_Enhanced_Edition
+pb-for-desktop
+pingviewer
 qSdrSwr
 qTox
 qikQR
@@ -768,11 +766,3 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
