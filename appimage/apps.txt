@@ -69,9 +69,10 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-CIAA_Suite
-Circle-Z
-CircuitBlocks
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
+BytespeicherTrayIcon
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -190,8 +191,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -321,9 +323,9 @@ NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
-OVis
+Neon
+Newlogic
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -456,7 +458,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -586,8 +587,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+Zoom
 bauh
-bottlenose
 buttercup
 cabal-desktop
 caprine
