@@ -62,8 +62,8 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
-Calculist
-Carpenters
+BrainVerse
+BrainWaves
 CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
@@ -171,7 +171,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -187,7 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Glimpse-Image-Editor
+Gingko
 HastyHeroes
 Heimer
 HermesMessenger
@@ -246,11 +245,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
 LibreSprite
 Lightning
 LikeTaskManager
@@ -300,19 +294,17 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-Nexus_Wallet
-NoTer
-Nostlan
-Notable
-NoteMaster
-OCRmyPDF
+MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+MyPaint
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -379,7 +371,6 @@ Pulse
 Puppetry
 Python
 QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -446,7 +437,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scraper
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -572,10 +563,10 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
+ai-bot-workspace
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -641,10 +632,6 @@ hotspot
 hpack
 hsinstall
 htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 iptvnator
 irccloud-desktop
 isle-editor
@@ -669,7 +656,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -716,8 +702,8 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-photoname
-qSdrSwr
+pdf-sync
+perl-executing-browser
 qTox
 qikQR
 qpdf
