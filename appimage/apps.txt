@@ -62,8 +62,7 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
-Bypass_Cors
-Calculist
+BrainVerse
 Carpenters
 CasterSoundboard
 Cate-Desktop
@@ -187,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -241,8 +241,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Klogg
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -292,9 +291,10 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-NixNote
-NoTer
-Nostlan
+MuPDF
+Museeks
+NanoVault
+Nitrokey
 Notable
 NoteMaster
 OCRmyPDF
@@ -367,6 +367,7 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -431,7 +432,8 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
-Shuttle
+Scatter
+Scraper
 SigDigger
 SigmaSpectra
 Silverkey
@@ -554,7 +556,8 @@ WorkFlowy
 Workbench
 Wrapbox
 Wsocks
-altair
+YouTubeSearchFilter
+accessimap-lecteur-der
 android-messages-desktop
 antimicroX
 ao
@@ -619,7 +622,10 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-hw-probe
+gsubs
+guglielmo
+guiscrcpy
+impact
 iptvnator
 irccloud-desktop
 isle-editor
@@ -644,6 +650,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -685,7 +692,8 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-protonmail-desktop
+osu
+playyourdamnturn.com
 puush-qt
 pyappimage
 python2
@@ -765,3 +773,5 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
