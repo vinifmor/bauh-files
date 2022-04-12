@@ -55,9 +55,8 @@ Blockbench
 Bloks
 BloomRPC
 Blowfish
-Buche
-BulkReviewer
-CPU-X
+BlueGlow
+Board_Game_Star
 CP_Editor
 CPod
 CRG_Data_Tool
@@ -236,10 +235,9 @@ KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
-Keys
-Left
-Lemon
-LeoCAD
+KeyManager
+KeyboardClient
+LANShare
 Lepton
 LibAssist
 LiberTEM
@@ -290,7 +288,7 @@ MoarPerf
 Mob
 Mockman
 Moonlight
-Motrix
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -304,6 +302,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -356,10 +355,7 @@ PocketCasts_Electron
 Poddr
 PolkaKey
 Popsicle
-Postman
 PostyBirb
-Pullp
-QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -423,10 +419,9 @@ SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
-SavvyCAN
-Scatter
-Scytale
+Scraper
 Shuttle
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -478,15 +473,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -546,7 +532,7 @@ Woke
 Wonderwall
 WorkFlowy
 Workbench
-ai-bot-workspace
+ZapDesktop
 aillio-ts
 altair
 android-messages-desktop
@@ -679,7 +665,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-pigs-n-cows
 puush-qt
 pyappimage
 python2
@@ -752,6 +737,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
