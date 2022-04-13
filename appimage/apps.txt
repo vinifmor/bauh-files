@@ -64,7 +64,6 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BunqDesktop
 CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
@@ -188,6 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -251,6 +251,9 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+LPub3D
+Lagrange
+Laigter
 LibreSprite
 Lightning
 LikeTaskManager
@@ -299,12 +302,12 @@ Mob
 Mockman
 Moonlight
 Motrix
-Nitrokey
-NixNote
-NoTer
-Nostlan
-Notable
-NoteMaster
+Mr.Dclutterer
+MuPDF
+Museeks
+Music_Blocks
+Musicalypse
+Neon
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -446,8 +449,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
-Silverkey
+Sengi
+Sharp-Tune
 SimDSP
 Simdock
 SimplEOS
@@ -574,7 +577,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+aillio-ts
+autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -644,6 +649,8 @@ hugin
 huwinterpreter
 hw-probe
 hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -715,7 +722,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-qBittorrent_Enhanced_Edition
+pdf-sync
 qSdrSwr
 qTox
 qikQR
