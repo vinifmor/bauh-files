@@ -52,9 +52,8 @@ Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
-Bloks
-BloomRPC
-BulkURLOpener
+Bypass_Cors
+BytespeicherTrayIcon
 CATcher
 CIAA_Suite
 CPU-X
@@ -171,6 +170,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -183,8 +183,7 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GradeStats
-Graviton
+Geometrize
 GrinPlusPlus
 Groot
 Guitar
@@ -193,6 +192,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -239,8 +239,8 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
-LeoCAD
-Lepton
+Keys
+Klogg
 LibAssist
 LiberTEM
 LibreSprite
@@ -289,9 +289,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
-NepaliUnicode
+Nexus_Wallet
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -305,6 +304,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -352,14 +352,8 @@ Planet_Blupi
 PlayMe
 Playbox
 PlotJuggler
-Plover
-PocketCasts_Electron
-Poddr
-PolkaKey
-Popsicle
-Postman
-PostyBirb
-PraxisLIVE
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -421,7 +415,8 @@ SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
-Sharp-Tune
+SchildiChat
+Sengi
 Sheikah
 Shotcut
 Shuttle
@@ -479,7 +474,7 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-T.Viewer
+Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -534,10 +529,9 @@ Webamp
 Wexond
 Whalebird
 Wire
-Zegarek
-ZenroomStudio
-Zoom
-Zulip
+WishDemo
+Woke
+Wonderwall
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
@@ -549,6 +543,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -593,9 +588,11 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
 hero-display
-hotspot
-hpack
 hsinstall
 htmldoc
 hugin
@@ -628,6 +625,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -664,8 +662,7 @@ notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
-ommpfritt
-onnx2bnn
+pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
@@ -736,9 +733,5 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
+yuzu
+zsync2
