@@ -61,7 +61,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-BrainVerse
+Brackets
 Calculist
 Carpenters
 CasterSoundboard
@@ -240,7 +240,8 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -291,7 +292,8 @@ Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
-Museeks
+NX_Software_Center
+Niffler
 Nostlan
 Notable
 NoteMaster
@@ -364,6 +366,10 @@ ProcSpin
 Procyon
 ProofKeeper
 Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -429,7 +435,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SigDigger
+SchildiChat
 SigmaSpectra
 Silverkey
 SimDSP
@@ -550,7 +556,7 @@ Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
-aillio-ts
+Wsocks
 altair
 android-messages-desktop
 antimicroX
@@ -615,8 +621,6 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
-gsubs
 iptvnator
 irccloud-desktop
 isle-editor
@@ -682,9 +686,9 @@ onnx2bnn
 onnx2daq
 openblok
 ossia_score
-protonmail-desktop
-puush-qt
-pyappimage
+osu
+p2p-chat
+parsec-linux-appimage
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -761,4 +765,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
+zograscope
