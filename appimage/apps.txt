@@ -66,11 +66,9 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Buche
-Buckets
-BulkURLOpener
-CRG_Data_Tool
-CRIC
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -187,7 +185,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Google_Tasks_Desktop
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -248,8 +246,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -306,8 +302,7 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
+OCVvid2fulldome
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -445,8 +440,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Serial_Studio
-ShareMyHost
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -572,10 +566,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZeGrapher
-Zulip
+appimagetool
+appium-desktop
+autoEdit2
 bauh
 bioanimation
 bottlenose
@@ -643,9 +636,6 @@ hpack
 hsinstall
 htmldoc
 hugin
-huwinterpreter
-hw-probe
-hyper
 iptvnator
 irccloud-desktop
 isle-editor
@@ -718,8 +708,6 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-pingviewer
-puush-qt
 qSdrSwr
 qTox
 qikQR
