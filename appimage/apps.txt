@@ -62,8 +62,7 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
-BrainVerse
-BrainWaves
+Calculist
 Carpenters
 CasterSoundboard
 Cate-Desktop
@@ -170,7 +169,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -182,17 +180,17 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
-Geometrize
-GetThermal
-Gifcurry
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -243,10 +241,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Klogg
-Knowte
-KopiaUI
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -296,11 +291,10 @@ Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
-Newlogic
-Nitrokey
-NoTer
-Nostlan
-Notable
+MuPDF
+Museeks
+Music_Blocks
+Musicalypse
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -309,7 +303,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -442,8 +435,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
-Scrum-Retroboard
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -564,9 +556,8 @@ Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
-Wsocks
-XChat
-XELFViewer
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -574,7 +565,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -631,12 +621,6 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
-hero-display
-hotspot
 iptvnator
 irccloud-desktop
 isle-editor
@@ -661,7 +645,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -708,8 +691,8 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-playyourdamnturn.com
+python3
+qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
