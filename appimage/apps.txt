@@ -60,7 +60,7 @@ Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
-Bottles
+CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -181,9 +181,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Graviton
-GrinPlusPlus
-Groot
+Geometrize
+GetThermal
+Gifcurry
 Guitar
 Gulden
 HDRMerge
@@ -239,8 +239,9 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-LibAssist
-LiberTEM
+Kimitzu-Client
+Kitupiikki
+Klogg
 LibreSprite
 Lightning
 LikeTaskManager
@@ -292,8 +293,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Nexus_Wallet
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -366,6 +366,10 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -431,7 +435,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -552,10 +556,9 @@ Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
-Wsocks
-XChat
-YUView
-Yuna
+aillio-ts
+altair
+android-messages-desktop
 antimicroX
 ao
 appimagelint
@@ -685,7 +688,7 @@ onnx2daq
 openblok
 ossia_score
 osu
-puush-qt
+p2p-chat
 pyappimage
 python2
 python3
@@ -763,3 +766,6 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
+youtube-music
+youtube-music-desktop
