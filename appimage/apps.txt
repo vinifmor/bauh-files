@@ -68,8 +68,8 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -257,9 +257,6 @@ Laigter
 Left
 Lemon
 LeoCAD
-Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -314,9 +311,10 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-OCVWarp
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -580,7 +578,8 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-appimagetool
+YouTubeSearchFilter
+Yuna
 appium-desktop
 autoEdit2
 bauh
@@ -726,7 +725,8 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-qBittorrent_Enhanced_Edition
+pdf-sync
+perl-executing-browser
 qSdrSwr
 qTox
 qikQR
