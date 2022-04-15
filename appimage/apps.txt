@@ -253,6 +253,9 @@ LMMS
 LPub3D
 Lagrange
 Laigter
+Left
+Lemon
+LeoCAD
 LibreSprite
 Lightning
 LikeTaskManager
@@ -305,9 +308,9 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Notable
-NoteMaster
-OCRmyPDF
+Musicalypse
+MyPaint
+My_Jira
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -577,9 +580,9 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
+ZapDesktop
+appimagelint
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -724,7 +727,8 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
-qikQR
+pingviewer
+python2
 qpdf
 qpp::cad
 qr-code-generator-desktop
