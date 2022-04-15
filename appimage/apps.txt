@@ -67,8 +67,8 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-ChainX_Signer
-Chiaki
+Buckets
+BulkReviewer
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -185,6 +185,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -254,6 +255,10 @@ Lagrange
 Laigter
 Left
 Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -307,12 +312,12 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
 OVis
 OWASP Threat Dragon
 OWallet
@@ -448,6 +453,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+Scraper
 Silverkey
 SimDSP
 Simdock
@@ -572,9 +578,9 @@ XChat
 XELFViewer
 XPEViewer
 YUView
-appimagelint
-appimagetool
-appium-desktop
+YesPlayMusic
+YouTubeSearchFilter
+Yuna
 autoEdit2
 bauh
 bioanimation
@@ -721,8 +727,9 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-qTox
-qikQR
+photoname
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
