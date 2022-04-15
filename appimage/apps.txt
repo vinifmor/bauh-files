@@ -185,7 +185,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -256,6 +255,9 @@ Laigter
 Left
 Lemon
 LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -311,11 +313,10 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
 OVis
 OWASP Threat Dragon
 OWallet
@@ -451,7 +452,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -577,12 +577,12 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
-ZapDesktop
-appimagelint
+appimagetool
+appium-desktop
+autoEdit2
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -728,7 +728,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-python2
 qpdf
 qpp::cad
 qr-code-generator-desktop
