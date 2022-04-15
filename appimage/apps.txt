@@ -169,6 +169,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -181,9 +182,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GitNote
-GrinPlusPlus
-Groot
+Geometrize
+GetThermal
+Gifcurry
 Guitar
 Gulden
 HDRMerge
@@ -242,6 +243,8 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
+Klogg
+Knowte
 LibreSprite
 Lightning
 LikeTaskManager
@@ -293,8 +296,8 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
-Musicalypse
+NepaliUnicode
+Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -435,9 +438,9 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
-Scatter
-SchildiChat
-Scilab
+Scraper
+SigDigger
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -556,8 +559,8 @@ Woke
 Wonderwall
 WorkFlowy
 Workbench
-Wrapbox
-ZeGrapher
+ai-bot-workspace
+aillio-ts
 altair
 android-messages-desktop
 antimicroX
@@ -626,6 +629,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hyper
 iptvnator
 irccloud-desktop
 isle-editor
@@ -650,6 +654,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -695,7 +700,7 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-pb-for-desktop
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
