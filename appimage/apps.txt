@@ -73,6 +73,7 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
+CATcher
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -319,10 +320,11 @@ NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
+Neon
+NepaliUnicode
+Newlogic
+Nextcloud
 OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
 Onenote
 Onshape
 Onyx
@@ -454,10 +456,11 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
+Scilab
+Scraper
+ScreenCloud
+Scrum-Retroboard
+Scytale
 Singlebox
 Skrifa
 SlackBackup
@@ -585,9 +588,10 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
+Zoom
+Zulip
+accessimap-lecteur-der
 bauh
-clippy
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
