@@ -70,8 +70,7 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-Bypass_Cors
-CircuitBlocks
+BunqDesktop
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -318,10 +317,9 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-OSRS_Tools
-OVis
+Negibox
+Neon
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -455,10 +453,9 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Silverkey
-SimDSP
-Simdock
-SimplEOS
+Scilab
+Scraper
+Scytale
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -583,9 +580,10 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
 bauh
+bioanimation
+bottlenose
+buttercup
 cabal-desktop
 caprine
 clippy
