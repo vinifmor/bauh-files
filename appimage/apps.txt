@@ -71,7 +71,8 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-City_Hub
+Bypass_Cors
+BytespeicherTrayIcon
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -319,8 +320,8 @@ NX_Software_Center
 NanoVault
 Negibox
 Neon
+NepaliUnicode
 OWASP Threat Dragon
-Obsidian
 Olive
 Onenote
 Onshape
@@ -453,9 +454,9 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Scilab
-Scraper
-Scytale
+SimDSP
+Simdock
+SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -580,9 +581,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
+ZapDesktop
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
