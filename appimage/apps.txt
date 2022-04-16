@@ -71,8 +71,8 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-CircuitBlocks
-City_Hub
+Bypass_Cors
+BytespeicherTrayIcon
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -186,8 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitNote
-GooboxFileShare
 Gulden
 HDRMerge
 HastyHeroes
@@ -320,8 +318,7 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-OSRS_Tools
-OVis
+Negibox
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -456,8 +453,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
-Silverkey
+ScienceFair
 SimDSP
 Simdock
 SimplEOS
@@ -588,9 +584,8 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
+ZenroomStudio
 bauh
-cabal-desktop
-caprine
 clippy
 clipr
 cncjs
