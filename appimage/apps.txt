@@ -185,7 +185,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GoldenCheetah
 Gulden
 HDRMerge
 HastyHeroes
@@ -257,6 +256,8 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -314,9 +315,10 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-ONLYOFFICE
-OSRS_Tools
-OVis
+NX_Software_Center
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -451,7 +453,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+ScienceFair
 Silverkey
 SimDSP
 Simdock
@@ -579,10 +581,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
+ZY_Player
 ZapDesktop
-autoEdit2
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
