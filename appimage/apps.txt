@@ -68,8 +68,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Chiaki
-Circle-Z
+BulkReviewer
+BulkURLOpener
+BunqDesktop
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -185,7 +186,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitQlient
+GitNote
+GooboxFileShare
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -256,6 +259,8 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -313,8 +318,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
+NX_Software_Center
 NanoVault
-ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -581,8 +586,9 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+ZeGrapher
+Zegarek
 bauh
-buttercup
 cabal-desktop
 caprine
 clippy
@@ -727,7 +733,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-playyourdamnturn.com
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
