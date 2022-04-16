@@ -71,7 +71,8 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-City_Hub
+Bypass_Cors
+BytespeicherTrayIcon
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -185,7 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -315,12 +315,12 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-OCVvid2fulldome
-ONLYOFFICE
-OSRS_Tools
-OVis
+NMEASimulator
+NX_Software_Center
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -453,9 +453,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigDigger
-SigmaSpectra
-Silverkey
+Scrum-Retroboard
 SimDSP
 Simdock
 SimplEOS
@@ -582,10 +580,10 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-appium-desktop
+autoEdit2
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
