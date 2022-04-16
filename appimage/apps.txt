@@ -68,9 +68,10 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Chiaki
-Circle-Z
-CircuitBlocks
+BulkReviewer
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -319,8 +320,8 @@ NX_Software_Center
 NanoVault
 Negibox
 Neon
+OCVvid2fulldome
 OWASP Threat Dragon
-OWallet
 Obsidian
 Olive
 Onenote
@@ -583,11 +584,11 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
 bauh
-bottlenose
-buttercup
-cabal-desktop
-caprine
 clippy
 clipr
 cncjs
