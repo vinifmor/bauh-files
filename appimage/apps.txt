@@ -68,10 +68,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -186,6 +185,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GoldenCheetah
 Gulden
 HDRMerge
 HastyHeroes
@@ -257,8 +257,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -316,9 +314,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-NX_Software_Center
-NanoVault
-Nostlan
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -454,7 +451,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
+SigmaSpectra
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -581,9 +579,11 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
 ZapDesktop
+autoEdit2
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
