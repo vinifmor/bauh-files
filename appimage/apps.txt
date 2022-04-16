@@ -69,9 +69,9 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -317,11 +317,11 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
-NanoVault
-Negibox
-Neon
-OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -585,10 +585,10 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
 ZenroomStudio
-Zoom
 bauh
+cabal-desktop
+caprine
 clippy
 clipr
 cncjs
