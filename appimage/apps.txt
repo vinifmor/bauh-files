@@ -72,8 +72,7 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Bypass_Cors
-BytespeicherTrayIcon
-CATcher
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -187,7 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -316,12 +314,12 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVis
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+NanoVault
+Negibox
+Neon
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -457,8 +455,8 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Silverkey
-SimDSP
+Scilab
+Scraper
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -587,12 +585,12 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
+Zulip
+accessimap-lecteur-der
 bauh
-buttercup
-cabal-desktop
-caprine
-clippy
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
