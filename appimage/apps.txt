@@ -74,8 +74,8 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CATcher
-CIAA_Suite
-CPU-X
+CleepDesktop
+ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -187,7 +187,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -324,8 +323,9 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
+Nextcloud
+NixNote
 OWASP Threat Dragon
-Olive
 Onenote
 Onshape
 Onyx
@@ -457,7 +457,7 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Scrum-Retroboard
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -588,11 +588,11 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+cabal-desktop
+caprine
+clippy
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -733,7 +733,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qSdrSwr
 qpdf
 qpp::cad
 qr-code-generator-desktop
