@@ -71,9 +71,8 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CATcher
+CircuitBlocks
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -319,8 +318,8 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
-Neon
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -455,9 +454,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scraper
-Sharp-Tune
-SimDSP
+ScienceFair
+Scilab
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -586,13 +584,12 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
+Zulip
+accessimap-lecteur-der
 bauh
-buttercup
-cabal-desktop
-caprine
-clippy
-clipr
-cncjs
 colorstatic-bash
 cordlauncher
 cric
