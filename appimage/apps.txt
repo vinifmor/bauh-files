@@ -73,7 +73,8 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
-CleepDesktop
+CATcher
+Calculist
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -321,6 +322,7 @@ NanoVault
 Negibox
 Neon
 NepaliUnicode
+Newlogic
 OWASP Threat Dragon
 Olive
 Onenote
@@ -454,6 +456,7 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
+Scilab
 SimDSP
 Simdock
 SimplEOS
@@ -582,8 +585,9 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+ZeGrapher
+Zegarek
 bauh
-buttercup
 cabal-desktop
 caprine
 clippy
