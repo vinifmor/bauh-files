@@ -74,7 +74,7 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CATcher
-CleepDesktop
+CIAA_Suite
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -187,7 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
+Gpredict
 HDRMerge
 HastyHeroes
 Heimer
@@ -323,9 +323,8 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
-Nextcloud
-NixNote
 OWASP Threat Dragon
+Olive
 Onenote
 Onshape
 Onyx
@@ -457,10 +456,10 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Silverkey
-SimDSP
-Simdock
-SimplEOS
+Scilab
+Scraper
+ScreenCloud
+Scrum-Retroboard
 SimpleInstaBot
 Singlebox
 Skrifa
@@ -587,7 +586,7 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
+appimagelint
 bauh
 cabal-desktop
 caprine
