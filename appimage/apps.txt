@@ -71,8 +71,9 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-CircuitBlocks
-City_Hub
+Bypass_Cors
+BytespeicherTrayIcon
+CATcher
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -186,7 +187,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GrinPlusPlus
 Guitar
 Gulden
 HDRMerge
@@ -316,14 +316,14 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
-Neon
-NepaliUnicode
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -587,11 +587,11 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
-ZenroomStudio
-Zoom
-antimicroX
 bauh
+buttercup
+cabal-desktop
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
