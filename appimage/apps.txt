@@ -71,7 +71,7 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Bypass_Cors
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -186,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitJournal
 Gulden
 HDRMerge
 HastyHeroes
@@ -315,11 +316,11 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
-Neon
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -455,8 +456,7 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Scilab
-Scraper
+SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -731,6 +731,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
