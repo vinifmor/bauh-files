@@ -63,9 +63,10 @@ BottleBats
 Bottles
 Brackets
 BrainVerse
-Carpenters
-CasterSoundboard
-Cate-Desktop
+BrainWaves
+BrickStore
+BscanFFTwebcam
+BulkReviewer
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -185,7 +186,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -313,10 +313,10 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
+My_Jira
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -453,7 +453,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+Scytale
 Silverkey
 SimDSP
 Simdock
@@ -581,10 +581,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
+ZY_Player
+ZapDesktop
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -728,7 +727,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-qikQR
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
