@@ -66,9 +66,10 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Buche
-Buckets
-BulkReviewer
+Cate-Desktop
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -185,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -254,10 +256,6 @@ Lagrange
 Laigter
 Left
 Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -313,8 +311,9 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-NCSA_Mosaic
-NMEASimulator
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -452,7 +451,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Shadowsocks
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -581,8 +580,10 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
+Zoom
 bauh
+bioanimation
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -724,8 +725,9 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-qSdrSwr
-qTox
+perl-executing-browser
+photoname
+pigs-n-cows
 qikQR
 qpdf
 qpp::cad
