@@ -62,9 +62,9 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
-BrainVerse
-BrainWaves
-CRIC
+Calculist
+Carpenters
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -185,6 +185,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -241,6 +242,9 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
 LibreSprite
 Lightning
 LikeTaskManager
@@ -293,9 +297,10 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Musicalypse
-MyPaint
-My_Jira
+Notable
+NoteMaster
+OCRmyPDF
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -434,7 +439,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -624,6 +629,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
 iptvnator
 irccloud-desktop
 isle-editor
@@ -692,8 +698,8 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-patchbay
-photoname
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
