@@ -61,7 +61,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
+BrickStore
 Calculist
 Carpenters
 CasterSoundboard
@@ -169,6 +169,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -183,13 +184,14 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Groot
+Gifcurry
 Guitar
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -240,7 +242,14 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LiberTEM
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
 LibreSprite
 Lightning
 LikeTaskManager
@@ -294,7 +303,7 @@ MuPDF
 Museeks
 Music_Blocks
 Musicalypse
-NoteMaster
+Niffler
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -302,6 +311,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -366,6 +376,9 @@ ProofKeeper
 Pullp
 Pulse
 Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -556,11 +569,13 @@ Wsocks
 XChat
 XELFViewer
 XPEViewer
-ao
+YUView
+YesPlayMusic
 appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -619,6 +634,15 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
+guglielmo
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
 iptvnator
 irccloud-desktop
 isle-editor
@@ -643,6 +667,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -687,9 +712,9 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+patchbay
+pb-for-desktop
+pigs-n-cows
 qSdrSwr
 qTox
 qikQR
@@ -766,3 +791,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
+zograscope
+zsync2
