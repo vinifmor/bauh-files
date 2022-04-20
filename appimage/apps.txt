@@ -62,10 +62,9 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
-BrainVerse
-BrainWaves
-BrickStore
-BulkReviewer
+Calculist
+Carpenters
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -191,6 +190,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,7 +241,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Lepton
+LeoCAD
 LibreSprite
 Lightning
 LikeTaskManager
@@ -293,7 +293,6 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-NoTer
 Nostlan
 Notable
 NoteMaster
@@ -364,7 +363,12 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
 Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -556,7 +560,6 @@ XChat
 XELFViewer
 XPEViewer
 YUView
-YesPlayMusic
 appimagelint
 appimagetool
 appium-desktop
@@ -618,6 +621,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 iptvnator
 irccloud-desktop
 isle-editor
@@ -684,11 +690,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-polar-bookshelf
-puush-qt
-pyappimage
-python2
-python3
+p2p-chat
+parsec-linux-appimage
+patchbay
+pb-for-desktop
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -763,3 +768,9 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
