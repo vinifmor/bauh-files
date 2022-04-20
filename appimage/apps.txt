@@ -64,7 +64,8 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
+Bypass_Cors
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -182,9 +183,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+Graviton
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -252,6 +253,7 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
+Laigter
 LibreSprite
 Lightning
 LikeTaskManager
@@ -307,8 +309,8 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
+NCSA_Mosaic
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
@@ -446,6 +448,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -565,10 +568,10 @@ Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
-aillio-ts
-altair
-android-messages-desktop
-antimicroX
+Wsocks
+XChat
+XELFViewer
+XPEViewer
 ao
 appimagelint
 appimagetool
@@ -641,6 +644,11 @@ hpack
 hsinstall
 htmldoc
 hugin
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -715,8 +723,9 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-qikQR
-qpdf
+pigs-n-cows
+pingviewer
+polar-bookshelf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
