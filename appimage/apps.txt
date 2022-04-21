@@ -52,11 +52,12 @@ Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
-Bloks
-BloomRPC
-Blowfish
-BlueGlow
-Board_Game_Star
+BscanFFTwebcam
+Bypass_Cors
+BytespeicherTrayIcon
+CATcher
+CIAA_Suite
+CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
@@ -170,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -181,6 +183,7 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
+Gpredict
 GradeStats
 Graviton
 GrinPlusPlus
@@ -191,6 +194,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -286,8 +290,8 @@ Mirage
 MoarPerf
 Mob
 Mockman
-Moonlight
-Motrix
+Musicalypse
+Niffler
 Nitrokey
 NixNote
 NoTer
@@ -301,6 +305,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -415,8 +420,8 @@ SMath_Studio
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
-Sharp-Tune
-Sheikah
+Sabaki
+SafeSurfer-Desktop
 Shotcut
 Shuttle
 SigDigger
@@ -468,6 +473,10 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -521,12 +530,11 @@ WebDesktop
 Webamp
 Wexond
 Whalebird
-Wire
-WishDemo
-Woke
-Wonderwall
-WorkFlowy
-XChat
+YUView
+ZenroomStudio
+Zoom
+Zulip
+accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
@@ -537,6 +545,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -580,13 +589,11 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -617,6 +624,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -653,8 +661,8 @@ notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
-ommpfritt
-onnx2bnn
+pnpm
+polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
@@ -724,9 +732,5 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
+xde
+yuzu
