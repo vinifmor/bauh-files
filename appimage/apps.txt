@@ -55,13 +55,13 @@ Blockbench
 Bloks
 BloomRPC
 Blowfish
-BlueGlow
-Board_Game_Star
-Bodhi
-Book_Manager
-BottleBats
-Bottles
-Brackets
+CIAA_Suite
+CPU-X
+CP_Editor
+CPod
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
 Calculist
 Carpenters
 CasterSoundboard
@@ -190,7 +190,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -240,8 +239,7 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-LeoCAD
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -293,10 +291,9 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Nostlan
-Notable
-NoteMaster
-OCRmyPDF
+Music_Blocks
+Musicalypse
+MyPaint
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
@@ -369,6 +366,7 @@ Pulse
 Puppetry
 Python
 QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -435,7 +433,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+ScreenCloud
 Silverkey
 SimDSP
 Simdock
@@ -771,6 +769,4 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
-zsync2
