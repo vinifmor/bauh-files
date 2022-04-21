@@ -55,13 +55,13 @@ Blockbench
 Bloks
 BloomRPC
 Blowfish
-CIAA_Suite
-CPU-X
-CP_Editor
-CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
+BlueGlow
+Board_Game_Star
+Bodhi
+Book_Manager
+BottleBats
+Bottles
+Brackets
 Calculist
 Carpenters
 CasterSoundboard
@@ -169,6 +169,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -184,12 +185,13 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
+Gpredict
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -239,7 +241,10 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-LiberTEM
+Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
 LibreSprite
 Lightning
 LikeTaskManager
@@ -292,14 +297,16 @@ Mr.Dclutterer
 MuPDF
 Museeks
 Music_Blocks
-Musicalypse
 MyPaint
+NoteMaster
+OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -433,7 +440,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScreenCloud
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -557,7 +564,7 @@ Wsocks
 XChat
 XELFViewer
 XPEViewer
-YUView
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -622,6 +629,9 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
+hpack
 iptvnator
 irccloud-desktop
 isle-editor
@@ -688,10 +698,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
+puush-qt
+pyappimage
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -769,4 +779,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
+zsync2
