@@ -61,6 +61,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -170,6 +171,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -190,6 +192,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -240,6 +243,10 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -291,6 +298,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
+Music_Blocks
 Nostlan
 Notable
 NoteMaster
@@ -301,6 +309,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -362,6 +371,12 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -427,8 +442,9 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
-Sengi
+Scytale
+SigDigger
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -548,15 +564,17 @@ Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
-aillio-ts
-altair
-android-messages-desktop
-antimicroX
+Wsocks
+XChat
+XELFViewer
+XPEViewer
+YUView
 ao
 appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -609,10 +627,20 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
 iptvnator
 irccloud-desktop
 isle-editor
@@ -637,6 +665,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -682,10 +711,12 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+pb-for-desktop
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 qikQR
 qpdf
 qpp::cad
@@ -758,3 +789,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
