@@ -320,10 +320,10 @@ NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
-Neon
-NepaliUnicode
-OCRmyPDF
+OVis
 OWASP Threat Dragon
+OWallet
+Obsidian
 Olive
 Onenote
 Onshape
@@ -458,8 +458,7 @@ SchildiChat
 ScienceFair
 Scilab
 Scraper
-Shannon_Calculator
-Shotcut
+Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
@@ -586,14 +585,14 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
-Zoom
-Zulip
-accessimap-lecteur-der
-autoEdit2
 bauh
+bottlenose
+buttercup
+cabal-desktop
+caprine
+clippy
+clipr
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -733,7 +732,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
+pretty-handy-privacy
 qpp::cad
 qr-code-generator-desktop
 quokkagit
