@@ -58,8 +58,8 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-CPod
-CRG_Data_Tool
+Book_Manager
+BottleBats
 CRIC
 Cabal_Desktop_Mini
 Calculist
@@ -190,7 +190,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,6 +240,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
 LibreSprite
 Lightning
 LikeTaskManager
@@ -292,7 +292,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 Museeks
-Music_Blocks
+Nostlan
 Notable
 NoteMaster
 OCRmyPDF
@@ -432,6 +432,7 @@ SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
+SavvyCAN
 Shuttle
 SigDigger
 SigmaSpectra
@@ -557,10 +558,10 @@ Wrapbox
 Wsocks
 XChat
 XELFViewer
-antimicroX
-ao
-appimagelint
-appimagetool
+XPEViewer
+YUView
+YesPlayMusic
+android-messages-desktop
 appium-desktop
 autoEdit2
 bioanimation
@@ -690,8 +691,8 @@ openblok
 ossia_score
 osu
 p2p-chat
-parsec-linux-appimage
-patchbay
+pb-for-desktop
+python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -770,6 +771,3 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
-zograscope
-zsync2
