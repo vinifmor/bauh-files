@@ -69,7 +69,8 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-Circle-Z
+BulkURLOpener
+BunqDesktop
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -186,7 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Google_Tasks_Desktop
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -319,7 +320,7 @@ NMEASimulator
 NX_Software_Center
 NanoVault
 Negibox
-OCVWarp
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -454,6 +455,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+Shadowsocks
 Silverkey
 SimDSP
 Simdock
@@ -583,10 +585,11 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
 bauh
+bottlenose
+buttercup
+cabal-desktop
+caprine
 clippy
 clipr
 cncjs
