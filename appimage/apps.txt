@@ -66,11 +66,10 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Cate-Desktop
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Buche
+Buckets
+BulkReviewer
+BulkURLOpener
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -187,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -317,9 +317,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-NX_Software_Center
-NanoVault
-Negibox
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -455,7 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scraper
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -694,6 +693,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+mini-qml
 mira-backup
 mjml-app
 mki3dgame
@@ -731,6 +731,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
