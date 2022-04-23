@@ -187,7 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -322,9 +322,9 @@ NanoVault
 Negibox
 Neon
 NepaliUnicode
-Newlogic
-Nextcloud
+OCRmyPDF
 OWASP Threat Dragon
+Olive
 Onenote
 Onshape
 Onyx
@@ -458,7 +458,8 @@ SchildiChat
 ScienceFair
 Scilab
 Scraper
-ScreenCloud
+Shannon_Calculator
+Shotcut
 SimplEOS
 SimpleInstaBot
 Singlebox
@@ -591,8 +592,8 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
+autoEdit2
 bauh
-cncjs
 colorstatic-bash
 cordlauncher
 cric
