@@ -66,11 +66,11 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Buche
-Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
+Cate-Desktop
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -455,9 +455,9 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
-Scilab
 Scraper
+Silverkey
+SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -584,8 +584,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -694,7 +694,6 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
 mira-backup
 mjml-app
 mki3dgame
@@ -732,7 +731,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pretty-handy-privacy
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
