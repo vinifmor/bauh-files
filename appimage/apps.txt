@@ -68,8 +68,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -187,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -319,6 +319,7 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
+Negibox
 OVis
 OWASP Threat Dragon
 OWallet
@@ -454,6 +455,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -581,7 +583,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appium-desktop
 autoEdit2
 bauh
 bioanimation
@@ -729,7 +730,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-qikQR
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
