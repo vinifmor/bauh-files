@@ -64,8 +64,8 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
-BscanFFTwebcam
+Carpenters
+CasterSoundboard
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -315,10 +315,9 @@ Music_Blocks
 Musicalypse
 MyPaint
 My_Jira
-NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
 OSRS_Tools
 OVis
 OWASP Threat Dragon
@@ -455,7 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
+SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -584,11 +583,12 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
+appimagetool
 bauh
+bioanimation
+bottlenose
+buttercup
+cabal-desktop
 caprine
 clippy
 clipr
