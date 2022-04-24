@@ -66,14 +66,13 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Buche
-Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CATcher
+Cate-Desktop
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -188,7 +187,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitQlient
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -320,8 +319,8 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 NanoVault
-Negibox
-Neon
+OSRS_Tools
+OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
@@ -456,7 +455,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
+ScienceFair
 Silverkey
 SimDSP
 Simdock
@@ -589,9 +588,9 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
-Zoom
-Zulip
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -733,8 +732,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-python3
-qTox
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
