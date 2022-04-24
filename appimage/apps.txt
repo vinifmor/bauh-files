@@ -64,8 +64,7 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-Carpenters
-CasterSoundboard
+BrickStore
 Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
@@ -186,7 +185,8 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Gifcurry
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -314,7 +314,7 @@ Museeks
 Music_Blocks
 Musicalypse
 MyPaint
-My_Jira
+OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
@@ -454,8 +454,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
-Silverkey
+Shannon_Calculator
 SimDSP
 Simdock
 SimplEOS
@@ -582,8 +581,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-appimagetool
+autoEdit2
 bauh
 bioanimation
 bottlenose
@@ -727,11 +725,11 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+pkg2appimage
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
