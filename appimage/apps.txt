@@ -60,12 +60,12 @@ Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
-Bottles
-Brackets
-BrainVerse
-BrainWaves
-BrickStore
-BscanFFTwebcam
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+CasterSoundboard
+Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -186,7 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitJournal
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -252,13 +252,6 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
-Laigter
-Left
-Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -314,9 +307,9 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
+Nexus_Wallet
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -451,7 +444,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -586,9 +579,9 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+clipr
+cncjs
 colorstatic-bash
 cordlauncher
 cric
