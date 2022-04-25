@@ -66,9 +66,9 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Buche
-Buckets
-BytespeicherTrayIcon
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -186,6 +186,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -315,9 +316,9 @@ Musicalypse
 MyPaint
 My_Jira
 NCSA_Mosaic
-NMEASimulator
-NX_Software_Center
-NanoVault
+OCVvid2fulldome
+ONLYOFFICE
+OSRS_Tools
 OVis
 OWASP Threat Dragon
 OWallet
@@ -726,10 +727,9 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-pigs-n-cows
-pingviewer
-pretty-handy-privacy
-puush-qt
+qikQR
+qpdf
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
