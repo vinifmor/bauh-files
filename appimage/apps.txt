@@ -61,7 +61,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Cabal_Desktop_Mini
+Brackets
 Calculist
 Carpenters
 CasterSoundboard
@@ -170,7 +170,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -183,16 +182,15 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GooboxFileShare
-GrinPlusPlus
-Groot
-Guitar
-Gulden
+Geometrize
+GetThermal
+Gifcurry
+Gingko
+Google_Tasks_Desktop
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -243,7 +241,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LibreSprite
+Kitupiikki
 Lightning
 LikeTaskManager
 Linedancer
@@ -291,9 +289,9 @@ Mob
 Mockman
 Moonlight
 Motrix
-Niffler
-Nitrokey
-NixNote
+Mr.Dclutterer
+MuPDF
+MusE
 NoTer
 Nostlan
 Notable
@@ -305,7 +303,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -365,6 +362,12 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
 QNapi
 QTalarm
 QUaModbusClient
@@ -427,8 +430,8 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
+Scatter
 Shuttle
-SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -558,8 +561,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
+bottlenose
+buttercup
 cabal-desktop
 caprine
 clippy
@@ -617,13 +620,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -686,10 +682,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
+puush-qt
+pyappimage
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -763,10 +759,3 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
