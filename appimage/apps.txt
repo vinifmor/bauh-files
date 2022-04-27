@@ -61,11 +61,11 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
-BrainVerse
-BrainWaves
-BrickStore
-BytespeicherTrayIcon
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+CasterSoundboard
+Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -170,7 +170,6 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -191,7 +190,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -246,6 +244,10 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -298,15 +300,13 @@ MusE
 Museeks
 Music_Blocks
 Musicalypse
-NepaliUnicode
-OCRmyPDF
+MyPaint
+My_Jira
+NCSA_Mosaic
+NMEASimulator
 OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -440,7 +440,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Scilab
+SigmaSpectra
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -575,7 +576,6 @@ ZenroomStudio
 Zoom
 Zulip
 accessimap-lecteur-der
-bauh
 colorstatic-bash
 cordlauncher
 cric
@@ -663,7 +663,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -712,9 +711,9 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+pyappimage
+qTox
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
