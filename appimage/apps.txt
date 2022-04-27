@@ -57,7 +57,7 @@ BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
-Bodhi
+CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
@@ -184,8 +184,9 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Gifcurry
-Glyphr_Studio_Desktop
+Groot
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -291,8 +292,8 @@ Motrix
 Mr.Dclutterer
 MuPDF
 MusE
-Newlogic
-Nostlan
+Museeks
+Music_Blocks
 Notable
 NoteMaster
 OCRmyPDF
@@ -370,6 +371,7 @@ Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -433,7 +435,7 @@ SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
 Scatter
-SchildiChat
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -494,7 +496,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -564,7 +565,8 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
+android-messages-desktop
+autoEdit2
 caprine
 clippy
 clipr
@@ -630,7 +632,7 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-jag
+impact
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -690,10 +692,10 @@ nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
-openblok
-ossia_score
-osu
 pkg2appimage
+privacy.sexy
+protonmail-desktop
+puush-qt
 pyappimage
 python2
 python3
@@ -768,11 +770,3 @@ whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
-zograscope
-zsync2
