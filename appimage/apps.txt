@@ -58,7 +58,7 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-CPod
+Book_Manager
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
@@ -182,15 +182,16 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Graviton
-GrinPlusPlus
-Groot
+Geometrize
+GetThermal
+Gifcurry
 Guitar
 Gulden
 HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,8 +242,9 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LibreSprite
-Lightning
+Kitupiikki
+Klogg
+Lagrange
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -293,8 +295,7 @@ Mr.Dclutterer
 MuPDF
 MusE
 Museeks
-NepaliUnicode
-Nostlan
+Music_Blocks
 Notable
 NoteMaster
 OCRmyPDF
@@ -436,7 +437,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-Sengi
 SigmaSpectra
 Silverkey
 SimDSP
@@ -628,6 +628,11 @@ guiscrcpy
 hero-display
 hotspot
 hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -691,9 +696,9 @@ openblok
 ossia_score
 osu
 p2p-chat
-parsec-linux-appimage
-patchbay
-pb-for-desktop
+pyappimage
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
