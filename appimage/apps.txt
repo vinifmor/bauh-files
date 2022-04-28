@@ -58,8 +58,8 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-CPod
-CRG_Data_Tool
+Book_Manager
+BottleBats
 CRIC
 Cabal_Desktop_Mini
 Calculist
@@ -170,6 +170,7 @@ Franz
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -190,6 +191,7 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -241,7 +243,14 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-Lightning
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -293,7 +302,7 @@ MuPDF
 MusE
 Museeks
 Music_Blocks
-Musicalypse
+NepaliUnicode
 NoteMaster
 OCRmyPDF
 OCVWarp
@@ -302,6 +311,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -364,6 +374,13 @@ ProcSpin
 Procyon
 ProofKeeper
 Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -428,7 +445,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-SigmaSpectra
 Silverkey
 SimDSP
 Simdock
@@ -556,14 +572,13 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-android-messages-desktop
-autoEdit2
-bioanimation
-bottlenose
-buttercup
-cabal-desktop
-caprine
-clippy
+ZY_Player
+ZapDesktop
+ZeGrapher
+Zegarek
+ZenroomStudio
+Zoom
+bauh
 clipr
 cncjs
 colorstatic-bash
@@ -619,7 +634,20 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
+hotspot
+hpack
+hsinstall
 htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -640,6 +668,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -687,9 +716,10 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-qSdrSwr
-qTox
-qikQR
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
