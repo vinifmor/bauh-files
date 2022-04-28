@@ -58,8 +58,8 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-Book_Manager
-BulkURLOpener
+CPod
+CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
@@ -184,7 +184,8 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Gifcurry
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -240,7 +241,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LibreSprite
+LPub3D
 Lightning
 LikeTaskManager
 Linedancer
@@ -291,7 +292,7 @@ Motrix
 Mr.Dclutterer
 MuPDF
 MusE
-Museeks
+NoTer
 Nostlan
 Notable
 NoteMaster
@@ -357,6 +358,9 @@ Popsicle
 Postman
 PostyBirb
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 QNapi
 QTalarm
 QUaModbusClient
@@ -419,8 +423,8 @@ Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
 SavvyCAN
-ScreenCloud
-Sengi
+Scatter
+SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
@@ -481,7 +485,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -550,8 +553,9 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-accessimap-lecteur-der
-appimagelint
+bauh
+buttercup
+cabal-desktop
 caprine
 clippy
 clipr
@@ -608,8 +612,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -672,9 +674,9 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
+puush-qt
+pyappimage
+python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -743,13 +745,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
