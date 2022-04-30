@@ -40,8 +40,6 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bodhi
-Book_Manager
 BottleBats
 Bottles
 Brackets
@@ -86,6 +84,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Cromberg
 DeepTags
 Delir
 Demonizer
@@ -136,8 +135,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fluent_Reader
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -161,11 +159,13 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Heroic Games Launcher
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -215,6 +215,16 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
+Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -276,6 +286,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -288,9 +299,9 @@ OpenTodoList
 Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
-Paper
-Pext
-Phinch
+PDFQuirk
+PIA
+POE_Ladder
 PhotoFlare
 PhotoFlow
 PhotoQuick
@@ -368,7 +379,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -404,6 +414,7 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
+Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -481,10 +492,9 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-VizGraph
-WalletShell
-WalletTech
-WatchFlower
+XPEViewer
+YUView
+YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
@@ -505,6 +515,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -522,7 +533,7 @@ dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
-eOSVC
+enve
 erdesigner
 evoplex
 fSpy
@@ -583,6 +594,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -602,7 +614,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-onnx2bnn
+nimbus-weather
 onnx2daq
 openblok
 ossia_score
@@ -635,9 +647,10 @@ qTox
 qikQR
 qpdf
 qpp::cad
-spark-wallet
-spm
-sqlitebrowser
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
 stash-electron
 steam-rom-manager
 storyboarder
