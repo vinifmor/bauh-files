@@ -139,7 +139,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,10 +166,9 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
+GrinPlusPlus
+Groot
 Heroic Games Launcher
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -226,6 +224,9 @@ Lemon
 LeoCAD
 Lepton
 LibAssist
+LiberTEM
+LibreSprite
+Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -303,9 +304,7 @@ P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
-Phinch
-PhotoFlare
-PhotoFlow
+PacketSender
 PhotoQuick
 Photopea
 PhreshPlayer
@@ -381,6 +380,8 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
+ReliefValve
+SMF-DSP
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -411,9 +412,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+Spark.Payments
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -491,7 +492,8 @@ Viper_Browser
 Vipster
 VirtScreen
 Vitomu
-VivifyScrum
+XChat
+XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
@@ -528,8 +530,8 @@ cordlauncher
 cric
 dashy-app
 dataset-annotator
-element
-elzabrowser
+dbet-wallet
+deb2appimage
 embedded-ide
 enve
 erdesigner
@@ -611,6 +613,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
@@ -642,8 +645,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
-qr-code-generator-desktop
+snomcontrol
+spark-wallet
 spm
 sqlitebrowser
 stash-electron
