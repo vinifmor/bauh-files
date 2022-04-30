@@ -138,7 +138,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -161,14 +161,13 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
-Groot
 Heroic Games Launcher
+Hyperspace
+IGdm
+INSTEAD
+ITUSB1_Manager
+ITUSB2_Manager
+IagonCloudApp
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -223,10 +222,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
-LibreSprite
-Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -260,6 +255,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
+Motrix
+Music_Blocks
 Musicalypse
 MyCrypto
 MyPaint
@@ -288,7 +285,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -304,7 +300,8 @@ P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
-PacketSender
+PhotoFlare
+PhotoFlow
 PhotoQuick
 Photopea
 PhreshPlayer
@@ -379,9 +376,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-SMF-DSP
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -412,9 +408,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spark.Payments
-Stacer
-Standard_Notes
+Skrifa
+SlackBackup
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -492,7 +487,7 @@ Viper_Browser
 Vipster
 VirtScreen
 Vitomu
-XChat
+VivifyScrum
 XELFViewer
 XPEViewer
 YUView
@@ -517,6 +512,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -525,13 +521,12 @@ caprine
 clippy
 clipr
 cncjs
-colorstatic-bash
-cordlauncher
-cric
-dashy-app
-dataset-annotator
-dbet-wallet
-deb2appimage
+ehdev-shell
+elcalc
+electron-wechat
+electron-xiami
+element
+elzabrowser
 embedded-ide
 enve
 erdesigner
@@ -611,8 +606,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+nxshell
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -641,10 +636,13 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
-qpdf
+rasterview
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
+snapshot-slider
 snomcontrol
 spark-wallet
 spm
