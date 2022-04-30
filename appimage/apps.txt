@@ -40,6 +40,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -85,7 +86,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -136,7 +136,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+Fluent_Reader
 GDevelop
 GIMP
 GL_warp2mp4
@@ -161,9 +161,9 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-Heroic Games Launcher
+Hyperspace
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -215,16 +215,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
-Lagrange
-Laigter
-Left
-Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-LibreSprite
-Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -256,8 +246,8 @@ MegaBasterd
 Melodie
 Memento
 MeowSQL
-Museeks
-Music_Blocks
+MeshLab
+MicroPad
 Musicalypse
 MyCrypto
 MyPaint
@@ -286,7 +276,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -298,7 +287,8 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-Pennywise
+P2PDerivatives
+Paper
 Pext
 Phinch
 PhotoFlare
@@ -377,7 +367,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -412,7 +403,7 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Statsbook_Tool
+Slippi
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -491,9 +482,9 @@ VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
-XChat
-YUView
-YesPlayMusic
+WalletShell
+WalletTech
+WatchFlower
 YouTubeSearchFilter
 Yuna
 ZY_Player
@@ -530,7 +521,8 @@ dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
-enve
+devdocs-desktop
+eOSVC
 erdesigner
 evoplex
 fSpy
@@ -591,7 +583,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -643,11 +634,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-rmw
-simplechroot
-snake.js
-snapshot-slider
-snomcontrol
+qpp::cad
 spark-wallet
 spm
 sqlitebrowser
