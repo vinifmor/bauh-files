@@ -85,6 +85,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -136,7 +137,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -164,10 +164,8 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
+GrinPlusPlus
 Heroic Games Launcher
-HexoClient
-ITUSB1_Manager
-ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -259,10 +257,8 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Mob
-Museeks
-Music_Blocks
-Musicalypse
+MicroPad
+MieSimulatorGUI
 MyCrypto
 MyPaint
 My_Jira
@@ -304,6 +300,7 @@ Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
+Pext
 Phinch
 PhotoFlare
 PhotoFlow
@@ -384,8 +381,6 @@ Record_Compare
 RedmineTimeTracker
 ReliefValve
 Responsively
-RoloViewer
-SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
@@ -417,8 +412,7 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Slacktronic
-Sovren.Batch.Parser
+Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -496,9 +490,8 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
+VizGraph
 XELFViewer
-XPEViewer
-YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
@@ -535,7 +528,7 @@ cric
 dashy-app
 dataset-annotator
 dbet-wallet
-deb2appimage
+elzabrowser
 embedded-ide
 enve
 erdesigner
@@ -618,9 +611,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-onnx2bnn
-onnx2daq
-openblok
+movie-monad
 ossia_score
 osu
 p2p-chat
@@ -650,7 +641,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-quokkagit
+snapshot-slider
 snomcontrol
 spark-wallet
 spm
