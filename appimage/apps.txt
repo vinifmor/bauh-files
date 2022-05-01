@@ -36,12 +36,13 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bazecor
-Beatconnect_Client
-Beekeeper_Studio
-Bench_CLI
-BetterSIS
+BloomRPC
+Blowfish
+BlueGlow
+Board_Game_Star
+Bodhi
+Book_Manager
+BottleBats
 Bottles
 Brackets
 BrainVerse
@@ -85,6 +86,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -136,7 +138,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -163,9 +165,7 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-Graviton
-GrinPlusPlus
-Heroic Games Launcher
+ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -224,7 +224,6 @@ Lepton
 LibAssist
 LiberTEM
 LibreSprite
-Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -258,7 +257,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-MieSimulatorGUI
+Music_Blocks
+Musicalypse
 MyCrypto
 MyPaint
 My_Jira
@@ -286,7 +286,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -298,8 +297,8 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-P2PDerivatives
 PDFQuirk
+Pennywise
 Pext
 Phinch
 PhotoFlare
@@ -379,8 +378,8 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
-Responsively
+SUbillManager
+SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
 Safe_Multisig
@@ -412,6 +411,7 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
+Slacktronic
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -490,8 +490,9 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-VizGraph
 XELFViewer
+XPEViewer
+YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
@@ -513,7 +514,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -524,10 +524,9 @@ clipr
 cncjs
 colorstatic-bash
 cordlauncher
-cric
-dashy-app
-dataset-annotator
-dbet-wallet
+electron-wechat
+electron-xiami
+element
 elzabrowser
 embedded-ide
 enve
@@ -591,7 +590,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -608,10 +606,12 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
-moniteur-admin
-moolticute
-movie-monad
+nx-software-center
+nxshell
+ommpfritt
+onnx2bnn
+onnx2daq
+openblok
 ossia_score
 osu
 p2p-chat
@@ -638,9 +638,8 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-qTox
-qikQR
-qpdf
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
