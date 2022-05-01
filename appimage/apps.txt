@@ -40,9 +40,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bodhi
-Book_Manager
-BottleBats
+Bench_CLI
+BetterSIS
 Bottles
 Brackets
 BrainVerse
@@ -86,7 +85,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -137,6 +135,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -164,8 +163,9 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
+Graviton
 Heroic Games Launcher
-INSTEAD
+HexoClient
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -225,6 +225,8 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+LibreSprite
+Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -257,7 +259,8 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-MicroPad
+Mob
+Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -287,6 +290,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -300,8 +304,6 @@ Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
-Pennywise
-Pext
 Phinch
 PhotoFlare
 PhotoFlow
@@ -382,9 +384,7 @@ Record_Compare
 RedmineTimeTracker
 ReliefValve
 Responsively
-Rotki
-SMPlayer
-SUbillManager
+RoloViewer
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -417,10 +417,8 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Sonist
-Stacer
-Standard_Notes
-Statsbook_Tool
+Slacktronic
+Sovren.Batch.Parser
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -498,8 +496,8 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-VizGraph
-WalletShell
+XELFViewer
+XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -522,6 +520,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -537,7 +536,6 @@ dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
-deltachat-desktop
 embedded-ide
 enve
 erdesigner
@@ -600,6 +598,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -651,8 +650,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
-qr-code-generator-desktop
+quokkagit
+snomcontrol
 spark-wallet
 spm
 sqlitebrowser
