@@ -37,9 +37,10 @@ AzPainter
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
-Bazecor
-Beatconnect_Client
 Beekeeper_Studio
+BlueGlow
+Board_Game_Star
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -85,8 +86,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DbGate
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -138,8 +137,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Beta
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -165,8 +162,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-IGdm
-INSTEAD
+Gpredict
+GradeStats
+Graviton
+Heroic Games Launcher
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -212,7 +211,20 @@ Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
-Lightning
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -245,7 +257,7 @@ Melodie
 Memento
 MeowSQL
 MeshLab
-Museeks
+MicroPad
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -275,6 +287,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -286,7 +299,9 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
+P2PDerivatives
+PDFQuirk
+POE_Ladder
 Pennywise
 Pext
 Phinch
@@ -366,7 +381,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -398,9 +412,11 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Spivak
-Stacer
-Standard_Notes
+Singlebox
+Skrifa
+SlackBackup
+Slacktronic
+Sovren.Batch.Parser
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -479,8 +495,8 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-XELFViewer
-XPEViewer
+VizGraph
+WalletShell
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -511,9 +527,7 @@ caprine
 clippy
 clipr
 cncjs
-colorstatic-bash
-cordlauncher
-dingtalk
+eXtrema
 ehdev-shell
 elcalc
 electron-wechat
@@ -631,10 +645,9 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-rmw
-smtk2ssrf
-snake.js
-snapshot-slider
+qikQR
+qpdf
+qpp::cad
 snomcontrol
 spark-wallet
 spm
@@ -686,3 +699,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
