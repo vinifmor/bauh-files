@@ -40,6 +40,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -136,8 +137,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FocusWriter
-FreeTube
+GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -168,9 +168,6 @@ GrinPlusPlus
 Groot
 Guitar
 Gulden
-Heroic Games Launcher
-INSTEAD
-ImageMosaicWall
 ImagePlay
 Imagine
 ImapSyncClient
@@ -227,7 +224,6 @@ Lepton
 LibAssist
 LiberTEM
 LibreSprite
-Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -261,9 +257,8 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Minetest
-Moonlight
-Musicalypse
+MieSimulatorGUI
+Mindmapp
 MyCrypto
 MyPaint
 My_Jira
@@ -291,7 +286,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -304,8 +298,8 @@ OpenTodoList
 Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
-Pennywise
-Pext
+PDFQuirk
+PIA
 Phinch
 PhotoFlare
 PhotoFlow
@@ -383,8 +377,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
-SUbillManager
+RedmineTimeTracker
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -416,8 +409,8 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-SlackBackup
-Slacktronic
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -498,8 +491,8 @@ Vitomu
 VivifyScrum
 VizGraph
 WalletShell
-WalletTech
-WatchFlower
+YesPlayMusic
+YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
@@ -519,7 +512,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -536,8 +528,9 @@ dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
-devdocs-desktop
 dexter_dev_env
+embedded-ide
+enve
 erdesigner
 evoplex
 fSpy
@@ -598,7 +591,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -618,6 +610,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
@@ -648,7 +641,7 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-qpdf
+snapshot-slider
 snomcontrol
 spark-wallet
 spm
