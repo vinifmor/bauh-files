@@ -36,9 +36,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bazecor
-Beatconnect_Client
+BloomRPC
+Blowfish
+BlueGlow
+Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -78,9 +79,10 @@ ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
-Colon
-ColorGenerator
-Colorpicker
+CuteVariant
+Cutter
+DFileManager
+Dana
 Datcord
 DawnlightSearch
 DbGate
@@ -136,7 +138,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Franz
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -157,6 +161,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -201,7 +207,8 @@ Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
-Left
+KeyboardClient
+Keys
 Lemon
 LeoCAD
 Lepton
@@ -238,7 +245,6 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-Memento
 MuPDF
 MusE
 Museeks
@@ -281,9 +287,7 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-PIA
-Patchwork
-Pathephone
+Open_Markup_Editor
 PatternPaint
 Pennywise
 Pext
@@ -394,7 +398,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -432,8 +437,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -472,8 +475,8 @@ VidCutter
 Videomass
 Vieb
 Viper_Browser
-Wrapbox
-Wsocks
+Vipster
+VirtScreen
 XChat
 XELFViewer
 XPEViewer
@@ -505,7 +508,10 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eNoseAnnotator
+clippy
+clipr
+cncjs
+draw.io
 eOSVC
 eXtrema
 ehdev-shell
@@ -587,7 +593,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -612,6 +618,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -662,4 +669,3 @@ vifm
 violetbug
 vue-calc
 vuerd
-weatherdump
