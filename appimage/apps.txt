@@ -36,9 +36,9 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Blowfish
-BlueGlow
-Board_Game_Star
+BaijiMangaViewer
+Bazecor
+Beatconnect_Client
 Bodhi
 Book_Manager
 BottleBats
@@ -137,10 +137,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Flippy_Qualitative_Testbench
-Fluent_Reader
-FreeTube
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,10 +163,8 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-Heroic Games Launcher
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
+Graviton
+GrinPlusPlus
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -215,8 +209,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LibreSprite
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -245,9 +237,10 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-MuPDF
-MusE
-Museeks
+Melodie
+Memento
+MeowSQL
+MeshLab
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -277,7 +270,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -289,7 +281,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
 Pennywise
 Pext
 Phinch
@@ -368,9 +359,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
-SPlayer
-SUMOCO
+Record_Compare
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -397,10 +386,11 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -479,9 +469,8 @@ Videomass
 Vieb
 Viper_Browser
 Vipster
-VivifyScrum
-WatchFlower
-Wrapbox
+VirtScreen
+Woke
 Wsocks
 XChat
 XELFViewer
@@ -514,9 +503,9 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
-eOSVC
+clippy
+clipr
+cncjs
 eXtrema
 ehdev-shell
 elcalc
@@ -564,7 +553,6 @@ impact
 iota1k
 iptvnator
 irccloud-desktop
-isle-editor
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -585,7 +573,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -598,8 +585,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -627,10 +614,11 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
+python3
+qTox
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -681,4 +669,5 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-wxMEdit
+whiteboard
+whu-library-seat
