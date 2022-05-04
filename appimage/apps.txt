@@ -35,8 +35,9 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-Blowfish
-BlueGlow
+BTS-CE-Lite
+BaijiMangaViewer
+Bazecor
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -82,8 +83,9 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-DawnlightSearch
-DbGate
+Cool_Retro_Term
+CozyDrive
+Cryptr
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -136,7 +138,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+FocusWriter
 GDevelop
 GIMP
 GL_warp2mp4
@@ -158,7 +160,6 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -200,14 +201,15 @@ Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
-Lagrange
-Laigter
-Left
-Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+LED.Custom.Palette
 LibreSprite
 Lightning
 LikeTaskManager
@@ -239,8 +241,7 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-MuPDF
-MusE
+Memento
 Museeks
 Music_Blocks
 Musicalypse
@@ -271,7 +272,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -279,9 +279,10 @@ Onenote
 Onshape
 Onyx
 OpenAudible
-Passky
-Patchwork
-Pathephone
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
+Outline-Manager
 PatternPaint
 Pennywise
 Pext
@@ -324,6 +325,7 @@ Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
+QMediathekView
 QNapi
 QTalarm
 QUaModbusClient
@@ -360,6 +362,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
+Record_Compare
+Running-Dinner-Tool
+SBLauncher
 SPlayer
 SUMOCO
 SUbillManager
@@ -391,8 +396,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
-SpeedyLoader
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -430,6 +434,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -467,8 +473,8 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Workbench
-Wrapbox
+Viper_Browser
+Vipster
 Wsocks
 XChat
 XELFViewer
@@ -501,9 +507,9 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
-eOSVC
+clippy
+clipr
+cncjs
 eXtrema
 ehdev-shell
 elcalc
@@ -543,6 +549,14 @@ hotspot
 hpack
 hsinstall
 htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -576,7 +590,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -605,7 +618,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
+rasterview
+saphyr
 scavengers
 school-sections
 ser-player
@@ -653,5 +667,10 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
