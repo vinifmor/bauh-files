@@ -36,8 +36,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bazecor
+Blowfish
+BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -85,7 +85,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cryptr
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -138,7 +137,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FocusWriter
+FreeCAD2
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -160,9 +160,11 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HexoEditor
-HiDPI-Fixer
-HyperDEX
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+Gpredict
+Heroic Games Launcher
 HyperionIDE
 Hyperspace
 IGdm
@@ -207,9 +209,10 @@ KeyManager
 KeyboardClient
 Keys
 KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-LED.Custom.Palette
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -242,6 +245,7 @@ MediaElch
 MegaBasterd
 Melodie
 Memento
+MeowSQL
 Museeks
 Music_Blocks
 Musicalypse
@@ -272,6 +276,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -363,9 +368,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-Running-Dinner-Tool
-SBLauncher
-SPlayer
+RetroArch
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -397,6 +400,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -434,8 +438,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -553,10 +555,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -590,8 +588,10 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-notepadqq
-noteshrink-qt
+meta-grabber
+mini-qml
+mira-backup
+nimbus-weather
 nx-software-center
 nxshell
 ommpfritt
@@ -618,7 +618,6 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-rasterview
 saphyr
 scavengers
 school-sections
@@ -667,10 +666,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
+yuzu
+zograscope
+zsync2
