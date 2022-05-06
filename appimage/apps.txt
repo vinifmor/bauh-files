@@ -161,7 +161,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
+HyperionIDE
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -206,8 +207,10 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LiberTEM
-LibreSprite
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
 Lightning
 LikeTaskManager
 Linedancer
@@ -238,8 +241,6 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-Memento
-Mirage
 MusE
 Museeks
 Music_Blocks
@@ -362,7 +363,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -395,9 +395,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Sonist
-Spectrum
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -475,6 +472,7 @@ VidCutter
 Videomass
 Vieb
 Viper_Browser
+Vipster
 Wsocks
 XChat
 XELFViewer
@@ -501,6 +499,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -509,6 +508,7 @@ caprine
 clippy
 clipr
 cncjs
+eNoseAnnotator
 eXtrema
 ehdev-shell
 elcalc
@@ -576,6 +576,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -591,7 +592,8 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -620,8 +622,10 @@ puush-qt
 pyappimage
 python2
 python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
+qr-code-generator-desktop
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -670,7 +674,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-x-loc
