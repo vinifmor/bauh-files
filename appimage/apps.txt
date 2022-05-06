@@ -40,6 +40,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+Blowfish
 Bodhi
 Book_Manager
 BottleBats
@@ -138,7 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fractale
 GDevelop
 GIMP
 GL_warp2mp4
@@ -163,7 +163,7 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -212,7 +212,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-Lightning
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -242,11 +241,9 @@ Mechvibes
 MediaElch
 MegaBasterd
 Melodie
-MineTime
-Mr.Dclutterer
-MuPDF
-MusE
-Museeks
+Memento
+MeowSQL
+MeshLab
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -287,7 +284,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
 Pennywise
 Pext
 Phinch
@@ -367,7 +363,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -400,7 +395,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
+SmallBASIC
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -480,7 +475,6 @@ Viper_Browser
 Vipster
 VirtScreen
 Vitomu
-VivifyScrum
 XELFViewer
 XPEViewer
 YUView
@@ -514,10 +508,8 @@ clippy
 clipr
 cncjs
 colorstatic-bash
-cordlauncher
-cric
-dashy-app
-dataset-annotator
+elcalc
+electron-wechat
 electron-xiami
 element
 elzabrowser
@@ -632,9 +624,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qikQR
-qpdf
-sabaki
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
@@ -690,6 +680,4 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
-zsync2
