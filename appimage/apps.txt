@@ -40,9 +40,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bench_CLI
-BetterSIS
-Blockbench
+Bodhi
+Book_Manager
 BottleBats
 Bottles
 Brackets
@@ -87,6 +86,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Cromberg
+DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -138,8 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -162,8 +161,7 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-HyperDEX
-HyperionIDE
+GooboxFileShare
 Hyperspace
 IGdm
 INSTEAD
@@ -217,6 +215,9 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+LPub3D
+Lagrange
+Laigter
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -250,8 +251,6 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
-Minions
-Museeks
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -404,9 +403,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+Spectrum
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -485,8 +484,6 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-VizGraph
-XChat
 XELFViewer
 XPEViewer
 YUView
@@ -523,7 +520,7 @@ colorstatic-bash
 cordlauncher
 cric
 dashy-app
-element
+dataset-annotator
 elzabrowser
 embedded-ide
 enve
@@ -604,7 +601,6 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -634,8 +630,10 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simplechroot
-slang-ed
+qSdrSwr
+qTox
+saphyr
+school-sections
 smtk2ssrf
 snake.js
 snapshot-slider
