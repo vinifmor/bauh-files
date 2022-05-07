@@ -41,8 +41,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bodhi
-Book_Manager
+Bench_CLI
+BetterSIS
 BottleBats
 Bottles
 Brackets
@@ -87,8 +87,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeadGame-2048
-DeepTags
+Cromberg
+CrossCode_Map_Editor
 Delir
 Demonizer
 Deployer
@@ -138,7 +138,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -160,15 +159,14 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
@@ -222,6 +220,11 @@ LPub3D
 Lagrange
 Laigter
 Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -288,7 +291,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -380,7 +382,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -413,11 +414,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
-Slippi
-SmallBASIC
+Spectrum
+Stacer
+Standard_Notes
+Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -489,7 +489,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Vitomu
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -596,7 +597,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -609,9 +609,10 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
-nordvpn-linux
-notepadqq
+meta-grabber
+mini-qml
+mira-backup
+moolticute
 noteshrink-qt
 nx-software-center
 nxshell
@@ -640,12 +641,11 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
