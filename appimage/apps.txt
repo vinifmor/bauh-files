@@ -86,7 +86,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -162,8 +161,10 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Hyperspace
-IGdm
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+Guitar
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -217,7 +218,6 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
-Laigter
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -251,6 +251,7 @@ Memento
 MeowSQL
 MeshLab
 MicroPad
+Mockman
 Music_Blocks
 Musicalypse
 MyCrypto
@@ -291,6 +292,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+PatternPaint
 Pennywise
 Pext
 Phinch
@@ -371,7 +373,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -403,7 +404,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spectrum
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -484,6 +485,11 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
+WalletTech
+Whalebird
+WorkFlowy
+Wsocks
+XChat
 XELFViewer
 XPEViewer
 YUView
@@ -516,11 +522,12 @@ caprine
 clippy
 clipr
 cncjs
-colorstatic-bash
-cordlauncher
-cric
-dashy-app
-dataset-annotator
+eXtrema
+ehdev-shell
+elcalc
+electron-wechat
+electron-xiami
+element
 elzabrowser
 embedded-ide
 enve
@@ -601,6 +608,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+moniteur-admin
+moolticute
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -630,10 +639,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-saphyr
-school-sections
+slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -690,6 +696,4 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
-zsync2
