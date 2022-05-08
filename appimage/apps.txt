@@ -40,9 +40,9 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Beekeeper_Studio
-Bench_CLI
-BetterSIS
+Board_Game_Star
+Bodhi
+Book_Manager
 BottleBats
 Bottles
 Brackets
@@ -87,8 +87,9 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
+DeDop-studio
+DeadGame-2048
+DeepTags
 Delir
 Demonizer
 Deployer
@@ -166,7 +167,7 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-Heroic Games Launcher
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
@@ -302,6 +303,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+Pathephone
 PatternPaint
 Pennywise
 Pext
@@ -414,7 +416,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spectrum
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -488,8 +490,7 @@ VeChain
 Verto
 Vessel
 VidCutter
-Videomass
-Vitomu
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -610,9 +611,8 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-moolticute
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -641,9 +641,11 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 school-sections
-ser-player
-simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
