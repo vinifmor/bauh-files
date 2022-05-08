@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -139,7 +138,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,10 +166,10 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImageMosaicWall
+GrinPlusPlus
+Groot
+Guitar
+Heroic Games Launcher
 ImagePlay
 Imagine
 ImapSyncClient
@@ -292,6 +291,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -303,8 +303,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-Pathephone
-PatternPaint
 Pennywise
 Pext
 Phinch
@@ -384,8 +382,9 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
-SUbillManager
+RedmineTimeTracker
+ReliefValve
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -416,10 +415,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
-Standard_Notes
-Statsbook_Tool
+Skrifa
+SlackBackup
+Slacktronic
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -490,8 +488,8 @@ VeChain
 Verto
 Vessel
 VidCutter
-Woke
-Wonderwall
+Videomass
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -521,12 +519,12 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -598,6 +596,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -611,10 +610,10 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nx-software-center
+mini-qml
+mira-backup
+mjml-app
+mki3dgame
 nxshell
 ommpfritt
 onnx2bnn
@@ -645,13 +644,10 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-school-sections
-simple-timer
-simplechroot
-slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
+qSdrSwr
+qTox
+qikQR
+qpdf
 snomcontrol
 spark-wallet
 spm
