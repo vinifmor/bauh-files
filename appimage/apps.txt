@@ -40,7 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Board_Game_Star
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -139,7 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,10 +166,9 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-Heroic Games Launcher
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
+GrinPlusPlus
+Groot
+Guitar
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -293,7 +291,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -305,6 +302,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+PatternPaint
 Pennywise
 Pext
 Phinch
@@ -385,7 +383,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-RetroArch
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,7 +417,7 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Slacktronic
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -494,7 +491,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -523,15 +520,14 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
-cncjs
+eDEX-UI
+eNoseAnnotator
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -601,7 +597,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -614,10 +609,12 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
-mjml-app
+moolticute
+nheko
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -646,11 +643,10 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-scavengers
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
