@@ -32,7 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Beatconnect_Client
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -73,8 +74,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -105,8 +105,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -138,9 +136,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Franz
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -162,9 +158,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GpgFrontend
 Heroic Games Launcher
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -201,8 +196,9 @@ KOReader
 Kage
 Kanon
 KawAnime
-Kcov
 KeePassXC
+LCEdit
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -239,9 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MiniZinc_IDE
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -285,7 +278,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-OpenTodoList
 Panini
 Paper
 Parallelcoin
@@ -327,8 +319,6 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -366,7 +356,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-ReliefValve
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -395,10 +384,9 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-SnippetStore
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -433,13 +421,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -470,9 +451,9 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-Valeronoi
-WatchFlower
-WatchIt
+VLC
+VNote
+Videomass
 WebDesktop
 Webamp
 Wexond
@@ -504,11 +485,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
+ao
 bauh
-colorstatic-bash
-dashy-app
-dataset-annotator
-dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -546,7 +525,6 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
 hyper
 impact
 iota1k
@@ -579,6 +557,10 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mandelbulber2
+mira-backup
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -609,8 +591,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
-polar-bookshelf
+rasterview
 ridereceipts
 rmw
 runanode
@@ -655,12 +636,9 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
 wxMaxima
+x-loc
+xde
 xonsh
 youtube-music
 youtube-music-desktop
