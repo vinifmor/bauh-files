@@ -34,7 +34,6 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -75,11 +74,6 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-Colorpicker
-Crypter
-Cryptr
-Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -164,7 +158,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-HermesMessenger
+Glimpse-Image-Editor
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -201,7 +195,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -242,8 +235,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MieSimulatorGUI
-MineTime
+MeshLab
 Minions
 Mirage
 MoarPerf
@@ -287,7 +279,6 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
 PanWriter
 Panini
 Paper
@@ -324,10 +315,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 QMPlay2
 QMediathekView
 QNapi
@@ -363,7 +350,10 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
+RawTherapee
+Reactotron
+RedmineTimeTracker
+RyoWallet
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -392,8 +382,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
+Shuttle
+SigDigger
+SigmaSpectra
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -425,10 +416,6 @@ Sup
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -457,8 +444,7 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-WalletShell
-WalletTech
+V2Ray-Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -491,9 +477,7 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-autoEdit2
 bauh
-dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -532,7 +516,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hsinstall
+hpack
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -564,12 +549,10 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
-luna
-makoureactor
-mandelbulber2
-mapollage
-mapton
+mutool
+my-budget
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -598,11 +581,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
-python2
-qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -640,14 +619,11 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-vREST_NG
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
