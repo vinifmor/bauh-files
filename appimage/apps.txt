@@ -37,12 +37,9 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Blockbench
-Bloks
-BloomRPC
-Blowfish
-BlueGlow
-Board_Game_Star
+BaijiMangaViewer
+Bazecor
+Beatconnect_Client
 Bodhi
 Book_Manager
 BottleBats
@@ -89,7 +86,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -141,7 +137,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeCAD2
 FreeTube
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -162,14 +160,12 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Guitar
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -229,6 +225,7 @@ Lemon
 LeoCAD
 Lepton
 LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -259,6 +256,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -306,7 +304,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
 Pennywise
 Pext
 Phinch
@@ -386,7 +383,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroArch
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,7 +416,6 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-SlackBackup
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -529,7 +524,6 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-dingtalk
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -601,7 +595,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -617,7 +610,6 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -652,7 +644,6 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
