@@ -41,8 +41,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bench_CLI
-BetterSIS
+Bodhi
+Book_Manager
 BottleBats
 Bottles
 Brackets
@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
 DeadGame-2048
 DeepTags
 Delir
@@ -139,7 +138,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FontForge
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -168,7 +167,7 @@ Gpredict
 GradeStats
 Graviton
 GrinPlusPlus
-Guitar
+Heimer
 ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
@@ -225,6 +224,8 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -255,6 +256,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,8 +301,7 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -382,6 +383,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
+ReliefValve
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -416,8 +419,8 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Stacer
-Standard_Notes
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -491,8 +494,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
-WorkFlowy
-Workbench
+Viper_Browser
 Wrapbox
 Wsocks
 XChat
@@ -525,13 +527,12 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-dfDemo
-eDEX-UI
-eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
-elcalc
+clippy
+clipr
+cncjs
+colorstatic-bash
+cordlauncher
+cric
 electron-wechat
 electron-xiami
 element
@@ -611,9 +612,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
-notepadqq
-noteshrink-qt
+mini-qml
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -649,9 +650,6 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qr-code-generator-desktop
-rasterview
-snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
