@@ -41,8 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bodhi
-Book_Manager
+Bench_CLI
 BottleBats
 Bottles
 Brackets
@@ -140,8 +139,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-GDevelop
-GIMP
 GL_warp2mp4
 GM-Companion
 GSequencer
@@ -166,12 +163,13 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
+Gulden
 Heroic Games Launcher
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImageMosaicWall
 ImagePlay
 Imagine
 ImapSyncClient
@@ -258,7 +256,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -306,6 +303,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+Paletti
 PatternPaint
 Pennywise
 Pext
@@ -387,7 +385,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -423,6 +420,7 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -502,7 +500,8 @@ VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
-WalletShell
+WatchIt
+XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -542,7 +541,7 @@ dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
-devdocs-desktop
+embedded-ide
 enve
 erdesigner
 evoplex
@@ -624,8 +623,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-onnx2bnn
-onnx2daq
+movie-monad
 openblok
 ossia_score
 osu
@@ -658,11 +656,11 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
-spark-wallet
-spm
-sqlitebrowser
-stash-electron
-steam-rom-manager
+quokkagit
+rasterview
+ridereceipts
+rmw
+runanode
 storyboarder
 strans
 stretchly
