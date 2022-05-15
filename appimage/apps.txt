@@ -87,8 +87,9 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
+DeDop-studio
+DeadGame-2048
+DeepTags
 Delir
 Demonizer
 Deployer
@@ -165,7 +166,6 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
-GradeStats
 Heroic Games Launcher
 INSTEAD
 ITUSB1_Manager
@@ -224,6 +224,10 @@ Laigter
 Left
 Lemon
 LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -382,7 +386,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -417,7 +422,7 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Standard_Notes
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -496,8 +501,8 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-XELFViewer
-XPEViewer
+VizGraph
+WalletShell
 YUView
 YesPlayMusic
 YouTubeSearchFilter
@@ -520,6 +525,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -535,8 +541,8 @@ dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
-elzabrowser
-embedded-ide
+deltachat-desktop
+devdocs-desktop
 enve
 erdesigner
 evoplex
@@ -618,6 +624,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
