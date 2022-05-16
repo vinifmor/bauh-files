@@ -37,6 +37,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+BilibiliVideoDownload
+Birds_Kitchen
+Bloks
+BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -83,8 +87,10 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-DawnlightSearch
-DbGate
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
+Cryptr
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -139,6 +145,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -163,7 +170,9 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
+Heimer
 Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -204,7 +213,9 @@ Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
-KeyboardClient
+LCEdit
+LPub3D
+Left
 Lemon
 LeoCAD
 Lepton
@@ -236,6 +247,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -281,6 +293,8 @@ Obsidian
 Olive
 Onenote
 Onshape
+PanWriter
+Panini
 Paper
 Parallelcoin
 Parity_Fether
@@ -326,6 +340,7 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -362,6 +377,8 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
+Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -395,7 +412,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -469,7 +486,6 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Webamp
 WishDemo
 Woke
 Wonderwall
@@ -506,6 +522,7 @@ bauh
 bioanimation
 bottlenose
 buttercup
+dfDemo
 dukto
 dvdisaster
 eDEX-UI
@@ -548,6 +565,7 @@ guiscrcpy
 hero-display
 hotspot
 hpack
+huwinterpreter
 isle-editor
 jag
 jexiftoolgui
@@ -582,7 +600,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+nheko
+nimbus-weather
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -611,13 +631,12 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -660,5 +679,5 @@ upterm
 vREST_NG
 vifm
 violetbug
-windows2usb
 yuzu
+zsync2
