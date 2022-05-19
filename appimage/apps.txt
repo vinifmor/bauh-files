@@ -39,8 +39,7 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
-Beatconnect_Client
-BitShares
+Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -140,7 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
 GDevelop
 GIMP
 GL_warp2mp4
@@ -167,7 +165,8 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
-GradeStats
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -214,7 +213,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LeoCAD
 LibreSprite
 Lightning
 LikeTaskManager
@@ -242,8 +240,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-Mob
 Mockman
 Moonlight
 Motrix
@@ -285,9 +281,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
-Outline-Manager
-PDFQuirk
 Panini
 Paper
 Parallelcoin
@@ -374,8 +367,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
-SBLauncher
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -408,7 +400,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -482,8 +474,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
-Videomass
+WishDemo
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -517,8 +509,8 @@ autoEdit2
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
+dukto
+dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -605,7 +597,7 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -638,7 +630,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -693,6 +686,3 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
-youtube-music
-youtube-music-desktop
