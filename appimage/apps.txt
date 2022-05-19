@@ -32,8 +32,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Blizzard_4
-Blockbench
+Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
+BTS-CE-Lite
 Bloks
 BloomRPC
 Blowfish
@@ -76,13 +79,13 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-CustomRPC
-CutePeaks
-CuteVariant
-Cutter
-DFileManager
-Dana
-Datcord
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -140,8 +143,6 @@ Figma
 Filmulator
 Firefox_Beta
 FreeTube
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -162,7 +163,10 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GpgFrontend
 Heroic Games Launcher
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -198,10 +202,8 @@ KADE
 KOReader
 Kage
 Kanon
-KawAnime
-Kcov
-KeePassXC
-Kitupiikki
+LCEdit
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -324,8 +326,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -395,6 +395,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -431,9 +432,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -466,7 +464,7 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Wexond
+Valeronoi
 Whalebird
 Wire
 WishDemo
@@ -497,10 +495,10 @@ altair
 android-messages-desktop
 antimicroX
 ao
+appimagelint
+appimagetool
+appium-desktop
 bauh
-deb2appimage
-deltachat-desktop
-devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
@@ -574,7 +572,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -605,7 +603,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -651,8 +649,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
+youtube-music
+youtube-music-desktop
 yuzu
 zograscope
 zsync2
