@@ -34,8 +34,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
-BLOCK-DX
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -79,8 +78,9 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-Code_OSS
-Colon
+ConsoleWorkbench
+CutePeaks
+CuteVariant
 Cutter
 DFileManager
 Dana
@@ -141,6 +141,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -162,9 +163,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -206,8 +207,8 @@ KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
-KeyManager
-KeyboardClient
+Laigter
+Left
 Lemon
 LeoCAD
 Lepton
@@ -239,8 +240,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Meshmill
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -285,8 +284,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
-Paletti
+Panini
 Paper
 Parallelcoin
 Parity_Fether
@@ -330,7 +328,6 @@ Procyon
 ProofKeeper
 Pullp
 Pulse
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -366,8 +363,10 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+RetroArch
+Rotki
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -402,8 +401,9 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+SlackBackup
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -473,7 +473,8 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Valeronoi
+Verto
+Webamp
 Wexond
 Whalebird
 Wire
@@ -509,7 +510,7 @@ appimagelint
 appimagetool
 appium-desktop
 bauh
-cabal-desktop
+caprine
 dexter_dev_env
 dfDemo
 dingtalk
@@ -550,9 +551,8 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
 guiscrcpy
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -583,7 +583,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
 neovim
 ngPost
 ngrev
@@ -615,7 +614,8 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
+rmw
+runanode
 sabaki
 saphyr
 scavengers
@@ -662,8 +662,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
 youtube-music
+youtube-music-desktop
 yuzu
 zograscope
 zsync2
