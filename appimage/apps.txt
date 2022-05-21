@@ -226,6 +226,8 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -255,7 +257,8 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Mockman
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -292,7 +295,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -300,9 +302,10 @@ Onenote
 Onshape
 Onyx
 OpenAudible
-Parity_Fether
-Passky
-Patchwork
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
+Paletti
 Pathephone
 PatternPaint
 Pennywise
@@ -419,7 +422,8 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Slippi
+Spark.Payments
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -615,6 +619,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+mki3dgame
 nxshell
 ommpfritt
 onnx2bnn
@@ -647,11 +652,9 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qikQR
-qpdf
-qpp::cad
-qr-code-generator-desktop
-ser-player
+snake.js
+snapshot-slider
+snomcontrol
 spark-wallet
 spm
 sqlitebrowser
