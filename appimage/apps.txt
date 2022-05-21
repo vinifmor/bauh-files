@@ -139,7 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -160,18 +160,15 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
-Groot
-Guitar
-Gulden
-Heroic Games Launcher
+HyperDEX
+HyperionIDE
+Hyperspace
+IGdm
+INSTEAD
+ITUSB1_Manager
+ITUSB2_Manager
+IagonCloudApp
+ImageMosaicWall
 ImagePlay
 Imagine
 ImapSyncClient
@@ -221,10 +218,6 @@ LMMS
 LPub3D
 Lagrange
 Laigter
-Left
-Lemon
-LeoCAD
-Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -255,7 +248,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -292,7 +284,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -304,7 +295,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
 Pennywise
 Pext
 Phinch
@@ -385,7 +375,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -419,7 +408,7 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-SmartGit
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -494,7 +483,6 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Wire
 WorkFlowy
 Workbench
 Wrapbox
@@ -527,9 +515,7 @@ autoEdit2
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
-clippy
+eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -613,11 +599,11 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
-mjml-app
-mki3dgame
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -647,11 +633,11 @@ puush-qt
 pyappimage
 python2
 python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
-qpdf
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
