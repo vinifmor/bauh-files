@@ -37,10 +37,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BloomRPC
-Blowfish
-BlueGlow
-Board_Game_Star
+BaijiMangaViewer
+Bazecor
+Beatconnect_Client
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -140,8 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -166,14 +164,14 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Heimer
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImageMosaicWall
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
+Gulden
+Heroic Games Launcher
 ImagePlay
 Imagine
 ImapSyncClient
@@ -223,6 +221,10 @@ LMMS
 LPub3D
 Lagrange
 Laigter
+Left
+Lemon
+LeoCAD
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -290,6 +292,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -381,7 +384,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,8 +417,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
+Skrifa
+SlackBackup
+SmartGit
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -489,9 +493,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-WebDesktop
-Woke
-Wonderwall
+Vieb
+Wire
 WorkFlowy
 Workbench
 Wrapbox
@@ -526,7 +529,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
+clippy
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -614,7 +617,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nx-software-center
+mki3dgame
 nxshell
 ommpfritt
 onnx2bnn
@@ -647,6 +650,8 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+qikQR
+qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
