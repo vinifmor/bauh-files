@@ -41,7 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bench_CLI
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -87,7 +87,9 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeadGame-2048
+Cromberg
+CrossCode_Map_Editor
+Cryptr
 DeepTags
 Delir
 Demonizer
@@ -139,10 +141,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraidycat
-Franz
 FreeTube
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,13 +166,15 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
+Gulden
 Heroic Games Launcher
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
 IagonCloudApp
-ImageMosaicWall
 ImagePlay
 Imagine
 ImapSyncClient
@@ -225,6 +226,10 @@ Lagrange
 Laigter
 Left
 Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -255,6 +260,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,9 +305,11 @@ Onenote
 Onshape
 Onyx
 OpenAudible
-Parity_Fether
-Passky
-Patchwork
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
+Outline-Manager
+P2PDerivatives
 Pathephone
 PatternPaint
 Pennywise
@@ -415,10 +423,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
 SlackBackup
-Slacktronic
-Slippi
+Spivak
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -490,7 +498,7 @@ VeChain
 Verto
 Vessel
 VidCutter
-Woke
+Videomass
 Wonderwall
 WorkFlowy
 Workbench
@@ -526,6 +534,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
+draw.io
+dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -598,6 +608,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -614,7 +625,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -647,8 +658,8 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-smtk2ssrf
-snake.js
+qikQR
+qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
