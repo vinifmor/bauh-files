@@ -37,9 +37,9 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bazecor
-Beatconnect_Client
+BloomRPC
+Blowfish
+BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -140,6 +140,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTexturePacker
 GDevelop
 GIMP
 GL_warp2mp4
@@ -165,6 +166,8 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
+Heimer
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -220,8 +223,6 @@ LMMS
 LPub3D
 Lagrange
 Laigter
-Left
-Lemon
 LibreSprite
 Lightning
 LikeTaskManager
@@ -380,6 +381,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -486,7 +488,9 @@ VeChain
 Verto
 Vessel
 VidCutter
-WalletShell
+Videomass
+WebDesktop
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -520,8 +524,8 @@ autoEdit2
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -641,11 +645,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-timer
-simplechroot
-slang-ed
-smtk2ssrf
-snake.js
+qSdrSwr
+qTox
 snapshot-slider
 snomcontrol
 spark-wallet
