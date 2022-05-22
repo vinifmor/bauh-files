@@ -41,10 +41,12 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bench_CLI
-BetterSIS
 Bezique
-BilibiliVideoDownload
+Board_Game_Star
+Bodhi
+Book_Manager
+BottleBats
+Bottles
 Brackets
 BrainVerse
 BrainWaves
@@ -87,11 +89,12 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
 Detect_It_Easy
 DevHub
 Diffuse
@@ -139,7 +142,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+FromScratch
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,8 +171,8 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-GrinPlusPlus
-Heroic Games Launcher
+ITUSB1_Manager
+ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -224,8 +228,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -256,6 +258,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -292,7 +295,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -302,8 +304,7 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Pathephone
 PatternPaint
 Pennywise
 Pext
@@ -384,7 +385,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-ReliefValve
 SPlayer
 SUMOCO
 SUbillManager
@@ -522,7 +522,6 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-bauh
 bioanimation
 bottlenose
 buttercup
@@ -600,7 +599,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -617,7 +615,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nx-software-center
+mki3dgame
 nxshell
 ommpfritt
 onnx2bnn
@@ -650,9 +648,9 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qikQR
-qpdf
-rmw
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
