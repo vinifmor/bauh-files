@@ -41,8 +41,6 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bezique
-Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -89,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -142,7 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -171,6 +167,8 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
+Guitar
+Heroic Games Launcher
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -258,7 +256,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -302,8 +299,9 @@ Onenote
 Onshape
 Onyx
 OpenAudible
-OpenBlok
-OpenTodoList
+Parity_Fether
+Passky
+Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -385,7 +383,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -418,6 +415,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -527,7 +525,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
+clippy
+dataset-annotator
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -648,12 +647,10 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
 spm
 sqlitebrowser
 stash-electron
