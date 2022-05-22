@@ -41,7 +41,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bench_CLI
+Bodhi
+Book_Manager
 BottleBats
 Bottles
 Brackets
@@ -139,7 +140,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,9 +168,10 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
+GrinPlusPlus
+Groot
+Guitar
+Heroic Games Launcher
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -223,6 +225,9 @@ Laigter
 Left
 Lemon
 LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -290,6 +295,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -300,8 +306,7 @@ OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
-Patchwork
-Pathephone
+Outline-Manager
 PatternPaint
 Pennywise
 Pext
@@ -382,8 +387,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RyoWallet
-SPlayer
+SMath_Studio
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -416,8 +420,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
+Skrifa
+SlackBackup
+Slacktronic
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -521,11 +526,13 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
+deltachat-desktop
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -598,6 +605,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -648,7 +656,7 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-snake.js
+qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
