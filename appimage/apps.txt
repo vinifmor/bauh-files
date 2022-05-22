@@ -41,8 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bodhi
-Book_Manager
+Bench_CLI
 BottleBats
 Bottles
 Brackets
@@ -87,9 +86,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-CuteVariant
-DeDop-studio
-DeadGame-2048
+Cromberg
+CrossCode_Map_Editor
 DeepTags
 Delir
 Demonizer
@@ -141,7 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -167,10 +164,9 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Heroic Games Launcher
-Hyperspace
-IGdm
-INSTEAD
+Gpredict
+GradeStats
+Graviton
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -226,7 +222,7 @@ Lagrange
 Laigter
 Left
 Lemon
-Lepton
+LeoCAD
 LibreSprite
 Lightning
 LikeTaskManager
@@ -304,7 +300,8 @@ OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
-Outline-Manager
+Patchwork
+Pathephone
 PatternPaint
 Pennywise
 Pext
@@ -385,6 +382,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RyoWallet
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -417,7 +416,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -493,8 +492,6 @@ Vessel
 VidCutter
 Videomass
 Vieb
-VivifyScrum
-Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -529,8 +526,6 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-draw.io
-dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -618,9 +613,9 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-noteshrink-qt
-nx-software-center
-nxshell
+mjml-app
+mki3dgame
+moniteur-admin
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -652,7 +647,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-smtk2ssrf
+qikQR
 snake.js
 snapshot-slider
 snomcontrol
