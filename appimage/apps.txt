@@ -41,11 +41,10 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+Bench_CLI
 BetterSIS
-Bodhi
-Book_Manager
-BottleBats
-Bottles
+Bezique
+BilibiliVideoDownload
 Brackets
 BrainVerse
 BrainWaves
@@ -88,12 +87,11 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
 Detect_It_Easy
 DevHub
 Diffuse
@@ -171,7 +169,6 @@ GradeStats
 Graviton
 GrinPlusPlus
 Heroic Games Launcher
-ITUSB2_Manager
 IagonCloudApp
 ImageMosaicWall
 ImagePlay
@@ -259,7 +256,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -306,8 +302,8 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Panini
-Pathephone
+Open_Markup_Editor
+Outline-Manager
 PatternPaint
 Pennywise
 Pext
@@ -388,6 +384,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+ReliefValve
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,10 +418,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
-Slippi
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -526,6 +522,7 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -603,6 +600,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -617,8 +615,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-notepadqq
-noteshrink-qt
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -653,6 +651,8 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
+qpdf
+rmw
 snapshot-slider
 snomcontrol
 spark-wallet
