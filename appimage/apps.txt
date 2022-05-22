@@ -41,6 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+BetterSIS
 Bodhi
 Book_Manager
 BottleBats
@@ -87,9 +88,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-Cryptr
+DeDop-studio
+DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -170,11 +170,10 @@ Gpredict
 GradeStats
 Graviton
 GrinPlusPlus
-Groot
-Guitar
-Gulden
 Heroic Games Launcher
+ITUSB2_Manager
 IagonCloudApp
+ImageMosaicWall
 ImagePlay
 Imagine
 ImapSyncClient
@@ -307,9 +306,7 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
+Panini
 Pathephone
 PatternPaint
 Pennywise
@@ -423,10 +420,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Skrifa
 SlackBackup
-Spivak
-Stacer
-Standard_Notes
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -499,7 +496,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -534,8 +531,6 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-draw.io
-dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -608,7 +603,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -623,8 +617,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
+notepadqq
+noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -659,7 +653,6 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
