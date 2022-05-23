@@ -37,6 +37,7 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -84,9 +85,6 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -140,7 +138,6 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
 FromScratch
 GDevelop
@@ -164,7 +161,7 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
+Google_Tasks_Desktop
 Heroic Games Launcher
 HiDPI-Fixer
 HyperDEX
@@ -208,7 +205,8 @@ KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
-Laigter
+KeyManager
+KeyboardClient
 Left
 Lemon
 LeoCAD
@@ -241,7 +239,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
 MoarPerf
 Mob
 Mockman
@@ -285,7 +282,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-PanWriter
+Onenote
 Panini
 Paper
 Parallelcoin
@@ -323,6 +320,16 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
+Pullp
+Pulse
+Puppetry
+Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -360,7 +367,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
+Rebaslight
+Record_Compare
 SMath_Studio
 SPlayer
 SUMOCO
@@ -393,7 +401,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -465,7 +473,9 @@ VLC
 VNote
 VPaint
 Valeronoi
-Wire
+VeChain
+Verto
+WalletTech
 WishDemo
 Woke
 Wonderwall
@@ -502,7 +512,7 @@ bauh
 bioanimation
 bottlenose
 buttercup
-cordlauncher
+clipr
 dukto
 dvdisaster
 eDEX-UI
@@ -542,6 +552,12 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
 irccloud-desktop
 isle-editor
 jag
@@ -575,7 +591,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
+mdview
 nheko
 nimbus-weather
 nordvpn-linux
@@ -606,7 +622,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -652,8 +668,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-youtube-music
-youtube-music-desktop
+vREST_NG
+vifm
+violetbug
+wezterm
 yuzu
-zograscope
 zsync2
