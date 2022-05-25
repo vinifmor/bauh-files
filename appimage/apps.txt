@@ -33,10 +33,7 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
-AzPainter
-BLOCK-DX
-Beekeeper_Studio
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -76,8 +73,6 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CozyDrive
 Cscrypto
 CubicSDR
 Cura
@@ -165,7 +160,6 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Graviton
 Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
@@ -204,9 +198,9 @@ KADE
 KOReader
 Kage
 Kanon
-LANShare
-LCEdit
-LED.Custom.Palette
+KawAnime
+Kcov
+KeePassXC
 LMMS
 LPub3D
 Lagrange
@@ -243,6 +237,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Memento
+Minetest
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -285,8 +282,9 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+PDFQuirk
+Paletti
+PanWriter
 Panini
 Paper
 Parallelcoin
@@ -368,7 +366,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -400,8 +397,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -438,7 +435,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -470,9 +466,9 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-VPaint
-Valeronoi
+WatchIt
+WebDesktop
+Webamp
 Wexond
 Whalebird
 Wire
@@ -504,8 +500,8 @@ altair
 android-messages-desktop
 antimicroX
 ao
-appimagelint
 bauh
+deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -544,6 +540,7 @@ gLabels
 gerbv
 getswell
 gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -576,9 +573,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
-marktext
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -609,8 +604,10 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-puush-qt
+privacy.sexy
+qikQR
+rasterview
+ridereceipts
 rmw
 runanode
 sabaki
@@ -655,10 +652,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
-xonsh
+unofficial-zalo
+unreel
+updatedeployqt
 youtube-music
 youtube-music-desktop
 yuzu
