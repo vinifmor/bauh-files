@@ -1,0 +1,2 @@
+3=us.zoom.Zoom
+3=com.dropbox.Client
