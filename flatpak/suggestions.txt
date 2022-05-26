@@ -8,7 +8,7 @@
 1=com.calibre_ebook.calibre
 1=org.ppsspp.PPSSPP
 1=net.pcsx2.PCSX2
-1=0=org.openshot.OpenShot
+1=org.openshot.OpenShot
 0=com.github.geigi.cozy
 0=com.obsproject.Studio
 0=com.skype.Client
