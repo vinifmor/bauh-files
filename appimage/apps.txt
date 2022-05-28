@@ -37,11 +37,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bazecor
-Beatconnect_Client
-Beekeeper_Studio
-Bench_CLI
+Blowfish
+BlueGlow
+Board_Game_Star
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -87,6 +86,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DeDop-studio
+DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -138,7 +139,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -164,10 +164,9 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-GradeStats
-Graviton
-Heroic Games Launcher
+Hyperspace
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -219,10 +218,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-LPub3D
-Lagrange
-Laigter
-Left
 Lightning
 LikeTaskManager
 Linedancer
@@ -253,7 +248,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -290,7 +284,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -383,6 +376,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RoboRock_Control_Center
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -415,8 +410,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
+Spivak
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -490,7 +485,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -524,6 +519,7 @@ bioanimation
 bottlenose
 buttercup
 cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -613,8 +609,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+ommpfritt
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
@@ -649,7 +645,7 @@ qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
-saphyr
+spark-wallet
 spm
 sqlitebrowser
 stash-electron
@@ -701,6 +697,5 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
 zsync2
