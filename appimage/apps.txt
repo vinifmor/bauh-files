@@ -39,8 +39,8 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
-BetterSIS
-Board_Game_Star
+Beatconnect_Client
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-CrossCode_Map_Editor
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -141,7 +140,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -165,15 +163,13 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
 Heroic Games Launcher
-HyperionIDE
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImExample
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -225,6 +221,11 @@ LPub3D
 Lagrange
 Laigter
 Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 Lightning
 LikeTaskManager
 Linedancer
@@ -383,8 +384,9 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
-SUbillManager
+RedmineTimeTracker
+ReliefValve
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -490,7 +492,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -525,8 +527,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-dvdisaster
+eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -617,8 +618,8 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-onnx2bnn
-onnx2daq
+movie-monad
+mtCellEdit
 openblok
 ossia_score
 osu
@@ -649,8 +650,6 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
-simple-timer
 snomcontrol
 spark-wallet
 spm
