@@ -37,8 +37,9 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Blowfish
-BlueGlow
+BaijiMangaViewer
+Bazecor
+BetterSIS
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -86,6 +87,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+CrossCode_Map_Editor
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -163,7 +165,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
+Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -218,6 +221,10 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+LPub3D
+Lagrange
+Laigter
+Left
 Lightning
 LikeTaskManager
 Linedancer
@@ -376,8 +383,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RoboRock_Control_Center
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -410,9 +415,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
-Standard_Notes
+Skrifa
+SlackBackup
+Slacktronic
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -520,7 +525,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
+clippy
+dvdisaster
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -609,7 +615,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-ommpfritt
+moniteur-admin
+moolticute
 onnx2bnn
 onnx2daq
 openblok
@@ -643,8 +650,8 @@ qTox
 qikQR
 qpdf
 qpp::cad
-qr-code-generator-desktop
-quokkagit
+simple-timer
+snomcontrol
 spark-wallet
 spm
 sqlitebrowser
@@ -697,5 +704,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
 zsync2
