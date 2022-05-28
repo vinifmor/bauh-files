@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -140,6 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -166,10 +166,12 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-Graviton
-GrinPlusPlus
-Groot
 Heroic Games Launcher
+INSTEAD
+ITUSB1_Manager
+ITUSB2_Manager
+IagonCloudApp
+ImExample
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -224,8 +226,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 Lightning
 LikeTaskManager
 Linedancer
@@ -254,8 +254,8 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
-MegaBasterd
+Melodie
+Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -300,9 +300,8 @@ Onshape
 Onyx
 OpenAudible
 OpenBlok
-OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Passky
+Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -384,9 +383,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-Responsively
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -420,6 +418,7 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -527,6 +526,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
+dfDemo
+dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -618,8 +619,8 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-mtCellEdit
+onnx2bnn
+onnx2daq
 openblok
 ossia_score
 osu
@@ -650,7 +651,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snomcontrol
+qpp::cad
+qr-code-generator-desktop
 spark-wallet
 spm
 sqlitebrowser
