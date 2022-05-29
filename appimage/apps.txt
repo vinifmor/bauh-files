@@ -41,7 +41,6 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-BetterSIS
 Bodhi
 Book_Manager
 BottleBats
@@ -88,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -166,8 +164,8 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Hyperspace
-IGdm
+Gpredict
+GradeStats
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -222,6 +220,8 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
+Laigter
+Left
 Lightning
 LikeTaskManager
 Linedancer
@@ -297,6 +297,10 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
+Open_Markup_Editor
+Outline-Manager
+PIA
+Paletti
 Pathephone
 PatternPaint
 Pennywise
@@ -410,7 +414,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
+SmallBASIC
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -485,7 +490,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -643,8 +648,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snapshot-slider
-snomcontrol
+qpp::cad
 spark-wallet
 spm
 sqlitebrowser
