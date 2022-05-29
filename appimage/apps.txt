@@ -87,8 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cura
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -164,8 +162,6 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-HyperDEX
-HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -220,6 +216,12 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
 Lightning
 LikeTaskManager
 Linedancer
@@ -250,6 +252,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Meshmill
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -295,6 +298,7 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
+PanWriter
 Passky
 Patchwork
 Pathephone
@@ -412,9 +416,6 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Slacktronic
-Spectrum
-Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -520,8 +521,7 @@ autoEdit2
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
+dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -611,7 +611,6 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nimbus-weather
 nxshell
 ommpfritt
 onnx2bnn
@@ -646,8 +645,6 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snapshot-slider
-snomcontrol
 spark-wallet
 spm
 sqlitebrowser
