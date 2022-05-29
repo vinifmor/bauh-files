@@ -40,8 +40,6 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Beekeeper_Studio
-Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -87,6 +85,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+CuteVariant
 DeadGame-2048
 DeepTags
 Delir
@@ -166,8 +165,7 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-INSTEAD
-ITUSB1_Manager
+Graviton
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -219,9 +217,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
-Lagrange
-Laigter
-Left
 Lightning
 LikeTaskManager
 Linedancer
@@ -251,8 +246,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
-Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -299,8 +292,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PIA
-Paletti
 Pathephone
 PatternPaint
 Pennywise
@@ -382,6 +373,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Running-Dinner-Tool
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,8 +406,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SmallBASIC
-Spivak
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -490,7 +481,6 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -524,7 +514,7 @@ bioanimation
 bottlenose
 buttercup
 cabal-desktop
-caprine
+dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -616,7 +606,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-onnx2bnn
 onnx2daq
 openblok
 ossia_score
@@ -649,6 +638,8 @@ qTox
 qikQR
 qpdf
 qpp::cad
+qr-code-generator-desktop
+simple-s3-uploader
 spark-wallet
 spm
 sqlitebrowser
