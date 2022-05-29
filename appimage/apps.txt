@@ -41,6 +41,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+BetterSIS
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -86,6 +88,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -138,6 +141,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -162,10 +166,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
+Hyperspace
+IGdm
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -247,6 +251,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -292,8 +297,6 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -375,7 +378,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -484,7 +486,8 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
+WorkFlowy
+Workbench
 Wrapbox
 Wsocks
 XChat
@@ -517,13 +520,11 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
-cncjs
-colorstatic-bash
-cordlauncher
-cric
-dbet-wallet
+eDEX-UI
+eNoseAnnotator
+eOSVC
+eXtrema
+ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
@@ -610,7 +611,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
