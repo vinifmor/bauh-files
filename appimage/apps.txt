@@ -40,7 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Board_Game_Star
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -141,9 +140,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -168,7 +164,7 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-HyperionIDE
+GpgFrontend
 Hyperspace
 IGdm
 INSTEAD
@@ -224,6 +220,7 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
+Lagrange
 Lightning
 LikeTaskManager
 Linedancer
@@ -253,7 +250,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,8 +295,11 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Padloc
+Paletti
+Parity_Fether
+Passky
+Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -415,9 +414,8 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-Spivak
-Stacer
-Standard_Notes
+SlackBackup
+Slacktronic
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -489,7 +487,7 @@ VeChain
 Verto
 Vessel
 VidCutter
-Woke
+Videomass
 Wonderwall
 WorkFlowy
 Workbench
@@ -524,7 +522,7 @@ bioanimation
 bottlenose
 buttercup
 cabal-desktop
-dvdisaster
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -609,11 +607,12 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nx-software-center
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
+mki3dgame
+my-budget
 nxshell
 ommpfritt
 onnx2bnn
@@ -643,7 +642,7 @@ puush-qt
 pyappimage
 python2
 python3
-qpp::cad
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
