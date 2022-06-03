@@ -37,6 +37,7 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
@@ -138,6 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FontForge
 GDevelop
 GIMP
 GL_warp2mp4
@@ -162,9 +164,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GrinPlusPlus
-Heimer
-HyperionIDE
+GpgFrontend
+Heroic Games Launcher
 Hyperspace
 IGdm
 INSTEAD
@@ -239,7 +240,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
 Mockman
 Moonlight
 Motrix
@@ -281,8 +281,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
-PanWriter
+Panini
 Paper
 Papercraft
 Parallelcoin
@@ -371,6 +370,7 @@ Reactotron
 Rebaslight
 Record_Compare
 ReliefValve
+SMathStudio
 SPlayer
 SUMOCO
 SUbillManager
@@ -475,10 +475,8 @@ VNote
 VPaint
 Valeronoi
 VeChain
-WalletTech
-Whalebird
-Wire
-WishDemo
+Verto
+Vessel
 Woke
 Wonderwall
 WorkFlowy
@@ -600,6 +598,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -632,10 +631,9 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-runanode
-school-sections
-ser-player
-simple-s3-uploader
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 simple-timer
 simplechroot
 slang-ed
