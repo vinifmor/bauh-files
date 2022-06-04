@@ -40,10 +40,9 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Beekeeper_Studio
-Bench_CLI
-BetterSIS
-Black_Chocobo
+Board_Game_Star
+Bodhi
+Book_Manager
 BottleBats
 Bottles
 Brackets
@@ -88,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
 DeadGame-2048
 DeepTags
 Delir
@@ -141,7 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+Friture
 GDevelop
 GIMP
 GL_warp2mp4
@@ -167,8 +165,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-Heroic Games Launcher
+Groot
+Hyperspace
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -223,13 +223,7 @@ LMMS
 LPub3D
 Lagrange
 Laigter
-Left
-Lemon
-LeoCAD
 Lepton
-LibAssist
-LiberTEM
-LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -256,10 +250,9 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
+Melodie
+Mob
+Mockman
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -296,18 +289,17 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
 Onshape
-Onyx
-OpenAudible
-OpenBlok
-OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Paper
+Papercraft
+Parallelcoin
+Parity_Fether
+Passky
+Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -422,11 +414,9 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-Sonist
-Spivak
-Stacer
-Standard_Notes
-Statsbook_Tool
+SlackBackup
+Slacktronic
+Slippi
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -497,7 +487,6 @@ VeChain
 Verto
 Vessel
 VidCutter
-Videomass
 Wonderwall
 WorkFlowy
 Workbench
@@ -605,7 +594,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -622,7 +610,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nxshell
+mki3dgame
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -657,7 +645,7 @@ qTox
 qikQR
 qpdf
 qpp::cad
-sabaki
+snomcontrol
 spark-wallet
 spm
 sqlitebrowser
