@@ -42,11 +42,10 @@ Bazecor
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
-Bodhi
-Book_Manager
-BottleBats
-Bottles
-Brackets
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BrainVerse
 BrainWaves
 BrickStore
@@ -90,13 +89,12 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 DevHub
 Diffuse
 Digitales_Klassenzimmer
@@ -143,9 +141,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fluent_Reader
-FromScratch
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -172,8 +168,10 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-ITUSB1_Manager
-ITUSB2_Manager
+Graviton
+GrinPlusPlus
+Groot
+Heroic Games Launcher
 IagonCloudApp
 ImExample
 ImageMosaicWall
@@ -230,6 +228,9 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -260,7 +261,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Moonlight
+Melodie
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -296,6 +297,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -306,8 +308,7 @@ OpenAudible
 OpenBlok
 OpenTodoList
 Open_Markup_Editor
-Papercraft
-Patchwork
+Outline-Manager
 Pathephone
 PatternPaint
 Pennywise
@@ -344,6 +345,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -424,6 +426,7 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -497,8 +500,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
-WorkFlowy
+Vieb
+Viper_Browser
 Workbench
 Wrapbox
 Wsocks
@@ -529,15 +532,15 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
-dfDemo
-dvdisaster
-eDEX-UI
-eNoseAnnotator
-eOSVC
+caprine
+clippy
+clipr
+cncjs
 eXtrema
 ehdev-shell
 elcalc
@@ -607,6 +610,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -623,7 +627,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nxshell
+mki3dgame
+moniteur-admin
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -655,12 +660,9 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+qikQR
+qpdf
 qpp::cad
-slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
 spark-wallet
 spm
 sqlitebrowser
