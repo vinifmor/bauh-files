@@ -41,8 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-BlueGlow
-Board_Game_Star
+Blowfish
 Bodhi
 Book_Manager
 BottleBats
@@ -89,6 +88,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Cromberg
 DeadGame-2048
 DeepTags
 Delir
@@ -141,8 +141,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Beta
-FreeTube
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -170,10 +169,11 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-GrinPlusPlus
-Groot
-Guitar
 Heroic Games Launcher
+ITUSB1_Manager
+ITUSB2_Manager
+IagonCloudApp
+ImExample
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -226,11 +226,6 @@ Lagrange
 Laigter
 Left
 Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -260,7 +255,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -297,7 +291,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -307,8 +300,8 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Passky
-Patchwork
+Open_Markup_Editor
+Outline-Manager
 Pathephone
 PatternPaint
 Pennywise
@@ -389,9 +382,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -424,9 +415,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
-Standard_Notes
+Skrifa
+SlackBackup
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -500,7 +492,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -534,9 +526,10 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
-cncjs
+deb2appimage
+eDEX-UI
+eNoseAnnotator
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -606,7 +599,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -624,8 +616,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+nxshell
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -656,12 +648,13 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
-spm
-sqlitebrowser
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
 stash-electron
 steam-rom-manager
 storyboarder
