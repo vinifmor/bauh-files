@@ -41,9 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Blowfish
-Bodhi
-Book_Manager
+Bench_CLI
 BottleBats
 Bottles
 Brackets
@@ -89,7 +87,6 @@ ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
-DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -141,6 +138,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_ESR
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -226,6 +225,11 @@ Lagrange
 Laigter
 Left
 Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -291,6 +295,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -300,8 +305,7 @@ Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
-Open_Markup_Editor
-Outline-Manager
+Patchwork
 Pathephone
 PatternPaint
 Pennywise
@@ -338,6 +342,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -521,12 +526,12 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
-deb2appimage
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -599,6 +604,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -616,8 +622,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nxshell
-ommpfritt
+moniteur-admin
+moolticute
 onnx2bnn
 onnx2daq
 openblok
