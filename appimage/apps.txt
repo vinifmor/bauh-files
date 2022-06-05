@@ -87,7 +87,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -140,7 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -163,13 +162,16 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImExample
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
+Gulden
+Heroic Games Launcher
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -220,6 +222,13 @@ LMMS
 LPub3D
 Lagrange
 Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -286,6 +295,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -297,6 +307,8 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+Patchwork
+Pathephone
 PatternPaint
 Pennywise
 Pext
@@ -409,6 +421,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -483,7 +496,6 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -517,7 +529,6 @@ bioanimation
 bottlenose
 buttercup
 cabal-desktop
-caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -607,7 +618,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nxshell
+moniteur-admin
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -638,10 +649,10 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
+qTox
+qikQR
+qpdf
+qpp::cad
 spark-wallet
 spm
 sqlitebrowser
