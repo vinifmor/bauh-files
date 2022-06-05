@@ -41,6 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+Bench_CLI
 Bodhi
 Book_Manager
 BottleBats
@@ -142,8 +143,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FocusWriter
-FreeTexturePacker
+Fluent_Reader
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,8 +171,7 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
-IGdm
-INSTEAD
+GradeStats
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -227,7 +227,9 @@ LPub3D
 Lagrange
 Laigter
 Left
-LiberTEM
+Lemon
+LeoCAD
+Lepton
 Lightning
 LikeTaskManager
 Linedancer
@@ -301,9 +303,10 @@ Onenote
 Onshape
 Onyx
 OpenAudible
-Parallelcoin
-Parity_Fether
-Passky
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
+Papercraft
 Patchwork
 Pathephone
 PatternPaint
@@ -386,7 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -419,9 +422,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Slacktronic
-Spivak
-Stacer
+Skrifa
+SlackBackup
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -530,7 +532,8 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-dukto
+cabal-desktop
+dfDemo
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -620,7 +623,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -653,7 +655,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-ser-player
+qpp::cad
 slang-ed
 smtk2ssrf
 snake.js
