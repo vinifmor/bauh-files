@@ -37,8 +37,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+BaijiMangaViewer
 Bitwarden
-BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -90,6 +90,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Cscrypto
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -143,9 +145,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_ESR
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,8 +170,9 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
+GpgFrontend
+Graviton
 Heroic Games Launcher
-HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -215,9 +216,11 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Kitupiikki
+Left
+Lemon
+LeoCAD
+Lepton
 LibAssist
 LiberTEM
 LibreSprite
@@ -247,7 +250,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MoarPerf
+McPodcast
+MeowSQL
 Mob
 Mockman
 Monot
@@ -292,6 +296,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+PDFQuirk
 Panini
 Paper
 Papercraft
@@ -338,10 +343,6 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -381,8 +382,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -415,8 +414,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SocNetV
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -488,8 +485,8 @@ VLC
 VNote
 VPaint
 Valeronoi
-Vieb
-Webamp
+VeChain
+Videomass
 Whalebird
 Wire
 WishDemo
@@ -524,9 +521,8 @@ ao
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
 bauh
-devdocs-desktop
-dexter_dev_env
 dfDemo
 dingtalk
 draw.io
@@ -603,8 +599,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
+moolticute
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -632,12 +629,12 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
+rmw
+runanode
+sabaki
+saphyr
 scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -682,8 +679,8 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-violetbug
-vue-calc
-vuerd
-weatherdump
-wezterm
+x-loc
+youtube-music
+yuzu
+zograscope
+zsync2
