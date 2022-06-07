@@ -36,6 +36,7 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
+BTS-CE-Lite
 Bitwarden
 BloomRPC
 Blowfish
@@ -86,6 +87,8 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
+ConsoleWorkbench
+CrossCode_Map_Editor
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -141,7 +144,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraktal
 FreeTube
 GDevelop
 GIMP
@@ -164,10 +166,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
 Heroic Games Launcher
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -202,17 +204,16 @@ KOReader
 Kage
 Kanon
 KawAnime
-Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
 LibAssist
 LiberTEM
 LibreSprite
@@ -241,7 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Memento
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -285,8 +286,8 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -332,11 +333,6 @@ Procyon
 ProofKeeper
 PrusaSlicer
 Pullp
-Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -374,8 +370,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Rufus
+RoboRock_Control_Center
 SMathStudio
 SMath_Studio
 SPlayer
@@ -408,9 +403,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -482,7 +477,7 @@ VLC
 VNote
 VPaint
 Valeronoi
-Wexond
+VeChain
 Whalebird
 Wire
 WishDemo
@@ -514,9 +509,10 @@ altair
 android-messages-desktop
 antimicroX
 ao
+appimagelint
+appimagetool
+appium-desktop
 bauh
-deb2appimage
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -558,7 +554,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -591,7 +586,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
+marlin-conf
 ngPost
 ngrev
 nheko
@@ -622,6 +617,7 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
+rmw
 runanode
 sabaki
 saphyr
@@ -668,11 +664,9 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
-vREST_NG
-vifm
-violetbug
-wezterm
+xonsh
+youtube-music
+youtube-music-desktop
 yuzu
 zograscope
 zsync2
