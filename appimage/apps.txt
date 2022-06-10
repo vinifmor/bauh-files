@@ -38,8 +38,8 @@ AzPainter
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
-Bazecor
-Beatconnect_Client
+Bench_CLI
+BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -88,7 +88,7 @@ Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
-CozyDrive
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -142,7 +142,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -170,10 +169,10 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImExample
+GrinPlusPlus
+Groot
+Guitar
+Gulden
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -217,12 +216,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
 Lightning
 LikeTaskManager
 Linedancer
@@ -251,7 +244,6 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
 Monot
 Moonlight
 Motrix
@@ -295,6 +287,7 @@ Olive
 Onenote
 Onshape
 Onyx
+OpenAudible
 Parallelcoin
 Parity_Fether
 Passky
@@ -380,6 +373,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -412,8 +406,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Sonist
-Spark.Payments
 Spivak
 Stacer
 Standard_Notes
@@ -487,7 +479,7 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -611,9 +603,6 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nheko
-nimbus-weather
-nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -646,10 +635,10 @@ puush-qt
 pyappimage
 python2
 python3
-simple-s3-uploader
-simple-timer
-simplechroot
-slang-ed
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
+saphyr
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -704,8 +693,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-youtube-music
-youtube-music-desktop
-yuzu
-zograscope
-zsync2
