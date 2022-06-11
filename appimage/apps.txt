@@ -40,8 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Board_Game_Star
-Bodhi
+Beekeeper_Studio
 Book_Manager
 BottleBats
 Bottles
@@ -171,7 +170,8 @@ GradeStats
 Graviton
 GrinPlusPlus
 Groot
-Guitar
+Heroic Games Launcher
+IagonCloudApp
 ImExample
 ImageMosaicWall
 ImagePlay
@@ -221,6 +221,14 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 Lightning
 LikeTaskManager
 Linedancer
@@ -250,7 +258,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-Monot
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -295,8 +303,7 @@ Onshape
 Onyx
 OpenAudible
 OpenBlok
-Papercraft
-Parallelcoin
+Outline-Manager
 Parity_Fether
 Passky
 Patchwork
@@ -381,8 +388,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
-SUbillManager
+RedmineTimeTracker
+ReliefValve
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -413,9 +420,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+Spivak
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -488,6 +494,8 @@ VeChain
 Verto
 Vessel
 VidCutter
+Videomass
+Vitomu
 Wonderwall
 WorkFlowy
 Workbench
@@ -523,8 +531,7 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-deb2appimage
+dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -612,9 +619,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-noteshrink-qt
-nx-software-center
-nxshell
+mira-backup
+mjml-app
+mki3dgame
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -643,13 +650,12 @@ puush-qt
 pyappimage
 python2
 python3
-simple-timer
-simplechroot
-slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
+qikQR
+qpdf
+qpp::cad
 spark-wallet
 spm
 sqlitebrowser
@@ -700,3 +706,8 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
+yuzu
+zograscope
+zsync2
