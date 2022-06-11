@@ -41,10 +41,8 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-BitShares
-Board_Game_Star
-Bodhi
-Book_Manager
+Bench_CLI
+BetterSIS
 BottleBats
 Bottles
 Brackets
@@ -91,7 +89,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -144,6 +141,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Beta
+Fluent_Reader
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -171,6 +171,10 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Heroic Games Launcher
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -262,7 +266,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-MeowSQL
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,6 +302,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -307,7 +311,7 @@ Onshape
 Onyx
 OpenAudible
 OpenBlok
-Parity_Fether
+OpenTodoList
 Passky
 Patchwork
 Pathephone
@@ -346,6 +350,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -392,7 +397,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-Rufus
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -428,10 +432,11 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Statsbook_Tool
-StatusPilatus
-SteamCAD
-Steem_Messenger
+Slippi
+SmallBASIC
+SmartGit
+SnippetStore
+Soapy_SDR
 Stele
 Stellarium
 StockStalk
@@ -498,6 +503,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
+VidCutter
+Videomass
 WishDemo
 Woke
 Wonderwall
@@ -532,12 +539,11 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
-caprine
-dingtalk
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -611,6 +617,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -624,9 +631,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
-notepadqq
-noteshrink-qt
+mini-qml
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -660,10 +667,8 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-simplechroot
-slang-ed
-smtk2ssrf
-snake.js
+qikQR
+qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
