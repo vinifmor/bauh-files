@@ -43,7 +43,8 @@ Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
-Bezique
+Book_Manager
+BottleBats
 Bottles
 Brackets
 BrainVerse
@@ -89,7 +90,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-CubicSDR
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -143,8 +143,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Flippy_Qualitative_Testbench
-FromScratch
+FreeCAD2
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,9 +170,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Hyperspace
-IGdm
-INSTEAD
+Gpredict
+GradeStats
+Graviton
+Heroic Games Launcher
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -222,6 +223,18 @@ Knowte
 KopiaUI
 LANShare
 LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -252,8 +265,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Mob
-Moonlight
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -289,6 +300,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -297,10 +309,9 @@ Onshape
 Onyx
 OpenAudible
 OpenBlok
-PanWriter
-Parity_Fether
-Passky
-Patchwork
+OpenTodoList
+Open_Markup_Editor
+Outline-Manager
 Pathephone
 PatternPaint
 Pennywise
@@ -337,6 +348,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -382,7 +394,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
+Rotki
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -418,8 +430,6 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Standard_Notes
-Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -491,7 +501,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+WalletTech
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -523,12 +534,13 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
-colorstatic-bash
-dukto
-dvdisaster
+cabal-desktop
+caprine
+cric
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -601,6 +613,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -618,8 +631,9 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-nordvpn-linux
+mutool
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -653,11 +667,10 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
-qr-code-generator-desktop
-quokkagit
-rasterview
-ridereceipts
+snomcontrol
+spark-wallet
+spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
@@ -707,5 +720,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
 zsync2
