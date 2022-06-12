@@ -43,8 +43,7 @@ Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
-Board_Game_Star
-BottleBats
+Bezique
 Bottles
 Brackets
 BrainVerse
@@ -90,7 +89,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Datcord
+CubicSDR
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -144,7 +143,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+Flippy_Qualitative_Testbench
+FromScratch
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -169,11 +170,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
-Heroic Games Launcher
+Hyperspace
+IGdm
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -222,18 +222,6 @@ Knowte
 KopiaUI
 LANShare
 LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
-Laigter
-Left
-Lemon
-LeoCAD
-Lepton
-LibAssist
-LiberTEM
-LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -263,6 +251,8 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
+Mob
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,7 +289,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVis
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -307,7 +296,8 @@ Onenote
 Onshape
 Onyx
 OpenAudible
-Parallelcoin
+OpenBlok
+PanWriter
 Parity_Fether
 Passky
 Patchwork
@@ -347,7 +337,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -393,8 +382,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
+RetroShare
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -429,7 +418,8 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Slippi
+Standard_Notes
+Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -448,7 +438,6 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -503,7 +492,8 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
+WorkFlowy
+Workbench
 Wrapbox
 Wsocks
 XChat
@@ -533,15 +523,15 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
-bauh
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
-clippy
-clipr
-cncjs
+colorstatic-bash
+dukto
+dvdisaster
+eDEX-UI
+eNoseAnnotator
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -611,7 +601,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -629,7 +618,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nxshell
+moniteur-admin
+nordvpn-linux
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -661,14 +651,13 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-slang-ed
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
-spm
-sqlitebrowser
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
 stash-electron
 steam-rom-manager
 storyboarder
@@ -718,6 +707,5 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
 zograscope
 zsync2
