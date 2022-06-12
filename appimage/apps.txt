@@ -41,7 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bodhi
+Birds_Kitchen
 Book_Manager
 BottleBats
 Bottles
@@ -143,8 +143,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-FromScratch
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -264,6 +262,8 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Melodie
+Minetest
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -348,6 +348,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -393,7 +394,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -428,8 +430,8 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Slippi
-Stacer
+Sovren.Batch.Parser
+Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -448,6 +450,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -501,8 +504,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
-WorkFlowy
+Vieb
 Workbench
 Wrapbox
 Wsocks
@@ -533,14 +535,16 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
-eOSVC
+clippy
+clipr
+cncjs
+dataset-annotator
 eXtrema
 ehdev-shell
 elcalc
@@ -610,6 +614,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -626,7 +631,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -657,10 +662,11 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
-qpdf
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
