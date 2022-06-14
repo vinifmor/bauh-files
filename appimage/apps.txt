@@ -33,9 +33,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
-AzPainter
 Bitwarden
+Blink1Control2
+Blizzard_4
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -79,10 +80,9 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+CustomRPC
+CutePeaks
+CuteVariant
 Cutter
 DFileManager
 Dana
@@ -142,8 +142,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Beta
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -164,6 +164,9 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+Graviton
+Groot
 Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
@@ -205,7 +208,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeyManager
 LMMS
 LPub3D
 Lagrange
@@ -242,7 +244,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -285,7 +288,8 @@ OVis
 OWASP Threat Dragon
 OWallet
 Obsidian
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -368,8 +372,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
-SMathStudio
+Rebaslight
+Record_Compare
 SMath_Studio
 SPlayer
 SUMOCO
@@ -471,9 +475,12 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-WatchIt
-WebDesktop
-Webamp
+VLC
+VNote
+VPaint
+Valeronoi
+VeChain
+VizGraph
 Wexond
 Whalebird
 Wire
@@ -503,12 +510,12 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
 bauh
-dashy-app
-dataset-annotator
-dbet-wallet
-deb2appimage
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -544,6 +551,7 @@ fre:ac
 freeman
 gLabels
 gerbv
+getswell
 huwinterpreter
 hw-probe
 hyper
@@ -582,7 +590,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngrev
+marlin-conf
+mdview
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -610,9 +620,10 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
+qr-code-generator-desktop
 sabaki
 saphyr
 scavengers
@@ -659,8 +670,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-violetbug
-xonsh
+vREST_NG
+xde
 youtube-music
 youtube-music-desktop
 yuzu
