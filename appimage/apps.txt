@@ -37,8 +37,9 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bazecor
+Bloks
+BloomRPC
+Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
@@ -169,7 +170,6 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-Graviton
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -248,9 +248,11 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
+MegaBasterd
 Monot
 Moonlight
 Motrix
@@ -290,7 +292,7 @@ OSRS_Tools
 OWallet
 Obsidian
 Olive
-PanWriter
+Onenote
 Panini
 Paper
 Papercraft
@@ -379,6 +381,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -411,9 +414,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+Spivak
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -609,7 +611,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -639,7 +641,10 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-school-sections
+pyappimage
+python2
+python3
+saphyr
 ser-player
 simple-s3-uploader
 simple-timer
@@ -701,3 +706,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
+zograscope
+zsync2
