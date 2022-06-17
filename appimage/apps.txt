@@ -34,10 +34,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
-Bazecor
 Bitwarden
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -80,9 +77,9 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
-Cura
-CustomRPC
+ClementineRemote
+Cliniface
+Cloud_Browser
 CutePeaks
 CuteVariant
 Cutter
@@ -144,8 +141,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraidycat
+FontForge
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,9 +164,9 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -205,7 +203,9 @@ KADE
 KOReader
 Kage
 Kanon
-LANShare
+KawAnime
+Kcov
+KeePassXC
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -244,6 +244,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -284,8 +286,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OWASP Threat Dragon
-OWallet
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -327,11 +327,6 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -369,7 +364,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-SMPlayer
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -400,9 +395,8 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-Slacktronic
+Sovren.Batch.Parser
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -476,8 +470,8 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Webamp
-Wexond
+Valeronoi
+VeChain
 Whalebird
 Wire
 WishDemo
@@ -510,8 +504,10 @@ android-messages-desktop
 antimicroX
 ao
 appimagelint
+appimagetool
+appium-desktop
 bauh
-deb2appimage
+buttercup
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -547,9 +543,10 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
-hw-probe
-hyper
+gerbv
+getswell
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -585,6 +582,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
+marlin-conf
+moolticute
 ngPost
 ngrev
 nheko
@@ -614,8 +613,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-qpp::cad
-ridereceipts
+pomotroid
+python3
 rmw
 runanode
 sabaki
@@ -661,10 +660,9 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-violetbug
-x-loc
-xde
-xonsh
+unreel
+updatedeployqt
+upterm
 youtube-music
 youtube-music-desktop
 yuzu
