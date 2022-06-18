@@ -40,8 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Bezique
-Bitwarden
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -90,6 +89,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Datcord
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -143,7 +143,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -168,10 +167,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -223,6 +222,8 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
+Lagrange
+Laigter
 Lightning
 LikeTaskManager
 Linedancer
@@ -252,8 +253,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MeowSQL
-Monot
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -293,9 +293,8 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
-Panini
-Paper
+Onshape
+Onyx
 Papercraft
 Parallelcoin
 Parity_Fether
@@ -414,9 +413,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+Spivak
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -489,8 +487,8 @@ VeChain
 Verto
 Vessel
 VidCutter
-WalletTech
-Woke
+Videomass
+WebDesktop
 Wonderwall
 WorkFlowy
 Workbench
@@ -612,8 +610,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
-nordvpn-linux
+meta-grabber
+mini-qml
+my-budget
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -647,9 +646,9 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simplechroot
-slang-ed
-smtk2ssrf
+qSdrSwr
+qTox
+qikQR
 snake.js
 snapshot-slider
 snomcontrol
@@ -705,6 +704,3 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
-yuzu
-zograscope
-zsync2
