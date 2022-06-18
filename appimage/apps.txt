@@ -41,8 +41,6 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-BitShares
-Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -144,6 +142,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Franz
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,9 +170,8 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -219,12 +218,7 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
 LMMS
-LPub3D
-Lagrange
 Lightning
 LikeTaskManager
 Linedancer
@@ -294,6 +288,8 @@ OWallet
 Obsidian
 Olive
 Onenote
+PIA
+PanWriter
 Panini
 Paper
 Papercraft
@@ -382,7 +378,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -415,8 +410,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
+Skrifa
+SlackBackup
+Slacktronic
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -488,9 +484,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
-Videomass
-Vieb
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -615,8 +610,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
-moniteur-admin
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -648,8 +643,8 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qikQR
-qpdf
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -701,9 +696,4 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
-youtube-music
 youtube-music-desktop
-yuzu
-zograscope
-zsync2
