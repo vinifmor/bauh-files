@@ -40,7 +40,8 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Board_Game_Star
+Beekeeper_Studio
+Birds_Kitchen
 Bodhi
 Book_Manager
 BottleBats
@@ -89,8 +90,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-CrossMobile
-DeDop-studio
+Dana
 DeadGame-2048
 DeepTags
 Delir
@@ -143,7 +143,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -168,12 +167,14 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImExample
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
+Gulden
+Heroic Games Launcher
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -217,6 +218,19 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 Lightning
 LikeTaskManager
 Linedancer
@@ -246,6 +260,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -281,12 +296,13 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
-Onshape
-Onyx
+Panini
+Paper
 Papercraft
 Parallelcoin
 Parity_Fether
@@ -373,7 +389,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RoboRock_Control_Center
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -409,7 +424,7 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Standard_Notes
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -482,6 +497,8 @@ Verto
 Vessel
 VidCutter
 Videomass
+WatchIt
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -517,8 +534,8 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -606,6 +623,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -640,9 +658,9 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-snake.js
-snapshot-slider
-snomcontrol
+qpdf
+qpp::cad
+qr-code-generator-desktop
 spark-wallet
 spm
 sqlitebrowser
@@ -695,3 +713,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
+zograscope
+zsync2
