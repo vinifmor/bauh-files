@@ -40,7 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Beekeeper_Studio
+Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -142,8 +142,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Franz
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,6 +168,8 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
+Heroic Games Launcher
+IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -218,7 +218,15 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
 LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
 Lightning
 LikeTaskManager
 Linedancer
@@ -247,8 +255,8 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
-MegaBasterd
+Mockman
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -284,11 +292,11 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
-PIA
+OpenAudible
 PanWriter
 Panini
 Paper
@@ -413,7 +421,7 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Standard_Notes
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -484,7 +492,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
-Woke
+VidCutter
+Videomass
 Wonderwall
 WorkFlowy
 Workbench
@@ -520,8 +529,8 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -643,10 +652,10 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
 spark-wallet
 spm
 sqlitebrowser
@@ -696,4 +705,9 @@ wxMEdit
 wxMaxima
 x-loc
 xde
+xonsh
+youtube-music
 youtube-music-desktop
+yuzu
+zograscope
+zsync2
