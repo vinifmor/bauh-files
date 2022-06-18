@@ -40,7 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
-Beekeeper_Studio
+Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -89,7 +89,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Datcord
+CrossMobile
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -143,6 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -167,10 +168,9 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
+IGdm
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -217,13 +217,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
-Laigter
 Lightning
 LikeTaskManager
 Linedancer
@@ -253,7 +246,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -381,6 +373,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RoboRock_Control_Center
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -413,8 +406,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
+Skrifa
+SlackBackup
+Slacktronic
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -488,7 +482,6 @@ Verto
 Vessel
 VidCutter
 Videomass
-WebDesktop
 Wonderwall
 WorkFlowy
 Workbench
@@ -524,7 +517,7 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
+dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -612,9 +605,7 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-my-budget
-notepadqq
-noteshrink-qt
+mira-backup
 nx-software-center
 nxshell
 ommpfritt
