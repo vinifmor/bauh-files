@@ -41,7 +41,7 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bench_CLI
+Bodhi
 Book_Manager
 BottleBats
 Bottles
@@ -89,6 +89,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -141,7 +142,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+FranceTV
 GDevelop
 GIMP
 GL_warp2mp4
@@ -172,7 +173,6 @@ GradeStats
 Graviton
 GrinPlusPlus
 Heroic Games Launcher
-ITUSB2_Manager
 IagonCloudApp
 ImExample
 ImageMosaicWall
@@ -262,8 +262,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-MineTime
-Monot
+Minions
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -304,7 +303,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
+Panini
 Paper
 Papercraft
 Parallelcoin
@@ -392,6 +391,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Running-Dinner-Tool
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -428,9 +428,8 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-Statsbook_Tool
-StatusPilatus
-SteamCAD
+SmallBASIC
+SmartGit
 Steem_Messenger
 Stele
 Stellarium
@@ -496,10 +495,10 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
-Vessel
-VidCutter
-Videomass
+Wire
+WishDemo
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -534,7 +533,7 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
+dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -608,7 +607,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -625,7 +623,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+noteshrink-qt
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -661,7 +660,9 @@ qTox
 qikQR
 qpdf
 qpp::cad
-qr-code-generator-desktop
+rasterview
+snomcontrol
+spark-wallet
 spm
 sqlitebrowser
 stash-electron
