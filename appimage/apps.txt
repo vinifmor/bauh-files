@@ -41,8 +41,6 @@ BaijiMangaViewer
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
-Bezique
-Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -91,6 +89,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DbGate
+DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -143,7 +143,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -168,12 +167,13 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-IGdm
-INSTEAD
-ITUSB1_Manager
-ITUSB2_Manager
-IagonCloudApp
-ImExample
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
+Gulden
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -295,6 +295,7 @@ Onenote
 Onshape
 Onyx
 OpenAudible
+Papercraft
 Parallelcoin
 Parity_Fether
 Passky
@@ -380,6 +381,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+ReliefValve
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,6 +417,7 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -487,7 +491,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -612,7 +616,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -647,7 +651,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snapshot-slider
+qpp::cad
 snomcontrol
 spark-wallet
 spm
