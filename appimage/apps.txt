@@ -89,7 +89,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -142,6 +141,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
+Friture
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -173,7 +174,7 @@ GrinPlusPlus
 Groot
 Guitar
 Gulden
-ImExample
+Heroic Games Launcher
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -230,6 +231,7 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -257,9 +259,10 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
+Minions
+Mob
+Mockman
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -295,6 +298,7 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -387,7 +391,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RoloViewer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -423,7 +426,6 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -528,12 +530,12 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
-dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -606,6 +608,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -623,8 +626,6 @@ mini-qml
 mira-backup
 mjml-app
 mutool
-noteshrink-qt
-nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -657,12 +658,11 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
-spark-wallet
-spm
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 sqlitebrowser
 stash-electron
 steam-rom-manager
