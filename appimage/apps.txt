@@ -40,6 +40,8 @@ BTS-CE-Lite
 BaijiMangaViewer
 Bazecor
 Beatconnect_Client
+Beekeeper_Studio
+Bezique
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -89,8 +91,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cryptr
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -143,8 +143,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FontForge
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,8 +168,7 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-GradeStats
+IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -226,7 +223,6 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
-Laigter
 Lightning
 LikeTaskManager
 Linedancer
@@ -256,6 +252,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -296,8 +293,8 @@ Obsidian
 Olive
 Onenote
 Onshape
-Paper
-Papercraft
+Onyx
+OpenAudible
 Parallelcoin
 Parity_Fether
 Passky
@@ -417,7 +414,6 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Slacktronic
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -491,7 +487,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -526,8 +522,8 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -651,8 +647,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
-qr-code-generator-desktop
+snapshot-slider
+snomcontrol
 spark-wallet
 spm
 sqlitebrowser
