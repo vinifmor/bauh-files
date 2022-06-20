@@ -37,7 +37,7 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
+BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -142,6 +142,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_ESR
+Fraktal
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -167,9 +170,10 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-GradeStats
-Graviton
+Hyperspace
+IGdm
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -223,11 +227,6 @@ LMMS
 LPub3D
 Lagrange
 Laigter
-Left
-Lemon
-LeoCAD
-Lepton
-LibAssist
 Lightning
 LikeTaskManager
 Linedancer
@@ -255,8 +254,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mob
-Mockman
+Mechvibes
 Monot
 Moonlight
 Motrix
@@ -488,9 +486,9 @@ VLC
 VNote
 VPaint
 Valeronoi
-Wexond
-Whalebird
-Wire
+VeChain
+Verto
+Vessel
 WishDemo
 Woke
 Wonderwall
@@ -527,8 +525,7 @@ autoEdit2
 avogadro
 bioanimation
 bottlenose
-dingtalk
-draw.io
+buttercup
 dukto
 dvdisaster
 eDEX-UI
@@ -603,6 +600,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -615,7 +613,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-ngrev
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -651,7 +648,6 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -710,5 +706,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
 zsync2
