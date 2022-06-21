@@ -33,8 +33,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
 Bitwarden
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -78,8 +80,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
-Cura
+ClementineRemote
+Cliniface
 CustomRPC
 CutePeaks
 CuteVariant
@@ -142,10 +144,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Nightly
 Fluent_Reader
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,8 +166,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -203,10 +203,12 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
+Kitupiikki
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -243,6 +245,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -284,8 +288,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenAudible
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -363,6 +365,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -396,6 +399,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -434,7 +438,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -471,8 +474,9 @@ Valeronoi
 VeChain
 Verto
 Vessel
-Woke
-Wonderwall
+VidCutter
+Videomass
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -544,9 +548,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -580,6 +584,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+meta-grabber
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -609,6 +616,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+qr-code-generator-desktop
+runanode
 saphyr
 scavengers
 school-sections
