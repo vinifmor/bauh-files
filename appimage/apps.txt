@@ -32,9 +32,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -144,8 +142,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -166,7 +164,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -205,9 +203,9 @@ Julius
 KADE
 KOReader
 Kage
-Kanon
-KawAnime
-Kcov
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -245,6 +243,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mini_Diary
 MoarPerf
 Mob
 Mockman
@@ -286,7 +285,9 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenTodoList
+Olive
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -332,8 +333,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 PrusaSlicer
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -369,8 +370,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RedmineTimeTracker
-SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -401,7 +400,6 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SimpleInstaBot
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -440,9 +438,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -480,8 +475,10 @@ VeChain
 Verto
 Vessel
 VidCutter
-Videomass
 Vieb
+WishDemo
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -516,8 +513,10 @@ avogadro
 bauh
 bioanimation
 bottlenose
-buttercup
-dexter_dev_env
+clippy
+clipr
+dingtalk
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -554,10 +553,10 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
-hpack
+impact
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -591,8 +590,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-neovim
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -621,6 +619,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+runanode
 scavengers
 school-sections
 ser-player
@@ -666,8 +665,7 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
+youtube-music
 yuzu
 zograscope
 zsync2
