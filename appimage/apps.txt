@@ -36,7 +36,6 @@ Auryo
 Axe_Electrum
 AzPainter
 Bitwarden
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -82,7 +81,6 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-CubicSDR
 CustomRPC
 CutePeaks
 CuteVariant
@@ -145,7 +143,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FontForge
 FreeTube
 GDevelop
 GIMP
@@ -164,7 +161,11 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HermesMessenger
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+HastyHeroes
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -202,12 +203,12 @@ Juggernaut
 Julius
 KADE
 KOReader
-KeyboardClient
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
+Kiibohd_Configurator
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -329,12 +330,7 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -372,6 +368,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RetroShare
+Running-Dinner-Tool
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -403,9 +401,7 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Skrifa
-Sourcetrail
-Sovren.Batch.Parser
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -485,9 +481,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
-WatchFlower
-Webamp
+WalletShell
+WatchIt
 WorkFlowy
 Workbench
 Wrapbox
@@ -522,7 +517,7 @@ avogadro
 bauh
 bioanimation
 bottlenose
-buttercup
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -562,10 +557,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
+htmldoc
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -599,8 +591,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-mutool
-nimbus-weather
+meta-grabber
+neovim
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -630,7 +622,6 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-runanode
 sabaki
 saphyr
 scavengers
@@ -678,7 +669,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
+xonsh
+youtube-music
+youtube-music-desktop
 yuzu
+zograscope
 zsync2
