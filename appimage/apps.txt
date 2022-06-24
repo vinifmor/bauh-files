@@ -36,6 +36,7 @@ Auryo
 Axe_Electrum
 AzPainter
 Bitwarden
+Blink1Control2
 Blockbench
 Bloks
 BloomRPC
@@ -79,8 +80,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -169,6 +170,7 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -203,9 +205,10 @@ KOReader
 Kage
 Kanon
 KawAnime
-Kcov
-KeePassXC
-KeeWeb
+KettleClient
+LCEdit
+LED.Custom.Palette
+LMMS
 LPub3D
 Lagrange
 Laigter
@@ -322,7 +325,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -362,7 +364,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+Running-Dinner-Tool
+SMPlayer
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -394,8 +398,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -430,10 +434,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
 Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -473,7 +474,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
-WorkFlowy
+Wonderwall
 Workbench
 Wrapbox
 Wsocks
@@ -509,7 +510,7 @@ bioanimation
 bottlenose
 buttercup
 cabal-desktop
-dvdisaster
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -547,8 +548,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -612,8 +611,10 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
+python3
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -655,7 +656,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
+youtube-music
+youtube-music-desktop
 yuzu
+zograscope
+zsync2
