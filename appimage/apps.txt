@@ -165,13 +165,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HastyHeroes
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -208,9 +205,7 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-Kiibohd_Configurator
-LED.Custom.Palette
-LMMS
+KeeWeb
 LPub3D
 Lagrange
 Laigter
@@ -287,6 +282,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -327,9 +323,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -368,11 +361,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RetroShare
-Running-Dinner-Tool
-SMPlayer
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -402,10 +392,10 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -443,6 +433,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -481,8 +472,7 @@ Verto
 Vessel
 VidCutter
 Videomass
-WalletShell
-WatchIt
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -517,8 +507,8 @@ avogadro
 bauh
 bioanimation
 bottlenose
-draw.io
-dukto
+buttercup
+cabal-desktop
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -557,7 +547,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-htmldoc
+hero-display
+hotspot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -592,8 +583,6 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-neovim
-nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -622,11 +611,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-sabaki
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -669,9 +656,6 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-xonsh
-youtube-music
-youtube-music-desktop
+vifm
+violetbug
 yuzu
-zograscope
-zsync2
