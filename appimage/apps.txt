@@ -39,8 +39,9 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
-BlueGlow
-Board_Game_Star
+Bazecor
+Beatconnect_Client
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -89,7 +90,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -169,10 +169,10 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
 Heroic Games Launcher
-IGdm
-INSTEAD
-ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -230,8 +230,6 @@ Left
 Lemon
 LeoCAD
 Lepton
-LibAssist
-LiberTEM
 Lightning
 LikeTaskManager
 Linedancer
@@ -260,7 +258,9 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Monot
+MediaElch
+MegaBasterd
+MeowSQL
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -345,6 +345,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -390,7 +391,9 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
+RetroShare
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -502,7 +505,8 @@ Vieb
 Viper_Browser
 Vipster
 VirtScreen
-XChat
+Vitomu
+VivifyScrum
 XELFViewer
 XPEViewer
 YUView
@@ -542,8 +546,9 @@ cordlauncher
 cric
 dashy-app
 dataset-annotator
-dbet-wallet
-deb2appimage
+electron-xiami
+element
+elzabrowser
 embedded-ide
 enve
 erdesigner
@@ -622,9 +627,9 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nxshell
-ommpfritt
-onnx2bnn
+mki3dgame
+moniteur-admin
+moolticute
 onnx2daq
 openblok
 ossia_score
@@ -656,11 +661,12 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snapshot-slider
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
 snomcontrol
-spark-wallet
-spm
-sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
