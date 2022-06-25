@@ -42,6 +42,7 @@ BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
+BlueGlow
 Bodhi
 Book_Manager
 BottleBats
@@ -90,6 +91,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Cromberg
 DeadGame-2048
 DeepTags
 Delir
@@ -142,6 +144,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Fluent_Reader
 FreeTube
 GDevelop
 GIMP
@@ -171,8 +174,9 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
-GrinPlusPlus
+Gulden
 Heroic Games Launcher
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -230,6 +234,9 @@ Left
 Lemon
 LeoCAD
 Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -260,7 +267,8 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-MeowSQL
+MeshLab
+Mob
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -302,6 +310,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+PacketSender
 Panini
 Paper
 Papercraft
@@ -391,9 +400,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-RetroShare
+RyoWallet
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -429,7 +437,7 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-Statsbook_Tool
+SmallBASIC
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -507,7 +515,6 @@ Vipster
 VirtScreen
 Vitomu
 VivifyScrum
-XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
@@ -533,6 +540,7 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -546,7 +554,7 @@ cordlauncher
 cric
 dashy-app
 dataset-annotator
-electron-xiami
+dukto
 element
 elzabrowser
 embedded-ide
@@ -611,6 +619,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -630,6 +639,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
@@ -666,7 +676,6 @@ qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
-snomcontrol
 stash-electron
 steam-rom-manager
 storyboarder
