@@ -39,9 +39,10 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
+Bazecor
+Beatconnect_Client
+Beekeeper_Studio
 Blowfish
-BlueGlow
-Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -90,8 +91,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Datcord
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -144,7 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fluent_Reader
+Flippy_Qualitative_Testbench
 FreeTube
 GDevelop
 GIMP
@@ -172,8 +171,9 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
+GradeStats
 Heroic Games Launcher
-IGdm
+HexoClient
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -228,6 +228,14 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -300,8 +308,8 @@ Obsidian
 Olive
 Onenote
 Onshape
-Paper
-Papercraft
+Onyx
+OpenAudible
 Parallelcoin
 Parity_Fether
 Passky
@@ -420,9 +428,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
-Standard_Notes
+Skrifa
+SlackBackup
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -545,6 +554,10 @@ dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
+devdocs-desktop
+dukto
+eOSVC
+ehdev-shell
 embedded-ide
 enve
 erdesigner
@@ -627,7 +640,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
 onnx2daq
 openblok
 ossia_score
@@ -662,10 +674,9 @@ qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
-rasterview
-ridereceipts
-rmw
-runanode
+sqlitebrowser
+stash-electron
+steam-rom-manager
 storyboarder
 strans
 stretchly
