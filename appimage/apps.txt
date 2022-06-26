@@ -41,7 +41,7 @@ BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect_Client
-Beekeeper_Studio
+Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
@@ -90,7 +90,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Dana
+DFileManager
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -145,6 +145,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -173,10 +174,10 @@ Gpredict
 GradeStats
 Graviton
 GrinPlusPlus
-Groot
-Guitar
-Gulden
 Heroic Games Launcher
+ITUSB2_Manager
+IagonCloudApp
+ImExample
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -225,6 +226,9 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
+Lagrange
+Laigter
+Left
 Lightning
 LikeTaskManager
 Linedancer
@@ -250,11 +254,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
+MoarPerf
+Mob
+Mockman
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -294,9 +297,9 @@ OVideo
 OWallet
 Obsidian
 Olive
-Onenote
-Onshape
-Onyx
+PanWriter
+Panini
+Paper
 Papercraft
 Parallelcoin
 Parity_Fether
@@ -383,7 +386,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -417,10 +419,10 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-Stacer
-Standard_Notes
-Statsbook_Tool
-StatusPilatus
+SlackBackup
+Slacktronic
+Slippi
+SmallBASIC
 SteamCAD
 Steem_Messenger
 Stele
@@ -495,7 +497,8 @@ Vieb
 Viper_Browser
 Vipster
 VirtScreen
-XChat
+Vitomu
+VivifyScrum
 XELFViewer
 XPEViewer
 YUView
@@ -534,8 +537,8 @@ colorstatic-bash
 cordlauncher
 cric
 dashy-app
-electron-wechat
-electron-xiami
+dataset-annotator
+dbet-wallet
 element
 elzabrowser
 embedded-ide
@@ -600,6 +603,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -619,8 +623,8 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-ommpfritt
+onnx2bnn
+onnx2daq
 openblok
 ossia_score
 osu
@@ -656,8 +660,8 @@ qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
-rmw
-runanode
+stash-electron
+steam-rom-manager
 storyboarder
 strans
 stretchly
