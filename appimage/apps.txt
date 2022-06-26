@@ -41,7 +41,7 @@ BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect_Client
-Board_Game_Star
+Beekeeper_Studio
 Bodhi
 Book_Manager
 BottleBats
@@ -90,8 +90,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DFileManager
-DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -145,7 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
+FreeTube
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -174,10 +172,10 @@ Gpredict
 GradeStats
 Graviton
 GrinPlusPlus
+Groot
+Guitar
+Gulden
 Heroic Games Launcher
-ITUSB2_Manager
-IagonCloudApp
-ImExample
 ImageMosaicWall
 ImagePlay
 Imagine
@@ -229,6 +227,12 @@ LPub3D
 Lagrange
 Laigter
 Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -254,10 +258,11 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
-Monot
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -294,13 +299,14 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-PanWriter
-Panini
-Paper
-Papercraft
+Onenote
+Onshape
+Onyx
+OpenAudible
 Parallelcoin
 Parity_Fether
 Passky
@@ -341,6 +347,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -386,6 +393,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
+SMath_Studio
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -423,6 +432,7 @@ SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
+StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
@@ -525,6 +535,7 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
@@ -539,7 +550,9 @@ cric
 dashy-app
 dataset-annotator
 dbet-wallet
-element
+deb2appimage
+deltachat-desktop
+eNoseAnnotator
 elzabrowser
 embedded-ide
 enve
@@ -658,8 +671,8 @@ qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
-rasterview
-ridereceipts
+spm
+sqlitebrowser
 stash-electron
 steam-rom-manager
 storyboarder
