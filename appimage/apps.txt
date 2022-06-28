@@ -89,7 +89,7 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-DawnlightSearch
+Cool_Retro_Term
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -144,7 +144,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,8 +169,8 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
-Heroic Games Launcher
+Hyperspace
+IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -215,7 +214,8 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -243,6 +243,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
+MoarPerf
 Mob
 Mockman
 Monot
@@ -282,10 +283,9 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -333,6 +333,7 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -370,10 +371,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-ReliefValve
+Rebaslight
+Record_Compare
 SMPlayer
-SMathStudio
-SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -405,8 +405,9 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
-SpeedyLoader
+SimpleInstaBot
+Singlebox
+Soapy_SDR
 Spivak
 Stacer
 Standard_Notes
@@ -483,11 +484,10 @@ Verto
 Vessel
 VidCutter
 Videomass
-Woke
-Wonderwall
-WorkFlowy
-Workbench
-Wrapbox
+Vieb
+Viper_Browser
+Vipster
+VivifyScrum
 Wsocks
 XChat
 XELFViewer
@@ -516,12 +516,11 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
-bauh
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -564,6 +563,10 @@ hotspot
 hpack
 hsinstall
 htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -584,7 +587,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -601,6 +603,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+moolticute
 nx-software-center
 nxshell
 ommpfritt
@@ -629,10 +632,10 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-rasterview
-ser-player
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-s3-uploader
-simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -675,5 +678,11 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
