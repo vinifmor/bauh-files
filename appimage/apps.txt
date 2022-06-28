@@ -34,9 +34,10 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
+BLOCK-DX
+BTS-CE-Lite
 Bitwarden
-Blizzard_4
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -84,10 +85,10 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-Cutter
-DFileManager
-Dana
-Datcord
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -143,10 +144,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Beta
 FreeTube
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,10 +168,10 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+Heroic Games Launcher
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -218,8 +216,6 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LibAssist
-LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -246,7 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
 Mob
 Mockman
 Monot
@@ -337,8 +333,6 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
-Python
 QMPlay2
 QMediathekView
 QNapi
@@ -376,6 +370,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+ReliefValve
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -409,7 +405,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -485,6 +481,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
+VidCutter
+Videomass
 Woke
 Wonderwall
 WorkFlowy
@@ -564,7 +562,8 @@ guiscrcpy
 hero-display
 hotspot
 hpack
-huwinterpreter
+hsinstall
+htmldoc
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -598,9 +597,10 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nordvpn-linux
-notepadqq
-noteshrink-qt
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -629,9 +629,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+rasterview
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -675,7 +675,5 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
+yuzu
+zsync2
