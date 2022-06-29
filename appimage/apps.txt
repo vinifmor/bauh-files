@@ -31,8 +31,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
+BilibiliVideoDownload
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -74,11 +75,9 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
 Circle-Z
-City_Hub
-Code_OSS
-ColorGenerator
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -146,6 +145,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -166,9 +166,8 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
+GitNote
 GitQlient
-HastyHeroes
-Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -207,6 +206,10 @@ Juggernaut
 Julius
 KADE
 KOReader
+Kanon
+KettleClient
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -248,6 +251,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
+Meshmill
 Mirage
 MoarPerf
 Mob
@@ -290,6 +295,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OpenAudible
 Painel-Web
 Paletti
 PanWriter
@@ -329,9 +335,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 PrusaSlicer
-Python
 QMPlay2
 QMediathekView
 QNapi
@@ -367,8 +371,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -398,6 +400,7 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
+SigmaSpectra
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -436,7 +439,7 @@ SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
-T.Viewer
+TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -473,7 +476,10 @@ Valeronoi
 VeChain
 Verto
 Vessel
-WatchIt
+VidCutter
+Viper_Browser
+Whalebird
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -508,8 +514,9 @@ appium-desktop
 autoEdit2
 avogadro
 bauh
-dfDemo
-dingtalk
+bioanimation
+bottlenose
+buttercup
 draw.io
 dukto
 dvdisaster
@@ -547,9 +554,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-irccloud-desktop
-isle-editor
-jag
+gsubs
+guglielmo
+hyper
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -611,9 +618,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-qr-code-generator-desktop
-runanode
-sabaki
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -655,11 +660,13 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-x-loc
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+vREST_NG
 xde
-xonsh
 youtube-music
-youtube-music-desktop
 yuzu
 zograscope
 zsync2
