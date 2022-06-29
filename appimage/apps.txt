@@ -78,10 +78,6 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-Cliniface
-ConsoleWorkbench
-Cromberg
 Cscrypto
 CubicSDR
 Cura
@@ -146,8 +142,9 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -168,8 +165,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -206,10 +203,10 @@ Julius
 KADE
 KOReader
 Kage
-KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LMMS
 LPub3D
 Lagrange
@@ -287,7 +284,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-PIA
 Painel-Web
 Paletti
 PanWriter
@@ -328,6 +324,10 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -366,7 +366,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -398,9 +397,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Skrifa
-Spark.Payments
-Speaky_MiniPlayer
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -437,9 +435,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -476,7 +471,7 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -510,7 +505,9 @@ appium-desktop
 autoEdit2
 avogadro
 bauh
-dingtalk
+bioanimation
+bottlenose
+buttercup
 draw.io
 dukto
 dvdisaster
@@ -548,10 +545,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guglielmo
 guiscrcpy
-irccloud-desktop
-isle-editor
-jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -584,7 +580,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -612,9 +608,9 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-sabaki
-saphyr
-scavengers
+privacy.sexy
+protonmail-desktop
+puush-qt
 school-sections
 ser-player
 simple-s3-uploader
@@ -658,8 +654,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
 youtube-music
-youtube-music-desktop
 yuzu
 zograscope
 zsync2
