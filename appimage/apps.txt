@@ -75,7 +75,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
+Cryplicity
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -141,7 +142,6 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Firefox_Beta
 FreeTexturePacker
 FreeTube
 Friture
@@ -163,8 +163,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Glimpse-Image-Editor
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -244,7 +243,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeshLab
 MoarPerf
 Mob
 Mockman
@@ -286,8 +284,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-PDFQuirk
+Outline-Manager
 Painel-Web
 Paletti
 PanWriter
@@ -328,7 +325,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -365,9 +361,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
-RoloViewer
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -395,9 +389,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -436,6 +430,7 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -470,10 +465,9 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
-Vessel
-VidCutter
-VizGraph
+Webamp
+Wire
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -504,11 +498,12 @@ antimicroX
 ao
 appimagelint
 appimagetool
-appium-desktop
-autoEdit2
-avogadro
 bauh
-bioanimation
+clipr
+deltachat-desktop
+devdocs-desktop
+dexter_dev_env
+dfDemo
 dingtalk
 draw.io
 dukto
@@ -540,9 +535,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
+huwinterpreter
+hw-probe
+hyper
 impact
 iota1k
 iptvnator
@@ -580,8 +575,9 @@ mapton
 marktext
 marlin-conf
 mdview
-nheko
-nimbus-weather
+media-dupes
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -609,7 +605,7 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-qBittorrent_Enhanced_Edition
+privacy.sexy
 sabaki
 saphyr
 scavengers
