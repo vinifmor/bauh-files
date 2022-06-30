@@ -32,8 +32,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Birds_Kitchen
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -74,10 +75,10 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
+Chiaki
+Circle-Z
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -142,8 +143,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -166,9 +167,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -207,6 +207,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KevEdit
+LMMS
 LPub3D
 Lagrange
 Laigter
@@ -242,8 +244,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mechvibes
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -285,6 +285,9 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+Obsidian
+Olive
 Painel-Web
 Paletti
 PanWriter
@@ -326,13 +329,8 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
-Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -399,10 +397,11 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -439,8 +438,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -477,7 +474,7 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -514,6 +511,8 @@ bauh
 bioanimation
 bottlenose
 buttercup
+devdocs-desktop
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -585,10 +584,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-mini-qml
-nheko
-nimbus-weather
-nordvpn-linux
+media_mate
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -617,10 +613,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
 simple-s3-uploader
 simple-timer
 simplechroot
