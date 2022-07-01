@@ -32,8 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -77,9 +77,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
-ColorGenerator
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -168,8 +167,8 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -207,10 +206,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KeeWeb
 Keibo-MoneyTracker-x86_64
-KevEdit
-LMMS
-LPub3D
 Lagrange
 Laigter
 Left
@@ -245,6 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MoarPerf
 Mob
 Mockman
 Monot
@@ -285,8 +283,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -331,7 +328,10 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -369,6 +369,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RoloViewer
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -402,7 +404,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -480,9 +482,6 @@ Verto
 Vessel
 VidCutter
 Videomass
-Webamp
-Wonderwall
-WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -517,9 +516,9 @@ bauh
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
-eDEX-UI
+cabal-desktop
+caprine
+devdocs-desktop
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -556,7 +555,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-iptvnator
+hero-display
+hotspot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -590,10 +590,10 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
-mjml-app
+nordvpn-linux
+notepadqq
+noteshrink-qt
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -619,10 +619,12 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
+qpp::cad
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
