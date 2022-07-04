@@ -31,8 +31,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -75,6 +76,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -106,6 +108,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -135,8 +141,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
 FreeTube
 Friture
 FromScratch
@@ -155,7 +161,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
+GitJournal
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -190,10 +196,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -235,10 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mechvibes
-MeshLab
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -278,8 +281,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -320,6 +324,7 @@ Postman
 PostyBirb
 PowerShell
 PrusaSlicer
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -356,6 +361,8 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
+Running-Dinner-Tool
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -384,10 +391,11 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
 SimDSP
+Software-Challenge-GUI
+Sonist
+Sourcetrail
+Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -422,9 +430,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -458,9 +463,8 @@ VLC
 VNote
 VPaint
 Valeronoi
-VeChain
-Verto
-WebDesktop
+WatchIt
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -490,9 +494,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
-ao
 bauh
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -570,9 +573,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
-meta-grabber
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -600,9 +601,7 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
-qSdrSwr
+sabaki
 saphyr
 scavengers
 school-sections
@@ -648,7 +647,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-wxMaxima
 youtube-music
 youtube-music-desktop
 yuzu
