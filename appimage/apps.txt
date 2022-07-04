@@ -34,9 +34,10 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
-BLOCK-DX
 Bitwarden
+Blink1Control2
+Blizzard_4
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -76,11 +77,13 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
+CubicSDR
+Cura
+CustomRPC
 CutePeaks
 CuteVariant
 Cutter
@@ -142,7 +145,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FontForge
 FreeTube
 GDevelop
 GIMP
@@ -166,6 +168,7 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 Heroic Games Launcher
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -189,7 +192,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JKlubTV
 JReleaser
 James
 JoalDesktop
@@ -200,11 +202,10 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
-KeePassXC
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -282,8 +283,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onenote
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -323,10 +322,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -395,9 +390,10 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
-Simdock
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -433,9 +429,6 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -472,8 +465,9 @@ Valeronoi
 VeChain
 Verto
 Vessel
-Woke
-Wonderwall
+VidCutter
+Videomass
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -509,7 +503,6 @@ bauh
 bioanimation
 bottlenose
 buttercup
-deltachat-desktop
 draw.io
 dukto
 dvdisaster
@@ -550,7 +543,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -582,10 +574,8 @@ mapton
 marktext
 marlin-conf
 mdview
+media-dupes
 media_mate
-ngPost
-ngrev
-nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -613,11 +603,11 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
+pretty-handy-privacy
 privacy.sexy
-rmw
-runanode
-sabaki
-saphyr
+protonmail-desktop
+puush-qt
+qr-code-generator-desktop
 scavengers
 school-sections
 ser-player
@@ -660,11 +650,10 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
 vREST_NG
-xde
-xonsh
-youtube-music
-youtube-music-desktop
+vifm
+violetbug
 yuzu
-zograscope
 zsync2
