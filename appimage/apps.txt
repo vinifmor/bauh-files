@@ -32,13 +32,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Beatconnect_Client
+Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
-Blizzard_4
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -80,14 +78,14 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
-CuteVariant
-Cutter
-DFileManager
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
 Dana
 Datcord
 DawnlightSearch
@@ -167,9 +165,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -202,10 +199,10 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -285,7 +282,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Paletti
 PanWriter
 Panini
@@ -332,7 +328,6 @@ ProcSpin
 Procyon
 ProofKeeper
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -400,9 +395,10 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Skrifa
+SimDSP
+Simdock
+SimplEOS
 Spark.Payments
-Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -442,6 +438,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -478,8 +475,7 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
-Videomass
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -591,6 +587,8 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+mini-qml
+moniteur-admin
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -619,10 +617,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -666,6 +663,7 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
+violetbug
+xde
 yuzu
-zograscope
 zsync2
