@@ -33,7 +33,6 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
 Bitwarden
 Blizzard_4
 Blockbench
@@ -76,10 +75,10 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
+CircuitBlocks
+City_Hub
+CleepDesktop
+ClementineRemote
 CubicSDR
 Cura
 CustomRPC
@@ -141,11 +140,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -162,13 +159,15 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
-HermesMessenger
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -196,10 +195,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -241,7 +241,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
+MeowSQL
 MoarPerf
 Mob
 Mockman
@@ -283,7 +283,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onenote
 Painel-Web
 Paletti
 PanWriter
@@ -323,15 +322,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -367,7 +358,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -398,9 +388,11 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -475,8 +467,9 @@ VeChain
 Verto
 Vessel
 VidCutter
-Videomass
+WalletTech
 WebDesktop
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -513,7 +506,7 @@ bauh
 bioanimation
 bottlenose
 buttercup
-cncjs
+clipr
 draw.io
 dukto
 dvdisaster
@@ -553,7 +546,6 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
-guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -586,6 +578,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
+media_mate
+moniteur-admin
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -613,8 +607,8 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-rmw
-runanode
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -660,6 +654,7 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
 xonsh
 youtube-music
 youtube-music-desktop
