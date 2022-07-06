@@ -33,7 +33,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+BilibiliVideoDownload
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -75,10 +78,12 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
+ConsoleWorkbench
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -143,6 +148,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -164,10 +170,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
+HexoClient
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -200,6 +207,8 @@ Juggernaut
 Julius
 KADE
 KOReader
+KeePassXC
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -241,7 +250,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
 MoarPerf
 Mob
 Mockman
@@ -283,6 +291,9 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Onenote
+OpenAudible
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -358,7 +369,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMPlayer
+RawTherapee
+RetroArch
 SMathStudio
 SMath_Studio
 SPlayer
@@ -391,8 +403,6 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -430,6 +440,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -438,7 +449,6 @@ Thunderbird
 Thunderbird_Beta
 Thunderbird_Nightly
 Tiled
-TilingGenerator
 Todoist
 Tonuino_Toolbox
 Translatium
@@ -465,10 +475,8 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Vessel
-VidCutter
-WalletTech
-WebDesktop
+Viper_Browser
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -501,12 +509,9 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-avogadro
 bauh
-bioanimation
-bottlenose
-buttercup
-clipr
+dfDemo
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -544,8 +549,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -579,10 +585,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-moniteur-admin
-nimbus-weather
-nordvpn-linux
-notepadqq
+meta-grabber
 noteshrink-qt
 nx-software-center
 nxshell
@@ -609,8 +612,8 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
-saphyr
+protonmail-desktop
+puush-qt
 scavengers
 school-sections
 ser-player
@@ -655,7 +658,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-xonsh
 youtube-music
 youtube-music-desktop
 yuzu
