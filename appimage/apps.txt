@@ -35,7 +35,6 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
 Bitwarden
 Bloks
 BloomRPC
@@ -142,7 +141,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -164,9 +163,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -204,12 +203,10 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
+LMMS
+LPub3D
+Lagrange
+Laigter
 Left
 Lemon
 LeoCAD
@@ -242,6 +239,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
+MoarPerf
 Mob
 Mockman
 Monot
@@ -283,8 +282,6 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-OpenTodoList
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -336,7 +333,6 @@ Pulse
 Puppetry
 Python
 QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -374,7 +370,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -485,7 +481,9 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Whalebird
+Wonderwall
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -520,12 +518,10 @@ bauh
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
-clippy
-clipr
-cncjs
 dukto
+dvdisaster
+eDEX-UI
+eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
@@ -570,10 +566,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -594,6 +586,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -607,9 +600,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-notepadqq
-noteshrink-qt
-nx-software-center
+mini-qml
+mira-backup
+mjml-app
 nxshell
 ommpfritt
 onnx2bnn
@@ -641,7 +634,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-simplechroot
+qTox
 slang-ed
 smtk2ssrf
 snake.js
@@ -689,4 +682,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
