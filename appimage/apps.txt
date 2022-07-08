@@ -34,9 +34,10 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
+BLOCK-DX
+BitShares
 Bitwarden
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -80,8 +81,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-Cura
-CustomRPC
+ClementineRemote
+Cliniface
 CutePeaks
 CuteVariant
 Cutter
@@ -142,8 +143,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeTexturePacker
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -164,7 +167,9 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-Heroic Games Launcher
+GoldenCheetah
+GpgFrontend
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -199,10 +204,11 @@ Juggernaut
 Julius
 KADE
 KOReader
-KeePassXC
-Knowte
-KopiaUI
-LANShare
+Kage
+Kanon
+KawAnime
+Kcov
+Keys
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -241,7 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MieSimulatorGUI
 MoarPerf
 Mob
 Mockman
@@ -282,8 +287,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
-Olive
 Painel-Web
 Paletti
 PanWriter
@@ -402,7 +405,9 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
+Simdock
+SimplEOS
+Sourcetrail
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -443,6 +448,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -459,7 +465,6 @@ TreeSheets
 Trezor_Suite
 Trinity_Desktop
 Tropy
-Tulip
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
@@ -479,10 +484,9 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VizGraph
-WishDemo
-Woke
-Wonderwall
+VidCutter
+Videomass
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -518,6 +522,7 @@ bauh
 bioanimation
 bottlenose
 buttercup
+dbet-wallet
 dukto
 dvdisaster
 eDEX-UI
@@ -558,6 +563,7 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
+htmldoc
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -588,14 +594,14 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
-ngrev
-nheko
-nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nx-software-center
+mdview
+media-dupes
+media_mate
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
+mutool
 nxshell
 ommpfritt
 onnx2bnn
@@ -621,12 +627,12 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
-simple-timer
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
@@ -669,4 +675,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
