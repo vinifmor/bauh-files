@@ -37,11 +37,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bloks
-BloomRPC
-Blowfish
-BlueGlow
-Board_Game_Star
+BaijiMangaViewer
+BasiliskII
+Bazecor
+Beatconnect_Client
 Bodhi
 Book_Manager
 BottleBats
@@ -90,7 +89,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -143,6 +141,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -169,9 +168,10 @@ GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
-IGdm
-INSTEAD
-ITUSB1_Manager
+GradeStats
+Graviton
+GrinPlusPlus
+Heroic Games Launcher
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -217,6 +217,20 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
+Left
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -245,8 +259,8 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Mockman
-Monot
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -283,11 +297,12 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
-Panini
+Onshape
 Paper
 Papercraft
 Parallelcoin
@@ -375,9 +390,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMF-DSP
-SMath_Studio
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -413,7 +425,7 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Standard_Notes
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -489,7 +501,8 @@ Vieb
 Viper_Browser
 Vipster
 VirtScreen
-XChat
+Vitomu
+VivifyScrum
 XELFViewer
 XPEViewer
 YUView
@@ -530,8 +543,8 @@ cric
 dashy-app
 dataset-annotator
 dbet-wallet
-element
-elzabrowser
+deb2appimage
+deltachat-desktop
 embedded-ide
 enve
 erdesigner
@@ -594,6 +607,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -647,8 +661,8 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
-spark-wallet
-spm
+quokkagit
+rasterview
 sqlitebrowser
 stash-electron
 steam-rom-manager
