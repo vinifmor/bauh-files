@@ -40,6 +40,8 @@ BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
 Bazecor
+Blink1Control2
+Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
@@ -143,7 +145,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -171,9 +172,10 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-Graviton
-GrinPlusPlus
-Heroic Games Launcher
+Guitar
+IGdm
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -223,11 +225,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-LPub3D
-Lagrange
-Laigter
-Left
-Lemon
 Lightning
 LikeTaskManager
 Linedancer
@@ -256,7 +253,9 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Monot
+MediaElch
+MegaBasterd
+MieSimulatorGUI
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -293,7 +292,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -386,6 +384,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Rufus
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -418,10 +418,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
-Slippi
+Spivak
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -497,9 +496,6 @@ Vieb
 Viper_Browser
 Vipster
 VirtScreen
-Vitomu
-VivifyScrum
-WorkFlowy
 XChat
 XELFViewer
 XPEViewer
@@ -538,9 +534,10 @@ cncjs
 colorstatic-bash
 cordlauncher
 cric
-dashy-app
-dataset-annotator
-dbet-wallet
+elcalc
+electron-wechat
+electron-xiami
+element
 elzabrowser
 embedded-ide
 enve
@@ -604,7 +601,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -624,7 +620,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-mybelka
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
