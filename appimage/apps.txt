@@ -40,6 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
 Bazecor
+BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -89,8 +90,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-DFileManager
-DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -167,10 +166,13 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-GradeStats
+Heroic Games Launcher
+HexoEditor
+HyperDEX
+HyperionIDE
+Hyperspace
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -217,6 +219,7 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LibreSprite
 Lightning
 LikeTaskManager
 Linedancer
@@ -243,8 +246,9 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mockman
-Monot
+McPodcast
+Mechvibes
+MediaElch
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -283,9 +287,9 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Paletti
-PanWriter
-Panini
+Olive
+Onenote
+Onshape
 Paper
 Papercraft
 Parallelcoin
@@ -409,7 +413,6 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-SocNetV
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -482,6 +485,8 @@ Vessel
 VidCutter
 Videomass
 Vieb
+WorkFlowy
+Workbench
 Wrapbox
 Wsocks
 XChat
@@ -514,11 +519,10 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
-clippy
-clipr
-cncjs
+dvdisaster
+eDEX-UI
+eNoseAnnotator
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -606,6 +610,8 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+ommpfritt
+onnx2bnn
 onnx2daq
 openblok
 ossia_score
