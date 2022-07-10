@@ -40,7 +40,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
 Bazecor
-Beatconnect_Client
+BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -143,8 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Friture
-FromScratch
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -173,8 +172,8 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
+GrinPlusPlus
 Heroic Games Launcher
-ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -226,6 +225,9 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
+Laigter
+Left
+Lemon
 Lightning
 LikeTaskManager
 Linedancer
@@ -254,9 +256,6 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
-MegaBasterd
-Mini_Diary
 Monot
 Moonlight
 Motrix
@@ -294,12 +293,11 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
-OpenAudible
-Painel-Web
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -424,7 +422,6 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-Sovren.Batch.Parser
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -501,6 +498,8 @@ Viper_Browser
 Vipster
 VirtScreen
 Vitomu
+VivifyScrum
+WorkFlowy
 XChat
 XELFViewer
 XPEViewer
@@ -541,7 +540,7 @@ cordlauncher
 cric
 dashy-app
 dataset-annotator
-element
+dbet-wallet
 elzabrowser
 embedded-ide
 enve
@@ -605,6 +604,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -624,7 +624,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-onnx2bnn
+mybelka
 onnx2daq
 openblok
 ossia_score
@@ -658,8 +658,6 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
-snapshot-slider
-spark-wallet
 spm
 sqlitebrowser
 stash-electron
