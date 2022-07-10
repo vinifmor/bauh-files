@@ -39,7 +39,7 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
-BlueGlow
+Bazecor
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -89,6 +89,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DFileManager
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -169,8 +171,6 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-Heroic Games Launcher
-INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -217,12 +217,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
 Lightning
 LikeTaskManager
 Linedancer
@@ -249,8 +243,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-Mechvibes
+Mockman
 Monot
 Moonlight
 Motrix
@@ -290,9 +283,8 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Olive
-Onenote
-Onshape
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -416,6 +408,8 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
+Slippi
+SocNetV
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -488,11 +482,9 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Viper_Browser
-Vipster
-VirtScreen
-Vitomu
-VivifyScrum
+Wrapbox
+Wsocks
+XChat
 XELFViewer
 XPEViewer
 YUView
@@ -527,11 +519,7 @@ caprine
 clippy
 clipr
 cncjs
-colorstatic-bash
-cordlauncher
-cric
-dashy-app
-eDEX-UI
+eXtrema
 ehdev-shell
 elcalc
 electron-wechat
@@ -618,8 +606,6 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
-onnx2bnn
 onnx2daq
 openblok
 ossia_score
@@ -651,7 +637,6 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-saphyr
 snapshot-slider
 snomcontrol
 spark-wallet
