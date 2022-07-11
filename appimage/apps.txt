@@ -34,6 +34,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
 Bitwarden
 Blockbench
 Bloks
@@ -78,7 +79,6 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -110,7 +110,6 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
-Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -141,8 +140,6 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
-Fraktal
 FreeTube
 Friture
 FromScratch
@@ -165,9 +162,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GoldenDict
-GradeStats
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
+Graviton
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -204,6 +201,7 @@ Juggernaut
 Julius
 KADE
 KOReader
+Kiibohd_Configurator
 Knowte
 KopiaUI
 LANShare
@@ -245,6 +243,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -287,7 +286,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -332,7 +331,9 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 PrusaSlicer
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -368,10 +369,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
-ReliefValve
-SBLauncher
+Record_Compare
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -400,12 +399,12 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SocNetV
 Spectrum
 SpeedyLoader
 Spivak
@@ -442,6 +441,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -513,7 +515,7 @@ avogadro
 bauh
 bioanimation
 bottlenose
-draw.io
+buttercup
 dukto
 dvdisaster
 eDEX-UI
@@ -587,7 +589,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -616,8 +618,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-qpdf
-sabaki
+puush-qt
+rmw
 saphyr
 scavengers
 school-sections
@@ -664,9 +666,7 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-xonsh
-youtube-music
-youtube-music-desktop
+vifm
+violetbug
 yuzu
-zograscope
 zsync2
