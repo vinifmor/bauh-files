@@ -36,7 +36,6 @@ Auryo
 Axe_Electrum
 AzPainter
 Bitwarden
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -79,7 +78,9 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-Cura
+ClementineRemote
+Cliniface
+ColorGenerator
 CustomRPC
 CutePeaks
 CuteVariant
@@ -110,6 +111,7 @@ Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -140,8 +142,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Filmulator
+Flippy_Qualitative_Testbench
+Fractale
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -164,11 +168,12 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Graviton
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+Groot
 Heroic Games Launcher
-HexoClient
 HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -201,12 +206,11 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kiibohd_Configurator
-Knowte
-KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LMMS
 LPub3D
 Lagrange
@@ -243,7 +247,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+MiniZinc_IDE
 MoarPerf
 Mob
 Mockman
@@ -285,8 +289,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Padloc
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -369,7 +373,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Record_Compare
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -404,8 +407,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SocNetV
-Spectrum
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -444,6 +447,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -476,9 +480,9 @@ VLC
 VNote
 VPaint
 Valeronoi
-VeChain
-Verto
-Vessel
+Whalebird
+Wire
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -513,9 +517,10 @@ appium-desktop
 autoEdit2
 avogadro
 bauh
-bioanimation
-bottlenose
-buttercup
+caprine
+dfDemo
+dingtalk
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -555,7 +560,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -589,9 +593,11 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nordvpn-linux
-notepadqq
-noteshrink-qt
+meta-grabber
+mini-qml
+mira-backup
+moniteur-admin
+nheko
 nx-software-center
 nxshell
 ommpfritt
@@ -619,13 +625,11 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-rmw
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
-simple-timer
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
@@ -669,4 +673,3 @@ vREST_NG
 vifm
 violetbug
 yuzu
-zsync2
