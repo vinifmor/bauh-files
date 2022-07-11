@@ -33,9 +33,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
-AzPainter
 Bitwarden
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -79,8 +79,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -141,8 +141,8 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
+Figma
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -164,11 +164,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -205,8 +205,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeyManager
-LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -284,6 +282,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Open_Markup_Editor
 Painel-Web
 Paletti
 PanWriter
@@ -329,8 +328,9 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 PrusaSlicer
-Puppetry
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -367,8 +367,6 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-RetroArch
-SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -402,9 +400,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimplEOS
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -442,6 +439,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -477,7 +475,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VizGraph
+WatchFlower
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -554,9 +553,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
+hsinstall
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -589,7 +586,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-mtCellEdit
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -621,10 +619,10 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+saphyr
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
