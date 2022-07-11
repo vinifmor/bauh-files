@@ -35,7 +35,6 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
 Bitwarden
 Blockbench
 Bloks
@@ -82,8 +81,7 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
-CrossCode_Map_Editor
+CustomRPC
 CutePeaks
 CuteVariant
 Cutter
@@ -143,8 +141,8 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -166,7 +164,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
+Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -206,7 +205,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
+KeyManager
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -283,7 +283,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWallet
+OWASP Threat Dragon
 Painel-Web
 Paletti
 PanWriter
@@ -329,13 +329,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 PrusaSlicer
-Pullp
-Pulse
 Puppetry
-Python
-QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -372,7 +367,8 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
+RetroArch
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -403,8 +399,9 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sovren.Batch.Parser
-Spark.Payments
+Silverkey
+SimDSP
+Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -445,7 +442,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -481,8 +477,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
-Videomass
+VizGraph
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -561,12 +557,6 @@ guiscrcpy
 hero-display
 hotspot
 hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -599,11 +589,11 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
-mira-backup
-mjml-app
+mtCellEdit
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -634,7 +624,7 @@ puush-qt
 pyappimage
 python2
 python3
-simple-s3-uploader
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -678,10 +668,5 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-wxMEdit
+yuzu
+zsync2
