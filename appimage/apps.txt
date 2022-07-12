@@ -33,9 +33,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
 Bitwarden
-Bitwarden_Connector
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -78,9 +77,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
-Cscrypto
+City_Hub
+CleepDesktop
 CubicSDR
 Cura
 CustomRPC
@@ -144,9 +142,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
-Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -162,13 +159,15 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
-HermesMessenger
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -196,8 +195,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-KOReader
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -284,6 +281,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+OpenAudible
 Painel-Web
 Paletti
 PanWriter
@@ -328,10 +327,7 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -367,7 +363,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RetroArch
+Rotki
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -396,11 +392,11 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Shuttle
+SigDigger
 SigmaSpectra
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
+Silverkey
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -438,6 +434,10 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -474,8 +474,6 @@ VeChain
 Verto
 Vessel
 VidCutter
-WishDemo
-Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -511,6 +509,8 @@ bauh
 bioanimation
 bottlenose
 buttercup
+devdocs-desktop
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -550,8 +550,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -584,6 +583,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -610,10 +610,10 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-python2
-rmw
-runanode
-sabaki
+pretty-handy-privacy
+privacy.sexy
+protonmail-desktop
+qSdrSwr
 saphyr
 scavengers
 school-sections
@@ -657,11 +657,11 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
 vREST_NG
-xde
-xonsh
-youtube-music
-youtube-music-desktop
+vifm
+violetbug
 yuzu
 zograscope
 zsync2
