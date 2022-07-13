@@ -31,8 +31,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -70,9 +70,9 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
-Cate-Desktop
-Cavoke
-Cerebral-Debugger
+ClementineRemote
+Cool_Retro_Term
+CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -104,12 +104,7 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
+ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -139,9 +134,11 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-FocusWriter
+Firefox_Beta
+Fraidycat
+Frappe_Accounting
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -159,7 +156,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+GradeStats
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -192,8 +190,7 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -239,7 +236,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minetest
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -275,12 +273,12 @@ NoteMaster
 Notesnook
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -321,6 +319,7 @@ Postman
 PostyBirb
 PowerShell
 PrusaSlicer
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -356,8 +355,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RoboRock_Control_Center
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -386,7 +383,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -424,7 +420,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -457,7 +452,6 @@ VLC
 VNote
 VPaint
 Valeronoi
-VeChain
 Wire
 WishDemo
 Woke
@@ -489,10 +483,9 @@ android-messages-desktop
 antimicroX
 ao
 appimagelint
+appimagetool
+appium-desktop
 bauh
-buttercup
-deb2appimage
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -527,9 +520,10 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
-hw-probe
-hyper
+gerbv
+getswell
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -567,7 +561,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
