@@ -82,8 +82,8 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-Code_OSS
-Colon
+CrossMobile
+CuteVariant
 Cutter
 DFileManager
 Dana
@@ -142,8 +142,9 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,11 +167,11 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
-Gpredict
 Heroic Games Launcher
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -205,7 +206,7 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -242,6 +243,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mechvibes
+MeshLab
 MoarPerf
 Mob
 Mockman
@@ -370,7 +373,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
+RetroArch
 SMathStudio
 SMath_Studio
 SPlayer
@@ -404,7 +407,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SmallBASIC
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -481,7 +484,6 @@ Verto
 Vessel
 VidCutter
 Videomass
-Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -517,7 +519,9 @@ bauh
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
+clippy
+draw.io
+dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -556,10 +560,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -594,8 +594,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -625,9 +624,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -671,6 +669,5 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
 yuzu
 zsync2
