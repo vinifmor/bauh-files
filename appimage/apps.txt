@@ -36,8 +36,9 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
 Bitwarden
+Blizzard_4
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -88,8 +89,9 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-ConsoleWorkbench
+Cryptr
 Dana
+Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -169,8 +171,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-HyperionIDE
-Hyperspace
+GpgFrontend
+Gpredict
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -209,9 +211,9 @@ KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
-Lagrange
-Laigter
-Left
+KeyManager
+KeyboardClient
+Keys
 Lemon
 LeoCAD
 Lepton
@@ -243,7 +245,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -286,7 +287,6 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Open_Markup_Editor
 Paletti
 PanWriter
 Panini
@@ -335,6 +335,10 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -371,8 +375,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
-Rebaslight
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -407,6 +410,8 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
+Sonist
 SpeedyLoader
 Spivak
 Stacer
@@ -483,7 +488,9 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Viper_Browser
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -519,6 +526,8 @@ bauh
 bioanimation
 bottlenose
 buttercup
+deb2appimage
+dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -562,7 +571,6 @@ hotspot
 hpack
 hsinstall
 htmldoc
-hugin
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -583,6 +591,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -599,8 +608,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nx-software-center
-nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -631,7 +638,8 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-simplechroot
+qTox
+simple-timer
 slang-ed
 smtk2ssrf
 snake.js
@@ -679,4 +687,3 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
