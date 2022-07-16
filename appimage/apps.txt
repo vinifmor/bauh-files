@@ -37,7 +37,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bitwarden
+BaijiMangaViewer
+Bezique
+Blockbench
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -90,7 +93,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cura
+CrossCode_Map_Editor
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -145,6 +148,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Fractale
+FreeTexturePacker
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,8 +175,7 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Hyperspace
-IGdm
+Gpredict
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -242,7 +246,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mob
+MazeSolver
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -283,6 +288,8 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
+Padloc
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -328,7 +335,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -372,7 +378,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMath_Studio
 SPlayer
 SUMOCO
@@ -407,8 +412,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spark.Payments
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -431,7 +434,6 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -482,8 +484,10 @@ Valeronoi
 VeChain
 Verto
 Vessel
-Woke
-Wonderwall
+VidCutter
+Videomass
+Vieb
+WalletTech
 WorkFlowy
 Workbench
 Wrapbox
@@ -515,13 +519,11 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
-bauh
 bioanimation
 bottlenose
 buttercup
 cabal-desktop
 caprine
-dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -568,6 +570,9 @@ hugin
 huwinterpreter
 hw-probe
 hyper
+impact
+iota1k
+iptvnator
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -588,7 +593,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -604,9 +608,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-nimbus-weather
-nx-software-center
-nxshell
+mjml-app
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -685,4 +687,9 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
 x-loc
+xde
