@@ -37,7 +37,6 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -90,8 +89,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-CubicSDR
-DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -167,10 +164,7 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-Gpredict
-HastyHeroes
-HexoEditor
-HiDPI-Fixer
+GooboxFileShare
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -215,11 +209,9 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-LED.Custom.Palette
-Left
-Lemon
-LeoCAD
-Lepton
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 LibAssist
 LiberTEM
 LibreSprite
@@ -248,10 +240,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
-MoarPerf
-Mob
+MazeSolver
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -292,8 +282,8 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -381,7 +371,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -490,6 +480,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -526,7 +517,6 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -574,7 +564,10 @@ huwinterpreter
 hw-probe
 hyper
 impact
-jag
+iota1k
+iptvnator
+irccloud-desktop
+isle-editor
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -613,7 +606,6 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
 onnx2bnn
 onnx2daq
 openblok
@@ -646,7 +638,8 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snapshot-slider
+qpp::cad
+simple-timer
 snomcontrol
 spark-wallet
 spm
@@ -696,3 +689,7 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
