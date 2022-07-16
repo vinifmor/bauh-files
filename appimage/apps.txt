@@ -37,6 +37,7 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -165,11 +166,11 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
-INSTEAD
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -212,8 +213,8 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LibAssist
-LiberTEM
+Kitupiikki
+Klogg
 LibreSprite
 Lightning
 LikeTaskManager
@@ -242,6 +243,8 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
+Minetest
+Mob
 Mockman
 Monot
 Moonlight
@@ -370,7 +373,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMath_Studio
 SPlayer
 SUMOCO
@@ -480,9 +482,6 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Wonderwall
-WorkFlowy
-Workbench
 Wrapbox
 Wsocks
 XChat
@@ -517,8 +516,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
+clippy
+clipr
 eOSVC
 eXtrema
 ehdev-shell
@@ -604,8 +603,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
-moniteur-admin
+mybelka
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -637,9 +636,8 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qikQR
-qpdf
-qpp::cad
-simple-timer
+snake.js
+snapshot-slider
 snomcontrol
 spark-wallet
 spm
