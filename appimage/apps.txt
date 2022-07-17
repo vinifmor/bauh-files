@@ -37,8 +37,10 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-BasiliskII
+Bazecor
+Bloks
+BloomRPC
+Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
@@ -89,6 +91,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+Cromberg
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -142,7 +146,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraktal
+GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -166,11 +170,11 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-GradeStats
-Graviton
-GrinPlusPlus
+HyperionIDE
+Hyperspace
+IGdm
+INSTEAD
+ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -211,9 +215,8 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -242,8 +245,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-MediaElch
-Mirage
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -284,9 +286,7 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Onshape
-Paletti
-PanWriter
+Olive
 Panini
 Paper
 Papercraft
@@ -373,7 +373,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -484,6 +485,7 @@ VidCutter
 Videomass
 Vieb
 Viper_Browser
+Vipster
 Wrapbox
 Wsocks
 XChat
@@ -521,8 +523,6 @@ caprine
 clippy
 clipr
 cncjs
-dataset-annotator
-eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -571,7 +571,6 @@ iota1k
 iptvnator
 irccloud-desktop
 isle-editor
-jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -609,6 +608,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+moniteur-admin
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -638,7 +638,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qikQR
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -693,4 +693,3 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
-xde
