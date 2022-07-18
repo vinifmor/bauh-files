@@ -32,10 +32,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Birds_Kitchen
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -77,8 +74,9 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossMobile
-Cryplicity
+Circle-Z
+CircuitBlocks
+Cliniface
 Crypter
 Cryptr
 Cscrypto
@@ -143,8 +141,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+Frappe_Accounting
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -163,9 +161,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -196,11 +194,9 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
-Joy2DroidX
-Juggernaut
-Julius
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
@@ -244,6 +240,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -285,6 +282,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Olive
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -324,10 +323,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -364,6 +359,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -391,7 +387,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SnippetStore
+SmallBASIC
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -423,6 +419,14 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -457,7 +461,6 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Vessel
 Woke
 Wonderwall
 WorkFlowy
@@ -489,11 +492,10 @@ ao
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
+avogadro
 bauh
-devdocs-desktop
-dexter_dev_env
-dfDemo
-dingtalk
+bioanimation
 draw.io
 dukto
 dvdisaster
@@ -525,13 +527,12 @@ fre:ac
 freeman
 gLabels
 gerbv
-hsinstall
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 isle-editor
 jag
 jexiftoolgui
@@ -565,7 +566,7 @@ mapton
 marktext
 marlin-conf
 mdview
-nheko
+media-dupes
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -592,7 +593,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
 rmw
 runanode
 sabaki
@@ -637,8 +637,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
+unofficial-zalo
 xde
 xonsh
 youtube-music
