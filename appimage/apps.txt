@@ -32,6 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+BetterSIS
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -75,8 +77,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-Cliniface
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -141,9 +142,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
 FreeTube
 Friture
 FromScratch
@@ -161,9 +161,13 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 HDRMerge
-HastyHeroes
-Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -194,11 +198,14 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Join_Desktop
+Joplin
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KOReader
+KeePassXC
 Knowte
 KopiaUI
 LANShare
@@ -240,7 +247,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
+MeshLab
 MoarPerf
 Mob
 Mockman
@@ -282,8 +289,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -359,6 +364,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+RedmineTimeTracker
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -387,11 +393,11 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SmallBASIC
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -426,7 +432,9 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tablo_Tools
+SynfigStudio
+Synthein
+TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -461,6 +469,7 @@ VPaint
 Valeronoi
 VeChain
 Verto
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -496,6 +505,10 @@ autoEdit2
 avogadro
 bauh
 bioanimation
+bottlenose
+dataset-annotator
+dexter_dev_env
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -533,6 +546,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -566,7 +580,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -593,8 +607,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
 sabaki
 saphyr
 scavengers
@@ -637,7 +651,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
+wxMaxima
+x-loc
 xde
 xonsh
 youtube-music
