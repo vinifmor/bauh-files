@@ -32,9 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
 Bitwarden
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -76,8 +75,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-ConsoleWorkbench
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -109,10 +107,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -145,6 +139,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -165,10 +160,8 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-GradeStats
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -203,7 +196,7 @@ Juggernaut
 Julius
 KADE
 KOReader
-KawAnime
+KeyManager
 Klogg
 Knowte
 KopiaUI
@@ -287,8 +280,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Outline-Manager
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -327,10 +318,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PrimeWorldEditor
-ProofKeeper
+PowerShell
+PraxisLIVE
 PrusaSlicer
-QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -366,8 +356,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -395,8 +385,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
+Software-Challenge-GUI
+Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -430,7 +420,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -465,7 +454,6 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Wire
 WishDemo
 Woke
 Wonderwall
@@ -502,6 +490,7 @@ autoEdit2
 avogadro
 bauh
 bioanimation
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -536,9 +525,8 @@ gerbv
 getswell
 gibs
 githoard
-impact
-iota1k
-iptvnator
+glTF_Insight
+glulxe
 irccloud-desktop
 isle-editor
 jag
@@ -574,8 +562,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-moolticute
-nimbus-weather
+n3h
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -602,6 +589,8 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
+pretty-handy-privacy
+qpp::cad
 runanode
 sabaki
 saphyr
@@ -645,6 +634,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+whu-library-seat
+wxMEdit
 wxMaxima
 x-loc
 xde
