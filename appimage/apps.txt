@@ -36,6 +36,7 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
+Bench_CLI
 Bitwarden
 Blockbench
 Bloks
@@ -81,6 +82,8 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
+Colorpicker
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -166,8 +169,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
 Heroic Games Launcher
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -201,9 +204,11 @@ Juggernaut
 Julius
 KADE
 KOReader
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeyManager
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -325,7 +330,12 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -363,10 +373,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RetroArch
-Running-Dinner-Tool
-SMF-DSP
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -395,7 +401,7 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
+Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -437,6 +443,9 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -470,10 +479,10 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Wire
-WishDemo
-Woke
-Wonderwall
+Verto
+Vessel
+VidCutter
+Videomass
 WorkFlowy
 Workbench
 Wrapbox
@@ -508,7 +517,8 @@ avogadro
 bauh
 bioanimation
 bottlenose
-draw.io
+buttercup
+dbet-wallet
 dukto
 dvdisaster
 eDEX-UI
@@ -548,6 +558,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -581,8 +593,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
-nordvpn-linux
+meta-grabber
+mini-qml
+n3h
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -611,6 +624,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+qpp::cad
 saphyr
 scavengers
 school-sections
@@ -658,8 +672,6 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-xde
-youtube-music
+violetbug
 yuzu
-zograscope
 zsync2
