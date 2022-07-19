@@ -35,8 +35,6 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
-Bench_CLI
 Bitwarden
 Blockbench
 Bloks
@@ -82,10 +80,10 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
 Colorpicker
-Cura
-CustomRPC
-CutePeaks
 CuteVariant
 Cutter
 DFileManager
@@ -143,8 +141,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -167,9 +165,8 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-Heroic Games Launcher
+HermesMessenger
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -208,7 +205,7 @@ Kage
 Kanon
 KawAnime
 Kcov
-KeyManager
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -287,7 +284,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
 Paletti
 PanWriter
 Panini
@@ -336,6 +333,10 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -373,6 +374,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rebaslight
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -401,12 +404,12 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -481,8 +484,7 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
-Videomass
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -518,7 +520,6 @@ bauh
 bioanimation
 bottlenose
 buttercup
-dbet-wallet
 dukto
 dvdisaster
 eDEX-UI
@@ -560,6 +561,12 @@ guglielmo
 guiscrcpy
 hero-display
 hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -595,9 +602,6 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-n3h
-notepadqq
-noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -624,9 +628,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-qpp::cad
-saphyr
-scavengers
+puush-qt
 school-sections
 ser-player
 simple-s3-uploader
@@ -673,5 +675,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
