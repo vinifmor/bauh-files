@@ -32,10 +32,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Bench_CLI
+Auryo
+Axe_Electrum
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -79,9 +78,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
-Cscrypto
+City_Hub
+CleepDesktop
 CubicSDR
 Cura
 CustomRPC
@@ -146,8 +144,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_ESR
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -172,7 +170,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
+Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -208,7 +207,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
 LMMS
 LPub3D
 Lagrange
@@ -287,7 +285,9 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+OpenAudible
+Padloc
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -334,9 +334,6 @@ ProcSpin
 Procyon
 ProofKeeper
 PrusaSlicer
-Pullp
-Pulse
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -374,7 +371,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -408,8 +405,9 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+SmallBASIC
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -447,7 +445,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -485,7 +482,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Whalebird
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -521,6 +519,9 @@ bauh
 bioanimation
 bottlenose
 buttercup
+dbet-wallet
+dingtalk
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -560,7 +561,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -593,10 +593,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
-mira-backup
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -629,8 +627,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -672,6 +670,4 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
+yuzu
