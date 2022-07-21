@@ -36,6 +36,8 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
+Bazecor
+Birds_Kitchen
 Bitwarden
 Blockbench
 Bloks
@@ -83,8 +85,7 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-Code_OSS
-Colon
+CuteVariant
 Cutter
 DFileManager
 Dana
@@ -144,7 +145,10 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FocusWriter
+Fractale
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,11 +170,12 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -205,8 +210,7 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Kitupiikki
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -285,7 +289,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Paletti
 PanWriter
 Panini
@@ -333,6 +336,7 @@ Procyon
 ProofKeeper
 PrusaSlicer
 Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -370,6 +374,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -402,7 +408,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -479,6 +485,9 @@ Verto
 Vessel
 VidCutter
 Videomass
+Vieb
+VivifyScrum
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -514,7 +523,7 @@ bauh
 bioanimation
 bottlenose
 buttercup
-dukto
+cabal-desktop
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -553,6 +562,13 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -586,9 +602,11 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
+moolticute
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -663,6 +681,6 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
 yuzu
-zograscope
 zsync2
