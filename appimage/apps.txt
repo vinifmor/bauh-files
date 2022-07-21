@@ -30,9 +30,11 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-BasiliskII
+AudioMoth
+Augur
+Auryo
+Beekeeper_Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -71,10 +73,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 CrossMobile
 Cryplicity
 Crypter
@@ -100,6 +102,18 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -149,8 +163,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -184,6 +197,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -228,8 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Memento
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -311,6 +323,7 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -347,7 +360,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RetroArch
+SBLauncher
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -376,8 +391,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -413,9 +427,6 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -449,7 +460,7 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Wire
+Verto
 WishDemo
 Woke
 Wonderwall
@@ -484,7 +495,6 @@ appimagetool
 appium-desktop
 autoEdit2
 bauh
-cordlauncher
 dexter_dev_env
 dfDemo
 dingtalk
@@ -524,9 +534,7 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
-hpack
-htmldoc
+hugin
 irccloud-desktop
 isle-editor
 jag
@@ -560,6 +568,9 @@ mapollage
 mapton
 marktext
 marlin-conf
+mira-backup
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -632,6 +643,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+vREST_NG
+violetbug
+wxMEdit
 wxMaxima
 x-loc
 xde
