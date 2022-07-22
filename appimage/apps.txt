@@ -31,9 +31,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -77,8 +77,6 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -141,7 +139,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Firefox_Beta
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
@@ -163,9 +160,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -198,9 +194,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
+Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
@@ -244,7 +239,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -286,8 +280,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Obsidian
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -331,8 +323,8 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -368,9 +360,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Rufus
-SF_Tube
-SMF-DSP
+RawTherapee
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -399,10 +389,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SocNetV
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+SigDigger
+SigmaSpectra
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -437,6 +425,13 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -469,7 +464,8 @@ VLC
 VNote
 VPaint
 Valeronoi
-Wire
+VeChain
+Verto
 WishDemo
 Woke
 Wonderwall
@@ -502,10 +498,8 @@ ao
 appimagelint
 appimagetool
 appium-desktop
-autoEdit2
-avogadro
 bauh
-cncjs
+devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
@@ -545,8 +539,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
-gsubs
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -578,7 +572,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
+mdview
+moolticute
+my-budget
 ngrev
 nheko
 nimbus-weather
@@ -607,7 +604,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -652,10 +649,10 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-vue-calc
-wxMEdit
-wxMaxima
-x-loc
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 xde
 xonsh
 youtube-music
