@@ -32,9 +32,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -76,8 +76,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cromberg
-Cryplicity
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -162,8 +161,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Google_Tasks_Desktop
-HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -198,6 +195,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Kanon
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -243,6 +242,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Memento
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -278,13 +279,12 @@ NoteMaster
 Notesnook
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
-OpenTodoList
+Onshape
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -324,16 +324,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -369,7 +360,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -397,8 +388,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
+SlackBackup
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -436,13 +427,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -476,8 +460,6 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
-WatchIt
 Wire
 WishDemo
 Woke
@@ -511,7 +493,7 @@ ao
 appimagelint
 appimagetool
 bauh
-deltachat-desktop
+colorstatic-bash
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -614,7 +596,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
+rasterview
 rmw
 runanode
 sabaki
@@ -663,7 +646,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-xonsh
 youtube-music
 youtube-music-desktop
 yuzu
