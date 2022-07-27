@@ -32,7 +32,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -76,7 +75,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
+Cromberg
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -111,7 +111,6 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,9 +142,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Filmulator
 FreeTube
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -165,7 +163,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -201,8 +199,7 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-Keys
-Klogg
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -244,6 +241,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -324,7 +322,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PrimeWorldEditor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -361,6 +358,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -388,6 +386,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -423,6 +422,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -456,7 +458,7 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Wire
+Verto
 WishDemo
 Woke
 Wonderwall
@@ -489,10 +491,10 @@ ao
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
+avogadro
 bauh
-dbet-wallet
-devdocs-desktop
-dexter_dev_env
+dashy-app
 dfDemo
 dingtalk
 draw.io
@@ -527,12 +529,11 @@ freeman
 gLabels
 gerbv
 getswell
-hero-display
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -566,6 +567,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -593,7 +595,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
+ridereceipts
 rmw
 runanode
 sabaki
@@ -632,12 +634,11 @@ tnt
 torrenttools
 triagem-touch
 ttth
-vREST_NG
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
 wxMEdit
 wxMaxima
 x-loc
