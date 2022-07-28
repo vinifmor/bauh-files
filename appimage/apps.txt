@@ -31,8 +31,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -73,8 +73,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cromberg
-CrossCode_Map_Editor
+ChainX_Signer
+Chiaki
 CrossMobile
 Cryplicity
 Crypter
@@ -105,9 +105,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
-Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -157,10 +154,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -188,13 +183,12 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-Join_Desktop
-Joplin
-Joy2DroidX
+KeyManager
 KeyboardClient
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
@@ -238,7 +232,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Meshmill
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,6 +274,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+POE_Ladder
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -355,6 +351,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -383,7 +380,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
+SigmaSpectra
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -414,12 +412,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -450,9 +442,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Webamp
-Wexond
-Whalebird
+VPaint
+Valeronoi
+VeChain
 Wire
 WishDemo
 Woke
@@ -485,8 +477,9 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
 bauh
-cric
+bioanimation
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -522,6 +515,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+gibs
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -560,9 +555,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-mini-qml
-ngPost
-ngrev
+marlin-conf
+mdview
 nheko
 nimbus-weather
 nordvpn-linux
@@ -590,8 +584,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-qr-code-generator-desktop
-rasterview
+puush-qt
 ridereceipts
 rmw
 runanode
@@ -631,6 +624,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
+upterm
+weweChat
 wezterm
 whiteboard
 whu-library-seat
