@@ -32,8 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -78,7 +78,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
+CrossMobile
 CubicSDR
 Cura
 CustomRPC
@@ -166,9 +166,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -204,8 +204,10 @@ KOReader
 Kage
 Kanon
 KawAnime
-Kcov
-KeePassXC
+Keys
+LANShare
+LCEdit
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -242,7 +244,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeshLab
 Mirage
 MoarPerf
 Mob
@@ -285,8 +286,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
-Painel-Web
+OWallet
 Paletti
 PanWriter
 Panini
@@ -334,7 +334,6 @@ Procyon
 ProofKeeper
 PrusaSlicer
 Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -370,9 +369,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
-RetroArch
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -404,10 +401,10 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -446,7 +443,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -481,6 +477,7 @@ VPaint
 Valeronoi
 VeChain
 Verto
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -588,6 +585,7 @@ mapton
 marktext
 marlin-conf
 mdview
+neovim
 nheko
 nimbus-weather
 nordvpn-linux
