@@ -35,6 +35,7 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
+BLOCK-DX
 Bitwarden
 Blockbench
 Bloks
@@ -81,7 +82,7 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-CustomRPC
+Cloud_Browser
 CutePeaks
 CuteVariant
 Cutter
@@ -143,7 +144,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Fraidycat
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -167,8 +170,7 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Google_Tasks_Desktop
-Heroic Games Launcher
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -205,7 +207,9 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
+KeyboardClient
+LED.Custom.Palette
+LMMS
 LPub3D
 Lagrange
 Laigter
@@ -241,8 +245,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
-MoarPerf
+MazeSolver
+Minetest
 Mob
 Mockman
 Monot
@@ -283,7 +287,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -332,6 +337,9 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -370,7 +378,6 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -404,7 +411,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -478,9 +485,10 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Vessel
-VidCutter
-Videomass
+Wire
+WishDemo
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -516,7 +524,6 @@ bauh
 bioanimation
 bottlenose
 buttercup
-dfDemo
 dukto
 dvdisaster
 eDEX-UI
@@ -560,6 +567,11 @@ hero-display
 hotspot
 hpack
 hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -592,10 +604,11 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
+media_mate
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -621,12 +634,12 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-qr-code-generator-desktop
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -670,5 +683,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
