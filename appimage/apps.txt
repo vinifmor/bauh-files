@@ -37,8 +37,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
-Bitwarden
+Bitwarden_Connector
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -88,7 +88,7 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-Datcord
+ConsoleWorkbench
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -144,8 +144,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FranceTV
-FreeTube
+Firefox_Nightly
+FreeTexturePacker
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -171,7 +172,7 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Gpredict
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -215,7 +216,8 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Lepton
+Kimitzu-Client
+LPub3D
 LibAssist
 LiberTEM
 LibreSprite
@@ -246,8 +248,8 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mob
-Mockman
+Mechvibes
+MediaElch
 Monot
 Moonlight
 Motrix
@@ -287,9 +289,8 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Paletti
-PanWriter
-Panini
+Olive
+Onenote
 Paper
 Papercraft
 Parallelcoin
@@ -332,7 +333,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -378,7 +378,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -411,10 +410,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Slacktronic
-Spectrum
-SpeedyLoader
-Spivak
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -436,7 +432,6 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -487,7 +482,9 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
+WalletTech
+WatchFlower
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -521,11 +518,10 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
-bauh
 bioanimation
 bottlenose
 buttercup
-dukto
+cabal-desktop
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -575,6 +571,7 @@ hw-probe
 hyper
 impact
 iota1k
+iptvnator
 jag
 jexiftoolgui
 jira-timer
@@ -596,7 +593,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -614,7 +610,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
+nimbus-weather
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -646,9 +642,8 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-slang-ed
-smtk2ssrf
-snake.js
+qikQR
+qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -691,4 +686,12 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
 wxMaxima
+x-loc
+xde
