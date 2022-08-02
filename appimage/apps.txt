@@ -32,10 +32,12 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
-BTS-CE-Lite
+BasiliskII
+Bench_CLI
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -74,9 +76,10 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -108,10 +111,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,8 +142,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
-Fluent_Reader
+Fractale
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -163,8 +162,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -197,7 +196,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
+Joy2DroidX
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -242,7 +241,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+Mini_Diary
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -284,7 +285,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-PDFQuirk
 Painel-Web
 Paletti
 PanWriter
@@ -324,10 +324,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-ProcDepMonitor
-ProofKeeper
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -364,8 +360,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Rotki
-SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -396,8 +390,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
+Shuttle
+SigDigger
+SigmaSpectra
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -433,8 +428,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
-SynfigStudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -463,8 +456,7 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-VLC
-VNote
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -496,8 +488,9 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+avogadro
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -577,6 +570,7 @@ mapton
 marktext
 marlin-conf
 mdview
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -604,7 +598,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -646,9 +640,8 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
