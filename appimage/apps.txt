@@ -33,10 +33,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
-AzPainter
 Bitwarden
 Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -79,7 +78,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
+CleepDesktop
+CrossMobile
 CubicSDR
 Cura
 CustomRPC
@@ -143,7 +143,6 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -166,8 +165,10 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+HDRMerge
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -202,7 +203,7 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
+KawAnime
 KopiaUI
 LANShare
 LCEdit
@@ -243,6 +244,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MoarPerf
 Mob
 Mockman
 Monot
@@ -283,7 +285,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenTodoList
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -323,6 +325,10 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -359,8 +365,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -395,6 +400,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
+SimpleInstaBot
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -434,7 +440,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -463,9 +468,8 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-VLC
-VNote
-VPaint
+WatchIt
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -497,9 +501,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
 bauh
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -538,7 +541,6 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
 hw-probe
 hyper
 impact
@@ -576,11 +578,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
-media_mate
-meta-grabber
+ngPost
+ngrev
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -606,13 +607,13 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
+ridereceipts
+rmw
+runanode
+sabaki
+saphyr
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -652,11 +653,10 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
-vREST_NG
-vifm
-violetbug
+xde
+xonsh
+youtube-music
+youtube-music-desktop
 yuzu
+zograscope
 zsync2
