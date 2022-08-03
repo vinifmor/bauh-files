@@ -32,11 +32,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Axe_Electrum
+AzPainter
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -77,10 +77,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Comic-Reader
-Cryplicity
-Crypter
-Cryptr
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -145,8 +143,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeTexturePacker
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,10 +166,6 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-GradeStats
-HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -206,7 +202,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-KeyManager
 Knowte
 KopiaUI
 LANShare
@@ -248,9 +243,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MieSimulatorGUI
-Mirage
-MoarPerf
 Mob
 Mockman
 Monot
@@ -291,6 +283,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -330,10 +323,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
 PrusaSlicer
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -369,7 +359,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -398,12 +389,12 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Shuttle
+SigDigger
+SigmaSpectra
 Silverkey
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
+SimDSP
+Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -438,6 +429,12 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -468,6 +465,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+VPaint
 Webamp
 Wexond
 Whalebird
@@ -500,6 +498,7 @@ aillio-ts
 altair
 android-messages-desktop
 bauh
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -538,7 +537,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
+gerbv
+getswell
 hw-probe
 hyper
 impact
@@ -581,8 +581,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-moolticute
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -612,8 +611,8 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-scavengers
-school-sections
+pyappimage
+python2
 ser-player
 simple-s3-uploader
 simple-timer
@@ -657,7 +656,7 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-youtube-music
+vifm
+violetbug
 yuzu
-zograscope
 zsync2
