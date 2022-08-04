@@ -34,7 +34,6 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -82,7 +81,6 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cliniface
 CustomRPC
 CutePeaks
 CuteVariant
@@ -168,9 +166,8 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
 Heroic Games Launcher
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -203,8 +200,10 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
+KeeWeb
+Klogg
+Knowte
+KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -244,6 +243,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeshLab
 MoarPerf
 Mob
 Mockman
@@ -285,7 +285,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -329,10 +330,7 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -371,6 +369,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -402,9 +401,9 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
+SimDSP
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -442,8 +441,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -475,7 +472,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Verto
 WebDesktop
 Webamp
 Wexond
@@ -511,8 +507,9 @@ android-messages-desktop
 antimicroX
 ao
 appimagelint
+appimagetool
+appium-desktop
 bauh
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -554,7 +551,6 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-htmldoc
 irccloud-desktop
 isle-editor
 jag
@@ -589,7 +585,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -620,6 +616,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -668,5 +665,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-x-loc
+youtube-music
 yuzu
+zograscope
+zsync2
