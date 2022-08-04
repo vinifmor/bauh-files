@@ -33,8 +33,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -78,9 +78,9 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
+Cscrypto
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -143,7 +143,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeCAD2
 FreeTube
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -165,8 +167,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -200,8 +203,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-KeeWeb
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -243,7 +244,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeshLab
 MoarPerf
 Mob
 Mockman
@@ -286,7 +286,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Paletti
 PanWriter
 Panini
@@ -326,10 +325,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -441,6 +436,8 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -472,6 +469,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+VPaint
 WebDesktop
 Webamp
 Wexond
@@ -506,10 +504,10 @@ altair
 android-messages-desktop
 antimicroX
 ao
-appimagelint
-appimagetool
-appium-desktop
 bauh
+dbet-wallet
+deb2appimage
+deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -544,13 +542,12 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -617,6 +614,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+qpp::cad
+sabaki
 saphyr
 scavengers
 school-sections
@@ -663,9 +662,8 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
 youtube-music
+youtube-music-desktop
 yuzu
 zograscope
 zsync2
