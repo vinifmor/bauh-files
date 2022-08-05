@@ -32,9 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -76,9 +75,10 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -111,7 +111,6 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,11 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FontForge
-FreeTexturePacker
 FreeTube
-Friture
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -169,8 +164,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -247,8 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
-Mirage
+Memento
 MoarPerf
 Mob
 Mockman
@@ -290,8 +284,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-POE_Ladder
+Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -369,7 +362,8 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-SMF-DSP
+Reactotron
+RedmineTimeTracker
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -438,6 +432,7 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -469,8 +464,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Vieb
-WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -502,10 +495,7 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-avogadro
 bauh
-caprine
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -546,8 +536,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gibs
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -586,8 +574,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-n3h
-nRF_Connect
 neovim
 ngPost
 ngrev
@@ -659,11 +645,9 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-vifm
+whu-library-seat
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
