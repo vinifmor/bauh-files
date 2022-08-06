@@ -36,8 +36,9 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
+Bench_CLI
 Bitwarden
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -88,7 +89,7 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-ConsoleWorkbench
+Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -144,7 +145,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,11 +166,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
-Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -207,8 +206,10 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-LMMS
-LPub3D
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
 Lagrange
 Laigter
 Left
@@ -244,6 +245,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
+McPodcast
+Minions
 Mob
 Mockman
 Monot
@@ -283,11 +286,8 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
-Padloc
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -336,6 +336,9 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -374,7 +377,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -407,10 +411,10 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimplEOS
+SimpleInstaBot
+Singlebox
+Soapy_SDR
 Spivak
 Stacer
 Standard_Notes
@@ -479,10 +483,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Vipster
-WebDesktop
-Webamp
-Wexond
+VPaint
+Valeronoi
+Viper_Browser
 Whalebird
 Wire
 WishDemo
@@ -517,11 +520,11 @@ ao
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
+avogadro
 bauh
 bioanimation
-deltachat-desktop
-devdocs-desktop
-dexter_dev_env
+cncjs
 dfDemo
 dingtalk
 draw.io
@@ -564,6 +567,9 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
+hpack
 isle-editor
 jag
 jexiftoolgui
@@ -597,8 +603,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+mjml-app
 ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -630,8 +637,9 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-school-sections
-ser-player
+pyappimage
+python2
+python3
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -678,3 +686,7 @@ vifm
 violetbug
 vue-calc
 vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
