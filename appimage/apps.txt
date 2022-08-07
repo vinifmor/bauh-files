@@ -37,6 +37,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+Bitwarden
+BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -88,6 +90,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -141,8 +144,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraidycat
-Franz
 FromScratch
 GDevelop
 GIMP
@@ -168,10 +169,10 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-GradeStats
-Graviton
+Gulden
+Hyperspace
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -214,8 +215,7 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
+Lepton
 LibAssist
 LiberTEM
 LibreSprite
@@ -246,8 +246,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
-Memento
+Mob
 Mockman
 Monot
 Moonlight
@@ -288,9 +287,7 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Olive
-Onenote
-OpenAudible
+Paletti
 PanWriter
 Panini
 Paper
@@ -335,6 +332,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -379,7 +377,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -393,6 +393,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -410,10 +411,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
-Skrifa
-SlackBackup
+SpeedyLoader
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -435,6 +434,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -484,8 +484,7 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Vessel
-VidCutter
+Viper_Browser
 Wire
 WishDemo
 Woke
@@ -521,10 +520,10 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 bioanimation
 bottlenose
 buttercup
-draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -576,7 +575,6 @@ hyper
 impact
 iota1k
 iptvnator
-irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -613,9 +611,7 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-ngPost
-notepadqq
-noteshrink-qt
+mira-backup
 nx-software-center
 nxshell
 ommpfritt
@@ -647,8 +643,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
 qTox
+rasterview
 simple-timer
 simplechroot
 slang-ed
@@ -699,12 +695,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-youtube-music
-youtube-music-desktop
