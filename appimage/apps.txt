@@ -36,9 +36,7 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-Black_Chocobo
-Blockbench
-Bloks
+BTS-CE-Lite
 BloomRPC
 Blowfish
 BlueGlow
@@ -87,11 +85,10 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
-CutePeaks
-Dana
-Datcord
-DawnlightSearch
-DbGate
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -145,7 +142,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-GDevelop
 GIMP
 GL_warp2mp4
 GM-Companion
@@ -169,10 +165,11 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Hyperspace
-IGdm
-INSTEAD
-ITUSB1_Manager
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GrinPlusPlus
 ITUSB2_Manager
 IagonCloudApp
 ImExample
@@ -216,8 +213,9 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-LibAssist
-LiberTEM
+Klogg
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -248,6 +246,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -288,7 +287,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
+Panini
 Paper
 Papercraft
 Parallelcoin
@@ -376,7 +375,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-Rufus
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -410,9 +408,8 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-SlackBackup
-Slacktronic
-Slippi
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -482,8 +479,6 @@ Valeronoi
 VeChain
 Verto
 Vessel
-Whalebird
-Wire
 WishDemo
 Woke
 Wonderwall
@@ -521,8 +516,8 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -606,9 +601,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-ngPost
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -643,7 +636,6 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qr-code-generator-desktop
 simple-timer
 simplechroot
 slang-ed
@@ -703,5 +695,6 @@ xde
 xonsh
 youtube-music
 youtube-music-desktop
+yuzu
 zograscope
 zsync2
