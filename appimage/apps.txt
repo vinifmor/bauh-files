@@ -37,8 +37,6 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bloks
-BloomRPC
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -90,7 +88,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cryptr
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -144,6 +141,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Fraidycat
+Franz
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -169,8 +169,9 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-IGdm
-INSTEAD
+Gpredict
+GradeStats
+Graviton
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -214,6 +215,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
 LibAssist
 LiberTEM
 LibreSprite
@@ -245,6 +247,7 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
+Memento
 Mockman
 Monot
 Moonlight
@@ -285,7 +288,9 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
+OpenAudible
 PanWriter
 Panini
 Paper
@@ -374,8 +379,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -407,7 +411,9 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Spivak
+Singlebox
+Skrifa
+SlackBackup
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -479,6 +485,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
+VidCutter
+Wire
 WishDemo
 Woke
 Wonderwall
@@ -516,8 +524,9 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
+draw.io
+dukto
+dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -604,8 +613,10 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
+ngPost
+notepadqq
+noteshrink-qt
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -638,6 +649,10 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
@@ -691,3 +706,5 @@ wxMaxima
 x-loc
 xde
 xonsh
+youtube-music
+youtube-music-desktop
