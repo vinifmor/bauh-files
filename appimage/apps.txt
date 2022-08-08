@@ -35,10 +35,10 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
-BTS-CE-Lite
+Beatconnect_Client
+BilibiliVideoDownload
 Bitwarden
-Black_Chocobo
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -87,9 +87,9 @@ Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+Dana
+Datcord
+DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -144,7 +144,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -169,7 +168,9 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Heroic Games Launcher
+GpgFrontend
+GradeStats
+HexoEditor
 HyperionIDE
 Hyperspace
 IGdm
@@ -207,9 +208,9 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
+LED.Custom.Palette
+LMMS
+LPub3D
 Lagrange
 Laigter
 Left
@@ -246,7 +247,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mirage
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -285,8 +286,11 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
+Obsidian
+Olive
+OpenAudible
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -375,6 +379,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
+Record_Compare
+RedmineTimeTracker
 SMath_Studio
 SPlayer
 SUMOCO
@@ -478,9 +484,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
-VeChain
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -512,11 +518,11 @@ altair
 android-messages-desktop
 antimicroX
 ao
-autoEdit2
+appimagelint
+appimagetool
+appium-desktop
 bauh
-dbet-wallet
-deb2appimage
-deltachat-desktop
+dataset-annotator
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -560,6 +566,7 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -592,9 +599,9 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
-ngrev
-nheko
+mdview
+media-dupes
+media_mate
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -627,9 +634,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-quokkagit
-ser-player
-simple-s3-uploader
+python2
+python3
 simple-timer
 simplechroot
 slang-ed
@@ -673,6 +679,9 @@ upterm
 vREST_NG
 vifm
 violetbug
-xonsh
-yuzu
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
