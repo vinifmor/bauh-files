@@ -37,9 +37,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bazecor
 Bitwarden
-Blockbench
+Black_Chocobo
 Bloks
 BloomRPC
 Blowfish
@@ -90,8 +89,7 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-Datcord
-DawnlightSearch
+ConsoleWorkbench
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -146,6 +144,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -170,6 +169,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
+Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -209,10 +210,9 @@ KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
+Lagrange
+Laigter
+Left
 Lemon
 LeoCAD
 Lepton
@@ -246,7 +246,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mob
+Mirage
 Mockman
 Monot
 Moonlight
@@ -285,8 +285,9 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
-Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -335,8 +336,6 @@ PrusaSlicer
 Pullp
 Pulse
 Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -376,7 +375,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -410,8 +410,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -513,14 +512,15 @@ altair
 android-messages-desktop
 antimicroX
 ao
-appimagelint
-appimagetool
-appium-desktop
 autoEdit2
-avogadro
 bauh
-bioanimation
-bottlenose
+dbet-wallet
+deb2appimage
+deltachat-desktop
+devdocs-desktop
+dexter_dev_env
+dfDemo
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -560,7 +560,6 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
-guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -593,10 +592,10 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
-media_mate
-meta-grabber
+ngPost
+ngrev
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -628,9 +627,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+quokkagit
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -674,9 +673,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
+xonsh
+yuzu
+zsync2
