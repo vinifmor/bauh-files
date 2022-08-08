@@ -31,10 +31,10 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
+Axe_Electrum
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -73,9 +73,10 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cool_Retro_Term
-Cromberg
-CrossCode_Map_Editor
+ChainX_Signer
+Chiaki
+Circle-Z
+Cliniface
 CrossMobile
 Cryplicity
 Crypter
@@ -109,6 +110,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -138,11 +143,12 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
+Firefox_Beta
+Frappe_Accounting
 FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -157,8 +163,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -191,10 +196,6 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-Join_Desktop
-Joplin
-KADE
 Keys
 KiCad
 Kiibohd_Configurator
@@ -242,7 +243,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
+MediaElch
 MoarPerf
 Mob
 Mockman
@@ -284,7 +285,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-PIA
 Painel-Web
 Paletti
 PanWriter
@@ -324,7 +324,11 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
 PrusaSlicer
+Puppetry
+Python
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -361,6 +365,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+RoboRock_Control_Center
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -390,8 +395,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SimplEOS
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -424,6 +427,11 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -453,8 +461,8 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
-WatchIt
+VLC
+WalletShell
 WebDesktop
 Webamp
 Wexond
@@ -486,7 +494,10 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+appimagelint
 bauh
+buttercup
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -527,6 +538,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+htmldoc
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -565,7 +578,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -594,7 +607,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-privacy.sexy
 ridereceipts
 rmw
 runanode
@@ -640,8 +652,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
+wxMaxima
+x-loc
 xde
 xonsh
 youtube-music
