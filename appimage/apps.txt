@@ -31,6 +31,7 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -72,9 +73,10 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 Cryplicity
 Crypter
 Cryptr
@@ -107,6 +109,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -138,7 +144,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+Fluent_Reader
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -160,7 +167,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-HermesMessenger
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -193,12 +201,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KettleClient
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -240,7 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
 MoarPerf
 Mob
 Mockman
@@ -282,9 +288,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Outline-Manager
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -324,6 +327,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -360,8 +364,9 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
-SF_Tube
+Raven_Reader
+RawTherapee
+Running-Dinner-Tool
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -391,7 +396,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -455,8 +460,8 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
-WatchIt
+VLC
+Valeronoi
 WebDesktop
 Webamp
 Wexond
@@ -488,9 +493,8 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
-cric
+bioanimation
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -529,8 +533,7 @@ four
 foxfolio
 fre:ac
 freeman
-guglielmo
-hsinstall
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -570,10 +573,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-my-budget
-n3h
-nRF_Connect
-neovim
 ngPost
 ngrev
 nheko
@@ -600,9 +599,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
-quokkagit
-rasterview
+plotjuggler
+pnpm
+polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -645,8 +644,9 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-windows2usb
-wxMEdit
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
