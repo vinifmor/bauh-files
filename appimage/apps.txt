@@ -32,6 +32,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -71,6 +72,7 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
+CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -99,15 +101,7 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
 Dust3D
-Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -137,7 +131,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Figma
+Fractale
 Frappe_Accounting
 FreeCAD2
 FreeTexturePacker
@@ -186,8 +180,9 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-IrScrutinizer
-Isolate
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -237,6 +232,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -274,8 +271,9 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -316,6 +314,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+ProcDepMonitor
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -353,7 +352,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Record_Compare
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -408,21 +406,8 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -448,6 +433,7 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
 VizGraph
 WalletShell
 WalletTech
@@ -482,7 +468,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -519,7 +504,8 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-hero-display
+four
+foxfolio
 hotspot
 hpack
 hsinstall
@@ -560,10 +546,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mdview
-mira-backup
-movie-monad
 mybelka
 n3h
 nRF_Connect
@@ -592,9 +574,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-playyourdamnturn.com
-polar-bookshelf
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -636,7 +615,6 @@ timer
 tmon
 tnt
 torrenttools
-weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
