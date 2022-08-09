@@ -33,9 +33,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
-BTS-CE-Lite
-Bezique
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -77,8 +76,9 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossCode_Map_Editor
-CrossMobile
+Circle-Z
+CircuitBlocks
+Cromberg
 Cryplicity
 Crypter
 Cryptr
@@ -111,6 +111,8 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,7 +144,9 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+FreeTexturePacker
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -163,9 +167,10 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
+Graviton
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -197,13 +202,8 @@ JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
-Juggernaut
-Julius
-KADE
-KOReader
-Kanon
-KeyManager
-Kiibohd_Configurator
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -245,8 +245,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MieSimulatorGUI
-Minions
 Mirage
 MoarPerf
 Mob
@@ -289,6 +287,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+POE_Ladder
 Painel-Web
 Paletti
 PanWriter
@@ -328,6 +327,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PrimeWorldEditor
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -364,9 +364,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-Record_Compare
-RyoWallet
+RoboRock_Control_Center
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -398,6 +396,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
+SigDigger
+Slacktronic
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -435,7 +435,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -463,10 +462,9 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-V2Ray-Desktop
-VK_Desktop
-VeChain
 VizGraph
+WalletShell
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -501,6 +499,8 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+clippy
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -539,8 +539,8 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -577,11 +577,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-moolticute
-mybelka
-n3h
-nRF_Connect
-neovim
+mapollage
+mapton
 ngPost
 ngrev
 nheko
@@ -609,8 +606,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-quokkagit
-rasterview
+pnpm
+polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -648,13 +645,12 @@ timer
 tmon
 tnt
 torrenttools
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
 wxMEdit
 wxMaxima
 x-loc
