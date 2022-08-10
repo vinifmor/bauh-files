@@ -79,7 +79,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CubicSDR
+CleepDesktop
+ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -143,9 +144,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Nightly
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -167,8 +166,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -202,8 +201,8 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
-KopiaUI
+Kage
+Kanon
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -243,6 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -285,6 +285,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -332,7 +333,6 @@ Procyon
 ProofKeeper
 PrusaSlicer
 Pullp
-Pulse
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -371,6 +371,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RetroShare
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -406,7 +408,6 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -476,9 +477,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
-Wexond
+VPaint
+Valeronoi
 Whalebird
 Wire
 WishDemo
@@ -510,10 +510,10 @@ altair
 android-messages-desktop
 antimicroX
 ao
+appimagelint
+appimagetool
+appium-desktop
 bauh
-dbet-wallet
-deb2appimage
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -550,11 +550,11 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -587,8 +587,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
+marlin-conf
+mdview
+mtCellEdit
 ngrev
 nheko
 nimbus-weather
@@ -617,10 +618,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-quokkagit
-ridereceipts
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -665,9 +665,10 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-xonsh
+updatedeployqt
+upterm
+vREST_NG
 youtube-music
-youtube-music-desktop
 yuzu
 zograscope
 zsync2
