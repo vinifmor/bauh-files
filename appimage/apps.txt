@@ -39,8 +39,7 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
-Blowfish
-BlueGlow
+Bazecor
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -170,7 +169,7 @@ Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
-INSTEAD
+Graviton
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -219,6 +218,10 @@ Klogg
 Knowte
 KopiaUI
 LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
 Lightning
 LikeTaskManager
 Linedancer
@@ -246,9 +249,8 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
+Mockman
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -411,7 +413,8 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Standard_Notes
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -479,7 +482,8 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Wire
+Verto
+Webamp
 WishDemo
 Woke
 Wonderwall
@@ -517,7 +521,6 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-colorstatic-bash
 dukto
 dvdisaster
 eDEX-UI
@@ -604,9 +607,10 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
+my-budget
+nimbus-weather
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -638,7 +642,7 @@ puush-qt
 pyappimage
 python2
 python3
-simple-timer
+qBittorrent_Enhanced_Edition
 simplechroot
 slang-ed
 smtk2ssrf
