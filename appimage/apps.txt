@@ -38,6 +38,7 @@ AzPainter
 BLOCK-DX
 BTS-CE-Lite
 Bitwarden
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -90,7 +91,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-CubicSDR
+Cromberg
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -145,8 +146,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_ESR
-FreeTube
+Fluent_Reader
 GDevelop
 GIMP
 GL_warp2mp4
@@ -171,7 +171,6 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Heroic Games Launcher
 HyperionIDE
 Hyperspace
 IGdm
@@ -214,9 +213,6 @@ Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
-KeyboardClient
-Keys
-Lagrange
 Left
 Lemon
 LeoCAD
@@ -249,8 +245,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+MoarPerf
 Mob
 Mockman
 Monot
@@ -290,10 +285,8 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
-OWallet
-Obsidian
-Olive
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -384,6 +377,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -488,6 +482,9 @@ VNote
 VPaint
 Valeronoi
 VeChain
+Verto
+Videomass
+Whalebird
 Wire
 WishDemo
 Woke
@@ -522,9 +519,9 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-avogadro
 bauh
-bioanimation
+dfDemo
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -592,7 +589,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -601,13 +597,12 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
-nordvpn-linux
-notepadqq
+marlin-conf
+mdview
+media-dupes
+media_mate
+meta-grabber
+mini-qml
 noteshrink-qt
 nx-software-center
 nxshell
@@ -634,13 +629,12 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
-simple-timer
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simplechroot
 slang-ed
 smtk2ssrf
@@ -686,3 +680,7 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
