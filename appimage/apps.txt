@@ -32,8 +32,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -76,7 +76,6 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -141,11 +140,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fraidycat
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -164,7 +162,9 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HermesMessenger
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -201,8 +201,7 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-Kanon
-Klogg
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -244,8 +243,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Memento
-Minions
+Mechvibes
 Mirage
 MoarPerf
 Mob
@@ -288,7 +286,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-P2PDerivatives
 Painel-Web
 Paletti
 PanWriter
@@ -330,6 +327,9 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -367,7 +367,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+RoloViewer
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -398,9 +399,8 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SmartGit
-Sourcetrail
-Sovren.Batch.Parser
+SigmaSpectra
+Silverkey
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -440,6 +440,8 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -470,7 +472,6 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -500,11 +501,11 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
-altair
-android-messages-desktop
-antimicroX
 bauh
+clipr
 cordlauncher
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -543,7 +544,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
+gerbv
+getswell
 hw-probe
 hyper
 impact
@@ -578,10 +580,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
-nRF_Connect
-neovim
-ngPost
+mapollage
+mapton
+marktext
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -609,6 +611,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+polar-bookshelf
 rasterview
 ridereceipts
 rmw
@@ -655,10 +658,10 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
-xonsh
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 youtube-music
 youtube-music-desktop
 yuzu
