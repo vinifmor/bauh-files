@@ -34,7 +34,6 @@ AudioMoth
 Augur
 Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -78,8 +77,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -167,12 +165,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Gpredict
-Guitar
+GoldenDict
+GooboxFileShare
+Graviton
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -205,7 +201,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -285,8 +280,11 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Padloc
+OWallet
+Obsidian
+PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -326,6 +324,9 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -396,11 +397,11 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -436,6 +437,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -467,9 +471,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Valeronoi
-Vessel
-WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -501,12 +502,14 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
+appium-desktop
 bauh
-cric
-dashy-app
-dataset-annotator
-dbet-wallet
-deb2appimage
+cabal-desktop
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -581,9 +584,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
-mybelka
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -614,7 +615,6 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-qr-code-generator-desktop
 runanode
 sabaki
 saphyr
@@ -662,6 +662,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+wxMaxima
 youtube-music
 youtube-music-desktop
 yuzu
