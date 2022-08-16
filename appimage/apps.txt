@@ -33,7 +33,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Birds_Kitchen
+BitShares
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -70,8 +74,6 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
-Cate-Desktop
-Code_OSS
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -101,6 +103,8 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,9 +136,9 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FreeTexturePacker
+Filmulator
+Firefox_Nightly
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -154,7 +158,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Heimer
+Gulden
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -188,6 +192,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KOReader
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -234,6 +240,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 Mechvibes
+MiniZinc_IDE
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -275,9 +283,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onshape
-PIA
-Padloc
+OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -317,7 +323,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-Procyon
+PraxisLIVE
+PrimeWorldEditor
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -353,9 +360,7 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-Rats_on_The_Boat
-Raven_Reader
-Rotki
+SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -386,6 +391,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Slacktronic
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -423,7 +429,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -452,10 +457,7 @@ UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
-WalletTech
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -487,8 +489,8 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -528,7 +530,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-glulxe
+guglielmo
 hugin
 huwinterpreter
 hw-probe
@@ -566,9 +568,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
-media_mate
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -594,12 +594,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
-qBittorrent_Enhanced_Edition
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -644,9 +641,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-unofficial-zalo
-vue-calc
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
