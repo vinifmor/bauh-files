@@ -32,12 +32,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Birds_Kitchen
-BitShares
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -72,8 +67,8 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Cascade_Image_Editor
-CasterSoundboard
+Comic-Reader
+ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -105,6 +100,10 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
+Discord
+DokiDokiModManager
+Dragoman
+Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -137,7 +136,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Nightly
 FreeTube
 FromScratch
 GDevelop
@@ -157,8 +155,6 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Gulden
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -192,8 +188,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KOReader
-KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -239,8 +233,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mechvibes
-MiniZinc_IDE
+Mindmapp
 Mirage
 MoarPerf
 Mob
@@ -281,9 +274,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
-OpenTodoList
+OpenBlok
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -323,9 +316,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
 PrusaSlicer
+Python
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -360,7 +352,9 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-SFRT_Attendance
+Rats_on_The_Boat
+Raven_Reader
+RoboRock_Control_Center
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -391,7 +385,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Slacktronic
+Soapy_SDR
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -457,7 +451,9 @@ UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
-WatchIt
+VK_Desktop
+VLC
+Vessel
 WebDesktop
 Webamp
 Wexond
@@ -490,6 +486,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -530,8 +527,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-guglielmo
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -567,7 +562,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
+moolticute
+my-budget
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -641,8 +639,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-windows2usb
-wxMEdit
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
