@@ -33,9 +33,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
+Beekeeper_Studio
 Bitwarden
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -76,9 +78,9 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Crypter
-Cryptr
-Cscrypto
+CircuitBlocks
+City_Hub
+CleepDesktop
 CubicSDR
 Cura
 CustomRPC
@@ -143,8 +145,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FontForge
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -163,8 +165,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -201,7 +202,6 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-KOReader
 Knowte
 KopiaUI
 LANShare
@@ -243,8 +243,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mechvibes
-Mirage
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -329,7 +328,6 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -368,7 +366,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-RoloViewer
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -400,7 +398,8 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
+SlackBackup
+Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -472,6 +471,8 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
+VNote
+VPaint
 Webamp
 Wexond
 Whalebird
@@ -501,9 +502,12 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
+altair
+android-messages-desktop
+antimicroX
+appimagelint
 bauh
-clipr
-cordlauncher
+buttercup
 cric
 dashy-app
 dataset-annotator
@@ -544,8 +548,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -584,6 +587,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -612,8 +616,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-rasterview
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
