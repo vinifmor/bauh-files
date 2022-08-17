@@ -36,8 +36,8 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
 Bitwarden
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -85,8 +85,7 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-Cutter
-DFileManager
+ColorGenerator
 Dana
 Datcord
 DawnlightSearch
@@ -144,6 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -169,6 +169,8 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
+HastyHeroes
+Heroic Games Launcher
 Hyperspace
 IGdm
 INSTEAD
@@ -207,6 +209,7 @@ Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
+KettleClient
 Lagrange
 Laigter
 Left
@@ -244,7 +247,6 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
 Monot
 Moonlight
 Motrix
@@ -282,8 +284,10 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -372,8 +376,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -401,14 +404,14 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Software-Challenge-GUI
+Sonist
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -444,8 +447,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -476,11 +477,9 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-VPaint
-Valeronoi
-VeChain
-WalletTech
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -515,9 +514,7 @@ ao
 appimagelint
 appimagetool
 appium-desktop
-autoEdit2
 bauh
-caprine
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -597,7 +594,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -628,8 +625,6 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-quokkagit
 school-sections
 ser-player
 simple-s3-uploader
@@ -677,7 +672,4 @@ vREST_NG
 vifm
 violetbug
 vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
+yuzu
