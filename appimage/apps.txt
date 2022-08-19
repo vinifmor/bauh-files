@@ -36,7 +36,7 @@ Auryo
 Axe_Electrum
 AzPainter
 Bitwarden
-Blizzard_4
+Black_Chocobo
 Blockbench
 Bloks
 BloomRPC
@@ -144,7 +144,10 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Nightly
 FreeTube
+Friture
+FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,10 +169,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
 Heroic Games Launcher
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -202,11 +204,11 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
-KeePassXC
+KettleClient
+Knowte
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -244,7 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MiniZinc_IDE
 MoarPerf
 Mob
 Mockman
@@ -286,7 +287,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -333,8 +335,6 @@ ProcSpin
 Procyon
 ProofKeeper
 PrusaSlicer
-Pullp
-Pulse
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -373,7 +373,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RyoWallet
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -407,7 +407,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -478,8 +478,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
+WebDesktop
+Webamp
 Wexond
 Whalebird
 Wire
@@ -514,8 +514,8 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
 bauh
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -555,8 +555,9 @@ getswell
 gibs
 githoard
 glTF_Insight
-impact
-iota1k
+glulxe
+graphql-playground
+hyper
 iptvnator
 irccloud-desktop
 isle-editor
@@ -591,11 +592,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
-media_mate
-mki3dgame
-mtCellEdit
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -622,10 +620,10 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+ridereceipts
+rmw
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
@@ -671,7 +669,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
+youtube-music
+youtube-music-desktop
 yuzu
+zograscope
+zsync2
