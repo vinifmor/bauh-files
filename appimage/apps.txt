@@ -31,11 +31,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Auryo
-Bazecor
-BilibiliVideoDownload
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -80,7 +78,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -144,7 +142,9 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FranceTV
+FontForge
+Franz
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -166,11 +166,9 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
 GooboxFileShare
-GrinPlusPlus
+Heimer
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -203,7 +201,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
+KeyManager
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
@@ -288,8 +289,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-P2PDerivatives
+PIA
 Painel-Web
 Paletti
 PanWriter
@@ -329,6 +329,10 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 PrusaSlicer
 QEMU_PowerPC
 QMPlay2
@@ -366,7 +370,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -398,7 +403,11 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
+Skrifa
+Soapy_SDR
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -429,6 +438,13 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -454,7 +470,7 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
-UltraScreen
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -487,10 +503,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 ai-bot-workspace
-aillio-ts
-altair
 bauh
-bioanimation
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -524,11 +538,14 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -568,7 +585,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
 ngrev
 nheko
 nimbus-weather
@@ -598,7 +614,10 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
+privacy.sexy
+qr-code-generator-desktop
+ridereceipts
+rmw
 runanode
 sabaki
 saphyr
@@ -641,6 +660,8 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
+wxMEdit
 wxMaxima
 x-loc
 xde
