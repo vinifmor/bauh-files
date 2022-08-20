@@ -34,8 +34,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
 Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -81,6 +81,9 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
+Cromberg
+Cura
+CustomRPC
 CutePeaks
 CuteVariant
 Cutter
@@ -142,7 +145,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
 GDevelop
 GIMP
 GL_warp2mp4
@@ -166,11 +168,11 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Heroic Games Launcher
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -205,13 +207,13 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-Klogg
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
-Laigter
-Left
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 Lemon
 LeoCAD
 Lepton
@@ -244,8 +246,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-Mob
 Mockman
 Monot
 Moonlight
@@ -284,7 +284,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Paletti
@@ -335,6 +334,9 @@ ProofKeeper
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -374,7 +376,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -408,9 +410,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SnippetStore
-Spark.Payments
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -480,9 +479,8 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Webamp
-Wexond
-Whalebird
+Valeronoi
+VeChain
 Wire
 WishDemo
 Woke
@@ -516,8 +514,12 @@ ao
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
+avogadro
 bauh
-devdocs-desktop
+bioanimation
+bottlenose
+buttercup
 dexter_dev_env
 dfDemo
 dingtalk
@@ -595,10 +597,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
-mira-backup
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -630,7 +630,6 @@ puush-qt
 pyappimage
 python2
 python3
-simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -674,5 +673,9 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
