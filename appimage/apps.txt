@@ -33,6 +33,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+BetterSIS
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -73,9 +74,8 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cavoke
-Cerebral-Debugger
-Code_OSS
+Cool_Retro_Term
+CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -107,10 +107,6 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,7 +138,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -162,9 +158,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-Gpredict
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -199,7 +193,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KeeWeb
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -245,6 +238,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,13 +275,15 @@ NoteMaster
 Notesnook
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
-OpenBlok
+Open_Markup_Editor
+Outline-Manager
+PDFQuirk
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -325,7 +322,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -364,7 +360,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RetroArch
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -395,7 +390,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimpleInstaBot
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -431,6 +425,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -460,7 +457,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+VeChain
 WatchIt
 WebDesktop
 Webamp
@@ -494,9 +491,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cabal-desktop
-clippy
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -536,8 +530,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -578,10 +570,10 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
-meta-grabber
-mini-qml
+ngrev
+nheko
+nimbus-weather
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -605,11 +597,9 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-python3
+rasterview
+ridereceipts
+rmw
 runanode
 sabaki
 saphyr
