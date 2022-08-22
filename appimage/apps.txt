@@ -33,11 +33,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -82,7 +82,8 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cliniface
+Cromberg
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -145,6 +146,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 FromScratch
 GDevelop
 GIMP
@@ -170,7 +172,9 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
+Gpredict
+Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -208,8 +212,6 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-LCEdit
-LMMS
 LPub3D
 Lagrange
 Laigter
@@ -245,7 +247,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+MieSimulatorGUI
+MineTime
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -286,6 +290,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Painel-Web
 Paletti
@@ -326,11 +331,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProofKeeper
 PrusaSlicer
 QMPlay2
 QMediathekView
@@ -370,6 +370,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+ReliefValve
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -401,12 +403,10 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
+Sovren.Batch.Parser
 Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -507,13 +507,13 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
+appium-desktop
 bauh
-cric
-dashy-app
-dataset-annotator
-dbet-wallet
-deb2appimage
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -553,8 +553,8 @@ getswell
 gibs
 githoard
 glTF_Insight
-iota1k
-iptvnator
+glulxe
+graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -595,6 +595,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+nordvpn-linux
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -669,6 +671,3 @@ vREST_NG
 vifm
 violetbug
 vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
