@@ -33,7 +33,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-BetterSIS
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -74,8 +73,8 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cool_Retro_Term
-CozyDrive
+Cavoke
+Cerebral-Debugger
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -107,6 +106,11 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 Eksplode.re
 ElDumper
 Electorrent
@@ -137,7 +141,6 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -158,8 +161,11 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+HDRMerge
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -193,8 +199,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
+Julius
 Kitupiikki
 Klogg
 Knowte
@@ -238,8 +245,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -275,15 +280,13 @@ NoteMaster
 Notesnook
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Open_Markup_Editor
-Outline-Manager
-PDFQuirk
-PIA
-POE_Ladder
-PacketSender
-Padloc
+Olive
 Painel-Web
 Paletti
 PanWriter
@@ -322,6 +325,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -360,7 +366,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
+RawTherapee
+SFRT_Attendance
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -390,8 +397,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
+Shuttle
+SigDigger
+SigmaSpectra
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -428,6 +436,8 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
+SynfigStudio
+Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -457,8 +467,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VeChain
-WatchIt
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -490,6 +499,7 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
 dashy-app
 dataset-annotator
@@ -530,6 +540,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+guglielmo
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -570,6 +582,9 @@ mapton
 marktext
 marlin-conf
 mdview
+media-dupes
+meta-grabber
+mybelka
 ngrev
 nheko
 nimbus-weather
@@ -597,10 +612,10 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
-ridereceipts
-rmw
-runanode
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
