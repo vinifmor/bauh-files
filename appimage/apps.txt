@@ -33,8 +33,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Bezique
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -75,9 +76,11 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
+Cliniface
 Cryplicity
 Crypter
 Cryptr
@@ -111,6 +114,9 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,10 +147,9 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-FreeCAD2
-FreeTexturePacker
+Figma
+Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -165,11 +170,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-HDRMerge
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -202,7 +205,8 @@ Joplin
 Joy2DroidX
 Juggernaut
 Julius
-Kitupiikki
+KADE
+KOReader
 Klogg
 Knowte
 KopiaUI
@@ -286,7 +290,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
 Painel-Web
 Paletti
 PanWriter
@@ -327,7 +330,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -367,8 +369,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-SFRT_Attendance
-SMF-DSP
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -400,6 +401,7 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
+Silverkey
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -500,9 +502,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
 bauh
-dashy-app
-dataset-annotator
+cabal-desktop
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -540,8 +542,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-guglielmo
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -583,12 +583,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
+media_mate
 meta-grabber
-mybelka
-ngrev
-nheko
-nimbus-weather
-nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -616,8 +612,9 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
-saphyr
+protonmail-desktop
+puush-qt
+rmw
 scavengers
 school-sections
 ser-player
@@ -658,12 +655,12 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
-xonsh
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+vREST_NG
 youtube-music
-youtube-music-desktop
 yuzu
 zograscope
 zsync2
