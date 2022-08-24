@@ -32,10 +32,11 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Auryo
 Axe_Electrum
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -75,11 +76,12 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -145,6 +147,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -167,9 +170,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -244,8 +246,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-Mirage
+MediaElch
 MoarPerf
 Mob
 Mockman
@@ -287,7 +288,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -329,13 +331,8 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -374,8 +371,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RedmineTimeTracker
-RoboRock_Control_Center
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -405,11 +400,12 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -447,6 +443,8 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -478,6 +476,7 @@ VK_Desktop
 VLC
 VNote
 VPaint
+Valeronoi
 Wexond
 Whalebird
 Wire
@@ -511,7 +510,11 @@ android-messages-desktop
 antimicroX
 ao
 appimagelint
+appimagetool
+appium-desktop
 bauh
+caprine
+deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -551,7 +554,6 @@ gerbv
 getswell
 gibs
 githoard
-hyper
 impact
 iota1k
 iptvnator
@@ -591,6 +593,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -620,11 +623,11 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -666,6 +669,7 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
+youtube-music
 yuzu
 zograscope
 zsync2
