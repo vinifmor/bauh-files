@@ -32,6 +32,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+BTS-CE-Lite
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -72,7 +74,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cavoke
+Circle-Z
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -105,13 +110,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,8 +139,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -160,7 +159,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Glyphr_Studio_Desktop
+GitHubDesktop
+GradeStats
 HastyHeroes
 Heimer
 HermesMessenger
@@ -194,6 +194,9 @@ Isolate
 JReleaser
 James
 JoalDesktop
+KOReader
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -323,6 +326,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -361,7 +365,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Record_Compare
+Rufus
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -392,6 +396,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SnippetStore
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -427,6 +432,7 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -456,7 +462,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-WatchIt
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -487,7 +493,9 @@ Zulip
 accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
+altair
 bauh
+caprine
 cordlauncher
 cric
 dashy-app
@@ -527,9 +535,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -569,9 +576,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-movie-monad
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -597,9 +603,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
-quokkagit
-rasterview
+plotjuggler
+pnpm
+polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -641,9 +647,8 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-twitch-wrapper
-uncov
-vue-calc
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
