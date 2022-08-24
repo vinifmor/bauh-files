@@ -33,9 +33,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-BTS-CE-Lite
+Auryo
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -74,9 +73,6 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Circle-Z
-ConsoleWorkbench
-Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -140,8 +136,8 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -159,8 +155,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GradeStats
+GooboxFileShare
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -191,10 +187,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-KOReader
 KeyManager
 KeyboardClient
 Keys
@@ -244,8 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -287,6 +277,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -326,7 +317,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -365,7 +355,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Rufus
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -396,7 +385,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SnippetStore
+Slacktronic
+Soapy_SDR
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -428,11 +419,8 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
 SwitchHosts!
-Syncplay
+Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -463,7 +451,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
+VPaint
 Webamp
 Wexond
 Whalebird
@@ -495,7 +483,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-caprine
 cordlauncher
 cric
 dashy-app
@@ -537,7 +524,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
+hotspot
 huwinterpreter
 hw-probe
 hyper
@@ -576,12 +563,11 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
-nordvpn-linux
+marlin-conf
+mdview
+media-dupes
+media_mate
+meta-grabber
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -647,10 +633,13 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-whu-library-seat
-windows2usb
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
 wxMEdit
-wxMaxima
 x-loc
 xde
 xonsh
