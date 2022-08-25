@@ -32,10 +32,7 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-AzPainter
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -76,9 +73,10 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
 Circle-Z
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -142,8 +140,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+Frappe_Accounting
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -161,13 +160,10 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HDRMerge
+HastyHeroes
+Heimer
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -197,10 +193,10 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-Join_Desktop
-Joplin
-Joy2DroidX
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
@@ -244,7 +240,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
+Minetest
 Mirage
 MoarPerf
 Mob
@@ -287,8 +283,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
-Onenote
+OpenAudible
 Padloc
 Painel-Web
 Paletti
@@ -366,9 +361,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-RawTherapee
-SBLauncher
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -398,10 +391,11 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
+SimplEOS
+SimpleInstaBot
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -438,8 +432,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -469,8 +461,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-WebDesktop
+Viper_Browser
 Webamp
 Wexond
 Whalebird
@@ -501,8 +492,8 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -542,7 +533,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-guglielmo
 hugin
 huwinterpreter
 hw-probe
@@ -583,7 +573,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
 ngrev
 nheko
 nimbus-weather
@@ -612,8 +601,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-rmw
 runanode
 sabaki
 saphyr
@@ -655,9 +642,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-violetbug
-whiteboard
-wxMEdit
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
