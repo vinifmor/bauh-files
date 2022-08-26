@@ -35,7 +35,6 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -74,9 +73,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cool_Retro_Term
-CozyDrive
-Cromberg
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -103,7 +103,16 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
 DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -133,7 +142,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
+Fidias_Database_Migration_App
+Figma
+Firefox_ESR
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -154,9 +165,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Glyphr_Studio_Desktop
-Gulden
-HDRMerge
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -189,8 +198,8 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-KeyboardClient
-Keys
+JoalDesktop
+Join_Desktop
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -275,9 +284,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -317,6 +326,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -355,10 +365,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-RetroArch
 RoloViewer
-SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -455,8 +462,7 @@ UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
-VK_Desktop
-VLC
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -488,8 +494,8 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+bioanimation
 cric
 dashy-app
 dataset-annotator
@@ -530,7 +536,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -571,7 +576,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+n3h
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -598,7 +605,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
+python3
 rmw
 runanode
 sabaki
@@ -643,8 +650,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
+wxMaxima
+x-loc
 xde
 xonsh
 youtube-music
