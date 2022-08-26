@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+BetterSIS
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -76,9 +76,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Colorpicker
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -113,8 +113,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -146,7 +144,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -166,7 +164,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Google_Tasks_Desktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -201,9 +198,6 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Keibo-MoneyTracker-x86_64
-Keys
-KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -249,7 +243,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -286,10 +279,12 @@ NoteMaster
 Notesnook
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-POE_Ladder
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -329,6 +324,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -398,7 +395,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
+Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -434,6 +431,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -465,7 +464,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Verto
 WebDesktop
 Webamp
 Wexond
@@ -497,7 +495,9 @@ accessimap-lecteur-der
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
+clippy
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -537,8 +537,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-glulxe
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -607,8 +605,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+pomotroid
 pretty-handy-privacy
-ridereceipts
 rmw
 runanode
 sabaki
@@ -652,7 +650,9 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-wxMEdit
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+vue-calc
 wxMaxima
 x-loc
 xde
