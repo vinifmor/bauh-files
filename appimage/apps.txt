@@ -38,10 +38,6 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
-BasiliskII
-Blockbench
-Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -89,10 +85,11 @@ Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
-Dana
-Datcord
-DawnlightSearch
-DbGate
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -146,8 +143,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fractale
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -172,7 +167,7 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-HyperionIDE
+GpgFrontend
 Hyperspace
 IGdm
 INSTEAD
@@ -216,9 +211,9 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-Lemon
-LeoCAD
-Lepton
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 LibAssist
 LiberTEM
 LibreSprite
@@ -247,8 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
 Mob
 Mockman
 Monot
@@ -290,7 +283,7 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -335,7 +328,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-ProtonUp-Qt
 Pullp
 Pulse
 Puppetry
@@ -380,7 +372,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
+Rebaslight
 SMath_Studio
 SPlayer
 SUMOCO
@@ -396,7 +388,6 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
-ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -415,7 +406,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SmallBASIC
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -487,7 +478,6 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Vessel
 WishDemo
 Woke
 Wonderwall
@@ -573,6 +563,11 @@ hugin
 huwinterpreter
 hw-probe
 hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
+isle-editor
 jag
 jexiftoolgui
 jira-timer
@@ -693,3 +688,6 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
+x-loc
+xde
+xonsh
