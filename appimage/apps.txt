@@ -39,6 +39,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
+BasiliskII
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -87,11 +89,10 @@ Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
+Dana
+Datcord
+DawnlightSearch
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -145,6 +146,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Fractale
 FromScratch
 GDevelop
 GIMP
@@ -167,9 +169,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HexoEditor
-HiDPI-Fixer
-HyperDEX
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,10 +211,11 @@ Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
-LPub3D
-Lagrange
-Laigter
-Left
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 Lemon
 LeoCAD
 Lepton
@@ -245,7 +248,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MoarPerf
+McPodcast
 Mob
 Mockman
 Monot
@@ -377,8 +380,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -394,6 +396,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -412,7 +415,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
+SmallBASIC
 Spivak
 Stacer
 Standard_Notes
@@ -570,11 +573,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
-isle-editor
 jag
 jexiftoolgui
 jira-timer
@@ -613,7 +611,6 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -644,9 +641,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-scavengers
-simplechroot
-slang-ed
+qTox
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -698,5 +693,3 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
-x-loc
-xde
