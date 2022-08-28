@@ -37,7 +37,6 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
 Bitwarden
 Blockbench
 Bloks
@@ -87,7 +86,7 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-ColorGenerator
+Cutter
 DFileManager
 Dana
 Datcord
@@ -172,7 +171,7 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-HyperDEX
+Graviton
 HyperionIDE
 Hyperspace
 IGdm
@@ -205,10 +204,12 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
+Kimitzu-Client
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -286,7 +287,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWallet
+OWASP Threat Dragon
 Painel-Web
 Paletti
 PanWriter
@@ -376,7 +377,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -411,6 +411,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -480,9 +481,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
-VeChain
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -516,7 +517,6 @@ antimicroX
 ao
 appimagelint
 appimagetool
-appium-desktop
 bauh
 devdocs-desktop
 dexter_dev_env
@@ -561,6 +561,7 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
+guiscrcpy
 jag
 jexiftoolgui
 jira-timer
@@ -598,7 +599,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -629,7 +630,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-timer
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
@@ -675,4 +676,3 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
