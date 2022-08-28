@@ -34,9 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -168,6 +167,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+Gulden
 Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
@@ -245,8 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -330,13 +329,8 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -374,8 +368,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RoloViewer
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -405,9 +397,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+Shuttle
+SigDigger
+SigmaSpectra
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -443,6 +435,7 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
+SynfigStudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -473,9 +466,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-VPaint
-VidCutter
+Webamp
 Wexond
 Whalebird
 Wire
@@ -507,10 +498,8 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
-appimagelint
-appimagetool
 bauh
+deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -547,9 +536,10 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-gibs
-githoard
+huwinterpreter
+hw-probe
+hyper
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -567,7 +557,6 @@ ksnip
 laigter
 langly
 laravel-kit
-launcher
 le
 ledger-live-desktop
 lescovex
@@ -586,11 +575,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
-meta-grabber
-mini-qml
-movie-monad
+nimbus-weather
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -617,7 +604,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -664,7 +651,6 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-youtube-music
+vifm
+violetbug
 yuzu
-zograscope
-zsync2
