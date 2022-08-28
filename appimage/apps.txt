@@ -38,7 +38,6 @@ Auryo
 Axe_Electrum
 AzPainter
 Bitwarden
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -86,10 +85,11 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-Cutter
-DFileManager
-Dana
-Datcord
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -171,7 +171,8 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Graviton
+Heroic Games Launcher
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,7 +210,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-Kimitzu-Client
+KeeWeb
+KopiaUI
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -288,6 +290,9 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+Obsidian
+PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -338,6 +343,8 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -375,8 +382,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -412,6 +419,8 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -481,10 +490,10 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+VPaint
+Valeronoi
+VeChain
 WebDesktop
-Webamp
-Wexond
-Whalebird
 Wire
 WishDemo
 Woke
@@ -517,11 +526,13 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
+autoEdit2
+avogadro
 bauh
-devdocs-desktop
-dexter_dev_env
-dfDemo
-dingtalk
+bioanimation
+bottlenose
+buttercup
 draw.io
 dukto
 dvdisaster
@@ -562,6 +573,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
 jag
 jexiftoolgui
 jira-timer
@@ -599,7 +611,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-nx-software-center
+mjml-app
 nxshell
 ommpfritt
 onnx2bnn
@@ -631,6 +643,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
+qTox
 simplechroot
 slang-ed
 smtk2ssrf
@@ -675,4 +688,4 @@ vifm
 violetbug
 vue-calc
 vuerd
-weatherdump
+yuzu
