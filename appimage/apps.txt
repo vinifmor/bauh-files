@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -76,7 +76,6 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cliniface
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -112,9 +111,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,9 +140,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeCAD-asm3
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -198,7 +194,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
+Kcov
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -246,7 +243,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeshLab
+MazeSolver
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -282,13 +280,11 @@ NoteMaster
 Notesnook
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
-Open_Markup_Editor
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -328,9 +324,9 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -367,7 +363,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -398,7 +394,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Silverkey
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -434,9 +429,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -467,8 +459,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-WatchIt
+WatchFlower
 WebDesktop
 Webamp
 Wexond
@@ -501,7 +492,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -540,8 +530,7 @@ four
 foxfolio
 fre:ac
 freeman
-gLabels
-hotspot
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -582,10 +571,11 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
-media_mate
+ngPost
+ngrev
+nheko
+nimbus-weather
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -608,8 +598,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
-polar-bookshelf
+rasterview
 ridereceipts
 rmw
 runanode
@@ -650,6 +639,7 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
+twetter
 whiteboard
 whu-library-seat
 windows2usb
