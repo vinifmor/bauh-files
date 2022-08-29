@@ -35,11 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
-Blizzard_4
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -81,12 +80,12 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
-CuteVariant
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
 Cutter
 DFileManager
 Dana
@@ -147,6 +146,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -169,10 +169,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -205,7 +205,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
 KopiaUI
 LANShare
 LCEdit
@@ -246,6 +245,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 MoarPerf
 Mob
 Mockman
@@ -287,6 +287,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -332,8 +334,10 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -373,7 +377,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -403,10 +406,10 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-Simdock
+Sonist
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -446,7 +449,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -478,9 +480,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
-Wexond
+VPaint
+Valeronoi
 Whalebird
 Wire
 WishDemo
@@ -512,8 +513,9 @@ altair
 android-messages-desktop
 antimicroX
 ao
-appimagelint
 bauh
+dbet-wallet
+deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -552,10 +554,9 @@ gLabels
 gerbv
 getswell
 gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
+impact
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -593,6 +594,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nx-software-center
@@ -621,9 +623,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
+saphyr
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -669,5 +671,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-x-loc
+vue-calc
 yuzu
+zsync2
