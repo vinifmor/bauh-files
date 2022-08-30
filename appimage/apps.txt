@@ -31,9 +31,8 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Birds_Kitchen
+Audacity
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -65,10 +64,9 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -99,7 +97,7 @@ DeepTags
 Delir
 Demonizer
 Deployer
-Dwyco_Phoo
+Detect_It_Easy
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,7 +127,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -149,7 +147,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GoldenCheetah
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -181,7 +179,10 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
+KeeWeb
+KettleClient
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -230,7 +231,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -270,10 +270,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
-PIA
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -353,7 +351,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+ReliefValve
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -384,6 +382,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Silverkey
+SnippetStore
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -416,7 +416,6 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
-Tablo_Tools
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -444,11 +443,7 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-V2Ray-Desktop
-VK_Desktop
-VLC
-Vieb
-VivifyScrum
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -479,9 +474,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-ai-bot-workspace
 bauh
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -518,12 +512,11 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -559,6 +552,9 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mki3dgame
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -586,6 +582,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+polar-bookshelf
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -627,8 +625,8 @@ timer
 tmon
 tnt
 torrenttools
-triagem-touch
-ttth
+weatherdump
+westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
