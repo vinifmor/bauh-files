@@ -32,6 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -67,10 +68,10 @@ CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -98,6 +99,9 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
+Diffuse
+Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -127,7 +131,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -179,10 +183,7 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KeeWeb
-KettleClient
-KevEdit
-KeyManager
+James
 KeyboardClient
 Keys
 KiCad
@@ -231,7 +232,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -270,9 +270,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -351,7 +351,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-ReliefValve
+SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -382,8 +382,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Silverkey
-SnippetStore
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -443,7 +442,7 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-WalletTech
+V2Ray-Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -474,8 +473,9 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
 bauh
-cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -512,10 +512,12 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-hero-display
-hotspot
-hpack
-hsinstall
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -550,9 +552,6 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
-mki3dgame
 my-budget
 mybelka
 n3h
@@ -582,8 +581,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-polar-bookshelf
-qpdf
+pkg2appimage
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -625,7 +623,7 @@ timer
 tmon
 tnt
 torrenttools
-weatherdump
+triagem-touch
 westeroscraftlauncher
 weweChat
 wezterm
