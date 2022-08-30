@@ -28,10 +28,10 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-Bezique
-BilibiliVideoDownload
+AsarUI
+AstroShutter
+Astroffers
 Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -64,7 +64,7 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-ClementineRemote
+CPod
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -98,7 +98,8 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Diffuse
+Deployer
+Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -128,10 +129,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Filmulator
-Fraidycat
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -150,7 +149,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+GoldenCheetah
 HastyHeroes
 Heimer
 HermesMessenger
@@ -183,10 +182,6 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-Kanon
-Keibo-MoneyTracker-x86_64
-KettleClient
 KeyboardClient
 Keys
 KiCad
@@ -278,6 +273,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+PIA
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -317,8 +314,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -358,6 +353,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -387,8 +384,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimpleInstaBot
-Skrifa
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -421,6 +416,7 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+Tablo_Tools
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -450,6 +446,9 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
+VLC
+Vieb
+VivifyScrum
 WatchFlower
 WatchIt
 WebDesktop
@@ -482,9 +481,9 @@ Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
-aillio-ts
 bauh
 colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -525,10 +524,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gibs
-graphql-playground
-hsinstall
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -564,8 +559,6 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -632,10 +625,10 @@ theWeb
 thorium-client
 timer
 tmon
+tnt
+torrenttools
+triagem-touch
 ttth
-vuerd
-weatherdump
-westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
