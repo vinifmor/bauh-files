@@ -33,7 +33,7 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
+Bezique
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -76,8 +76,7 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-City_Hub
+ConsoleWorkbench
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -113,6 +112,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,7 +145,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -162,7 +165,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -195,9 +198,9 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-Keibo-MoneyTracker-x86_64
-KeyboardClient
-Keys
+JoalDesktop
+Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -244,6 +247,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Melodie
+MiniZinc_IDE
 Mirage
 MoarPerf
 Mob
@@ -286,6 +291,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Olive
 Painel-Web
 Paletti
 PanWriter
@@ -325,6 +331,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -365,6 +372,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+RyoWallet
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -429,10 +437,6 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -459,9 +463,9 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-WalletTech
-WatchFlower
-WatchIt
+UniShellect
+V2Ray-Desktop
+VK_Desktop
 WebDesktop
 Webamp
 Wexond
@@ -490,10 +494,13 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
+appimagelint
 bauh
-clipr
-cncjs
-colorstatic-bash
+clippy
 cordlauncher
 cric
 dashy-app
@@ -529,12 +536,12 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-gibs
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -570,8 +577,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
-mapollage
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -644,6 +650,7 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
