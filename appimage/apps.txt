@@ -34,11 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-BetterSIS
 Bitwarden
-Bitwarden_Connector
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -82,7 +78,6 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -148,9 +143,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -168,9 +161,9 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+GooboxFileShare
+Guitar
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,11 +197,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KOReader
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -250,7 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Melodie
 MoarPerf
 Mob
 Mockman
@@ -292,8 +283,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-POE_Ladder
-PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -333,7 +322,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -374,9 +362,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Rotki
-SFRT_Attendance
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -407,8 +392,7 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
+SigDigger
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -475,6 +459,8 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
+VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -506,9 +492,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -582,9 +568,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
-marktext
+n3h
+nRF_Connect
+neovim
 ngPost
 ngrev
 nheko
@@ -613,7 +599,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -658,7 +643,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
+wxMEdit
 wxMaxima
 x-loc
 xde
