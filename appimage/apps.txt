@@ -33,7 +33,7 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Bezique
+BTS-CE-Lite
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -66,7 +66,11 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Code_OSS
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Chiaki
 Colon
 ColorGenerator
 Colorpicker
@@ -96,9 +100,6 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Demonizer
-Deployer
-Detect_It_Easy
 Eksplode.re
 ElDumper
 Electorrent
@@ -128,8 +129,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Firefox_ESR
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -150,7 +149,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gpredict
 HDRMerge
 HastyHeroes
 Heimer
@@ -182,7 +180,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Keibo-MoneyTracker-x86_64
 KevEdit
 KeyManager
 KeyboardClient
@@ -268,8 +265,9 @@ Nostlan
 Notable
 NoteMaster
 Notesnook
+OCRmyPDF
+OCVWarp
 OWASP Threat Dragon
-P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
@@ -312,9 +310,9 @@ Poddr
 PolkaKey
 Popsicle
 Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -382,7 +380,10 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
+SimplEOS
+Slacktronic
+SnippetStore
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -407,13 +408,10 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -442,7 +440,6 @@ UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
-WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -473,7 +470,6 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-appimagetool
 bauh
 cncjs
 colorstatic-bash
@@ -510,6 +506,7 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
+flameshot
 hero-display
 hotspot
 hpack
@@ -548,11 +545,10 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
-mandelbulber2
-mapollage
-media-dupes
+mtCellEdit
+mutool
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -577,9 +573,8 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-privacy.sexy
+qSdrSwr
+qTox
 qikQR
 qpdf
 qpp::cad
@@ -618,10 +613,10 @@ tastee-ui
 tc
 theFrame
 theWeb
-thorium-client
-timer
 tmon
-tnt
+vifm
+violetbug
+vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
