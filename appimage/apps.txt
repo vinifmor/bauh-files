@@ -35,10 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -76,10 +75,10 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -147,9 +146,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Franz
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -170,8 +167,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GrinPlusPlus
-HermesMessenger
+GpgFrontend
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -209,8 +205,6 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kimitzu-Client
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -252,8 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -292,10 +284,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
-Outline-Manager
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -336,9 +326,11 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
-Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -376,6 +368,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
+Raven_Reader
+Reactotron
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -406,7 +400,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -442,10 +436,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
 Syncplay
-SynfigStudio
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -474,11 +466,7 @@ UltraGrid
 UltraScreen
 UniShellect
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
-VPaint
-Valeronoi
+WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -512,9 +500,11 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 antimicroX
 bauh
+cordlauncher
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -553,7 +543,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
+gerbv
 hw-probe
 hyper
 impact
@@ -591,8 +581,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-media_mate
-mybelka
 neovim
 ngPost
 ngrev
@@ -621,8 +609,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
-polar-bookshelf
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -671,7 +658,7 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
+xde
 xonsh
 youtube-music
 youtube-music-desktop
