@@ -14,7 +14,6 @@ AnaVis
 Anchor
 Another_Redis_Desktop_Manager
 Antares
-AntiMicroX
 Apache_NetBeans
 Aphelion_Wallet
 Apla
@@ -33,8 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -79,9 +76,6 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CozyDrive
-CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -173,7 +167,6 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -207,6 +200,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KOReader
+Kcov
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -253,8 +249,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
+Mechvibes
 MoarPerf
 Mob
 Mockman
@@ -296,10 +291,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Outline-Manager
-P2PDerivatives
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -341,6 +332,8 @@ PostyBirb
 PowerShell
 ProtonUp-Qt
 PrusaSlicer
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -376,7 +369,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -406,8 +400,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
-SocNetV
+Skrifa
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -447,6 +440,9 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+TeleDrive
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -474,13 +470,15 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-VLC
-VNote
-VPaint
-Valeronoi
-VeChain
-Verto
 Vessel
+WatchFlower
+WatchIt
+WebDesktop
+Webamp
+Wexond
+Whalebird
+Wire
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -508,13 +506,15 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
-ao
-appimagelint
-appimagetool
-appium-desktop
 bauh
-colorstatic-bash
+cncjs
+cordlauncher
+cric
+dashy-app
+dataset-annotator
+dbet-wallet
+deb2appimage
+deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -547,9 +547,10 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
-gerbv
+hsinstall
+htmldoc
+hugin
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -585,12 +586,11 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
-marlin-conf
-mdview
+media-dupes
 n3h
+nRF_Connect
 neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -617,7 +617,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -663,8 +663,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-vue-calc
+wxMEdit
 wxMaxima
 x-loc
 xde
