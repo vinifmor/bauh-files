@@ -32,8 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
+Auryo
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -76,8 +78,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossMobile
-Cryplicity
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -144,8 +146,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
+Franz
 FreeTube
 Friture
 FromScratch
@@ -167,6 +169,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
+Glimpse-Image-Editor
+GrinPlusPlus
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -200,13 +204,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Joy2DroidX
+Juggernaut
+Julius
+KADE
 KOReader
-Kcov
-Keys
-KiCad
-Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -249,7 +252,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mechvibes
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -291,6 +295,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Outline-Manager
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -332,6 +338,7 @@ PostyBirb
 PowerShell
 ProtonUp-Qt
 PrusaSlicer
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -369,7 +376,6 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -400,7 +406,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Skrifa
+Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -440,7 +446,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -470,8 +475,10 @@ UltraScreen
 UniShellect
 V2Ray-Desktop
 VK_Desktop
-Vessel
-WatchFlower
+VLC
+VNote
+VPaint
+Valeronoi
 WatchIt
 WebDesktop
 Webamp
@@ -506,11 +513,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
 bauh
-cncjs
-cordlauncher
-cric
-dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -547,9 +551,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hsinstall
-htmldoc
-hugin
+freeman
+gLabels
 huwinterpreter
 hw-probe
 hyper
@@ -586,9 +589,10 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-media-dupes
-n3h
-nRF_Connect
+mapton
+marktext
+media_mate
+mybelka
 neovim
 ngPost
 ngrev
@@ -617,7 +621,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-quokkagit
+pnpm
+polar-bookshelf
 rasterview
 ridereceipts
 rmw
@@ -663,10 +668,10 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-wxMEdit
-wxMaxima
-x-loc
-xde
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
 xonsh
 youtube-music
 youtube-music-desktop
