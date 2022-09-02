@@ -32,9 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-Birds_Kitchen
+AudioMoth
+Augur
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -73,12 +73,11 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Cryplicity
 Crypter
 Cryptr
@@ -108,6 +107,13 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -137,7 +143,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -158,7 +164,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
+GitJournal
+GoldenDict
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -318,7 +325,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -359,6 +365,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -426,7 +433,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -457,7 +463,7 @@ UniShellect
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+Vipster
 WebDesktop
 Webamp
 Wexond
@@ -490,9 +496,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+dashy-app
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -530,9 +536,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gsubs
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -570,7 +574,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-moolticute
+movie-monad
 nRF_Connect
 neovim
 ngPost
@@ -602,7 +606,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-python3
 rasterview
 ridereceipts
 rmw
@@ -644,11 +647,10 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
