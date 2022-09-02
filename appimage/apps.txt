@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -78,9 +78,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Colon
-CrossMobile
-Cryplicity
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -145,10 +144,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Fidias_Database_Migration_App
 Figma
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
+Filmulator
 FreeTexturePacker
 FreeTube
 Friture
@@ -167,9 +165,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
-HastyHeroes
-Heimer
+GitHubDesktop
+GitJournal
+GitNote
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -199,11 +197,13 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+James
+JoalDesktop
+Join_Desktop
+Joplin
+Joy2DroidX
+Juggernaut
+Julius
 Kitupiikki
 Klogg
 Knowte
@@ -247,7 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -371,6 +370,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -400,7 +400,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -439,7 +438,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -471,6 +469,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -503,7 +502,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -543,7 +541,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -579,7 +576,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
+mapollage
+mapton
 nRF_Connect
 neovim
 ngPost
@@ -608,6 +606,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
+plotjuggler
 quokkagit
 rasterview
 ridereceipts
@@ -655,9 +654,6 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-vREST_NG
-windows2usb
-wxMEdit
 wxMaxima
 x-loc
 xde
