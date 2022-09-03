@@ -38,8 +38,8 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
 Bitwarden
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -87,10 +87,7 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-ColorGenerator
-Colorpicker
-ConsoleWorkbench
-Cryptr
+Cutter
 DFileManager
 Dana
 Datcord
@@ -149,7 +146,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_Nightly
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -172,10 +171,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -214,6 +212,7 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+LMMS
 LPub3D
 Lagrange
 Laigter
@@ -249,7 +248,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeshLab
+Mechvibes
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -290,8 +290,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
-OWallet
+Outline-Manager
 Painel-Web
 Paletti
 PanWriter
@@ -341,6 +340,9 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
+Pulse
+Puppetry
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -381,6 +383,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -411,12 +414,10 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-SimpleInstaBot
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
+Silverkey
+SimDSP
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -487,10 +488,10 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
-Wexond
-Whalebird
+VPaint
+Valeronoi
+VeChain
+Verto
 Wire
 WishDemo
 Woke
@@ -524,12 +525,14 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
+autoEdit2
+avogadro
 bauh
-deltachat-desktop
-devdocs-desktop
-dexter_dev_env
-dfDemo
-dingtalk
+bioanimation
+bottlenose
+buttercup
+dataset-annotator
 draw.io
 dukto
 dvdisaster
@@ -567,6 +570,11 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+gsubs
+guglielmo
+guiscrcpy
+hero-display
+hotspot
 irccloud-desktop
 isle-editor
 jag
@@ -601,6 +609,8 @@ mapton
 marktext
 marlin-conf
 mdview
+media-dupes
+neovim
 nheko
 nimbus-weather
 nordvpn-linux
@@ -633,7 +643,7 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-scavengers
+pyappimage
 school-sections
 ser-player
 simple-s3-uploader
@@ -680,6 +690,9 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zograscope
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
