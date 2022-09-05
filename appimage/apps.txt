@@ -35,6 +35,7 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -75,8 +76,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -111,9 +112,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,8 +141,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -164,7 +162,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -244,7 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -286,6 +283,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -325,8 +323,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -365,7 +361,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -394,7 +391,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimpleInstaBot
+Shuttle
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -466,7 +464,7 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
+Wire
 WishDemo
 Woke
 Wonderwall
@@ -499,8 +497,8 @@ antimicroX
 ao
 appimagelint
 appimagetool
-appium-desktop
 bauh
+deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -536,9 +534,8 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-gibs
-githoard
+hw-probe
+hyper
 impact
 iota1k
 iptvnator
@@ -577,7 +574,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -647,6 +643,8 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
 wxMEdit
 wxMaxima
 x-loc
