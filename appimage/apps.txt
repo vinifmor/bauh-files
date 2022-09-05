@@ -32,8 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
+Axe_Electrum
+BilibiliVideoDownload
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -109,10 +111,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,8 +140,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -165,7 +161,10 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-Heimer
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -199,9 +198,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KOReader
+Keys
 Klogg
 Knowte
 KopiaUI
@@ -244,8 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MediaElch
-Minions
 Mirage
 MoarPerf
 Mob
@@ -288,6 +288,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Open_Markup_Editor
 Painel-Web
 Paletti
 PanWriter
@@ -327,7 +328,9 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-ProcSpin
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -366,7 +369,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RyoWallet
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -396,10 +398,11 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -432,6 +435,8 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
+SyncMyL2P
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -464,6 +469,7 @@ VLC
 VNote
 VPaint
 Valeronoi
+VeChain
 Wire
 WishDemo
 Woke
@@ -497,8 +503,10 @@ antimicroX
 ao
 appimagelint
 appimagetool
-appium-desktop
 bauh
+dashy-app
+deb2appimage
+deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -533,7 +541,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
+gerbv
+guiscrcpy
 huwinterpreter
 hw-probe
 hyper
@@ -574,7 +583,8 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -600,7 +610,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
+qBittorrent_Enhanced_Edition
+rasterview
+ridereceipts
 rmw
 runanode
 sabaki
