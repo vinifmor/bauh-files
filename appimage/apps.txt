@@ -38,7 +38,8 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
+BasiliskII
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -145,6 +146,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_ESR
 FromScratch
 GDevelop
 GIMP
@@ -167,13 +169,13 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HexoEditor
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
-INSTEAD
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -213,9 +215,8 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
-Laigter
-Left
-Lemon
+Keys
+KiCad
 LeoCAD
 Lepton
 LibAssist
@@ -288,8 +289,6 @@ OSRS_Tools
 OVideo
 OWallet
 Obsidian
-Open_Markup_Editor
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -340,6 +339,8 @@ Pullp
 Pulse
 Puppetry
 Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -378,9 +379,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
-RyoWallet
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -395,6 +395,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -524,7 +525,7 @@ avogadro
 bioanimation
 bottlenose
 buttercup
-dukto
+cabal-desktop
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -606,9 +607,10 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-notepadqq
-noteshrink-qt
-nx-software-center
+mira-backup
+mjml-app
+mki3dgame
+mybelka
 nxshell
 ommpfritt
 onnx2bnn
@@ -641,8 +643,8 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-smtk2ssrf
-snake.js
+qikQR
+qpdf
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -693,4 +695,3 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
-xde
