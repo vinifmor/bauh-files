@@ -34,10 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Axe_Electrum
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -82,10 +81,10 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
 CuteVariant
 Cutter
 DFileManager
@@ -147,7 +146,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -169,10 +167,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,9 +206,11 @@ Kage
 Kanon
 KawAnime
 Kcov
-LED.Custom.Palette
-LMMS
-LPub3D
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+Kimitzu-Client
 Lagrange
 Laigter
 Left
@@ -246,7 +245,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
 Mob
 Mockman
 Monot
@@ -289,7 +287,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Open_Markup_Editor
+POE_Ladder
 Painel-Web
 Paletti
 PanWriter
@@ -340,6 +338,9 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -379,7 +380,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -413,9 +413,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimplEOS
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -492,8 +492,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
-WorkFlowy
-Workbench
+Viper_Browser
 Wrapbox
 Wsocks
 XChat
@@ -528,9 +527,8 @@ bauh
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
-eDEX-UI
+cabal-desktop
+caprine
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -571,6 +569,12 @@ hero-display
 hotspot
 hpack
 hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -606,9 +610,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-notepadqq
-noteshrink-qt
-nx-software-center
+mira-backup
+mjml-app
+mutool
 nxshell
 ommpfritt
 onnx2bnn
@@ -639,6 +643,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
+runanode
 simple-timer
 simplechroot
 slang-ed
@@ -686,3 +691,6 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+wezterm
+yuzu
