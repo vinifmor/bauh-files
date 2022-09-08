@@ -35,7 +35,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
+BTS-CE-Lite
+Bazecor
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -75,7 +79,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
+Cool_Retro_Term
+Cromberg
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -147,6 +152,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -169,8 +175,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -246,6 +252,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mechvibes
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -287,7 +295,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-PDFQuirk
 Painel-Web
 Paletti
 PanWriter
@@ -331,6 +338,9 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -369,8 +379,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -398,11 +409,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-SimplEOS
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -440,10 +449,6 @@ SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -479,8 +484,10 @@ Valeronoi
 VeChain
 Verto
 Vessel
-VidCutter
-Videomass
+WalletTech
+WishDemo
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -511,11 +518,11 @@ ao
 appimagelint
 appimagetool
 appium-desktop
-autoEdit2
-avogadro
 bauh
-bioanimation
-bottlenose
+devdocs-desktop
+dexter_dev_env
+dfDemo
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -553,9 +560,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -590,7 +597,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -615,8 +624,7 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -663,7 +671,7 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-wezterm
+windows2usb
 youtube-music
 youtube-music-desktop
 ytDownloader
