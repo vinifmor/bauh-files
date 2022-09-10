@@ -37,6 +37,7 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
+BLOCK-DX
 Bitwarden
 Blockbench
 Bloks
@@ -80,13 +81,12 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
-CuteVariant
-Cutter
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
 DFileManager
 Dana
 Datcord
@@ -169,9 +169,7 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-Heroic Games Launcher
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -204,10 +202,11 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -246,9 +245,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MeshLab
-MoarPerf
-Mob
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -288,8 +285,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -335,11 +330,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -378,9 +370,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Record_Compare
-RoboRock_Control_Center
-SMPlayer
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -413,8 +403,9 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Speaky_MiniPlayer
-Spectrum
+Simdock
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -490,7 +481,8 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
+Vipster
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -526,7 +518,7 @@ avogadro
 bauh
 bioanimation
 bottlenose
-buttercup
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -566,7 +558,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
+irccloud-desktop
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -630,13 +622,13 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -681,4 +673,5 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
 weweChat
