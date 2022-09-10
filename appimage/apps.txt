@@ -35,9 +35,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
-BasiliskII
+Axe_Electrum
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -81,13 +80,12 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
-CuteVariant
+City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
 Cutter
 DFileManager
 Dana
@@ -173,7 +171,6 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Heroic Games Launcher
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,10 +206,13 @@ KOReader
 Kage
 Kanon
 KawAnime
-LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
+Kimitzu-Client
 Lagrange
 Laigter
 Left
@@ -247,6 +247,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
+MoarPerf
 Mob
 Mockman
 Monot
@@ -286,7 +288,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -337,6 +339,10 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -375,7 +381,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SBLauncher
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -411,8 +417,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
-SpeedyLoader
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -486,7 +491,8 @@ VeChain
 Verto
 Vessel
 VidCutter
-Wonderwall
+Videomass
+Vieb
 WorkFlowy
 Workbench
 Wrapbox
@@ -562,6 +568,15 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -599,6 +614,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+mki3dgame
 nxshell
 ommpfritt
 onnx2bnn
@@ -629,9 +645,9 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simplechroot
-slang-ed
-smtk2ssrf
+qSdrSwr
+qTox
+qikQR
 snake.js
 snapshot-slider
 snomcontrol
@@ -675,4 +691,6 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
 wezterm
+whiteboard
