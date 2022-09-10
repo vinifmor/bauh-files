@@ -35,9 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
-AzPainter
+BTS-CE-Lite
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -80,11 +81,11 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
+Cryptr
+Cscrypto
+CubicSDR
+Cura
+CustomRPC
 CutePeaks
 CuteVariant
 Cutter
@@ -147,7 +148,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-FromScratch
 GDevelop
 GIMP
 GL_warp2mp4
@@ -168,9 +168,9 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -204,9 +204,11 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
+Keibo-MoneyTracker-x86_64
+Klogg
+Knowte
+KopiaUI
+LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -245,8 +247,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -288,6 +290,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -331,8 +334,6 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -371,10 +372,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
-SMF-DSP
-SMPlayer
-SMathStudio
+RawTherapee
+Reactotron
 SMath_Studio
 SPlayer
 SUMOCO
@@ -405,11 +404,10 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
+SimDSP
 Simdock
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -447,6 +445,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -484,6 +484,7 @@ Vessel
 VidCutter
 Videomass
 Vieb
+Whalebird
 WorkFlowy
 Workbench
 Wrapbox
@@ -520,7 +521,6 @@ bauh
 bioanimation
 bottlenose
 buttercup
-dingtalk
 dukto
 dvdisaster
 eDEX-UI
@@ -561,8 +561,6 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
-hotspot
-hpack
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -600,10 +598,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nx-software-center
-nxshell
-ommpfritt
-onnx2bnn
+mki3dgame
+moniteur-admin
 onnx2daq
 openblok
 ossia_score
@@ -626,6 +622,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+puush-qt
+qSdrSwr
 saphyr
 scavengers
 school-sections
@@ -672,8 +670,8 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
+youtube-music
+ytDownloader
 yuzu
 zograscope
 zsync2
