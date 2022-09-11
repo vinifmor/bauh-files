@@ -36,8 +36,6 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
-BLOCK-DX
 Bitwarden
 Blockbench
 Bloks
@@ -81,9 +79,9 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
+CleepDesktop
+ClementineRemote
+Cliniface
 CustomRPC
 CutePeaks
 CuteVariant
@@ -168,12 +166,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-HDRMerge
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,8 +206,8 @@ KOReader
 Kage
 Kanon
 KawAnime
-LANShare
-LCEdit
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -248,6 +245,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mini_Diary
 MoarPerf
 Mob
 Mockman
@@ -290,7 +288,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Paletti
 PanWriter
 Panini
@@ -340,7 +337,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -377,8 +373,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -408,10 +403,10 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -445,6 +440,11 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -517,8 +517,7 @@ avogadro
 bauh
 bioanimation
 bottlenose
-buttercup
-cncjs
+deltachat-desktop
 draw.io
 dukto
 dvdisaster
@@ -594,7 +593,6 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
 noteshrink-qt
 nx-software-center
 nxshell
@@ -625,8 +623,6 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-python3
-qBittorrent_Enhanced_Edition
 ser-player
 simple-s3-uploader
 simple-timer
@@ -674,5 +670,4 @@ vifm
 violetbug
 vue-calc
 yuzu
-zograscope
 zsync2
