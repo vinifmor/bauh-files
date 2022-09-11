@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+Birds_Kitchen
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -84,8 +85,8 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
-Code_OSS
+CustomRPC
+CutePeaks
 CuteVariant
 Cutter
 DFileManager
@@ -146,6 +147,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 FromScratch
 GDevelop
 GIMP
@@ -168,9 +170,12 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
+Gulden
+Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -207,10 +212,10 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
 Laigter
 Left
 Lemon
@@ -244,8 +249,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
 Mockman
 Monot
 Moonlight
@@ -284,8 +288,10 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
+POE_Ladder
 Paletti
 PanWriter
 Panini
@@ -377,7 +383,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -411,8 +416,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -489,7 +494,8 @@ Vessel
 VidCutter
 Videomass
 Vieb
-Wonderwall
+VivifyScrum
+WorkFlowy
 Workbench
 Wrapbox
 Wsocks
@@ -525,9 +531,9 @@ bauh
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
-caprine
-clippy
+dukto
+dvdisaster
+eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -573,8 +579,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-impact
-iota1k
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -613,8 +617,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+mybelka
 onnx2bnn
 onnx2daq
 openblok
@@ -645,6 +648,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -685,10 +689,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
+yuzu
+zograscope
+zsync2
