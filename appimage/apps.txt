@@ -32,8 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -64,13 +65,13 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
@@ -96,11 +97,6 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -131,12 +127,7 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-Figma
-Firefox_ESR
-Fractale
-FranceTV
-Franz
-FreeCAD-asm3
+FocusWriter
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -155,6 +146,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GradeStats
 HDRMerge
 HastyHeroes
 Heimer
@@ -186,6 +178,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+KeeWeb
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -234,6 +228,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
+Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -273,10 +268,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-POE_Ladder
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -315,6 +310,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -352,7 +348,6 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -383,7 +378,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -410,10 +404,14 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
-TeXstudio
-TeleDrive
+Superpaper
+SwagLyrics
+SwiftnessX
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -444,7 +442,7 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Wexond
+Valeronoi
 Whalebird
 Wire
 WishDemo
@@ -474,11 +472,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-buttercup
-colorstatic-bash
-cordlauncher
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -512,6 +507,7 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
+fmradio
 hero-display
 hotspot
 hpack
@@ -557,7 +553,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
 ngrev
 nheko
 nimbus-weather
@@ -585,7 +580,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
+polar-bookshelf
+python3
 ridereceipts
 rmw
 runanode
@@ -624,6 +620,7 @@ tmon
 tnt
 torrenttools
 triagem-touch
+unoffical-sonos-controller-for-linux
 westeroscraftlauncher
 weweChat
 wezterm
