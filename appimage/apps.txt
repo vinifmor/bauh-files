@@ -38,9 +38,7 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -85,10 +83,9 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cryptr
-Cscrypto
-CubicSDR
-Cura
+CleepDesktop
+ClementineRemote
+Cliniface
 CustomRPC
 CutePeaks
 CuteVariant
@@ -118,6 +115,7 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -150,8 +148,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_ESR
-FocusWriter
 FreeTube
 Friture
 FromScratch
@@ -177,7 +173,6 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 Heroic Games Launcher
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -212,9 +207,8 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
+Knowte
+KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -254,8 +248,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -297,7 +290,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -342,12 +335,8 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -389,6 +378,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -423,7 +413,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SpeedyLoader
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -460,6 +450,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -490,8 +481,10 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
+VPaint
+Valeronoi
+VeChain
+Vieb
 Wexond
 Whalebird
 Wire
@@ -522,9 +515,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
 bauh
-cric
-dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -565,8 +558,8 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -606,7 +599,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -636,8 +630,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-scavengers
-school-sections
+puush-qt
+pyappimage
+python2
 ser-player
 simple-s3-uploader
 simple-timer
