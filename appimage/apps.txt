@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,10 +77,12 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -110,10 +112,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -147,6 +145,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -287,7 +286,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
+PIA
 Painel-Web
 Paletti
 PanWriter
@@ -330,6 +329,7 @@ PostyBirb
 PowerShell
 ProtonUp-Qt
 PrusaSlicer
+Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -367,8 +367,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
-SF_Tube
+Raven_Reader
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -399,8 +398,6 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigmaSpectra
-Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -436,7 +433,6 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -465,9 +461,10 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-V2Ray-Desktop
-VK_Desktop
-VirtScreen
+Valeronoi
+Vitomu
+VizGraph
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -498,12 +495,10 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-ai-bot-workspace
-aillio-ts
-altair
-appimagelint
 bauh
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -541,9 +536,10 @@ flightgear-airports
 fmradio
 four
 foxfolio
-fre:ac
-freeman
-gLabels
+hpack
+hsinstall
+htmldoc
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -582,8 +578,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
 ngrev
 nheko
 nimbus-weather
@@ -610,7 +604,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-rasterview
+pnpm
+polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -653,8 +648,8 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
