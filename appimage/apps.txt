@@ -31,7 +31,6 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-AzPainter
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -67,7 +66,7 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
+Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
@@ -95,8 +94,14 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-ERScaffold
-Eagle_Mode
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,7 +131,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Firefox_ESR
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -148,8 +152,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Graviton
-Gulden
+Glyphr_Studio_Desktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -181,10 +184,9 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Julius
-KevEdit
-KeyManager
-KeyboardClient
+JReleaser
+James
+JoalDesktop
 Keys
 KiCad
 Kiibohd_Configurator
@@ -232,7 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -272,9 +273,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PIA
-PacketSender
+P2PDerivatives
 Padloc
 Painel-Web
 Paletti
@@ -354,7 +355,9 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-Rats_on_The_Boat
+SBLauncher
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -384,7 +387,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -417,6 +420,7 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+SwagLyrics
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -442,7 +446,7 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
-UltraScreen
+VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -510,8 +514,8 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-graphql-playground
-gsubs
+feebas
+feedseries
 guglielmo
 guiscrcpy
 hero-display
@@ -551,10 +555,9 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
-luna
-makoureactor
-mandelbulber2
+mtCellEdit
+mutool
+my-budget
 mybelka
 n3h
 nRF_Connect
@@ -583,7 +586,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
+pomotroid
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -626,8 +629,8 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
+weweChat
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
