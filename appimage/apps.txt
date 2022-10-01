@@ -80,9 +80,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
-Cryptr
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -148,7 +147,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Flippy_Qualitative_Testbench
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -169,7 +170,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -206,7 +207,8 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-KOReader
+KeeWeb
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -248,8 +250,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+MoarPerf
 Mob
 Mockman
 Monot
@@ -290,7 +291,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -332,9 +332,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -377,6 +374,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RyoWallet
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -445,6 +443,11 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -475,8 +478,8 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
-WatchIt
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -509,10 +512,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
+ao
 bauh
-cric
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -550,9 +553,10 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
-hw-probe
-hyper
+gerbv
+getswell
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -585,9 +589,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
-n3h
-nRF_Connect
+mapollage
+mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -617,8 +621,9 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
-rmw
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
 runanode
 sabaki
 saphyr
@@ -658,13 +663,16 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+vREST_NG
+violetbug
 youtube-music
 youtube-music-desktop
 ytDownloader
