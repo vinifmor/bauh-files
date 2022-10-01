@@ -37,7 +37,6 @@ Augur
 Auryo
 Axe_Electrum
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -82,8 +81,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-Cool_Retro_Term
+ClementineRemote
 Cscrypto
 CubicSDR
 Cura
@@ -149,10 +147,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_ESR
-FreeTexturePacker
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -175,10 +170,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -211,7 +206,7 @@ Juggernaut
 Julius
 KADE
 KOReader
-Knowte
+Kage
 KopiaUI
 LANShare
 LCEdit
@@ -252,8 +247,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+Mirage
+MoarPerf
 Mob
 Mockman
 Monot
@@ -294,8 +289,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+OpenBlok
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -336,6 +331,9 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -376,9 +374,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Record_Compare
-SF_Tube
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -408,12 +405,12 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+Slacktronic
 Spectrum
 SpeedyLoader
 Spivak
@@ -483,8 +480,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-WalletTech
+VivifyScrum
 WebDesktop
 Webamp
 Wexond
@@ -518,8 +514,14 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
 bauh
+cabal-desktop
+caprine
+colorstatic-bash
+cordlauncher
+cric
+dashy-app
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -557,13 +559,11 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
+huwinterpreter
 hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -597,8 +597,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -630,7 +629,6 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -679,7 +677,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-youtube-music-desktop
 yuzu
 zograscope
 zsync2
