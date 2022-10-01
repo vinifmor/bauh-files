@@ -36,8 +36,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
 Bitwarden
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -81,9 +81,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-ClementineRemote
-Cscrypto
-CubicSDR
+CleepDesktop
+Colon
 Cura
 CustomRPC
 CutePeaks
@@ -207,8 +206,8 @@ Julius
 KADE
 KOReader
 Kage
-KopiaUI
-LANShare
+Kanon
+KawAnime
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -247,8 +246,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -280,7 +279,6 @@ NoTer
 Nostlan
 Notable
 NoteMaster
-Notesnook
 OCRmyPDF
 OCVWarp
 OCVvid2fulldome
@@ -289,7 +287,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenBlok
+Olive
+Onenote
 Painel-Web
 Paletti
 PanWriter
@@ -334,9 +333,10 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
 ProtonUp-Qt
 PrusaSlicer
-QDriverStation
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -375,7 +375,6 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -410,7 +409,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Slacktronic
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -480,10 +479,9 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VivifyScrum
-WebDesktop
-Webamp
-Wexond
+VNote
+VPaint
+Valeronoi
 Whalebird
 Wire
 WishDemo
@@ -513,12 +511,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
+antimicroX
 bauh
-cabal-desktop
-caprine
-colorstatic-bash
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -596,7 +590,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+neovim
 ngPost
 ngrev
 nheko
@@ -629,6 +623,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
+sabaki
 saphyr
 scavengers
 school-sections
