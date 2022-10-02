@@ -36,8 +36,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
 Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -81,8 +81,9 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-Colon
+ClementineRemote
+Cscrypto
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -169,10 +170,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -205,9 +206,9 @@ Juggernaut
 Julius
 KADE
 KOReader
-Kage
-Kanon
-KawAnime
+Knowte
+KopiaUI
+LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -247,8 +248,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-Mob
 Mockman
 Monot
 Moonlight
@@ -287,9 +286,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
-Onenote
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -335,8 +333,11 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QEMU_PowerPC
 QMPlay2
 QMediathekView
@@ -375,7 +376,9 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-SMPlayer
+Reactotron
+Rebaslight
+Rotki
 SMathStudio
 SMath_Studio
 SPlayer
@@ -409,7 +412,6 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -480,8 +482,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -511,7 +513,6 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-antimicroX
 bauh
 cric
 dashy-app
@@ -553,7 +554,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
+gerbv
 hw-probe
 hyper
 impact
@@ -590,9 +591,11 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-neovim
-ngPost
-ngrev
+marktext
+marlin-conf
+mdview
+media-dupes
+mira-backup
 nheko
 nimbus-weather
 nordvpn-linux
@@ -623,12 +626,12 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -672,6 +675,6 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
 yuzu
-zograscope
-zsync2
