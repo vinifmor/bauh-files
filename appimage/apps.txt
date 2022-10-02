@@ -36,10 +36,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-Birds_Kitchen
 Bitwarden
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -148,7 +145,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Franz
 FreeTube
 FromScratch
 GDevelop
@@ -172,9 +168,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
+GooboxFileShare
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -209,6 +205,8 @@ Julius
 KADE
 KDiskMark
 KOReader
+Kage
+KawAnime
 Knowte
 KopiaUI
 LANShare
@@ -291,7 +289,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -340,8 +338,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -380,8 +376,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -412,12 +407,11 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
+Sourcetrail
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -520,8 +514,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
 bauh
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -560,10 +554,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-githoard
+huwinterpreter
+hw-probe
+hyper
 impact
 iota1k
 iptvnator
@@ -598,9 +591,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-nRF_Connect
-neovim
-ngPost
+marktext
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -629,9 +621,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -675,11 +667,11 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-x-loc
-xde
-xonsh
+unreel
+updatedeployqt
+upterm
+vREST_NG
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
