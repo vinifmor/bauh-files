@@ -33,6 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
+Beekeeper_Studio
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -70,7 +73,8 @@ CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
-Carpenters
+Code_OSS
+ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -101,6 +105,8 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -133,6 +139,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Franz
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -150,11 +158,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Gpredict
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -187,7 +193,6 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -235,8 +240,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MegaBasterd
-MeshLab
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -279,7 +282,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -359,6 +361,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+RawTherapee
+RoboRock_Control_Center
+SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -389,8 +394,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Slacktronic
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -422,7 +425,14 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
 SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -454,7 +464,7 @@ VK_Desktop
 VLC
 VNote
 VidCutter
-WatchIt
+Vipster
 WebDesktop
 Webamp
 Wexond
@@ -526,12 +536,8 @@ fmradio
 four
 foxfolio
 fre:ac
-gerbv
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
+freeman
+gLabels
 huwinterpreter
 hw-probe
 hyper
@@ -573,6 +579,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
+media_mate
+meta-grabber
+my-budget
 nheko
 nimbus-weather
 nordvpn-linux
@@ -600,8 +609,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-qpdf
+ridereceipts
 rmw
 runanode
 sabaki
@@ -636,19 +644,20 @@ theWeb
 thorium-client
 timer
 tmon
+tnt
+torrenttools
+triagem-touch
+ttth
 tweet-tray
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
+twetter
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
 wxMEdit
-wxMaxima
-x-loc
-xde
 xonsh
 youtube-music
 youtube-music-desktop
