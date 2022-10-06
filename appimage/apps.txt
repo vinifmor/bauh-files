@@ -26,8 +26,7 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Armagetron_Advanced
-Artisan
+BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -64,9 +63,7 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CP_Editor
-CPod
-CRG_Data_Tool
+CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -98,10 +95,9 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
-Delir
 Demonizer
-Deployer
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -131,8 +127,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -153,7 +148,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -186,7 +180,7 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-KeePassXC
+Keibo-MoneyTracker-x86_64
 KevEdit
 KeyManager
 KeyboardClient
@@ -234,9 +228,8 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
-Mattermost_Desktop
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -275,9 +268,11 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+OWallet
+OpenTodoList
+POE_Ladder
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -318,8 +313,11 @@ Podman
 PolkaKey
 Popsicle
 Postman
+PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -353,9 +351,10 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
-RyoWallet
-SBLauncher
-SFRT_Attendance
+RasterDraw
+Rats_on_The_Boat
+Raven_Reader
+Rufus
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -386,8 +385,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SlackBackup
-SocNetV
+SmallBASIC
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -419,6 +417,13 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -446,7 +451,8 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-WalletTech
+VK_Desktop
+VidCutter
 WatchFlower
 WatchIt
 WebDesktop
@@ -482,6 +488,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+buttercup
 cordlauncher
 cric
 dashy-app
@@ -523,8 +530,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gsubs
-hsinstall
+gibs
 htmldoc
 hugin
 huwinterpreter
@@ -594,8 +600,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+polar-bookshelf
 quokkagit
-rasterview
 ridereceipts
 rmw
 runanode
@@ -640,7 +646,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-wxMEdit
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
