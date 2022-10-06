@@ -81,8 +81,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -171,9 +170,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -291,7 +290,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
 PanWriter
 Panini
 Paper
@@ -336,8 +334,11 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -374,7 +375,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Record_Compare
+RawTherapee
+Reactotron
+Rufus
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -404,10 +407,10 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Soapy_SDR
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -444,7 +447,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -475,9 +477,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VeChain
-WatchIt
-WebDesktop
+VPaint
 Webamp
 Wexond
 Whalebird
@@ -507,10 +507,10 @@ Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
 bauh
+colorstatic-bash
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -550,6 +550,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+htmldoc
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -593,7 +595,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
+nimbus-weather
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nx-software-center
 nxshell
@@ -621,7 +625,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
+saphyr
 scavengers
 school-sections
 ser-player
@@ -662,13 +666,13 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-vREST_NG
-vifm
-violetbug
+wxMaxima
+x-loc
+xde
+xonsh
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
