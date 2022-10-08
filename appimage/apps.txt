@@ -146,8 +146,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -170,11 +172,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GradeStats
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,9 +210,9 @@ KADE
 KDiskMark
 KOReader
 Kage
-Kanon
-KawAnime
-Kcov
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -249,8 +250,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+MoarPerf
+Mob
 Mockman
 Monot
 Moonlight
@@ -289,8 +290,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -336,12 +336,8 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -380,6 +376,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -412,8 +409,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
-Speaky_MiniPlayer
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -453,6 +450,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -486,7 +484,6 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Viper_Browser
 Wire
 WishDemo
 Woke
@@ -521,9 +518,10 @@ ao
 appimagelint
 appimagetool
 appium-desktop
-autoEdit2
-avogadro
 bauh
+devdocs-desktop
+dexter_dev_env
+dfDemo
 dingtalk
 draw.io
 dukto
@@ -564,9 +562,7 @@ glulxe
 graphql-playground
 gsubs
 guglielmo
-guiscrcpy
-hpack
-iptvnator
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -604,9 +600,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
-ngrev
-nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -680,5 +673,7 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
 yuzu
-zsync2
+zograscope
