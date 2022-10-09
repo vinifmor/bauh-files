@@ -85,7 +85,9 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
+Cscrypto
+Cura
+CustomRPC
 CutePeaks
 CuteVariant
 Cutter
@@ -166,11 +168,12 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Heimer
-HermesMessenger
-HexoClient
-HexoEditor
-HiDPI-Fixer
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -205,8 +208,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kitupiikki
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -249,7 +250,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mob
+McPodcast
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -287,10 +289,11 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
+PanWriter
 Panini
 Paper
 Papercraft
@@ -340,9 +343,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
-Python
-QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -379,8 +379,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -412,11 +413,11 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Sovren.Batch.Parser
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -485,10 +486,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
-Wexond
-Whalebird
+VPaint
+Valeronoi
+VeChain
 Wire
 WishDemo
 Woke
@@ -522,8 +522,8 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
 bauh
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -565,7 +565,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -608,6 +608,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+moolticute
 onnx2bnn
 onnx2daq
 openblok
@@ -640,7 +641,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-snapshot-slider
+qpp::cad
 snomcontrol
 spark-wallet
 spm
@@ -683,5 +684,4 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
-zograscope
+ytDownloader
