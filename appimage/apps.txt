@@ -35,8 +35,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -80,12 +80,10 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Code_OSS
-Cool_Retro_Term
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
+CircuitBlocks
+City_Hub
+CleepDesktop
+ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -149,9 +147,7 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -174,9 +170,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+Guitar
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -214,6 +211,8 @@ KOReader
 Kage
 Kanon
 KawAnime
+Kcov
+KeePassXC
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -254,6 +253,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
+Mechvibes
 Mob
 Mockman
 Monot
@@ -295,8 +295,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -340,8 +340,12 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -380,6 +384,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rebaslight
 ReliefValve
 SMathStudio
 SMath_Studio
@@ -415,7 +420,9 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+SocNetV
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -527,6 +534,8 @@ avogadro
 bauh
 bioanimation
 bottlenose
+deltachat-desktop
+dfDemo
 draw.io
 dukto
 dvdisaster
@@ -567,6 +576,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
+hotspot
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -605,6 +616,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -632,9 +644,9 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-ser-player
-simple-s3-uploader
-simple-timer
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
@@ -678,4 +690,6 @@ vREST_NG
 vifm
 violetbug
 vue-calc
-yuzu
+vuerd
+weatherdump
+westeroscraftlauncher
