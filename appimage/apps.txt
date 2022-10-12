@@ -35,6 +35,7 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -80,7 +81,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -147,6 +149,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -168,13 +171,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-HermesMessenger
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -203,10 +204,11 @@ Join_Desktop
 Joplin
 Joy2DroidX
 Juggernaut
-Kitupiikki
-Klogg
-Knowte
-KopiaUI
+Julius
+KADE
+KDiskMark
+KOReader
+Kage
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -287,7 +289,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Padloc
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -328,6 +331,11 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -368,7 +376,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RetroShare
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -399,8 +406,10 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
+SimplEOS
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -429,6 +438,13 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -461,6 +477,7 @@ VLC
 VNote
 VPaint
 Valeronoi
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -494,7 +511,6 @@ android-messages-desktop
 antimicroX
 ao
 bauh
-dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -531,7 +547,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-glTF_Insight
+gerbv
+htmldoc
 huwinterpreter
 hw-probe
 hyper
@@ -578,7 +595,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-moniteur-admin
 nx-software-center
 nxshell
 ommpfritt
@@ -604,12 +620,12 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
 qBittorrent_Enhanced_Edition
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -650,9 +666,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-youtube-music
-youtube-music-desktop
-ytDownloader
+vREST_NG
+vifm
+violetbug
 yuzu
 zograscope
 zsync2
