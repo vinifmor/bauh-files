@@ -36,9 +36,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-Bazecor
+AzPainter
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -81,10 +80,14 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -145,8 +148,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+Frappe_Accounting
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -168,11 +172,10 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+Heimer
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -203,13 +206,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
-KawAnime
+KeyManager
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -252,6 +253,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -292,8 +294,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -337,13 +338,8 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -384,6 +380,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -417,6 +414,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
+SimplEOS
+SmartGit
 Spectrum
 SpeedyLoader
 Spivak
@@ -482,8 +481,6 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-Upscayl
-V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -521,9 +518,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-bioanimation
-clipr
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -564,8 +558,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -603,6 +596,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
+marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -632,6 +627,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+pomotroid
+pretty-handy-privacy
+pyappimage
 rmw
 runanode
 sabaki
@@ -679,7 +677,7 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-xonsh
+upterm
 youtube-music
 youtube-music-desktop
 ytDownloader
