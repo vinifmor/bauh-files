@@ -32,7 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -65,9 +64,11 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
-CRG_Data_Tool
-CRIC
+Circle-Z
+City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
 Cloud_Browser
 Code_OSS
 Colon
@@ -95,12 +96,10 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
 DeepTags
-Delir
-Deployer
-DokiDokiModManager
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,8 +128,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
+Figma
+FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -152,6 +151,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GradeStats
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -183,6 +184,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -233,7 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MiniZinc_IDE
 Minions
 Mirage
 MoarPerf
@@ -276,7 +277,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Padloc
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -357,7 +358,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -388,7 +389,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Slacktronic
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -415,15 +416,7 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -448,7 +441,8 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-VirtScreen
+UltraGrid
+Valeronoi
 Vitomu
 VivifyScrum
 VizGraph
@@ -476,9 +470,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appimagetool
-appium-desktop
-autoEdit2
+ZapDesktop
+ai-bot-workspace
 avogadro
 bauh
 bioanimation
@@ -509,8 +502,9 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
-fre:ac
+elcalc
+electron-wechat
+elzabrowser
 freeman
 gLabels
 gerbv
@@ -560,9 +554,11 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-mki3dgame
-moniteur-admin
-mtCellEdit
+luminance-hdr
+luna
+makoureactor
+mandelbulber2
+mira-backup
 mutool
 my-budget
 mybelka
@@ -594,8 +590,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qikQR
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -636,6 +630,8 @@ thorium-client
 timer
 tmon
 tnt
+torrenttools
+triagem-touch
 weatherdump
 westeroscraftlauncher
 weweChat
