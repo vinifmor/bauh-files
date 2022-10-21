@@ -33,7 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+BTS-CE-Lite
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,9 +69,9 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Cliniface
+Cloud_Browser
+Code_OSS
+Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -99,10 +101,6 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Discord
 Eksplode.re
 ElDumper
 Electorrent
@@ -133,7 +131,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fluent_Reader
+FontForge
+FranceTV
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -154,7 +154,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GrinPlusPlus
+Groot
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -183,9 +185,11 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
-IrScrutinizer
-Isolate
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -236,6 +240,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Memento
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -272,10 +278,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Open_Markup_Editor
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -317,10 +323,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
-Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -358,7 +362,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-RedmineTimeTracker
+Rebaslight
 SFRT_Attendance
 SF_Tube
 SMF-DSP
@@ -387,7 +391,10 @@ Serial_Studio
 Shadowsocks
 Shannon_Calculator
 ShareMyHost
-Soapy_SDR
+Sharp-Tune
+Sheikah
+Shotcut
+SigDigger
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -420,7 +427,8 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Syncplay
+Superpaper
+SwagLyrics
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -447,7 +455,9 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-VizGraph
+UniShellect
+Upscayl
+V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -478,11 +488,11 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
+Zulip
+accessimap-lecteur-der
+acreom
+ai-bot-workspace
 bauh
-clippy
-clipr
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -520,7 +530,7 @@ flameshot
 flightgear-airports
 fmradio
 four
-hero-display
+foxfolio
 hotspot
 hpack
 hsinstall
@@ -559,6 +569,7 @@ logseq
 lumi
 luminance-hdr
 luna
+mutool
 my-budget
 mybelka
 n3h
@@ -632,7 +643,6 @@ tnt
 torrenttools
 triagem-touch
 ttth
-unreel
 weweChat
 wezterm
 whiteboard
