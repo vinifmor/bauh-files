@@ -33,8 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,12 +77,10 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
+Chiaki
+Circle-Z
+CircuitBlocks
+City_Hub
 CubicSDR
 Cura
 CustomRPC
@@ -112,6 +110,9 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,7 +143,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
+Frappe_Accounting
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -163,8 +165,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -245,7 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -286,7 +286,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -327,6 +328,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -366,7 +368,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
+RoloViewer
+SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -398,7 +401,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
+SigDigger
+Skrifa
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -437,6 +441,9 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -462,7 +469,9 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
-VizGraph
+UltraScreen
+UniShellect
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -495,11 +504,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-clipr
-cncjs
-colorstatic-bash
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -535,12 +544,11 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 huwinterpreter
 hw-probe
 hyper
@@ -608,7 +616,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pretty-handy-privacy
+privacy.sexy
+qBittorrent_Enhanced_Edition
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -654,10 +663,11 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
 xde
 xonsh
 youtube-music
