@@ -33,10 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Beekeeper_Studio
+Augur
+Auryo
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -81,6 +80,9 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
+City_Hub
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -150,7 +152,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -172,9 +173,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-Graviton
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -210,7 +210,7 @@ Juggernaut
 Julius
 KADE
 KDiskMark
-KOReader
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -252,6 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MineTime
 MoarPerf
 Mob
 Mockman
@@ -294,10 +295,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Onyx
-Painel-Web
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -340,8 +339,13 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -381,8 +385,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Rebaslight
-SMF-DSP
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -414,7 +417,8 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
+Sourcetrail
+Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -450,11 +454,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -483,9 +482,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Verto
-WalletTech
-WatchFlower
+V2Ray-Desktop
 WatchIt
 WebDesktop
 Webamp
@@ -561,7 +558,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
+gerbv
 hw-probe
 hyper
 impact
@@ -599,6 +596,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
+neovim
 ngPost
 ngrev
 nheko
@@ -629,7 +627,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -674,10 +672,11 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
-xonsh
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+whiteboard
 youtube-music
 youtube-music-desktop
 ytDownloader
