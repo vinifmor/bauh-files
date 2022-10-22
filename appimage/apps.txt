@@ -34,6 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+BetterSIS
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -77,9 +79,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Cloud_Browser
+Cool_Retro_Term
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -149,8 +151,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -172,11 +176,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
 Heroic Games Launcher
+HexoClient
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -210,6 +214,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -250,10 +255,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-MegaBasterd
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -295,7 +296,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -337,8 +338,16 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -377,9 +386,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
-RyoWallet
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -413,8 +420,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -483,7 +490,6 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -518,8 +524,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -559,7 +565,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
+gerbv
 hw-probe
 hyper
 impact
@@ -597,8 +603,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
+mini-qml
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -627,7 +634,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
+quokkagit
 rmw
 runanode
 sabaki
@@ -674,8 +682,7 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
+xonsh
 youtube-music
 youtube-music-desktop
 ytDownloader
