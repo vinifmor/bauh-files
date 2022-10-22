@@ -36,8 +36,9 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
+BetterSIS
 Bitwarden
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -82,7 +83,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CubicSDR
+CleepDesktop
 Cura
 CustomRPC
 CutePeaks
@@ -148,6 +149,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -207,6 +209,8 @@ Julius
 KADE
 KDiskMark
 KOReader
+KettleClient
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -290,8 +294,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -381,7 +385,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -418,6 +421,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Sourcetrail
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -485,8 +490,8 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VidCutter
-WatchIt
+VNote
+Vieb
 WebDesktop
 Webamp
 Wexond
@@ -522,7 +527,9 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
+ao
 bauh
+cric
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -565,6 +572,7 @@ getswell
 gibs
 githoard
 glTF_Insight
+glulxe
 iota1k
 iptvnator
 irccloud-desktop
@@ -596,10 +604,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
-nRF_Connect
-neovim
-ngPost
+mapollage
+mapton
+marktext
 ngrev
 nheko
 nimbus-weather
@@ -628,13 +635,10 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-qBittorrent_Enhanced_Edition
-quokkagit
-rasterview
-ridereceipts
-rmw
-runanode
-sabaki
+polar-bookshelf
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 saphyr
 scavengers
 school-sections
@@ -679,10 +683,11 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-xonsh
-youtube-music
-youtube-music-desktop
-ytDownloader
+upterm
+vREST_NG
+vifm
+violetbug
+weweChat
 yuzu
 zograscope
 zsync2
