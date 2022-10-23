@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -79,8 +79,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -144,6 +144,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Fidias_Database_Migration_App
+Firefox_ESR
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -164,7 +166,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+GoldenCheetah
+GradeStats
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -200,7 +204,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -247,8 +250,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -340,8 +341,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -453,8 +452,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -483,8 +480,6 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-V2Ray-Desktop
-VPaint
 WalletTech
 WatchFlower
 WatchIt
@@ -517,10 +512,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-cncjs
-colorstatic-bash
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -561,7 +557,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -595,9 +590,9 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-mutool
-my-budget
-mybelka
+luna
+makoureactor
+mandelbulber2
 n3h
 nRF_Connect
 neovim
@@ -628,7 +623,6 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -673,11 +667,13 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
+weweChat
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
 xonsh
 youtube-music
 youtube-music-desktop
