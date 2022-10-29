@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Axe_Electrum
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -81,7 +81,9 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
+ClementineRemote
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -147,7 +149,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraidycat
 FreeTube
 Friture
 FromScratch
@@ -174,8 +175,6 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -251,7 +250,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
 Mob
 Mockman
 Monot
@@ -292,8 +291,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-POE_Ladder
 Painel-Web
 Paletti
 PanWriter
@@ -378,7 +375,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -412,8 +408,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
-Spectrum
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -450,6 +446,7 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -479,9 +476,8 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
+WatchFlower
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -515,10 +511,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
-ao
 bauh
+cric
+dashy-app
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -556,6 +552,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+gerbv
 huwinterpreter
 hw-probe
 hyper
@@ -593,9 +590,9 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-neovim
-ngPost
-ngrev
+marktext
+marlin-conf
+mdview
 nheko
 nimbus-weather
 nordvpn-linux
@@ -626,6 +623,7 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -673,9 +671,7 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-wxMEdit
-youtube-music
-ytDownloader
+vifm
 yuzu
 zograscope
 zsync2
