@@ -34,6 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+BTS-CE-Lite
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -79,10 +81,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
+CircuitBlocks
+City_Hub
 CubicSDR
 Cura
 CustomRPC
@@ -145,11 +145,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -166,14 +165,16 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
-HermesMessenger
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -201,13 +202,14 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
+Kage
 Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
-Knowte
-KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -288,9 +290,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
-Paletti
-PanWriter
+Obsidian
+Olive
 Panini
 Paper
 Papercraft
@@ -339,6 +340,7 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
+Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -377,7 +379,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -409,6 +411,7 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
+SmartGit
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -449,8 +452,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -480,7 +481,7 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-WatchFlower
+VK_Desktop
 WatchIt
 WebDesktop
 Webamp
@@ -557,7 +558,7 @@ fre:ac
 freeman
 gLabels
 gerbv
-huwinterpreter
+getswell
 hw-probe
 hyper
 impact
@@ -594,6 +595,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
+marktext
 ngPost
 ngrev
 nheko
@@ -625,7 +627,8 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
+rmw
+runanode
 sabaki
 saphyr
 scavengers
@@ -673,8 +676,8 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
+youtube-music
+ytDownloader
 yuzu
 zograscope
 zsync2
