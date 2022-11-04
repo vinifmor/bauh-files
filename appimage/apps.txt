@@ -33,8 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -113,6 +113,8 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -162,8 +164,10 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
-HastyHeroes
+Gingko
+GitHubDesktop
+GitJournal
+Google_Tasks_Desktop
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -196,8 +200,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyboardClient
-Keys
+Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -244,6 +248,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
+MineTime
+Minions
 Mirage
 MoarPerf
 Mob
@@ -285,6 +292,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -327,6 +335,8 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -366,8 +376,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
-SF_Tube
+Raven_Reader
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -400,9 +409,8 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
-SimpleInstaBot
+Sourcetrail
+Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -440,9 +448,6 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -469,7 +474,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-VizGraph
+UniShellect
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -502,10 +508,9 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
 bauh
-caprine
-clipr
-cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -546,9 +551,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -585,7 +589,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -616,8 +619,11 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
 pnpm
+qBittorrent_Enhanced_Edition
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -663,8 +669,9 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
+wxMEdit
+wxMaxima
+x-loc
 xde
 xonsh
 youtube-music
