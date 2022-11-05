@@ -36,9 +36,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
 Bitwarden
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -80,11 +79,11 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
-Cura
+CircuitBlocks
+City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
 CustomRPC
 CutePeaks
 CuteVariant
@@ -170,9 +169,9 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -208,8 +207,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kcov
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -251,6 +248,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
 MoarPerf
 Mob
 Mockman
@@ -293,6 +291,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Outline-Manager
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -339,8 +339,11 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -416,8 +419,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
-SpeedyLoader
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -485,7 +487,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -519,10 +520,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
+ao
 bauh
-cric
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -561,11 +561,12 @@ fre:ac
 freeman
 gLabels
 gerbv
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -599,7 +600,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
+marlin-conf
+media_mate
 ngPost
 ngrev
 nheko
@@ -630,10 +632,10 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-qTox
-rasterview
-ridereceipts
-rmw
+pomotroid
+pretty-handy-privacy
+privacy.sexy
+python2
 runanode
 sabaki
 saphyr
@@ -680,9 +682,11 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-xonsh
-youtube-music
-youtube-music-desktop
+upterm
+vREST_NG
+vifm
+violetbug
+xde
 ytDownloader
 yuzu
 zograscope
