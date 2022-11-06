@@ -35,6 +35,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
 Bitwarden
 Blizzard_4
 Blockbench
@@ -77,11 +79,13 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
+Colorpicker
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -112,7 +116,6 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -168,10 +171,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
+Guitar
 Heroic Games Launcher
+HexoClient
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -206,6 +210,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -246,6 +251,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
+MoarPerf
 Mob
 Mockman
 Monot
@@ -287,6 +294,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Open_Markup_Editor
 Paletti
 PanWriter
 Panini
@@ -331,12 +339,8 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -375,6 +379,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -406,7 +411,7 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
+Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -476,7 +481,7 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-WatchFlower
+VK_Desktop
 WatchIt
 WebDesktop
 Webamp
@@ -508,10 +513,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-cncjs
-colorstatic-bash
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -545,12 +550,13 @@ feebas
 feedseries
 file-converter
 flameshot
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 huwinterpreter
 hw-probe
 hyper
@@ -589,7 +595,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -620,8 +626,8 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-rmw
-runanode
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -669,7 +675,6 @@ unreel
 updatedeployqt
 upterm
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
