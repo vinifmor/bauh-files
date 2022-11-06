@@ -33,11 +33,10 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Auryo
-Axe_Electrum
-AzPainter
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -79,11 +78,9 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Colorpicker
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
+Circle-Z
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -116,6 +113,7 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -171,11 +169,10 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-Guitar
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -210,7 +207,8 @@ Julius
 KADE
 KDiskMark
 KOReader
-Knowte
+Kage
+Kanon
 KopiaUI
 LANShare
 LCEdit
@@ -251,8 +249,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
-MoarPerf
 Mob
 Mockman
 Monot
@@ -294,8 +290,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Open_Markup_Editor
-Paletti
+POE_Ladder
 PanWriter
 Panini
 Paper
@@ -339,8 +334,12 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -379,7 +378,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -411,12 +409,11 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-Sonist
-Sourcetrail
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SimplEOS
 SpeedyLoader
 Spivak
 Stacer
@@ -452,6 +449,8 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -482,8 +481,7 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchIt
-WebDesktop
+VLC
 Webamp
 Wexond
 Whalebird
@@ -516,8 +514,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -557,10 +555,11 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
-hw-probe
-hyper
-impact
+gerbv
+getswell
+gibs
+githoard
+glTF_Insight
 iota1k
 iptvnator
 irccloud-desktop
@@ -594,8 +593,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-marlin-conf
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -627,7 +626,7 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-privacy.sexy
+runanode
 sabaki
 saphyr
 scavengers
@@ -674,7 +673,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+xonsh
 youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
