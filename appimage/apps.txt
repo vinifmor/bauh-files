@@ -33,6 +33,7 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+AzPainter
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -68,10 +69,12 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
+Circle-Z
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
@@ -101,7 +104,6 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -152,8 +154,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitHubDesktop
-Gulden
+GoldenDict
 HDRMerge
 HastyHeroes
 Heimer
@@ -183,10 +184,8 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
+IrScrutinizer
+Isolate
 KevEdit
 KeyManager
 KeyboardClient
@@ -237,7 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -319,8 +317,10 @@ Podman
 PolkaKey
 Popsicle
 Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
+Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -358,7 +358,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+Raven_Reader
+RoboRock_Control_Center
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -389,6 +390,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SigDigger
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -423,6 +425,8 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
+SwitchHosts!
+Symphonium
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -446,7 +450,8 @@ TurboWarp
 Turntable
 Tusk
 TweakSophia
-VirtScreen
+UHK.Agent
+UltraGrid
 Vitomu
 VivifyScrum
 VizGraph
@@ -473,7 +478,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+appimagetool
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -504,8 +510,8 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
 element
+fmradio
 four
 foxfolio
 fre:ac
@@ -560,6 +566,8 @@ logseq
 lumi
 luminance-hdr
 luna
+makoureactor
+mapollage
 my-budget
 mybelka
 n3h
@@ -630,9 +638,8 @@ thorium-client
 timer
 tmon
 tnt
-vuerd
-weatherdump
-westeroscraftlauncher
+torrenttools
+triagem-touch
 weweChat
 wezterm
 whiteboard
