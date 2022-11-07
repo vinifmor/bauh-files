@@ -32,8 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -66,13 +66,12 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
@@ -102,7 +101,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Dragoman
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,6 +131,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Ferdi
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -152,6 +152,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitHubDesktop
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -181,9 +183,10 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-IrScrutinizer
-Isolate
-JReleaser
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -234,6 +237,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -272,9 +277,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -314,8 +319,6 @@ Podman
 PolkaKey
 Popsicle
 Postman
-PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -386,7 +389,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -418,6 +420,9 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -441,7 +446,6 @@ TurboWarp
 Turntable
 Tusk
 TweakSophia
-UHK.Agent
 VirtScreen
 Vitomu
 VivifyScrum
@@ -470,7 +474,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -502,6 +505,8 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+element
+four
 foxfolio
 fre:ac
 freeman
@@ -555,8 +560,6 @@ logseq
 lumi
 luminance-hdr
 luna
-marktext
-mutool
 my-budget
 mybelka
 n3h
@@ -627,8 +630,8 @@ thorium-client
 timer
 tmon
 tnt
-torrenttools
-triagem-touch
+vuerd
+weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
