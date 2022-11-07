@@ -35,10 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -84,7 +83,7 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cliniface
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -148,7 +147,9 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTexturePacker
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -170,12 +171,13 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
 Heroic Games Launcher
+HexoClient
+HexoEditor
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
+Hyperspace
 IGdm
 INSTEAD
 ITUSB1_Manager
@@ -207,9 +209,8 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
+Knowte
+KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -249,6 +250,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MoarPerf
 Mob
 Mockman
 Monot
@@ -288,8 +290,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -330,12 +331,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -378,6 +373,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -410,7 +406,6 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -479,7 +474,8 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WalletTech
+WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -593,7 +589,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-moniteur-admin
 neovim
 ngPost
 ngrev
@@ -625,6 +620,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+rasterview
 ridereceipts
 rmw
 runanode
@@ -672,8 +668,7 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
+xonsh
 youtube-music
 youtube-music-desktop
 ytDownloader
