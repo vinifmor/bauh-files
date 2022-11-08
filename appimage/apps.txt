@@ -30,10 +30,7 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
-Bench_CLI
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
+Astroffers
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,6 +62,7 @@ BytespeicherTrayIcon
 CARTA
 CATcher
 CIAA_Suite
+CPU-X
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -95,9 +93,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,9 +124,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
-Filmulator
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -149,6 +145,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitHubDesktop
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -177,9 +176,12 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
-IrScrutinizer
-Isolate
+JoalDesktop
+KawAnime
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -231,7 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MineTime
 Mirage
 MoarPerf
 Mob
@@ -273,7 +274,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-PDFQuirk
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -309,13 +310,6 @@ PlotJuggler
 Plover
 PocketCasts_Electron
 Poddr
-Podman
-PolkaKey
-Popsicle
-Postman
-PostyBirb
-PowerShell
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -355,7 +349,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SBLauncher
+RyoWallet
 SFRT_Attendance
 SF_Tube
 SMF-DSP
@@ -419,9 +413,6 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -446,7 +437,6 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-UltraGrid
 Vitomu
 VivifyScrum
 VizGraph
@@ -473,8 +463,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
+appimagelint
+appimagetool
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -504,8 +495,10 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-eXtrema
-ehdev-shell
+evoplex
+fmradio
+four
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -557,8 +550,6 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-marktext
 mutool
 my-budget
 mybelka
@@ -589,6 +580,7 @@ pdf-sync
 perl-executing-browser
 photoname
 pigs-n-cows
+pingviewer
 qikQR
 qpdf
 qpp::cad
@@ -629,7 +621,6 @@ theFrame
 theWeb
 thorium-client
 timer
-unified-communications
 vue-calc
 vuerd
 weatherdump
