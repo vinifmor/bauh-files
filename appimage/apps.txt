@@ -32,8 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -70,12 +68,9 @@ CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
+Calculist
 Carpenters
-ClementineRemote
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+Cascade_Image_Editor
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -107,9 +102,6 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
-Discord
-DockStation
-DokiDokiModManager
 Eksplode.re
 ElDumper
 Electorrent
@@ -160,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Glyphr_Studio_Desktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -195,7 +186,7 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Kanon
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -282,6 +273,7 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
 Padloc
 Painel-Web
@@ -364,7 +356,6 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -395,7 +386,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimDSP
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -428,7 +418,8 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
-Symphonium
+SwagLyrics
+SwiftnessX
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -453,9 +444,11 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-UniShellect
+VeChain
+Vessel
+VirtScreen
+Vitomu
+VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -482,6 +475,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+autoEdit2
+avogadro
 bauh
 bioanimation
 bottlenose
@@ -512,13 +507,12 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
-erdesigner
+fre:ac
+freeman
+gLabels
+gerbv
+getswell
+gibs
 githoard
 glTF_Insight
 glulxe
@@ -596,6 +590,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pkg2appimage
+playyourdamnturn.com
+python3
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -639,13 +636,12 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
+westeroscraftlauncher
+weweChat
+wezterm
 whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
