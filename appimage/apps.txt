@@ -27,11 +27,12 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Artisan
-AsarUI
-AstroShutter
-Astroffers
-Axe_Electrum
+AudioMoth
+Beatconnect_Client
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -62,10 +63,9 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
+Carpenters
+City_Hub
+CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -95,6 +95,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -127,7 +128,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fluent_Reader
+Fractale
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -148,8 +149,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GoldenDict
-GpgFrontend
+Gingko
+GitQlient
 HDRMerge
 HastyHeroes
 Heimer
@@ -181,7 +182,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KevEdit
+JReleaser
+James
 KeyManager
 KeyboardClient
 Keys
@@ -231,7 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Memento
 Meshmill
 Minions
 Mirage
@@ -273,8 +274,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -355,7 +356,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+Raven_Reader
+Record_Compare
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -386,8 +388,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimDSP
-Soapy_SDR
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -417,9 +418,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-T.Viewer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -444,8 +443,8 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-Vipster
-VirtScreen
+UltraGrid
+VPaint
 Vitomu
 VivifyScrum
 VizGraph
@@ -473,8 +472,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZeGrapher
-appium-desktop
+ZapDesktop
+Znax
 autoEdit2
 avogadro
 bauh
@@ -506,6 +505,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+elcalc
 fre:ac
 freeman
 gLabels
@@ -556,9 +556,9 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
-luna
-makoureactor
+movie-monad
+mtCellEdit
+mutool
 my-budget
 mybelka
 n3h
@@ -589,6 +589,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -632,12 +633,10 @@ tnt
 torrenttools
 triagem-touch
 ttth
-upterm
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
+tweet-tray
+twetter
+twitch-wrapper
+uncov
 windows2usb
 wxMEdit
 wxMaxima
