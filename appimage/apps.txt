@@ -29,7 +29,9 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
-Birds_Kitchen
+AstroShutter
+Astroffers
+BTS-CE-Lite
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -62,8 +64,8 @@ BytespeicherTrayIcon
 CARTA
 CATcher
 CIAA_Suite
-Cavoke
-CleepDesktop
+CPU-X
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -93,9 +95,10 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
+DevHub
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -125,6 +128,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Ferdi
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -145,6 +149,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GrinPlusPlus
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -177,7 +183,9 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -228,6 +236,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MegaBasterd
+Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -266,10 +276,11 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+Onenote
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -310,9 +321,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -348,9 +359,8 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
-RoloViewer
-RyoWallet
-SBLauncher
+RasterDraw
+Rats_on_The_Boat
 SFRT_Attendance
 SF_Tube
 SMF-DSP
@@ -382,6 +392,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -411,9 +422,8 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
+Tablo_Tools
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -436,7 +446,11 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Vipster
+TweakSophia
+UHK.Agent
+UltraGrid
+UltraScreen
+Vieb
 VirtScreen
 Vitomu
 VivifyScrum
@@ -462,10 +476,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-antimicroX
-ao
-appimagelint
-appimagetool
+YouTubeSearchFilter
+Yuna
+ZY_Player
 appium-desktop
 autoEdit2
 avogadro
@@ -495,11 +508,9 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+eOSVC
+eXtrema
+ehdev-shell
 fre:ac
 freeman
 gLabels
@@ -550,6 +561,7 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
+marlin-conf
 movie-monad
 mtCellEdit
 mutool
@@ -583,6 +595,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pretty-handy-privacy
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -627,7 +640,7 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
