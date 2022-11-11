@@ -28,12 +28,9 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
-AstroShutter
-Astroffers
-Audacity
-Bazecor
+BilibiliVideoDownload
 Birds_Kitchen
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -67,8 +64,6 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
-CasterSoundboard
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -103,6 +98,7 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
+ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,7 +128,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Ferdi
+Firefox_Beta
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -154,7 +151,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -186,8 +183,9 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KevEdit
-KeyManager
+James
+JoalDesktop
+KawAnime
 KeyboardClient
 Keys
 KiCad
@@ -236,7 +234,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MegaBasterd
+MeowSQL
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -278,7 +278,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-P2PDerivatives
+Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -360,7 +360,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RyoWallet
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -390,7 +390,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -429,8 +429,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -458,7 +456,10 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-Videomass
+Upscayl
+V2Ray-Desktop
+VK_Desktop
+Vieb
 WalletTech
 WatchFlower
 WatchIt
@@ -492,6 +493,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+caprine
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -528,7 +531,6 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
 hero-display
 hotspot
 hpack
@@ -571,9 +573,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
-mybelka
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -602,8 +602,10 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -646,10 +648,12 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
+vREST_NG
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
 x-loc
 xde
 xonsh
