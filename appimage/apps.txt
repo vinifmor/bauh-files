@@ -36,8 +36,9 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
 Bitwarden
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -82,6 +83,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -141,12 +143,11 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Firefox_Nightly
-Franz
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+FastQt
+Ferdi
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -165,13 +166,14 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Groot
-HastyHeroes
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heimer
-HermesMessenger
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -201,9 +203,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KeeWeb
-Keys
-KiCad
+Joy2DroidX
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -291,9 +291,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-OpenTodoList
-PIA
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -339,12 +336,8 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -384,7 +377,8 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
+RoloViewer
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -418,9 +412,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -457,7 +450,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -488,7 +480,8 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VPaint
+Vessel
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -524,7 +517,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-avogadro
+android-messages-desktop
 bauh
 dashy-app
 dataset-annotator
@@ -565,8 +558,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
 huwinterpreter
 hw-probe
 hyper
@@ -602,10 +593,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mki3dgame
-mybelka
-n3h
-nRF_Connect
+mapollage
+mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -637,8 +627,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-rasterview
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -687,7 +676,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
 youtube-music
 youtube-music-desktop
 ytDownloader
