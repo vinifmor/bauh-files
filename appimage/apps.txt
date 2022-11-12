@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+Beekeeper_Studio
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -83,6 +84,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
+CrossMobile
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -147,7 +150,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -172,8 +175,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Heimer
 Heroic Games Launcher
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -204,10 +207,11 @@ JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -333,9 +337,6 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -377,9 +378,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-RoloViewer
-SMF-DSP
-SMPlayer
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -412,7 +411,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Speaky_MiniPlayer
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -450,6 +450,7 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -479,9 +480,7 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-VK_Desktop
-Vessel
-WalletTech
+VPaint
 WatchFlower
 WatchIt
 WebDesktop
@@ -517,7 +516,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
+appimagelint
 bauh
 dashy-app
 dataset-annotator
@@ -558,8 +557,10 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
-hw-probe
+gerbv
+getswell
+gibs
+githoard
 hyper
 impact
 iota1k
@@ -596,9 +597,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
-ngrev
+marlin-conf
+mdview
 nheko
 nimbus-weather
 nordvpn-linux
@@ -628,7 +628,6 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-rmw
 runanode
 sabaki
 saphyr
@@ -676,8 +675,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
