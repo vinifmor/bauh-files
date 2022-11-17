@@ -32,6 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+BilibiliVideoDownload
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -64,6 +66,7 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
+Carpenters
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -93,9 +96,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Demonizer
-Dwyco_Phoo
-ERScaffold
+DeDop-studio
+DockStation
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -126,6 +128,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Ferdi
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -146,7 +149,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -177,8 +179,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-James
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -229,7 +229,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -269,9 +268,10 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Open_Markup_Editor
-PacketSender
+Olive
 Padloc
 Painel-Web
 Paletti
@@ -310,6 +310,10 @@ PocketCasts_Electron
 Poddr
 Podman
 PolkaKey
+Popsicle
+Postman
+PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -348,11 +352,10 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-Record_Compare
-SBLauncher
-SFRT_Attendance
-SF_Tube
-SMF-DSP
+Rats_on_The_Boat
+Raven_Reader
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -381,8 +384,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SlackBackup
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -409,7 +410,14 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -434,6 +442,7 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
+VidCutter
 VirtScreen
 Vitomu
 VivifyScrum
@@ -461,8 +470,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-antimicroX
-appimagelint
+ZY_Player
+ZapDesktop
 appimagetool
 appium-desktop
 autoEdit2
@@ -496,8 +505,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-four
-foxfolio
 fre:ac
 freeman
 gLabels
@@ -548,7 +555,12 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-mutool
+luminance-hdr
+luna
+makoureactor
+mapton
+marktext
+movie-monad
 my-budget
 mybelka
 n3h
@@ -579,6 +591,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+privacy.sexy
+qSdrSwr
 qikQR
 qpdf
 qpp::cad
@@ -619,8 +633,6 @@ theFrame
 theWeb
 thorium-client
 timer
-tnt
-violetbug
 vue-calc
 vuerd
 weatherdump
