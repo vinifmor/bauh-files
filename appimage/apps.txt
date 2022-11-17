@@ -30,11 +30,9 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
-Astroffers
-Audacity
-AudioMoth
-BilibiliVideoDownload
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -66,8 +64,9 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-Carpenters
-ClementineRemote
+CPod
+CRG_Data_Tool
+Calculist
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -97,8 +96,12 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-DockStation
-Eagle_Mode
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -149,6 +152,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -179,6 +184,9 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+JReleaser
+James
+Joplin
 KevEdit
 KeyManager
 KeyboardClient
@@ -229,6 +237,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MegaBasterd
+Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -271,8 +281,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -356,6 +364,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -418,6 +427,7 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
+SynfigStudio
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -442,8 +452,6 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-VidCutter
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -472,9 +480,7 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-appimagetool
-appium-desktop
-autoEdit2
+ZeGrapher
 avogadro
 bauh
 bioanimation
@@ -505,6 +511,8 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+elcalc
+file-converter
 fre:ac
 freeman
 gLabels
@@ -556,11 +564,8 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
-mapton
-marktext
-movie-monad
+mjml-app
+mutool
 my-budget
 mybelka
 n3h
@@ -591,10 +596,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-privacy.sexy
-qSdrSwr
-qikQR
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -633,9 +634,9 @@ theFrame
 theWeb
 thorium-client
 timer
-vue-calc
-vuerd
-weatherdump
+tmon
+tnt
+torrenttools
 westeroscraftlauncher
 weweChat
 wezterm
