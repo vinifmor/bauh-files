@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Bench_CLI
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -74,8 +75,6 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
-Cate-Desktop
-ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -106,6 +105,7 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
 Eksplode.re
 ElDumper
 Electorrent
@@ -136,7 +136,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -156,9 +155,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitJournal
-Glyphr_Studio_Desktop
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -240,9 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MegaBasterd
-Minetest
-Minions
 Mirage
 MoarPerf
 Mob
@@ -367,8 +360,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RoboRock_Control_Center
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -396,7 +387,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimpleInstaBot
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -430,6 +420,8 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
+SwiftnessX
+SwitchHosts!
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -454,6 +446,7 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
+VPaint
 VirtScreen
 Vitomu
 VivifyScrum
@@ -483,7 +476,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
+autoEdit2
+avogadro
 bauh
 bioanimation
 bottlenose
@@ -514,8 +508,8 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-electron-wechat
-electron-xiami
+fre:ac
+freeman
 gLabels
 gerbv
 getswell
@@ -568,7 +562,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -597,8 +590,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-qikQR
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -641,8 +632,8 @@ tmon
 tnt
 torrenttools
 triagem-touch
-westeroscraftlauncher
-weweChat
+ttth
+tweet-tray
 wezterm
 whiteboard
 whu-library-seat
