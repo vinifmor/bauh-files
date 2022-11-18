@@ -34,8 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Beatconnect_Client
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -78,7 +76,7 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cromberg
+ChainX_Signer
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -147,8 +145,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fraktal
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
+Fraidycat
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -169,8 +168,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,7 +203,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KADE
+Juggernaut
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -251,6 +250,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
 Mirage
 MoarPerf
 Mob
@@ -292,7 +292,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -333,6 +334,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -376,9 +378,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMPlayer
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -406,12 +406,12 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sovren.Batch.Parser
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
-Spivak
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -474,7 +474,7 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-Upscayl
+Viper_Browser
 WalletTech
 WatchFlower
 WatchIt
@@ -512,6 +512,8 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -552,7 +554,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-guglielmo
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -589,9 +592,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-movie-monad
-n3h
-nRF_Connect
+mapollage
+mapton
 neovim
 ngPost
 ngrev
@@ -618,10 +620,12 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
-qpp::cad
+pkg2appimage
+playyourdamnturn.com
+plotjuggler
+pnpm
+polar-bookshelf
 qr-code-generator-desktop
-quokkagit
 rasterview
 ridereceipts
 rmw
@@ -666,13 +670,12 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
+unified-communications
 unoffical-sonos-controller-for-linux
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 youtube-music
 youtube-music-desktop
 ytDownloader
