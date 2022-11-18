@@ -75,8 +75,9 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cavoke
-Cerebral-Debugger
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -105,13 +106,6 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,8 +136,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Figma
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -164,6 +156,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitJournal
+Glyphr_Studio_Desktop
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -195,7 +190,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
 KevEdit
 KeyManager
 KeyboardClient
@@ -246,6 +240,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MegaBasterd
+Minetest
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -286,7 +284,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -370,6 +367,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RoboRock_Control_Center
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -398,9 +396,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
+SimpleInstaBot
+Software-Challenge-GUI
+Sonist
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -432,11 +430,6 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -461,8 +454,8 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
+VirtScreen
+Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -491,8 +484,8 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -523,10 +516,10 @@ ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
+gLabels
+gerbv
+getswell
+gibs
 githoard
 glTF_Insight
 glulxe
@@ -574,6 +567,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mandelbulber2
 mybelka
 n3h
 nRF_Connect
@@ -604,7 +598,8 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-playyourdamnturn.com
+qikQR
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -646,12 +641,12 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
