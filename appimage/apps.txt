@@ -145,6 +145,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Fraktal
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -201,6 +203,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KawAnime
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -248,7 +252,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -292,9 +295,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Onshape
-Outline-Manager
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -339,8 +339,13 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -380,8 +385,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
 SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -452,6 +457,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -486,7 +492,10 @@ VPaint
 Valeronoi
 VeChain
 Verto
-WishDemo
+Vessel
+VidCutter
+WalletTech
+WatchIt
 Woke
 Wonderwall
 WorkFlowy
@@ -521,8 +530,8 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
+avogadro
 bauh
-dexter_dev_env
 dfDemo
 dingtalk
 draw.io
@@ -561,10 +570,10 @@ gibs
 githoard
 glTF_Insight
 glulxe
-iptvnator
-irccloud-desktop
-isle-editor
-jag
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -600,8 +609,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
+notepadqq
+noteshrink-qt
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -628,7 +638,6 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
 scavengers
 school-sections
 ser-player
@@ -676,6 +685,7 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
 yuzu
-zograscope
 zsync2
