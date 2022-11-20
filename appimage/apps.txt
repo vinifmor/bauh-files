@@ -34,10 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -79,9 +76,9 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Cool_Retro_Term
-CrossMobile
-Cryplicity
+Chiaki
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -146,8 +143,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Ferdi
-Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -172,10 +167,9 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -211,7 +205,7 @@ Juggernaut
 Julius
 KADE
 KDiskMark
-KOReader
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -253,9 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Meshmill
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -296,8 +287,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Padloc
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -339,8 +330,11 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -380,7 +374,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -409,12 +404,11 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Sovren.Batch.Parser
 Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -449,10 +443,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -486,8 +476,6 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
-WatchFlower
 Wire
 WishDemo
 Woke
@@ -524,6 +512,7 @@ appimagelint
 appimagetool
 appium-desktop
 bauh
+deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -559,10 +548,10 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-gibs
-githoard
-glTF_Insight
+huwinterpreter
+hw-probe
+hyper
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -597,12 +586,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-mira-backup
-neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
+marlin-conf
+mdview
+media-dupes
+media_mate
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -629,7 +616,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -674,9 +661,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
+unofficial-zalo
+unreel
 xonsh
 yaya
 youtube-music
