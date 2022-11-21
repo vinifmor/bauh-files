@@ -32,9 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-Beekeeper_Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -73,9 +71,10 @@ Cabal_Desktop_Mini
 Calculist
 Carpenters
 Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
-Cavoke
+ChainX_Signer
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -107,12 +106,6 @@ Diffuse
 Digitales_Klassenzimmer
 Disass
 Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,7 +136,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -165,8 +157,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -200,8 +193,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
-KiCad
+KeeWeb
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -247,11 +239,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MegaBasterd
-Melodie
-Mini_Diary
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -294,7 +281,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -335,6 +322,9 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -376,7 +366,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -408,6 +398,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
+SimplEOS
+SimpleInstaBot
+SmartGit
 Spectrum
 SpeedyLoader
 Spivak
@@ -478,9 +471,10 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Wexond
-Whalebird
-Wire
+Valeronoi
+VeChain
+Verto
+Viper_Browser
 WishDemo
 Woke
 Wonderwall
@@ -510,12 +504,12 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
+appium-desktop
 bauh
-dashy-app
-dataset-annotator
-dbet-wallet
-deb2appimage
-deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -552,8 +546,7 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
+gibs
 impact
 iota1k
 iptvnator
@@ -592,8 +585,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-mjml-app
-nimbus-weather
+media_mate
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -623,7 +615,6 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -671,7 +662,7 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-ytDownloader
+violetbug
 yuzu
 zograscope
 zsync2
