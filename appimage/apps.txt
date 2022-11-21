@@ -32,6 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -67,8 +68,6 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cabal_Desktop_Mini
-Code_OSS
 Colon
 ColorGenerator
 Colorpicker
@@ -101,6 +100,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,9 +129,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
-Fraktal
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,9 +150,10 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GooboxFileShare
+GoldenCheetah
+Gpredict
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -185,8 +185,12 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
+Joy2DroidX
+KDiskMark
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -236,7 +240,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeshLab
 Minions
 Mirage
 MoarPerf
@@ -276,9 +279,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -319,7 +322,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -360,7 +362,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -389,10 +390,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -425,10 +425,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -460,8 +456,6 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Valeronoi
-Vieb
 Wexond
 Whalebird
 Wire
@@ -494,6 +488,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+cncjs
 cordlauncher
 cric
 dashy-app
@@ -533,8 +528,6 @@ fmradio
 four
 foxfolio
 fre:ac
-gerbv
-hotspot
 hpack
 hsinstall
 htmldoc
@@ -577,7 +570,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-moniteur-admin
+marlin-conf
+mira-backup
 ngPost
 ngrev
 nheko
@@ -605,9 +599,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -646,10 +639,10 @@ timer
 tmon
 tnt
 torrenttools
-triagem-touch
-ttth
-tweet-tray
-twetter
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
