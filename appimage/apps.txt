@@ -25,7 +25,7 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
+Artisan
 Bench_CLI
 BetterSIS
 Bezique
@@ -61,8 +61,7 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CATcher
-CPod
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -94,7 +93,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,7 +123,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
+FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -175,9 +173,8 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
-IrScrutinizer
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -231,6 +228,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -266,12 +264,12 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PIA
-POE_Ladder
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -308,6 +306,10 @@ Plover
 PocketCasts_Electron
 Poddr
 Podman
+PolkaKey
+Popsicle
+Postman
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -346,7 +348,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+Reactotron
+RoboRock_Control_Center
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -406,7 +410,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -465,6 +468,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+appimagetool
 bauh
 cncjs
 colorstatic-bash
@@ -499,9 +503,9 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-file-converter
-flameshot
+foxfolio
+gerbv
+guglielmo
 guiscrcpy
 hero-display
 hotspot
@@ -547,7 +551,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -574,6 +578,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
+pretty-handy-privacy
+python3
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -612,9 +618,7 @@ theWeb
 thorium-client
 timer
 tmon
-vifm
-vue-calc
-vuerd
+tnt
 weatherdump
 westeroscraftlauncher
 weweChat
