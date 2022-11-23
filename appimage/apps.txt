@@ -27,6 +27,8 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
+Artisan
+Astroffers
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -123,7 +125,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
+FastQt
+Ferdi
+Fractale
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -144,6 +148,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -174,7 +179,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -225,6 +231,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MineTime
 Minions
 Mirage
 MoarPerf
@@ -267,7 +274,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
+P2PDerivatives
 Painel-Web
 Paletti
 PanWriter
@@ -311,7 +318,6 @@ PostyBirb
 PowerShell
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -348,8 +354,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
-SMPlayer
+RawTherapee
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -377,7 +383,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,7 +418,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -443,9 +447,10 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-Webamp
-Wexond
-Whalebird
+VNote
+VPaint
+Valeronoi
+VeChain
 Wire
 WishDemo
 Woke
@@ -472,14 +477,12 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
+aillio-ts
+altair
+android-messages-desktop
+antimicroX
 bauh
-bioanimation
-cncjs
-colorstatic-bash
-cordlauncher
-cric
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -512,7 +515,7 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-hero-display
+four
 hotspot
 hpack
 hsinstall
@@ -554,8 +557,9 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-neovim
-ngPost
+mapton
+marktext
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -583,8 +587,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-qpdf
-quokkagit
+pnpm
 rasterview
 ridereceipts
 rmw
@@ -624,9 +627,10 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
