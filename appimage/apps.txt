@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -79,9 +79,9 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Cryplicity
-Crypter
-Cryptr
+Circle-Z
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -145,7 +145,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
+Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -167,10 +167,10 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
+GitJournal
+GitNote
 GitQlient
-HDRMerge
-HastyHeroes
-Heimer
+Glimpse-Image-Editor
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,9 +204,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
+Julius
 Kitupiikki
 Klogg
 Knowte
@@ -250,6 +250,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -377,6 +378,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -409,7 +411,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
+Simdock
+SmallBASIC
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -484,8 +487,10 @@ VPaint
 Valeronoi
 VeChain
 Verto
-Vessel
-VidCutter
+Wire
+WishDemo
+Woke
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -558,7 +563,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
+impact
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -593,10 +599,9 @@ mapton
 marktext
 marlin-conf
 mdview
-my-budget
-ngrev
-nheko
-nimbus-weather
+media-dupes
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -623,8 +628,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
+pomotroid
+pretty-handy-privacy
 runanode
 sabaki
 saphyr
@@ -670,7 +675,8 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-xde
+updatedeployqt
+upterm
 xonsh
 yaya
 youtube-music
