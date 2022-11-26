@@ -34,9 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -78,9 +76,9 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
+Chiaki
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -146,8 +144,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -167,9 +165,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Glimpse-Image-Editor
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -203,6 +201,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Joy2DroidX
+KeeWeb
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -290,7 +290,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-PIA
+Obsidian
+Olive
 Painel-Web
 Paletti
 PanWriter
@@ -333,11 +334,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -413,6 +409,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+SmallBASIC
 Spivak
 Stacer
 Standard_Notes
@@ -483,9 +480,9 @@ VLC
 VNote
 VPaint
 Valeronoi
-Wire
-WishDemo
-Woke
+VeChain
+Verto
+Vessel
 Wonderwall
 WorkFlowy
 Workbench
@@ -517,12 +514,12 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
+autoEdit2
+avogadro
 bauh
-deltachat-desktop
-devdocs-desktop
-dexter_dev_env
-dfDemo
-dingtalk
+bioanimation
+bottlenose
 draw.io
 dukto
 dvdisaster
@@ -560,9 +557,10 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-irccloud-desktop
-isle-editor
-jag
+gsubs
+guglielmo
+guiscrcpy
+hugin
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -672,8 +670,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
+whiteboard
 youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
