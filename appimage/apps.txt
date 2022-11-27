@@ -34,9 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -80,7 +79,6 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -146,10 +144,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fraktal
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
+Fidias_Database_Migration_App
 FreeTexturePacker
 FreeTube
 Friture
@@ -168,9 +163,10 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
-HastyHeroes
-Heimer
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -202,11 +198,11 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Join_Desktop
+Joplin
+Joy2DroidX
+Juggernaut
+Julius
 Kitupiikki
 Klogg
 Knowte
@@ -250,6 +246,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -291,7 +288,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -334,9 +330,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -378,7 +371,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -409,10 +402,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Slacktronic
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimplEOS
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -450,6 +442,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -485,7 +478,8 @@ Valeronoi
 VeChain
 Verto
 Vessel
-Videomass
+VidCutter
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -523,9 +517,7 @@ autoEdit2
 avogadro
 bauh
 bioanimation
-clippy
-dfDemo
-dingtalk
+bottlenose
 draw.io
 dukto
 dvdisaster
@@ -630,7 +622,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-python2
+pyappimage
 sabaki
 saphyr
 scavengers
@@ -678,8 +670,8 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
 youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
