@@ -26,7 +26,8 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-BetterSIS
+Armagetron_Advanced
+Artisan
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -57,6 +58,7 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
+ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
@@ -91,6 +93,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -144,6 +147,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GooboxFileShare
+Google_Tasks_Desktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -172,8 +177,9 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
+Intiface
+Invoice-Generator
+IrScrutinizer
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -227,8 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -265,6 +269,7 @@ Notable
 NoteMaster
 OCRmyPDF
 OWASP Threat Dragon
+PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -302,11 +307,13 @@ Play_2048
 Playbox
 PlotJuggler
 Plover
-PocketCasts_Electron
-Poddr
-Podman
 ProtonUp-Qt
 PrusaSlicer
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -343,6 +350,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -371,7 +379,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -394,9 +401,9 @@ StockStalk
 StopLight
 Storaji
 Strata
+Streamlink
+Streamon
 SuperSlicer
-T.Viewer
-Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
@@ -430,7 +437,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -488,10 +495,11 @@ element
 elzabrowser
 embedded-ide
 enve
-erdesigner
-evoplex
-fSpy
 falcon-sql-client
+gibs
+githoard
+glTF_Insight
+glulxe
 graphql-playground
 gsubs
 guglielmo
@@ -536,10 +544,11 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mandelbulber2
+mapollage
+mapton
 media_mate
-my-budget
-mybelka
-n3h
+movie-monad
 nRF_Connect
 neovim
 ngPost
@@ -602,6 +611,8 @@ tT
 tagspaces
 tastee-ui
 tc
+tmon
+updatedeployqt
 upterm
 vREST_NG
 vifm
