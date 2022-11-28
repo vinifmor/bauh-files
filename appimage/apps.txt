@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -77,8 +77,8 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -143,8 +143,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Ferdi
+FontForge
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -165,8 +166,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -200,7 +201,10 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
+KawAnime
+Keibo-MoneyTracker-x86_64
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -247,6 +251,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MediaElch
+Mini_Diary
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -372,6 +380,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Rotki
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -401,10 +411,9 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -440,9 +449,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -476,9 +482,9 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Wire
-WishDemo
-Woke
+Verto
+Vessel
+VidCutter
 Wonderwall
 WorkFlowy
 Workbench
@@ -512,7 +518,6 @@ appimagelint
 appimagetool
 appium-desktop
 bauh
-devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
@@ -552,8 +557,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
-gsubs
-iota1k
+graphql-playground
+hyper
 iptvnator
 irccloud-desktop
 isle-editor
@@ -593,6 +598,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
+ngrev
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -620,7 +627,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
+saphyr
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -664,9 +672,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
+yaya
 youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
