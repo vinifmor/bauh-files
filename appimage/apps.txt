@@ -26,8 +26,8 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-BetterSIS
-Bezique
+Armagetron_Advanced
+Artisan
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -59,7 +59,7 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
-CircuitBlocks
+CARTA
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -91,7 +91,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Digitales_Klassenzimmer
+DeepTags
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -120,9 +120,9 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-Firefox_ESR
-Fraidycat
-Fraktal
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -174,7 +174,9 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
+Joy2DroidX
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -227,6 +229,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
+Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -265,9 +268,8 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
 OWASP Threat Dragon
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -309,7 +311,6 @@ Podman
 PolkaKey
 Popsicle
 Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -348,7 +349,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RetroArch
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -378,7 +379,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimDSP
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -438,7 +438,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Vessel
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -467,10 +467,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-appimagetool
 bauh
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -505,9 +502,7 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-foxfolio
-guglielmo
-guiscrcpy
+file-converter
 hero-display
 hotspot
 hpack
@@ -551,6 +546,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -577,7 +573,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-puush-qt
 qpp::cad
 qr-code-generator-desktop
 quokkagit
