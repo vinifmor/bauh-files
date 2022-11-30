@@ -1,5 +1,5 @@
 nodejs:
-  version: '16.13.1'
+  version: '18.12.1'
   url: 'https://nodejs.org/dist/v{version}/node-v{version}-linux-x64.tar.xz'
 
 nativefier:
