@@ -1,10 +1,11 @@
+2=etcher
 2=freetube
 2=heroic games launcher
-1=onlyoffice    
-1=gamehub
+1=nextcloud
 1=rpcs3
-1=etcher
+1=yuzu
 0=postman
-0=nosqlbooster
-0=emacs
-0=azpainer
+0=franz
+0=gamehub
+0=thunderbird
+
