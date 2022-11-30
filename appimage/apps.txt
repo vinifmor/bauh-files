@@ -27,7 +27,6 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Artisan
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -55,11 +54,11 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -91,7 +90,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeepTags
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -123,6 +121,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FocusWriter
 FranceTV
 Franz
 Frappe_Accounting
@@ -142,9 +141,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+Graviton
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -173,8 +173,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Joy2DroidX
 Kcov
 KeePassXC
 KeeWeb
@@ -266,9 +264,10 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
 OWASP Threat Dragon
+Onshape
+PDFQuirk
+PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -310,7 +309,6 @@ Poddr
 Podman
 PolkaKey
 Popsicle
-Postman
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -349,8 +347,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
-SMF-DSP
+RawTherapee
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -379,7 +376,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -406,8 +402,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
 SuperSlicer
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -437,7 +434,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
 WebDesktop
 Webamp
 Wexond
@@ -468,6 +464,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+cabal-desktop
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -500,9 +498,10 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-file-converter
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -547,6 +546,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
+media-dupes
 neovim
 ngPost
 ngrev
@@ -573,6 +573,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qikQR
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -607,9 +609,9 @@ tT
 tagspaces
 tastee-ui
 tc
-upterm
-vREST_NG
-vifm
+theFrame
+theWeb
+thorium-client
 violetbug
 vue-calc
 vuerd
