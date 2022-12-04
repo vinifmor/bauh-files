@@ -34,9 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-BilibiliVideoDownload
+Auryo
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -81,9 +80,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
-Cryptr
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -149,7 +147,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Fluent_Reader
+Fractale
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -174,9 +172,11 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+HDRMerge
+Heimer
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -210,9 +210,10 @@ Joplin
 Joy2DroidX
 Juggernaut
 Julius
-KADE
-KDiskMark
 KOReader
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -254,11 +255,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-Mechvibes
-Memento
-MeowSQL
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -300,7 +296,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -346,8 +342,12 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -388,6 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,8 +421,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
-Skrifa
 SpeedyLoader
 Spivak
 Stacer
@@ -498,6 +497,10 @@ Verto
 Vessel
 VidCutter
 Videomass
+Vieb
+Wire
+WishDemo
+Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -533,6 +536,7 @@ autoEdit2
 avogadro
 bauh
 bioanimation
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -610,6 +614,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+nvtop
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -637,9 +643,10 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-rasterview
+qTox
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
