@@ -34,8 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
+Birds_Kitchen
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -81,7 +82,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -145,9 +146,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
-Figma
-Fractale
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -172,11 +171,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-HDRMerge
-Heimer
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -210,10 +207,9 @@ Joplin
 Joy2DroidX
 Juggernaut
 Julius
+KADE
+KDiskMark
 KOReader
-Kimitzu-Client
-Kitupiikki
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -255,6 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -347,7 +344,7 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
-Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -386,8 +383,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -421,6 +418,8 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
+Sovren.Batch.Parser
 SpeedyLoader
 Spivak
 Stacer
@@ -497,10 +496,6 @@ Verto
 Vessel
 VidCutter
 Videomass
-Vieb
-Wire
-WishDemo
-Wonderwall
 WorkFlowy
 Workbench
 Wrapbox
@@ -536,7 +531,9 @@ autoEdit2
 avogadro
 bauh
 bioanimation
-dingtalk
+bottlenose
+buttercup
+devdocs-desktop
 draw.io
 dukto
 dvdisaster
@@ -613,8 +610,6 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
-nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -643,9 +638,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-qTox
-school-sections
-ser-player
+python2
+python3
+qpdf
 simple-s3-uploader
 simple-timer
 simplechroot
