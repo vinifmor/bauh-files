@@ -35,8 +35,6 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -79,7 +77,6 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -147,7 +144,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -170,9 +167,6 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-GrinPlusPlus
-HDRMerge
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -207,7 +201,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Julius
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -254,7 +248,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MiniZinc_IDE
+Melodie
+Minions
 Mirage
 MoarPerf
 Mob
@@ -297,8 +292,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-PDFQuirk
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -340,8 +334,16 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -382,9 +384,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-RoloViewer
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -418,9 +417,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SnippetStore
-SpeedyLoader
-Spivak
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -457,6 +454,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -492,7 +490,6 @@ Valeronoi
 VeChain
 Verto
 Vessel
-WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -526,15 +523,10 @@ ao
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
+avogadro
 bauh
 bioanimation
-cncjs
-deb2appimage
-deltachat-desktop
-devdocs-desktop
-dexter_dev_env
-dfDemo
-dingtalk
 draw.io
 dukto
 dvdisaster
@@ -567,14 +559,14 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
-isle-editor
-jag
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -609,10 +601,8 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-mjml-app
-moniteur-admin
+notepadqq
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -640,8 +630,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
+saphyr
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -687,10 +677,8 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-xde
-youtube-music
-youtube-music-desktop
-ytDownloader
+violetbug
+wxMaxima
 yuzu
 zograscope
 zsync2
