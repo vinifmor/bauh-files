@@ -27,9 +27,10 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
+Artisan
+AsarUI
+AstroShutter
+Augur
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -55,11 +56,10 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
-BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -122,7 +122,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -144,7 +143,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -174,8 +172,8 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-KeePassXC
-KeeWeb
+Invoice-Generator
+IrScrutinizer
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
@@ -264,9 +262,10 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
 OWASP Threat Dragon
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -306,6 +305,10 @@ PocketCasts_Electron
 Poddr
 Podman
 PolkaKey
+Popsicle
+Postman
+PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -344,7 +347,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -400,10 +402,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
+SyncMyL2P
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -433,6 +434,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
+VNote
 Webamp
 Wexond
 Whalebird
@@ -494,8 +496,8 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-graphql-playground
-gsubs
+feebas
+feedseries
 guglielmo
 guiscrcpy
 hero-display
@@ -541,8 +543,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-movie-monad
-nRF_Connect
+marktext
+mini-qml
 neovim
 ngPost
 ngrev
@@ -569,7 +571,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -606,9 +607,10 @@ tc
 theFrame
 theWeb
 thorium-client
-violetbug
-vue-calc
-vuerd
+timer
+tmon
+tnt
+torrenttools
 weatherdump
 westeroscraftlauncher
 weweChat
