@@ -25,8 +25,7 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Beekeeper_Studio
-Bench_CLI
+Arma_3_Unix_Launcher
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -60,6 +59,8 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
+CARTA
+Cate-Desktop
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -92,6 +93,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+DevHub
+Diffuse
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -122,8 +126,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -144,6 +147,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GrinPlusPlus
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -174,9 +179,12 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
-JReleaser
-James
+KADE
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -226,6 +234,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
+Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -264,10 +274,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -308,9 +318,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -348,8 +358,11 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
-SFRT_Attendance
+Rebaslight
+RoboRock_Control_Center
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -377,6 +390,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SigmaSpectra
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -412,8 +426,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
 SyncMyL2P
+Tablo_Tools
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -444,6 +458,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+Vitomu
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -475,6 +491,7 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 bauh
+bioanimation
 colorstatic-bash
 cordlauncher
 cric
@@ -514,9 +531,9 @@ flightgear-airports
 fmradio
 four
 foxfolio
-fre:ac
-freeman
-gLabels
+gibs
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -556,8 +573,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-marlin-conf
 ngPost
 ngrev
 nheko
@@ -585,7 +600,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -622,10 +637,9 @@ theFrame
 theWeb
 thorium-client
 timer
-tmon
-tnt
-torrenttools
-triagem-touch
+vue-calc
+vuerd
+weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
