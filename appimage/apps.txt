@@ -25,7 +25,8 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
+Beekeeper_Studio
+Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -59,11 +60,8 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
-CARTA
-CATcher
-CIAA_Suite
-CPU-X
-Cascade_Image_Editor
+CircuitBlocks
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -94,9 +92,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,7 +124,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Ferdi
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -147,8 +144,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitHubDesktop
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -180,7 +175,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KevEdit
+JReleaser
+James
 KeyManager
 KeyboardClient
 Keys
@@ -269,9 +265,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -313,7 +309,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -354,6 +349,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SFRT_Attendance
 SMathStudio
 SMath_Studio
 SPlayer
@@ -416,6 +412,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -446,7 +444,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
+Webamp
 Wexond
 Whalebird
 Wire
@@ -477,7 +475,6 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 bauh
-bioanimation
 colorstatic-bash
 cordlauncher
 cric
@@ -520,7 +517,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-guiscrcpy
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -561,7 +558,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -588,8 +586,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
-polar-bookshelf
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -628,11 +626,12 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
