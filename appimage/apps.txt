@@ -34,7 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+BetterSIS
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -77,8 +79,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossMobile
-Cryplicity
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -144,7 +146,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fidias_Database_Migration_App
+Firefox_Beta
+Fluent_Reader
+Frappe_Accounting
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -164,9 +169,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -199,8 +203,9 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KawAnime
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -248,8 +253,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Melodie
-Minions
+MegaBasterd
 Mirage
 MoarPerf
 Mob
@@ -292,7 +296,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -334,16 +338,9 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -383,7 +380,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -416,8 +414,10 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
 Skrifa
+Spectrum
+SpeedyLoader
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -488,8 +488,7 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
-Vessel
+WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -524,9 +523,10 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-avogadro
 bauh
-bioanimation
+dexter_dev_env
+dfDemo
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -564,9 +564,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+irccloud-desktop
+isle-editor
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -600,7 +600,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -629,7 +629,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -676,9 +676,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
-wxMaxima
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
