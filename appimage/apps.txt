@@ -32,9 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
-Beatconnect_Client
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -76,7 +73,6 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Colon
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -110,6 +106,7 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
+Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -160,7 +157,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
+Gingko
 HastyHeroes
 Heimer
 HermesMessenger
@@ -195,6 +192,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -241,7 +239,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -281,8 +278,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -365,9 +362,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
-SMathStudio
-SMath_Studio
+Rebaslight
 SPlayer
 SUMOCO
 SUbillManager
@@ -396,9 +391,7 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-SimpleInstaBot
-SocNetV
-Sourcetrail
+Silverkey
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -439,6 +432,7 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -470,9 +464,7 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Valeronoi
-VeChain
-Verto
+Whalebird
 Wire
 WishDemo
 Woke
@@ -503,9 +495,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
-ao
 bauh
+dashy-app
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -543,7 +535,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
+hugin
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -584,10 +577,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-neovim
-nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -615,7 +604,6 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-rmw
 runanode
 sabaki
 saphyr
@@ -661,7 +649,8 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-xonsh
+updatedeployqt
+upterm
 yaya
 youtube-music
 youtube-music-desktop
