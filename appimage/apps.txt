@@ -29,9 +29,8 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
+AstroShutter
+Astroffers
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,10 +64,9 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
+CPod
+CRG_Data_Tool
+CRIC
 Colon
 ColorGenerator
 Colorpicker
@@ -100,6 +98,8 @@ DeepTags
 Delir
 Demonizer
 Deployer
+Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -130,7 +130,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Filmulator
+FocusWriter
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -152,8 +152,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -184,7 +183,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
+Julius
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -235,7 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -358,9 +357,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SBLauncher
-SMPlayer
-SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -394,7 +390,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -430,6 +426,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -460,9 +457,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
-Wexond
+VPaint
 Whalebird
 Wire
 WishDemo
@@ -493,8 +488,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -534,7 +529,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-glulxe
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -575,9 +570,11 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
 media_mate
+mki3dgame
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -605,6 +602,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+ridereceipts
 rmw
 runanode
 sabaki
@@ -649,9 +647,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-vifm
+wxMaxima
 x-loc
 xde
 xonsh
