@@ -35,6 +35,7 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,10 +78,8 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -115,6 +114,8 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -167,7 +168,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
+GoldenDict
 HastyHeroes
 Heimer
 HermesMessenger
@@ -200,6 +201,9 @@ IrScrutinizer
 Isolate
 JReleaser
 James
+JoalDesktop
+Join_Desktop
+Joplin
 KeyboardClient
 Keys
 KiCad
@@ -248,6 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -288,8 +293,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Olive
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -331,12 +336,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -378,7 +377,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
+Record_Compare
+RetroArch
 SPlayer
 SUMOCO
 SUbillManager
@@ -409,8 +409,9 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
+Slacktronic
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -483,6 +484,7 @@ VPaint
 Valeronoi
 VeChain
 Verto
+VirtScreen
 WishDemo
 Woke
 Wonderwall
@@ -511,14 +513,11 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
-ao
-appimagelint
-appimagetool
-appium-desktop
 bauh
-buttercup
+cric
+dashy-app
+dataset-annotator
+dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -554,8 +553,9 @@ four
 foxfolio
 fre:ac
 freeman
-gLabels
-gerbv
+hsinstall
+htmldoc
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -597,7 +597,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -625,8 +626,9 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
-privacy.sexy
+python2
+rmw
+runanode
 sabaki
 saphyr
 scavengers
@@ -670,9 +672,9 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
+x-loc
+xde
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
