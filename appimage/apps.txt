@@ -76,10 +76,9 @@ Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
 Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -114,8 +113,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -166,8 +163,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -199,9 +195,8 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
-JoalDesktop
-KADE
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -250,7 +245,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MediaElch
+Meshmill
 MoarPerf
 Mob
 Mockman
@@ -291,8 +286,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -333,7 +327,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -375,7 +368,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -405,10 +400,10 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -444,9 +439,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -482,6 +474,7 @@ Valeronoi
 VeChain
 Verto
 Vessel
+VidCutter
 Woke
 Wonderwall
 WorkFlowy
@@ -514,9 +507,9 @@ antimicroX
 ao
 appimagelint
 appimagetool
+appium-desktop
+autoEdit2
 bauh
-devdocs-desktop
-dexter_dev_env
 dfDemo
 dingtalk
 draw.io
@@ -556,7 +549,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -592,7 +585,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nordvpn-linux
+meta-grabber
+mutool
 notepadqq
 noteshrink-qt
 nvtop
@@ -618,8 +612,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
+pomotroid
 runanode
 sabaki
 saphyr
@@ -661,11 +654,12 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 yaya
 youtube-music
 youtube-music-desktop
