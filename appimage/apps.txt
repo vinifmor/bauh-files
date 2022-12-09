@@ -32,6 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -67,8 +69,7 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cabal_Desktop_Mini
-Calculist
+ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -97,6 +98,11 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
+Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -127,9 +133,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fluent_Reader
-FranceTV
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -150,7 +153,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
+GrinPlusPlus
 Gulden
 HDRMerge
 HastyHeroes
@@ -275,8 +278,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenTodoList
-P2PDerivatives
+Olive
+Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -318,7 +321,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-Procyon
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -359,7 +363,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+RyoWallet
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -386,9 +392,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 SigDigger
-SimDSP
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -423,6 +428,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SynfigStudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -454,8 +461,9 @@ VK_Desktop
 VLC
 VNote
 VPaint
+Valeronoi
+VeChain
 Vipster
-Wexond
 Whalebird
 Wire
 WishDemo
@@ -485,11 +493,8 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
 bauh
-cabal-desktop
-colorstatic-bash
-cordlauncher
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -527,12 +532,8 @@ fmradio
 four
 foxfolio
 fre:ac
-guglielmo
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
+freeman
+gLabels
 huwinterpreter
 hw-probe
 hyper
@@ -572,8 +573,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
-ngrev
+mdview
+moniteur-admin
 nheko
 nimbus-weather
 nordvpn-linux
@@ -600,9 +601,9 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
-polar-bookshelf
-puush-qt
+qBittorrent_Enhanced_Edition
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -647,6 +648,9 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
+upterm
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
