@@ -35,7 +35,7 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
+Bezique
 Bitwarden
 Blink1Control2
 Blizzard_4
@@ -83,8 +83,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
-Cura
+ClementineRemote
+Cliniface
 CustomRPC
 CutePeaks
 CuteVariant
@@ -147,8 +147,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -170,12 +169,13 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-HermesMessenger
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -209,11 +209,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -251,6 +251,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
+McPodcast
+MineTime
 MoarPerf
 Mob
 Mockman
@@ -293,7 +296,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -344,7 +347,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -387,6 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SMPlayer
 SPlayer
 SUMOCO
 SUbillManager
@@ -421,8 +424,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SlackBackup
 Sourcetrail
+Sovren.Batch.Parser
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -488,6 +492,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
+V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -525,6 +530,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+clipr
 cordlauncher
 cric
 dashy-app
@@ -566,12 +572,13 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
+gerbv
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -605,8 +612,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
+marlin-conf
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -636,10 +643,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
-runanode
-sabaki
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 saphyr
 scavengers
 school-sections
@@ -687,9 +693,7 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-youtube-music
-youtube-music-desktop
-ytDownloader
+violetbug
 yuzu
 zograscope
 zsync2
