@@ -37,9 +37,8 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
-BTS-CE-Lite
 Bitwarden
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -85,8 +84,6 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cura
-CustomRPC
 CutePeaks
 CuteVariant
 Cutter
@@ -148,8 +145,8 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
+FranceTV
 FreeTube
 Friture
 FromScratch
@@ -174,10 +171,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -212,8 +209,7 @@ KADE
 KDiskMark
 KOReader
 Kage
-KopiaUI
-LANShare
+Kanon
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -252,10 +248,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
-Minions
+MoarPerf
+Mob
 Mockman
 Monot
 Moonlight
@@ -345,6 +339,7 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -488,6 +483,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+Valeronoi
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -523,9 +520,7 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
 bauh
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -568,8 +563,6 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
-graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -608,6 +601,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+n3h
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -638,6 +634,10 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+puush-qt
+quokkagit
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
