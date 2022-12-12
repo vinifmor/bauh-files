@@ -36,9 +36,9 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
-BLOCK-DX
 Bitwarden
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -85,8 +85,6 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-CubicSDR
-Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -151,7 +149,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -173,12 +170,13 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
+HDRMerge
+HermesMessenger
 Heroic Games Launcher
+HexoClient
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -214,9 +212,9 @@ KDiskMark
 KOReader
 Kage
 Kanon
-KawAnime
-Kcov
-KeePassXC
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -254,9 +252,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-MediaElch
 Mob
 Mockman
 Monot
@@ -297,8 +292,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-PIA
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -393,6 +387,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -426,6 +421,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Skrifa
+Slacktronic
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -492,7 +489,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
 WebDesktop
 Webamp
 Wexond
@@ -527,9 +523,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
-ao
 bauh
+dashy-app
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -574,6 +570,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -608,8 +605,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
-nheko
+media-dupes
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -640,7 +636,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
+protonmail-desktop
 saphyr
 scavengers
 school-sections
