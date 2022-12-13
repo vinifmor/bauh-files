@@ -31,6 +31,7 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,8 +66,8 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Calculist
-Cliniface
+CRG_Data_Tool
+Cascade_Image_Editor
 Cloud_Browser
 Code_OSS
 Colon
@@ -95,8 +96,7 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-DeadGame-2048
-DeepTags
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -126,7 +126,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
+FastQt
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -148,6 +148,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -178,7 +180,9 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -229,7 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MiniZinc_IDE
 Minions
 Mirage
 MoarPerf
@@ -418,6 +421,7 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -440,6 +444,8 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
+TweakSophia
+UHK.Agent
 VirtScreen
 Vitomu
 VivifyScrum
@@ -467,7 +473,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+ai-bot-workspace
 appimagetool
 appium-desktop
 autoEdit2
@@ -498,7 +504,8 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
+flameshot
+flightgear-airports
 fmradio
 four
 foxfolio
@@ -556,6 +563,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
+mjml-app
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -623,9 +632,8 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
+vuerd
+weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
