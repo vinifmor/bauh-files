@@ -32,7 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,9 +71,9 @@ CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
+ColorGenerator
+Colorpicker
+Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
@@ -102,7 +104,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
+DockStation
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,6 +134,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Ferdi
+Fraidycat
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -153,6 +157,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitNote
 HDRMerge
 HastyHeroes
 Heimer
@@ -185,7 +190,7 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KevEdit
+James
 KeyManager
 KeyboardClient
 Keys
@@ -274,9 +279,12 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
+OpenBlok
+P2PDerivatives
+POE_Ladder
 Painel-Web
 Paletti
 PanWriter
@@ -317,6 +325,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -389,8 +398,8 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
+Sonist
+Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
 Speaky_MiniPlayer
@@ -451,8 +460,7 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-Upscayl
-VirtScreen
+UltraGrid
 Vitomu
 VivifyScrum
 VizGraph
@@ -481,12 +489,11 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-Znax
-appimagetool
-autoEdit2
-avogadro
+ZeGrapher
+Zegarek
+ZenroomStudio
+appimagelint
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -515,9 +522,10 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-fre:ac
-freeman
-gLabels
+electron-wechat
+electron-xiami
+element
+elzabrowser
 gerbv
 getswell
 gibs
@@ -568,7 +576,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
+my-budget
 mybelka
 n3h
 nRF_Connect
@@ -598,7 +606,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -642,10 +650,11 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-upterm
+vifm
+weweChat
+wezterm
+whiteboard
+whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
