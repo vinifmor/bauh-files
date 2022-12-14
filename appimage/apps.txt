@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -76,9 +77,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -145,6 +146,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -164,12 +166,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -202,12 +201,11 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -290,8 +288,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -332,7 +329,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -376,10 +372,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMPlayer
-SMathStudio
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -412,6 +405,8 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
+SmallBASIC
 Spivak
 Stacer
 Standard_Notes
@@ -474,6 +469,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
+UniShellect
+Upscayl
 VizGraph
 WalletTech
 WatchFlower
@@ -506,8 +503,10 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
-accessimap-lecteur-der
 bauh
+caprine
+clippy
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -544,7 +543,6 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
 hero-display
 hotspot
 hpack
@@ -585,8 +583,8 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mybelka
-n3h
+mandelbulber2
+mapollage
 nRF_Connect
 neovim
 ngPost
@@ -616,7 +614,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -663,7 +661,6 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
