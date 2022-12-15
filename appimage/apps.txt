@@ -35,6 +35,7 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -79,7 +80,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -113,8 +114,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -167,6 +166,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -200,8 +200,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -248,6 +248,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -288,8 +289,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -329,11 +329,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -376,8 +371,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-SMPlayer
+SMF-DSP
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -411,6 +406,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
 Spectrum
 SpeedyLoader
 Spivak
@@ -447,8 +443,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -475,7 +469,7 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-VizGraph
+UniShellect
 WalletTech
 WatchFlower
 WatchIt
@@ -508,10 +502,10 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
 bauh
-clipr
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -591,8 +585,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-mdview
-nRF_Connect
+marktext
 neovim
 ngPost
 ngrev
@@ -621,9 +614,10 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -664,11 +658,12 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
 x-loc
 xde
 xonsh
