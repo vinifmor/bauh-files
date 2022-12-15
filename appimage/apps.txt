@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -80,7 +79,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -168,8 +167,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GradeStats
-HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -203,8 +200,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyboardClient
-Keys
+Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -292,6 +289,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -331,6 +329,11 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -374,7 +377,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMPlayer
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -406,8 +411,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Sovren.Batch.Parser
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -471,10 +475,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
-Upscayl
-V2Ray-Desktop
-VK_Desktop
+VizGraph
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -506,11 +508,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+clipr
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -587,8 +589,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
-n3h
+mapollage
+mapton
+mdview
 nRF_Connect
 neovim
 ngPost
@@ -619,7 +622,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-rasterview
+pnpm
+polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -665,9 +669,6 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-whu-library-seat
-wxMEdit
-wxMaxima
 x-loc
 xde
 xonsh
