@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-AzPainter
 Bitwarden
 Blizzard_4
 Blockbench
@@ -84,9 +83,11 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cura
-CustomRPC
-CutePeaks
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+Cscrypto
 CuteVariant
 Cutter
 DFileManager
@@ -147,8 +148,10 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -171,10 +174,11 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
 Heroic Games Launcher
+HexoEditor
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -208,11 +212,11 @@ KADE
 KDiskMark
 KOReader
 Kage
-Kanon
-KawAnime
-Kcov
-KeePassXC
-KeeWeb
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
@@ -251,7 +255,8 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
+MiniZinc_IDE
+Mob
 Mockman
 Monot
 Moonlight
@@ -292,8 +297,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+PanWriter
 Panini
 Paper
 Papercraft
@@ -385,8 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SBLauncher
-SPlayer
+SMath_Studio
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,11 +423,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Sovren.Batch.Parser
-Spark.Payments
-Spectrum
-SpeedyLoader
-Spivak
+Skrifa
+SlackBackup
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -492,6 +492,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+Vessel
 WebDesktop
 Webamp
 Wexond
@@ -573,7 +574,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
+guglielmo
 irccloud-desktop
 isle-editor
 jag
@@ -609,7 +610,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -691,5 +691,6 @@ vifm
 violetbug
 vue-calc
 vuerd
+weatherdump
+westeroscraftlauncher
 yuzu
-zsync2
