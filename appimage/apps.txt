@@ -35,8 +35,8 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
 Bitwarden
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -80,14 +80,12 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+Cryptr
 Cscrypto
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
 CuteVariant
 Cutter
 DFileManager
@@ -148,6 +146,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+Flippy_Qualitative_Testbench
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -172,9 +171,8 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -212,7 +210,7 @@ KADE
 KDiskMark
 KOReader
 Kage
-Knowte
+Kanon
 KopiaUI
 LANShare
 LCEdit
@@ -253,9 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-MiniZinc_IDE
+MoarPerf
 Mob
 Mockman
 Monot
@@ -297,6 +293,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -345,8 +342,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -389,7 +384,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMath_Studio
+ReliefValve
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -425,8 +420,8 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Stacer
-Standard_Notes
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -492,7 +487,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Vessel
+Valeronoi
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -526,9 +522,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+cordlauncher
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -568,13 +565,12 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-guglielmo
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -610,6 +606,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
+media_mate
+moniteur-admin
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -641,8 +639,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
+saphyr
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -689,8 +687,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
 yuzu
+zograscope
+zsync2
