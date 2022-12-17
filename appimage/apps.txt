@@ -37,8 +37,8 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
 Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -84,13 +84,14 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
+Cura
+CustomRPC
+CutePeaks
+CuteVariant
+Cutter
+DFileManager
+Dana
+Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -147,7 +148,6 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fraktal
 FreeTube
 FromScratch
 GDevelop
@@ -174,8 +174,7 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Guitar
-HyperionIDE
+Heroic Games Launcher
 Hyperspace
 IGdm
 INSTEAD
@@ -214,8 +213,8 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
+LMMS
+LPub3D
 Lagrange
 Laigter
 Left
@@ -253,7 +252,7 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Memento
+Mockman
 Monot
 Moonlight
 Motrix
@@ -295,7 +294,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-Paletti
 Panini
 Paper
 Papercraft
@@ -345,7 +343,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -388,6 +385,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SBLauncher
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,7 +420,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SmartGit
+Sovren.Batch.Parser
+Spark.Payments
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -525,9 +527,8 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
 bauh
-bioanimation
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -572,9 +573,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -611,9 +610,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
+nimbus-weather
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -644,9 +643,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -692,7 +691,5 @@ vifm
 violetbug
 vue-calc
 vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
+yuzu
+zsync2
