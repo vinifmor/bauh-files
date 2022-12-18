@@ -37,6 +37,7 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
+BLOCK-DX
 Bitwarden
 Blockbench
 Bloks
@@ -85,9 +86,6 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-CrossMobile
-CustomRPC
-CutePeaks
 CuteVariant
 Cutter
 DFileManager
@@ -146,10 +144,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -173,13 +170,12 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-HermesMessenger
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+GpgFrontend
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -216,8 +212,10 @@ Kage
 Kanon
 KawAnime
 Kcov
-LCEdit
-LED.Custom.Palette
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KeyManager
 LMMS
 LPub3D
 Lagrange
@@ -254,8 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+MoarPerf
 Mob
 Mockman
 Monot
@@ -299,8 +296,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-Paletti
-PanWriter
 Panini
 Paper
 Papercraft
@@ -351,6 +346,7 @@ PrusaSlicer
 Pullp
 Pulse
 Puppetry
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -393,6 +389,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Rotki
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -426,8 +424,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
 Spivak
 Stacer
 Standard_Notes
@@ -496,6 +492,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -528,8 +525,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -571,11 +568,12 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 irccloud-desktop
 isle-editor
 jag
@@ -613,6 +611,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -646,7 +645,7 @@ puush-qt
 pyappimage
 python2
 python3
-simple-s3-uploader
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -693,5 +692,7 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-yuzu
-zsync2
+westeroscraftlauncher
+weweChat
+wezterm
+zograscope
