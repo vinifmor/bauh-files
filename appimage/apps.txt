@@ -32,6 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
+AzPainter
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -65,12 +68,12 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -98,7 +101,6 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -127,6 +129,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FastQt
+Ferdi
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -148,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -176,10 +179,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Intiface
+Invoice-Generator
+IrScrutinizer
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -267,12 +270,10 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -313,6 +314,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -355,6 +357,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -382,6 +385,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SmallBASIC
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -410,7 +414,12 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -435,7 +444,7 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-Vitomu
+UltraGrid
 VivifyScrum
 VizGraph
 WalletTech
@@ -459,7 +468,7 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -487,9 +496,10 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-dukto
-dvdisaster
-eDEX-UI
+falcon-sql-client
+feebas
+feedseries
+file-converter
 flameshot
 flightgear-airports
 fmradio
@@ -546,10 +556,11 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-mutool
-my-budget
-mybelka
-n3h
+luna
+makoureactor
+mandelbulber2
+mapollage
+mapton
 nRF_Connect
 neovim
 ngPost
@@ -577,6 +588,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qikQR
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
