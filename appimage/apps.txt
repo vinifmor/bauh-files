@@ -34,7 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Beatconnect_Client
+Beekeeper_Studio
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -73,7 +73,7 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Colorpicker
+Cloud_Browser
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
@@ -108,6 +108,7 @@ Diffuse
 Digitales_Klassenzimmer
 Disass
 Discord
+DockStation
 Eksplode.re
 ElDumper
 Electorrent
@@ -138,8 +139,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Fractale
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -192,9 +191,7 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
-JoalDesktop
-Join_Desktop
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -286,8 +283,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onshape
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -371,7 +366,6 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Rotki
 SMathStudio
 SMath_Studio
 SPlayer
@@ -399,7 +393,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
+SigDigger
+Silverkey
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -435,8 +431,6 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
-Syncplay
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -461,8 +455,6 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
-UltraGrid
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -491,8 +483,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appium-desktop
-autoEdit2
+ZapDesktop
+ZeGrapher
 avogadro
 bauh
 bioanimation
@@ -524,8 +516,9 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-foxfolio
-fre:ac
+electron-wechat
+electron-xiami
+flightgear-airports
 freeman
 gLabels
 gerbv
@@ -578,7 +571,8 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -607,8 +601,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-python3
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -654,9 +646,9 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-whiteboard
-whu-library-seat
-windows2usb
+twitch-wrapper
+uncov
+unified-communications
 wxMEdit
 wxMaxima
 x-loc
