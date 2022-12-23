@@ -81,8 +81,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CozyDrive
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -148,7 +147,7 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-FreeCAD2
+Figma
 FreeTexturePacker
 FreeTube
 Friture
@@ -171,10 +170,10 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+Guitar
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -205,10 +204,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -292,8 +291,9 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Obsidian
+Padloc
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -336,7 +336,6 @@ PostyBirb
 PowerShell
 ProtonUp-Qt
 PrusaSlicer
-Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -378,8 +377,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -413,6 +411,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -446,9 +445,6 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -475,8 +471,9 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-Vipster
-WalletTech
+UniShellect
+Upscayl
+V2Ray-Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -508,7 +505,10 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+antimicroX
 bauh
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -545,6 +545,8 @@ feebas
 feedseries
 file-converter
 flameshot
+flightgear-airports
+fmradio
 hero-display
 hotspot
 hpack
@@ -586,7 +588,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -619,8 +621,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
-python2
+pretty-handy-privacy
+qpp::cad
 rasterview
 ridereceipts
 rmw
@@ -666,7 +668,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
+wxMEdit
 wxMaxima
 x-loc
 xde
