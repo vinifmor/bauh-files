@@ -80,7 +80,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -146,6 +146,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
+Firefox_Beta
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -167,8 +169,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GpgFrontend
 HastyHeroes
 Heimer
 HermesMessenger
@@ -291,8 +291,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -335,6 +333,10 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -412,7 +414,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -473,8 +474,8 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
-VirtScreen
-Vitomu
+UltraScreen
+Vessel
 VivifyScrum
 VizGraph
 WalletTech
@@ -508,9 +509,8 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
+accessimap-lecteur-der
 bauh
-clippy
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -549,11 +549,11 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
+four
+foxfolio
+fre:ac
 freeman
-hero-display
-hotspot
-hpack
-hsinstall
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -594,8 +594,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
 ngrev
 nheko
 nimbus-weather
@@ -625,7 +623,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
+ridereceipts
+rmw
 runanode
 sabaki
 saphyr
@@ -671,8 +670,8 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-xde
-xonsh
+updatedeployqt
+upterm
 yaya
 youtube-music
 youtube-music-desktop
