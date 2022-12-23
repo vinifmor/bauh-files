@@ -35,8 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+BitShares
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -81,9 +82,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
-Cscrypto
+City_Hub
+CleepDesktop
 CubicSDR
 Cura
 CustomRPC
@@ -146,7 +146,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Firefox_Beta
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -169,8 +168,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,10 +203,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Klogg
 Knowte
 KopiaUI
@@ -250,6 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -291,7 +293,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -337,8 +339,13 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
+Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -381,6 +388,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RetroArch
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,6 +423,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -475,11 +485,11 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-Vessel
-VivifyScrum
-VizGraph
-WalletTech
-WatchFlower
+UniShellect
+Upscayl
+V2Ray-Desktop
+VK_Desktop
+VLC
 WatchIt
 WebDesktop
 Webamp
@@ -510,9 +520,12 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
+android-messages-desktop
 bauh
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -554,8 +567,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
-hugin
+gerbv
+getswell
+guiscrcpy
 huwinterpreter
 hw-probe
 hyper
@@ -594,6 +608,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
+marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -672,6 +688,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+weweChat
 yaya
 youtube-music
 youtube-music-desktop
