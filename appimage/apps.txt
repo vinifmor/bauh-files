@@ -36,9 +36,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
-BitShares
+AzPainter
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -84,7 +83,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
+ClementineRemote
+Cliniface
 Cura
 CustomRPC
 CutePeaks
@@ -146,10 +146,9 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -170,11 +169,14 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HermesMessenger
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -209,7 +211,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -252,7 +253,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MoarPerf
+McPodcast
+Melodie
 Mob
 Mockman
 Monot
@@ -294,8 +296,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
 Panini
 Paper
 Papercraft
@@ -340,12 +341,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
-Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -388,8 +385,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroArch
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -423,7 +418,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -489,7 +484,7 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VLC
+WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -524,7 +519,6 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
 cordlauncher
 cric
@@ -568,9 +562,6 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-guiscrcpy
-huwinterpreter
 hw-probe
 hyper
 impact
@@ -605,10 +596,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
-marktext
-marlin-conf
+mybelka
+n3h
+nRF_Connect
+neovim
 ngPost
 ngrev
 nheko
@@ -639,6 +630,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+pretty-handy-privacy
+rasterview
 ridereceipts
 rmw
 runanode
@@ -688,8 +681,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-weweChat
-yaya
+vREST_NG
 youtube-music
 youtube-music-desktop
 ytDownloader
