@@ -35,10 +35,13 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
-AzPainter
-BLOCK-DX
+BTS-CE-Lite
 Bitwarden
+Bitwarden_Connector
+Blender_Config_Manager
+Blink1Control2
+Blizzard_4
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -85,13 +88,12 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
-Cura
+CutePeaks
+CuteVariant
+Cutter
+DFileManager
+Dana
+Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -149,7 +151,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -175,10 +176,11 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-Heroic Games Launcher
-HyperionIDE
-Hyperspace
-IGdm
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+HexoClient
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -218,9 +220,9 @@ KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
-Laigter
-Left
-Lemon
+KeyManager
+KeyboardClient
+Keys
 LeoCAD
 Lepton
 LibAssist
@@ -252,9 +254,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mob
-Mockman
-Monot
+McPodcast
+Mechvibes
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -294,7 +295,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-PanWriter
+Onenote
 Panini
 Paper
 Papercraft
@@ -388,7 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -421,8 +422,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
+Spivak
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -489,7 +490,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -525,6 +525,7 @@ altair
 android-messages-desktop
 antimicroX
 bauh
+cncjs
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -570,9 +571,11 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
 guiscrcpy
+hw-probe
+hyper
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -609,7 +612,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
 notepadqq
 noteshrink-qt
 nvtop
@@ -642,6 +644,7 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
+python3
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -691,5 +694,4 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
-wezterm
-yuzu
+youtube-music
