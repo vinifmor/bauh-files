@@ -38,8 +38,7 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-Bitwarden
-Blockbench
+BTS-CE-Lite
 Bloks
 BloomRPC
 Blowfish
@@ -88,11 +87,11 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-Cutter
-DFileManager
-Dana
-Datcord
-DawnlightSearch
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -148,7 +147,8 @@ Ferdi
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTube
+Firefox_Nightly
+Friture
 FromScratch
 GDevelop
 GIMP
@@ -173,12 +173,11 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
-Gpredict
-GradeStats
-Graviton
-Heroic Games Launcher
+HyperDEX
+HyperionIDE
+Hyperspace
+IGdm
+INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 IagonCloudApp
@@ -222,8 +221,8 @@ KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
-Kimitzu-Client
-Left
+LeoCAD
+Lepton
 LibAssist
 LiberTEM
 LibreSprite
@@ -254,6 +253,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
+MegaBasterd
 Mob
 Mockman
 Monot
@@ -292,7 +292,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -343,7 +342,6 @@ ProcSpin
 Procyon
 ProofKeeper
 ProtonUp-Qt
-PrusaSlicer
 Pullp
 Pulse
 Puppetry
@@ -390,7 +388,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -427,10 +426,8 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-Standard_Notes
-Statsbook_Tool
-StatusPilatus
-SteamCAD
+SmallBASIC
+SmartGit
 Steem_Messenger
 Stele
 Stellarium
@@ -447,7 +444,6 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -488,10 +484,11 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-VizGraph
-WalletTech
-WatchFlower
-WatchIt
+Upscayl
+V2Ray-Desktop
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -524,11 +521,10 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
-bauh
-cordlauncher
-cric
-dashy-app
-dataset-annotator
+altair
+android-messages-desktop
+antimicroX
+ao
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -599,7 +595,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -613,7 +608,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
+mini-qml
+mira-backup
+mjml-app
 notepadqq
 noteshrink-qt
 nvtop
@@ -648,8 +645,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-timer
-simplechroot
+qSdrSwr
+qTox
 slang-ed
 smtk2ssrf
 snake.js
@@ -697,3 +694,11 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
