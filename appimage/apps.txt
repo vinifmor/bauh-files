@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -80,9 +80,10 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -147,7 +148,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
+Filmulator
 FreeTexturePacker
 FreeTube
 Friture
@@ -174,7 +175,6 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -211,8 +211,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Keys
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -254,7 +252,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 MoarPerf
 Mob
 Mockman
@@ -340,14 +337,9 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
-Pulse
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -389,7 +381,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+Running-Dinner-Tool
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -423,6 +417,9 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
+Spark.Payments
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -457,8 +454,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -488,8 +483,7 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-VK_Desktop
-VirtScreen
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -525,6 +519,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
 cric
 dashy-app
@@ -564,13 +559,14 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -605,7 +601,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
+mtCellEdit
 ngPost
 ngrev
 nheko
@@ -636,6 +632,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+qr-code-generator-desktop
 ridereceipts
 rmw
 runanode
@@ -681,10 +678,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
+x-loc
+xde
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
