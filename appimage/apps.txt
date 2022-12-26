@@ -36,8 +36,10 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
+BLOCK-DX
 Bitwarden
-Blizzard_4
+Black_Chocobo
 Blockbench
 Bloks
 BloomRPC
@@ -82,8 +84,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -146,6 +148,7 @@ FastQt
 Ferdi
 Fidias_Database_Migration_App
 Figma
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -168,10 +171,9 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -208,10 +210,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -249,7 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
 Mob
 Mockman
 Monot
@@ -291,8 +294,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-OpenTodoList
 Paletti
 PanWriter
 Panini
@@ -344,6 +345,8 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
+Puppetry
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -384,8 +387,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -418,7 +422,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -483,8 +487,8 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Vieb
-WalletTech
+V2Ray-Desktop
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -519,9 +523,8 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
-altair
 bauh
-buttercup
+caprine
 cordlauncher
 cric
 dashy-app
@@ -565,9 +568,11 @@ freeman
 gLabels
 gerbv
 getswell
-hyper
-impact
-iota1k
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -603,6 +608,7 @@ mapton
 marktext
 marlin-conf
 mdview
+mtCellEdit
 nheko
 nimbus-weather
 nordvpn-linux
@@ -634,8 +640,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
-sabaki
+puush-qt
 saphyr
 scavengers
 school-sections
@@ -684,6 +689,8 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zograscope
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
