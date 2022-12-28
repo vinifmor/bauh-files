@@ -32,9 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-Beatconnect_Client
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -75,11 +73,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Colon
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -106,6 +103,13 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -136,7 +140,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Ferdi
-Frappe_Accounting
+FontForge
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -159,7 +163,10 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-Heimer
+GitNote
+GitQlient
+Glimpse-Image-Editor
+GoldenCheetah
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -193,9 +200,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
 Kitupiikki
 Klogg
 Knowte
@@ -239,7 +245,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
+MieSimulatorGUI
+Mini_Diary
 Mirage
 MoarPerf
 Mob
@@ -283,7 +290,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Padloc
+OpenBlok
+POE_Ladder
 Painel-Web
 Paletti
 PanWriter
@@ -326,11 +334,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -374,9 +377,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -410,6 +411,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Slacktronic
 SpeedyLoader
 Spivak
 Stacer
@@ -472,9 +474,7 @@ Tusk
 TweakSophia
 UHK.Agent
 UltraGrid
-VidCutter
-Vitomu
-VivifyScrum
+UltraScreen
 VizGraph
 WalletTech
 WatchFlower
@@ -508,6 +508,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
 bauh
 clipr
 cncjs
@@ -551,8 +552,8 @@ fmradio
 four
 foxfolio
 fre:ac
-guiscrcpy
-hsinstall
+freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -591,9 +592,9 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-nRF_Connect
-neovim
-ngPost
+mapton
+marktext
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -623,7 +624,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -670,7 +671,9 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-xonsh
+updatedeployqt
+upterm
+whu-library-seat
 yaya
 youtube-music
 youtube-music-desktop
