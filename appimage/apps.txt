@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Auryo
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -81,8 +80,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-ClementineRemote
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -147,9 +145,7 @@ FMS_File_Explorer
 FastQt
 Ferdi
 Fidias_Database_Migration_App
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
+Figma
 FreeTexturePacker
 FreeTube
 Friture
@@ -170,11 +166,11 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-HastyHeroes
-Heimer
-HermesMessenger
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -205,11 +201,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -251,10 +248,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
-MeshLab
-Minetest
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -297,9 +290,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Onshape
-Padloc
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -342,7 +332,9 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
 ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -420,7 +412,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
+Skrifa
+SlackBackup
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -484,8 +477,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-VPaint
-WalletTech
+V2Ray-Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -522,9 +514,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-clippy
-clipr
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -565,7 +554,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -605,11 +593,9 @@ mapollage
 mapton
 marktext
 marlin-conf
-my-budget
-ngPost
-ngrev
-nheko
-nimbus-weather
+mdview
+media-dupes
+media_mate
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -637,7 +623,7 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-qikQR
+qSdrSwr
 ridereceipts
 rmw
 runanode
@@ -685,8 +671,7 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
