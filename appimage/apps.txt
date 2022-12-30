@@ -34,10 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Axe_Electrum
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -80,8 +79,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
+CircuitBlocks
 Cryptr
 Cscrypto
 CubicSDR
@@ -144,10 +142,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FontForge
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTexturePacker
 FreeTube
 Friture
@@ -168,7 +165,6 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -203,7 +199,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
+Joy2DroidX
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -290,6 +286,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -329,6 +326,13 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -373,7 +377,6 @@ RawTherapee
 Reactotron
 Rebaslight
 RetroArch
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -405,10 +408,10 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -444,6 +447,7 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -473,7 +477,6 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -510,7 +513,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -553,8 +555,8 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -588,10 +590,10 @@ luna
 makoureactor
 mandelbulber2
 mapollage
+mapton
 marktext
-nRF_Connect
-neovim
-ngPost
+marlin-conf
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -669,6 +671,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+whiteboard
 xonsh
 yaya
 youtube-music
