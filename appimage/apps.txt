@@ -35,9 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
+BLOCK-DX
 Bitwarden
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -80,6 +81,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -145,7 +148,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -169,11 +171,11 @@ Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
-HiDPI-Fixer
-HyperDEX
-HyperionIDE
-Hyperspace
-IGdm
+GooboxFileShare
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -249,6 +251,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
+Mob
 Mockman
 Monot
 Moonlight
@@ -286,11 +289,10 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -384,6 +386,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,7 +424,8 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-SmallBASIC
+Statsbook_Tool
+StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
@@ -518,10 +522,11 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
+ao
+appimagelint
+appimagetool
 bauh
-dataset-annotator
-dbet-wallet
-deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -602,10 +607,12 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
-moniteur-admin
+neovim
+ngrev
+nheko
+nimbus-weather
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -637,6 +644,7 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -687,3 +695,4 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
+whiteboard
