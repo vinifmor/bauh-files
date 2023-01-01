@@ -38,9 +38,7 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
 Bitwarden
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -86,7 +84,6 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
 CutePeaks
 CuteVariant
 DFileManager
@@ -145,9 +142,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -171,11 +167,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -214,7 +210,8 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
+LED.Custom.Palette
+LMMS
 LPub3D
 Lagrange
 Laigter
@@ -250,8 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -294,6 +289,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -344,7 +340,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulse
-Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -387,6 +382,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -485,9 +481,9 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-WalletTech
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -521,6 +517,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
 dashy-app
 dataset-annotator
@@ -561,14 +558,14 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
+gerbv
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 irccloud-desktop
 isle-editor
 jag
@@ -604,8 +601,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
-nimbus-weather
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -636,8 +633,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
+puush-qt
 school-sections
 ser-player
 simple-s3-uploader
@@ -685,8 +681,7 @@ vREST_NG
 vifm
 violetbug
 vue-calc
-xonsh
-ytDownloader
+vuerd
+weatherdump
+westeroscraftlauncher
 yuzu
-zograscope
-zsync2
