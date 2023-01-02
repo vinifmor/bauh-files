@@ -79,8 +79,9 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
+CrossMobile
+Cryplicity
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -144,8 +145,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD-asm3
-FreeCAD2
+Figma
 FreeTexturePacker
 FreeTube
 Friture
@@ -168,9 +168,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Google_Tasks_Desktop
-Heimer
-HermesMessenger
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -203,11 +202,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -249,8 +249,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -291,8 +289,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -332,6 +329,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -376,7 +375,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -507,10 +505,9 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+cncjs
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -552,6 +549,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -591,7 +589,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -621,8 +619,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
+pomotroid
 runanode
 sabaki
 saphyr
@@ -666,9 +663,11 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 wxMaxima
-x-loc
-xde
 xonsh
 yaya
 youtube-music
