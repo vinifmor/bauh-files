@@ -37,8 +37,8 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
+BLOCK-DX
 Bitwarden
-Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -84,13 +84,15 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-CustomRPC
-CutePeaks
-CuteVariant
-DFileManager
-Dana
-Datcord
-DawnlightSearch
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -146,7 +148,6 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
-Friture
 FromScratch
 GDevelop
 GIMP
@@ -172,10 +173,12 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
+GpgFrontend
+Gpredict
+GradeStats
+GrinPlusPlus
+Guitar
 Heroic Games Launcher
-HyperionIDE
-Hyperspace
-IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
@@ -212,7 +215,8 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-Keibo-MoneyTracker-x86_64
+LMMS
+LPub3D
 Lagrange
 Laigter
 Left
@@ -249,9 +253,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
-MediaElch
-Mirage
+Mockman
 Monot
 Moonlight
 Motrix
@@ -291,7 +293,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -383,7 +386,11 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+RedmineTimeTracker
+ReliefValve
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -417,7 +424,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -484,7 +491,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+VeChain
 WebDesktop
 Webamp
 Wexond
@@ -519,10 +526,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
+ao
 bauh
-dashy-app
-dataset-annotator
-dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -560,11 +566,12 @@ fre:ac
 freeman
 gLabels
 gerbv
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -602,7 +609,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -681,7 +687,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-wxMEdit
 yuzu
 zograscope
 zsync2
