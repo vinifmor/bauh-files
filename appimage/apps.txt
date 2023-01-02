@@ -35,9 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -79,10 +79,9 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
+Circle-Z
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -113,8 +112,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -146,6 +143,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 Friture
@@ -169,7 +168,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -208,6 +207,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -249,6 +249,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MediaElch
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -289,7 +291,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -375,6 +378,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RetroShare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -408,7 +412,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -472,7 +475,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-WalletTech
+V2Ray-Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -544,11 +547,10 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -590,8 +592,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
-nheko
+mdview
+media-dupes
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -620,7 +622,8 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-runanode
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -667,11 +670,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-wxMaxima
-xonsh
-yaya
+vREST_NG
+x-loc
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
