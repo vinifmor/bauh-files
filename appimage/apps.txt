@@ -34,7 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-BTS-CE-Lite
+Auryo
 Bitwarden
 Blender_Config_Manager
 Blink1Control2
@@ -80,8 +80,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
+CircuitBlocks
 Cryptr
 Cscrypto
 CubicSDR
@@ -111,6 +110,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,6 +144,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -161,7 +165,10 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
+GitJournal
+GitNote
+GitQlient
+Google_Tasks_Desktop
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -242,6 +249,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -283,7 +292,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -323,8 +332,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -367,9 +374,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -399,10 +405,11 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -437,6 +444,8 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -463,7 +472,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-VizGraph
+UniShellect
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -496,9 +506,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -537,10 +549,9 @@ flightgear-airports
 fmradio
 four
 foxfolio
-hotspot
-hpack
-hsinstall
-htmldoc
+fre:ac
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -610,8 +621,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-qikQR
-rasterview
 ridereceipts
 rmw
 runanode
