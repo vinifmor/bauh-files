@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -65,11 +64,11 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
+CPod
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -94,7 +93,10 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-Eagle_Mode
+DeepTags
+Delir
+Deployer
+Dust3D
 Eksplode.re
 ElDumper
 Electorrent
@@ -123,7 +125,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Firefox_Nightly
 Fraidycat
 FranceTV
 Franz
@@ -147,7 +148,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -179,8 +179,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
-KevEdit
+JReleaser
+James
 KeyManager
 KeyboardClient
 Keys
@@ -272,6 +272,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -352,7 +353,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-Rufus
+Running-Dinner-Tool
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -383,7 +384,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -415,6 +415,12 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -439,6 +445,7 @@ Turntable
 Tusk
 TweakSophia
 UHK.Agent
+VidCutter
 VirtScreen
 Vitomu
 VivifyScrum
@@ -466,10 +473,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
-appium-desktop
-autoEdit2
+ZY_Player
+ZapDesktop
 avogadro
 bauh
 bioanimation
@@ -497,12 +502,11 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
+eOSVC
+eXtrema
+ehdev-shell
+elcalc
+electron-wechat
 freeman
 gLabels
 gerbv
@@ -555,7 +559,6 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
 mybelka
 n3h
 nRF_Connect
@@ -585,8 +588,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-polar-bookshelf
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -628,14 +629,11 @@ timer
 tmon
 tnt
 torrenttools
+triagem-touch
+ttth
+tweet-tray
+twetter
 twitch-wrapper
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
