@@ -35,8 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -79,10 +80,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Code_OSS
-Cryplicity
-Crypter
-Cryptr
+CircuitBlocks
+ColorGenerator
 Cscrypto
 CubicSDR
 Cura
@@ -146,6 +145,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -167,9 +167,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -203,6 +203,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Keys
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -290,6 +292,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+PDFQuirk
+Paletti
 PanWriter
 Panini
 Paper
@@ -378,6 +382,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
 SPlayer
 SUMOCO
 SUbillManager
@@ -412,8 +417,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Sourcetrail
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -479,6 +482,10 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
+V2Ray-Desktop
+VK_Desktop
+Verto
+Vieb
 WalletTech
 WatchFlower
 WatchIt
@@ -512,9 +519,12 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
-aillio-ts
+appimagelint
 bauh
+clipr
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -555,8 +565,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
+hugin
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -602,6 +612,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -628,11 +639,11 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -674,9 +685,8 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-youtube-music
-youtube-music-desktop
-ytDownloader
+vifm
+violetbug
 yuzu
 zograscope
 zsync2
