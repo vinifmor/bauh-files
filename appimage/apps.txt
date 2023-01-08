@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,10 +77,10 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -111,10 +111,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,7 +140,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fraktal
+Fidias_Database_Migration_App
+Fluent_Reader
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -170,10 +167,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GrinPlusPlus
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -204,10 +200,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -249,6 +247,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mini_Diary
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -290,6 +290,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
+PDFQuirk
 Painel-Web
 Paletti
 PanWriter
@@ -335,7 +337,6 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -377,7 +378,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+RoloViewer
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -410,7 +413,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -448,6 +451,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -512,6 +516,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -552,7 +557,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -594,9 +599,12 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
+movie-monad
+nheko
+nimbus-weather
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -622,8 +630,8 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
@@ -669,9 +677,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
+yaya
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
