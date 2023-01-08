@@ -35,9 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
+AzPainter
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -81,8 +81,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-ColorGenerator
-Cscrypto
+City_Hub
 CubicSDR
 Cura
 CustomRPC
@@ -145,8 +144,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD-asm3
-FreeCAD2
+Filmulator
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -167,8 +165,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
-HastyHeroes
+GitJournal
+GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -203,9 +201,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
-KiCad
-Kiibohd_Configurator
+Joy2DroidX
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -292,8 +288,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-PDFQuirk
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -342,6 +337,8 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -382,8 +379,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -481,11 +476,8 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-Upscayl
-V2Ray-Desktop
-VK_Desktop
-Verto
-Vieb
+Videomass
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -519,8 +511,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-appimagelint
 bauh
+caprine
 clipr
 cncjs
 colorstatic-bash
@@ -563,8 +555,9 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -612,7 +605,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nvtop
+mki3dgame
+noteshrink-qt
 nx-software-center
 nxshell
 ommpfritt
@@ -642,8 +636,8 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-python3
-qBittorrent_Enhanced_Edition
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
