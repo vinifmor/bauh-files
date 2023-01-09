@@ -77,9 +77,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -111,10 +111,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -166,7 +162,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
 HastyHeroes
 Heimer
 HermesMessenger
@@ -202,7 +197,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -249,6 +243,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MieSimulatorGUI
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -289,8 +286,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -330,11 +326,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -377,6 +368,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Rufus
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -408,8 +401,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -472,7 +465,6 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
 VizGraph
 WalletTech
 WatchFlower
@@ -543,9 +535,7 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
+hero-display
 hotspot
 hpack
 hsinstall
@@ -595,7 +585,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mtCellEdit
+ngrev
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -623,7 +614,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -671,7 +662,6 @@ updatedeployqt
 upterm
 vREST_NG
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
