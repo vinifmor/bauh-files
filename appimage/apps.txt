@@ -34,10 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-Axe_Electrum
-AzPainter
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -80,8 +80,10 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -142,9 +144,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -166,7 +167,7 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -201,7 +202,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
+Keys
+KiCad
+Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -288,7 +291,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
+Paletti
 PanWriter
 Panini
 Paper
@@ -332,13 +335,8 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -449,7 +447,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -476,7 +473,6 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
-Videomass
 VizGraph
 WalletTech
 WatchFlower
@@ -510,10 +506,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
 bauh
-caprine
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -553,8 +546,7 @@ flameshot
 flightgear-airports
 fmradio
 four
-foxfolio
-fre:ac
+hotspot
 hpack
 hsinstall
 htmldoc
@@ -603,10 +595,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
-mki3dgame
+mtCellEdit
 noteshrink-qt
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -633,9 +624,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
+saphyr
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -679,8 +670,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
