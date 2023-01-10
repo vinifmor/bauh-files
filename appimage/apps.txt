@@ -32,9 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-Axe_Electrum
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,10 +65,7 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Cavoke
-Circle-Z
-ClementineRemote
-Cliniface
+CRG_Data_Tool
 Cloud_Browser
 Code_OSS
 Colon
@@ -97,7 +92,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
+DokiDokiModManager
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -128,7 +123,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -149,7 +145,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
+Glyphr_Studio_Desktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -181,7 +177,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
@@ -234,11 +230,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mechvibes
-Melodie
-Mini_Diary
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -278,8 +269,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OWASP Threat Dragon
-Outline-Manager
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -320,7 +309,7 @@ Podman
 PolkaKey
 Popsicle
 Postman
-ProcSpin
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -361,7 +350,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -389,7 +377,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -419,14 +407,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -448,10 +429,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Verto
-Vieb
-Viper_Browser
-Vipster
+TweakSophia
+UHK.Agent
 VirtScreen
 Vitomu
 VivifyScrum
@@ -476,10 +455,9 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-altair
-android-messages-desktop
-antimicroX
-ao
+YesPlayMusic
+YouTubeSearchFilter
+Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -507,12 +485,12 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
+dukto
+dvdisaster
+eDEX-UI
+eNoseAnnotator
+eOSVC
+eXtrema
 fmradio
 four
 foxfolio
@@ -576,7 +554,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -603,7 +581,9 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
+python3
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -644,8 +624,8 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-whiteboard
-whu-library-seat
+twetter
+twitch-wrapper
 windows2usb
 wxMEdit
 wxMaxima
