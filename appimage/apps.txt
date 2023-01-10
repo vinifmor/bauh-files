@@ -31,8 +31,6 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -93,11 +91,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,7 +121,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Fraidycat
+FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -149,6 +145,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -177,10 +175,10 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
-IrScrutinizer
-Isolate
-KADE
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -232,7 +230,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -274,8 +271,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Open_Markup_Editor
-PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -354,9 +349,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
-SMPlayer
-SMathStudio
+RawTherapee
+Reactotron
 SMath_Studio
 SPlayer
 SUMOCO
@@ -383,10 +377,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Simdock
-Skrifa
-Software-Challenge-GUI
-Sonist
+Shuttle
+SigDigger
+SigmaSpectra
 Sourcetrail
 Sovren.Batch.Parser
 Spark.Payments
@@ -420,9 +413,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -444,8 +434,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
+Valeronoi
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -475,6 +465,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
+aillio-ts
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -504,8 +496,8 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-eXtrema
-ehdev-shell
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -564,8 +556,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -592,11 +583,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qTox
-qpdf
-qpp::cad
-qr-code-generator-desktop
-quokkagit
+plotjuggler
+pnpm
 rasterview
 ridereceipts
 rmw
@@ -637,7 +625,6 @@ tnt
 torrenttools
 triagem-touch
 ttth
-violetbug
 weweChat
 wezterm
 whiteboard
