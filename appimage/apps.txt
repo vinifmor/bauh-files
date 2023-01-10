@@ -34,10 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Bazecor
+Auryo
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -80,6 +78,7 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
+Circle-Z
 Cryplicity
 Crypter
 Cryptr
@@ -113,6 +112,8 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,6 +145,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+Firefox_Beta
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -164,8 +167,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GooboxFileShare
+GradeStats
+Gulden
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -197,8 +201,8 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
-JoalDesktop
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -247,7 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
 Mob
 Mockman
 Monot
@@ -287,7 +291,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onshape
+OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -332,6 +337,9 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -374,6 +382,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RoboRock_Control_Center
+SMathStudio
 SPlayer
 SUMOCO
 SUbillManager
@@ -406,7 +416,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -471,6 +482,7 @@ UHK.Agent
 UltraGrid
 UltraScreen
 UniShellect
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -503,8 +515,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
 bauh
-bioanimation
 cncjs
 colorstatic-bash
 cordlauncher
@@ -546,7 +558,9 @@ fmradio
 four
 foxfolio
 fre:ac
-hsinstall
+freeman
+gLabels
+glTF_Insight
 htmldoc
 hugin
 huwinterpreter
@@ -593,7 +607,9 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-notepadqq
+mira-backup
+mjml-app
+ngrev
 noteshrink-qt
 nvtop
 nx-software-center
@@ -621,7 +637,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-runanode
+qBittorrent_Enhanced_Edition
 sabaki
 saphyr
 scavengers
@@ -668,8 +684,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-xde
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
