@@ -32,7 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-Axe_Electrum
+AudioMoth
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -66,8 +66,8 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Cliniface
-Cloud_Browser
+CRG_Data_Tool
+CRIC
 Code_OSS
 Colon
 ColorGenerator
@@ -127,6 +127,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -147,8 +149,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GradeStats
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -176,10 +176,11 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Intiface
+Invoice-Generator
+IrScrutinizer
+Isolate
+KADE
 KettleClient
 KevEdit
 KeyManager
@@ -273,8 +274,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onenote
-Padloc
+Open_Markup_Editor
+PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -317,7 +318,6 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -354,9 +354,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
-RetroArch
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -384,6 +383,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Simdock
+Skrifa
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -422,7 +423,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -474,8 +474,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appimagetool
-appium-desktop
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -507,6 +506,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -564,9 +564,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
+neovim
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -592,8 +592,11 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
+qTox
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -634,12 +637,12 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+violetbug
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
