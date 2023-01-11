@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -80,7 +80,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-ClementineRemote
+City_Hub
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -112,8 +113,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,6 +142,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -164,8 +164,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GrinPlusPlus
 HastyHeroes
 Heimer
 HermesMessenger
@@ -200,7 +198,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -247,6 +245,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -287,9 +287,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
-PIA
 Painel-Web
 Paletti
 PanWriter
@@ -332,11 +329,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -412,6 +404,8 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -450,7 +444,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -475,7 +468,9 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
-VivifyScrum
+UltraScreen
+UniShellect
+VK_Desktop
 VizGraph
 WalletTech
 WatchFlower
@@ -510,6 +505,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+cabal-desktop
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -552,8 +549,6 @@ fmradio
 four
 foxfolio
 fre:ac
-guglielmo
-hotspot
 hpack
 hsinstall
 htmldoc
@@ -601,7 +596,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -629,6 +626,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+qTox
 saphyr
 scavengers
 school-sections
@@ -675,8 +673,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
+vue-calc
+youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
