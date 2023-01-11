@@ -32,7 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 AudioMoth
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -64,9 +63,8 @@ BytespeicherTrayIcon
 CARTA
 CATcher
 CIAA_Suite
-CRG_Data_Tool
-City_Hub
-CleepDesktop
+CPU-X
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -95,7 +93,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -127,6 +124,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Firefox_ESR
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -148,6 +146,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GoldenCheetah
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -177,10 +177,10 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-IrScrutinizer
-Isolate
-JReleaser
-Join_Desktop
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -231,7 +231,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
 Minions
 Mirage
 MoarPerf
@@ -272,10 +271,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PIA
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -314,7 +311,8 @@ Poddr
 Podman
 PolkaKey
 Popsicle
-ProofKeeper
+Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -355,9 +353,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rotki
-SF_Tube
-SMF-DSP
+RetroShare
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -386,7 +382,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
+SigDigger
 Sonist
 Sourcetrail
 Sovren.Batch.Parser
@@ -420,6 +417,10 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -441,8 +442,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-V2Ray-Desktop
-Viper_Browser
+TweakSophia
+Verto
+Vieb
 Vipster
 VirtScreen
 Vitomu
@@ -471,12 +473,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-acreom
-aillio-ts
-ao
-appimagelint
-appimagetool
-appium-desktop
+ZY_Player
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -505,12 +503,9 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-element
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+eOSVC
+eXtrema
+ehdev-shell
 fre:ac
 freeman
 gLabels
@@ -569,6 +564,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -595,6 +591,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
+puush-qt
+qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -638,8 +637,6 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-unofficial-zalo
-wezterm
 whiteboard
 whu-library-seat
 windows2usb
