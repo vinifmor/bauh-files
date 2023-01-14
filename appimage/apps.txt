@@ -37,10 +37,7 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
-BLOCK-DX
-BTS-CE-Lite
 Bitwarden
-Blink1Control2
 Blockbench
 Bloks
 BloomRPC
@@ -85,10 +82,11 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
+CozyDrive
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
 CuteVariant
 DFileManager
 Dana
@@ -147,8 +145,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -172,8 +169,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GoldenDict
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
+Guitar
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -210,6 +208,8 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
+KDiskMark
+KOReader
 Klogg
 Knowte
 KopiaUI
@@ -295,8 +295,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
 PanWriter
 Panini
 Paper
@@ -346,7 +345,7 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
-Puppetry
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -387,7 +386,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SFRT_Attendance
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,6 +420,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Skrifa
 SpeedyLoader
 Spivak
 Stacer
@@ -489,7 +489,7 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VLC
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -519,11 +519,10 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -564,9 +563,10 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
+hugin
+huwinterpreter
+hw-probe
+hyper
 impact
 iota1k
 iptvnator
@@ -642,9 +642,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-timer
-simplechroot
-slang-ed
+qSdrSwr
+qTox
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -685,6 +684,6 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
 yuzu
-zograscope
 zsync2
