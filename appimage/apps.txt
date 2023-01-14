@@ -37,7 +37,10 @@ Augur
 Auryo
 Axe_Electrum
 AzPainter
+BLOCK-DX
+BTS-CE-Lite
 Bitwarden
+Blink1Control2
 Blockbench
 Bloks
 BloomRPC
@@ -82,12 +85,10 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-Colorpicker
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
 CuteVariant
 DFileManager
 Dana
@@ -171,9 +172,10 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+GoldenDict
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -208,8 +210,6 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-KDiskMark
-KOReader
 Klogg
 Knowte
 KopiaUI
@@ -254,7 +254,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mechvibes
+Mob
 Mockman
 Monot
 Moonlight
@@ -296,6 +296,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -338,8 +339,14 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -380,6 +387,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SFRT_Attendance
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -413,9 +421,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+SpeedyLoader
+Spivak
+Stacer
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -481,8 +489,7 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
-WatchIt
+VLC
 WebDesktop
 Webamp
 Wexond
@@ -557,9 +564,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
-huwinterpreter
-hw-probe
-hyper
+gerbv
+getswell
+gibs
 impact
 iota1k
 iptvnator
@@ -604,8 +611,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nx-software-center
-nxshell
+moniteur-admin
+moolticute
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -678,7 +685,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-wxMEdit
 yuzu
 zograscope
 zsync2
