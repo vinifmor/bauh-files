@@ -28,11 +28,12 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-Axe_Electrum
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beatconnect_Client
 Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -66,7 +67,7 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CleepDesktop
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -95,9 +96,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Deployer
-Detect_It_Easy
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -129,7 +127,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_ESR
+Flippy_Qualitative_Testbench
+FontForge
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -151,6 +150,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -182,10 +182,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-Join_Desktop
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -235,6 +233,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minetest
 Minions
 Mirage
 MoarPerf
@@ -317,6 +316,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -357,8 +358,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-RetroArch
+RetroShare
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -387,8 +388,7 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SocNetV
-Software-Challenge-GUI
+SigDigger
 Sonist
 Sourcetrail
 Spark.Payments
@@ -423,6 +423,7 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
+SyncMyL2P
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -444,7 +445,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
+Vieb
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -474,7 +476,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
+autoEdit2
+avogadro
 bauh
 bioanimation
 bottlenose
@@ -509,8 +512,9 @@ electron-wechat
 electron-xiami
 element
 elzabrowser
-embedded-ide
-enve
+fmradio
+gerbv
+getswell
 gibs
 githoard
 glTF_Insight
@@ -565,6 +569,7 @@ mapton
 marktext
 marlin-conf
 mdview
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -593,9 +598,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-privacy.sexy
-qpdf
-rasterview
 ridereceipts
 rmw
 runanode
@@ -640,7 +642,8 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
+unofficial-zalo
+wxMEdit
 wxMaxima
 x-loc
 xde
