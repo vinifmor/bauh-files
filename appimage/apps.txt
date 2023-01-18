@@ -30,6 +30,8 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
+Audacity
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -64,6 +66,7 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
+CRG_Data_Tool
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -93,6 +96,9 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
+DeepTags
+Delir
+Dragoman
 Eksplode.re
 ElDumper
 Electorrent
@@ -119,8 +125,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-Fraktal
-FranceTV
+FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -143,6 +149,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GrinPlusPlus
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -175,6 +183,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -226,10 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
-Mini_Diary
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -268,9 +273,10 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
+OWallet
+P2PDerivatives
 Painel-Web
 Paletti
 PanWriter
@@ -311,7 +317,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-Procyon
+PowerShell
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -351,6 +358,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -379,8 +387,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
+Software-Challenge-GUI
+Sonist
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -411,7 +419,6 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
-SwiftnessX
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -433,7 +440,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
 VirtScreen
 Vitomu
 VivifyScrum
@@ -463,8 +469,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-autoEdit2
-avogadro
+ZeGrapher
+Zegarek
 bauh
 bioanimation
 bottlenose
@@ -494,8 +500,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-fSpy
-foxfolio
+elcalc
 fre:ac
 freeman
 gLabels
@@ -582,8 +587,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-puush-qt
-rasterview
 ridereceipts
 rmw
 runanode
