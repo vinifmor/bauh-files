@@ -27,10 +27,9 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
+Artisan
+AsarUI
+AstroShutter
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -61,9 +60,10 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-City_Hub
-CleepDesktop
-ClementineRemote
+CIAA_Suite
+CPU-X
+CP_Editor
+CPod
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -91,9 +91,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
 Eksplode.re
 ElDumper
 Electorrent
@@ -120,8 +119,7 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -176,7 +174,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Keibo-MoneyTracker-x86_64
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -228,6 +226,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
+Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -267,6 +267,7 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
 PacketSender
 Padloc
@@ -310,6 +311,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+Procyon
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -349,8 +351,6 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -379,8 +379,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
+SigDigger
+SigmaSpectra
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -407,7 +407,11 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -429,8 +433,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Viper_Browser
-Vipster
+TweakSophia
 VirtScreen
 Vitomu
 VivifyScrum
@@ -458,9 +461,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
-appium-desktop
+ZY_Player
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -492,6 +494,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+fSpy
 foxfolio
 fre:ac
 freeman
@@ -551,8 +554,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
-ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -579,7 +580,9 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-quokkagit
+pnpm
+polar-bookshelf
+puush-qt
 rasterview
 ridereceipts
 rmw
@@ -623,9 +626,8 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-whu-library-seat
-windows2usb
-wxMEdit
+uncov
+unified-communications
 wxMaxima
 x-loc
 xde
