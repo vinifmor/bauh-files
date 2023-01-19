@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Axe_Electrum
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -69,8 +68,7 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Circle-Z
-Code_OSS
+Cabal_Desktop_Mini
 Colon
 ColorGenerator
 Colorpicker
@@ -97,8 +95,6 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
-Delir
 Demonizer
 Eksplode.re
 ElDumper
@@ -129,12 +125,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_Beta
-Fraidycat
-Fraktal
-FranceTV
-Franz
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -155,9 +145,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitJournal
-Guitar
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -189,8 +176,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
-KevEdit
+JReleaser
+James
 KeyManager
 KeyboardClient
 Keys
@@ -240,7 +227,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MediaElch
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -281,7 +269,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -322,8 +309,10 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -361,9 +350,11 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
-Rebaslight
 Record_Compare
+SMF-DSP
+SMPlayer
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -389,11 +380,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -419,17 +408,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -451,6 +430,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -478,8 +459,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ai-bot-workspace
 appimagelint
 appimagetool
 appium-desktop
@@ -514,6 +493,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+fSpy
 foxfolio
 fre:ac
 freeman
@@ -574,6 +554,7 @@ mapton
 marktext
 marlin-conf
 mdview
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -601,6 +582,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+privacy.sexy
+rasterview
 ridereceipts
 rmw
 runanode
@@ -644,8 +627,6 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-windows2usb
 wxMEdit
 wxMaxima
 x-loc
