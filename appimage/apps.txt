@@ -32,8 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,14 +67,13 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Cate-Desktop
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -98,7 +97,13 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Dragoman
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
+Digitales_Klassenzimmer
+Disass
 Eksplode.re
 ElDumper
 Electorrent
@@ -127,8 +132,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -149,10 +153,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GrinPlusPlus
-Guitar
-Gulden
-HDRMerge
+Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -183,8 +185,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Keibo-MoneyTracker-x86_64
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -275,8 +275,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-P2PDerivatives
 Painel-Web
 Paletti
 PanWriter
@@ -317,8 +315,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -359,8 +355,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -387,8 +383,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
+SigDigger
+SigmaSpectra
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -419,6 +415,8 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
+SwiftnessX
+SwitchHosts!
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -440,7 +438,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-VirtScreen
+TweakSophia
+UHK.Agent
+UltraGrid
 Vitomu
 VivifyScrum
 VizGraph
@@ -472,7 +472,6 @@ ZapDesktop
 ZeGrapher
 Zegarek
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -500,7 +499,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
 fre:ac
 freeman
 gLabels
@@ -559,6 +557,11 @@ mapollage
 mapton
 marktext
 marlin-conf
+mdview
+media-dupes
+mira-backup
+n3h
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -587,6 +590,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
+python3
 ridereceipts
 rmw
 runanode
@@ -631,8 +635,9 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-wxMaxima
-x-loc
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
 xde
 xonsh
 yaya
