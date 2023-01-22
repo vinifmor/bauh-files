@@ -34,10 +34,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+Axe_Electrum
+AzPainter
+Beatconnect_Client
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -81,10 +82,9 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
+City_Hub
+CleepDesktop
+ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -147,6 +147,7 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
+Firefox_ESR
 FreeTube
 FreeTube
 Friture
@@ -175,7 +176,6 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 Heroic Games Launcher
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -213,6 +213,7 @@ KOReader
 Kage
 Kanon
 KawAnime
+LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -254,7 +255,7 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Mockman
+MediaElch
 Monot
 Moonlight
 Motrix
@@ -346,6 +347,7 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -388,8 +390,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SBLauncher
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -424,8 +424,9 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-Stacer
-Standard_Notes
+SlackBackup
+Slacktronic
+Slippi
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -488,8 +489,8 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-VizGraph
-WalletTech
+V2Ray-Desktop
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -525,9 +526,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cordlauncher
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -569,12 +569,12 @@ freeman
 gLabels
 gerbv
 getswell
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
 irccloud-desktop
 isle-editor
 jag
@@ -612,7 +612,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -694,4 +694,6 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
-yuzu
+weweChat
+wezterm
+wxMaxima
