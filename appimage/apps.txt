@@ -65,7 +65,8 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
+Cavoke
+ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -96,6 +97,7 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
+Delir
 Eksplode.re
 ElDumper
 Electorrent
@@ -123,8 +125,6 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-Fraidycat
 FranceTV
 Franz
 Frappe_Accounting
@@ -181,7 +181,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-James
 KettleClient
 KevEdit
 KeyManager
@@ -233,6 +232,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -274,8 +274,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-POE_Ladder
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -316,6 +314,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -416,7 +415,12 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 Symphonium
+SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -439,7 +443,10 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
+Verto
+Vessel
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -468,10 +475,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZenroomStudio
-aillio-ts
-appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -503,8 +506,9 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-fre:ac
-freeman
+elcalc
+electron-wechat
+electron-xiami
 gLabels
 gerbv
 getswell
@@ -558,8 +562,9 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
+moniteur-admin
+n3h
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -586,10 +591,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -632,7 +636,9 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-twitch-wrapper
+vue-calc
+whiteboard
+whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
