@@ -77,8 +77,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-Cromberg
-CrossCode_Map_Editor
+ChainX_Signer
+Chiaki
 CrossMobile
 Cryplicity
 Crypter
@@ -140,8 +140,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Firefox_ESR
+Fraidycat
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -196,10 +196,9 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
+James
+JoalDesktop
 Join_Desktop
-KevEdit
-KeyManager
-KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -247,10 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MediaElch
-MeshLab
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -291,7 +286,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Olive
 Painel-Web
 Paletti
 PanWriter
@@ -333,9 +327,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -378,7 +369,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -410,9 +401,8 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-Sourcetrail
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -473,6 +463,7 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
+UHK.Agent
 VirtScreen
 Vitomu
 VivifyScrum
@@ -501,8 +492,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -534,7 +525,9 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-electron-wechat
+fmradio
+fre:ac
+freeman
 gLabels
 gerbv
 getswell
@@ -590,8 +583,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mutool
+mtCellEdit
+neovim
 ngPost
 ngrev
 nheko
@@ -619,9 +612,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -668,7 +660,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
+wxMaxima
 x-loc
 xde
 xonsh
