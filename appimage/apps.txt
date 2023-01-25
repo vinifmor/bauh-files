@@ -33,7 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Bezique
+Augur
+Beekeeper_Studio
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -72,9 +73,9 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -98,6 +99,11 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
@@ -128,7 +134,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -150,8 +155,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -183,7 +186,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
+JReleaser
 KevEdit
 KeyManager
 KeyboardClient
@@ -234,8 +237,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MediaElch
-Minions
 Mirage
 MoarPerf
 Mob
@@ -277,8 +278,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Obsidian
-Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -319,8 +318,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-ProcDepMonitor
-Procyon
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -363,6 +361,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Record_Compare
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -392,8 +391,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Sonist
-Sourcetrail
+SigDigger
+SigmaSpectra
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -425,8 +424,12 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
 SyncMyL2P
+Syncplay
 SynfigStudio
+Synthein
+T.Viewer
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -449,7 +452,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Vipster
+TweakSophia
+UHK.Agent
+V2Ray-Desktop
 VirtScreen
 Vitomu
 VivifyScrum
@@ -477,10 +482,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
-appium-desktop
-autoEdit2
+ZY_Player
+ZapDesktop
+ZeGrapher
 avogadro
 bauh
 bioanimation
@@ -511,9 +515,9 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-feebas
-fre:ac
-freeman
+elcalc
+electron-wechat
+electron-xiami
 gLabels
 gerbv
 getswell
@@ -642,9 +646,10 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-windows2usb
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMEdit
-wxMaxima
 x-loc
 xde
 xonsh
