@@ -34,8 +34,8 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,10 +77,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-Comic-Reader
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -113,7 +111,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,8 +140,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_Beta
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -166,6 +162,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -197,8 +194,10 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KevEdit
-KeyManager
+James
+JoalDesktop
+Join_Desktop
+KettleClient
 KeyboardClient
 Keys
 KiCad
@@ -247,6 +246,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -288,7 +288,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -373,7 +372,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -405,11 +404,9 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Slacktronic
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -445,8 +442,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -470,7 +465,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -501,10 +495,10 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
+ai-bot-workspace
 appium-desktop
+autoEdit2
+avogadro
 bauh
 bioanimation
 bottlenose
@@ -534,13 +528,10 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
-flightgear-airports
+fre:ac
+freeman
+gLabels
+gerbv
 getswell
 gibs
 githoard
@@ -593,8 +584,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-meta-grabber
+mira-backup
 neovim
 ngPost
 ngrev
@@ -623,7 +613,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -670,9 +660,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-upterm
+wxMaxima
 x-loc
 xde
 xonsh
