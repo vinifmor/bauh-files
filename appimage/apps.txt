@@ -32,8 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -70,10 +71,10 @@ CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Cate-Desktop
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -101,6 +102,8 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
+Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -130,6 +133,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,9 +155,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GitNote
 HDRMerge
 HastyHeroes
 Heimer
@@ -186,6 +187,8 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
+Joy2DroidX
+Kanon
 KeyManager
 KeyboardClient
 Keys
@@ -235,6 +238,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -275,9 +280,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -320,6 +322,7 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -362,8 +365,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+RetroShare
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -391,12 +395,11 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
+Software-Challenge-GUI
+Sonist
+Sourcetrail
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -426,15 +429,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -458,7 +452,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -486,9 +479,10 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
-ZY_Player
-ZapDesktop
+ao
+appimagelint
+appimagetool
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -520,6 +514,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -577,6 +572,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
+mutool
 neovim
 ngPost
 ngrev
@@ -607,7 +603,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
+python2
+rasterview
 ridereceipts
 rmw
 runanode
@@ -653,7 +650,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
+unofficial-zalo
 x-loc
 xde
 xonsh
