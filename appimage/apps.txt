@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+AzPainter
 Bitwarden
 Blizzard_4
 Blockbench
@@ -78,8 +79,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -144,6 +145,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
+Figma
+Firefox_ESR
+Frappe_Accounting
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -164,10 +169,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -199,10 +202,8 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-Join_Desktop
-Joplin
-Juggernaut
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -250,6 +251,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
+MegaBasterd
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -290,7 +295,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -338,7 +342,6 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
@@ -380,8 +383,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
-SMPlayer
+RawTherapee
+Reactotron
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -415,8 +419,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -449,11 +453,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -477,6 +476,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+Vessel
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -514,7 +515,6 @@ Znax
 Zoom
 Zulip
 bauh
-caprine
 clippy
 clipr
 cncjs
@@ -555,8 +555,10 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-guglielmo
-hero-display
+four
+foxfolio
+fre:ac
+glulxe
 hotspot
 hpack
 hsinstall
@@ -599,6 +601,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -677,6 +680,8 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
 xonsh
 yaya
 youtube-music
