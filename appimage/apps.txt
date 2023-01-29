@@ -41,7 +41,8 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
-Bazecor
+Bitwarden
+Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
@@ -93,7 +94,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cromberg
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -147,6 +148,7 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -174,8 +176,6 @@ GoldenCheetah
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
-GpgFrontend
-HDRMerge
 HyperionIDE
 Hyperspace
 IGdm
@@ -221,12 +221,11 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
-Knowte
+Lemon
+LeoCAD
+Lepton
+LibAssist
+LiberTEM
 LibreSprite
 Lightning
 LikeTaskManager
@@ -258,10 +257,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Memento
-Meshmill
-Minetest
-Mockman
 Monot
 Moonlight
 Motrix
@@ -298,11 +293,12 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
-Open_Markup_Editor
+OpenTodoList
 PanWriter
 Panini
 Paper
@@ -349,6 +345,8 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+ProtonUp-Qt
+PrusaSlicer
 Pullp
 Pulsar
 Pulse
@@ -398,7 +396,6 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
-Responsively
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -410,6 +407,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -433,8 +431,6 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-SmallBASIC
-Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -454,6 +450,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -497,7 +494,7 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -533,7 +530,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-cncjs
+bauh
 cric
 dashy-app
 dataset-annotator
@@ -584,14 +581,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
 irccloud-desktop
 isle-editor
 jag
@@ -615,6 +604,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -631,7 +621,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
 nx-software-center
 nxshell
 ommpfritt
@@ -663,11 +652,10 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
-qpdf
-runanode
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
@@ -714,17 +702,3 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
-yuzu
-zograscope
-zsync2
