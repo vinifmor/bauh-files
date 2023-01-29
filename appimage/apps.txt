@@ -42,7 +42,7 @@ BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
 Bazecor
-Beatconnect_Client
+BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
@@ -93,8 +93,6 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Cscrypto
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -147,8 +145,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeCAD2
-FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -174,7 +170,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HexoEditor
+GoldenDict
+Google_Tasks_Desktop
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -225,8 +222,10 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-LibAssist
-LiberTEM
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -258,7 +257,6 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -298,7 +296,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-Panini
 Paper
 Papercraft
 Parallelcoin
@@ -391,10 +388,8 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-RoboRock_Control_Center
-SPlayer
-SUMOCO
-SUbillManager
+ReliefValve
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -427,8 +422,9 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Stacer
-Standard_Notes
+Slacktronic
+Slippi
+Spark.Payments
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -492,9 +488,8 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WalletTech
-WatchFlower
-WatchIt
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -529,9 +524,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-dashy-app
-dataset-annotator
-dbet-wallet
+antimicroX
+ao
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -585,6 +579,11 @@ hsinstall
 htmldoc
 hugin
 huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -625,8 +624,6 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nvtop
-nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -657,11 +654,9 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-timer
-simplechroot
-slang-ed
-smtk2ssrf
-snake.js
+qSdrSwr
+qTox
+qikQR
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -718,3 +713,6 @@ yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
+yuzu
+zograscope
+zsync2
