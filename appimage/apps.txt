@@ -35,7 +35,6 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -78,9 +77,12 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+City_Hub
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -110,10 +112,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -165,7 +163,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
+GitHubDesktop
+GitJournal
 HastyHeroes
 Heimer
 HermesMessenger
@@ -199,9 +198,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KOReader
-KeyManager
-KeyboardClient
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -291,6 +289,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Outline-Manager
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -375,10 +375,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-RoboRock_Control_Center
-SMathStudio
-SMath_Studio
-SPlayer
+Record_Compare
+SFRT_Attendance
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -471,8 +469,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -507,9 +504,8 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
-Zulip
 bauh
-buttercup
+cabal-desktop
 caprine
 clippy
 clipr
@@ -548,7 +544,6 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-guiscrcpy
 hero-display
 hotspot
 hpack
@@ -593,6 +588,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
+nRF_Connect
+neovim
 ngPost
 ngrev
 nheko
@@ -672,6 +669,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+xde
 xonsh
 yaya
 youtube-music
