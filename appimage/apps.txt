@@ -34,7 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Beekeeper_Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -75,9 +77,8 @@ Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
 Cavoke
-Cerebral-Debugger
-ChainX_Signer
-City_Hub
+CircuitBlocks
+CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -107,11 +108,6 @@ Diffuse
 Digitales_Klassenzimmer
 Disass
 Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,6 +137,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -163,8 +160,9 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
+GoldenCheetah
+Gulden
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -195,11 +193,11 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
 James
-JoalDesktop
-Join_Desktop
-Joplin
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -288,8 +286,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-Outline-Manager
 Painel-Web
 Paletti
 PanWriter
@@ -330,10 +326,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -375,8 +370,10 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
-SFRT_Attendance
+Rotki
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -408,8 +405,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -469,6 +466,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -503,7 +501,7 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
+autoEdit2
 bauh
 cabal-desktop
 caprine
@@ -544,6 +542,9 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
+flameshot
+glTF_Insight
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -587,7 +588,9 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+mjml-app
+movie-monad
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -618,8 +621,8 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
-polar-bookshelf
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -665,10 +668,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
+vifm
+wxMaxima
+x-loc
 xde
 xonsh
 yaya
