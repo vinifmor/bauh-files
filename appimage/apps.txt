@@ -32,9 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
-AzPainter
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -73,9 +70,9 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+Cascade_Image_Editor
+CasterSoundboard
+Cate-Desktop
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -102,7 +99,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
+Digitales_Klassenzimmer
 Drill
 Eksplode.re
 ElDumper
@@ -133,6 +130,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -154,6 +152,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 HDRMerge
 HastyHeroes
 Heimer
@@ -186,8 +185,8 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KevEdit
-KeyManager
+James
+JoalDesktop
 KeyboardClient
 Keys
 KiCad
@@ -236,6 +235,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -273,9 +274,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -316,9 +317,11 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -359,7 +362,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Running-Dinner-Tool
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -388,7 +390,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -417,11 +418,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
 SwitchHosts!
 TeXstudio
 TeleDrive
@@ -475,7 +472,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -508,7 +506,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elzabrowser
 foxfolio
 fre:ac
 freeman
@@ -562,8 +559,7 @@ logseq
 lumi
 luminance-hdr
 luna
-makoureactor
-moniteur-admin
+mutool
 my-budget
 mybelka
 n3h
@@ -594,10 +590,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-playyourdamnturn.com
-privacy.sexy
-qikQR
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -635,14 +627,13 @@ tc
 theFrame
 theWeb
 thorium-client
-vifm
-violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
+timer
+tmon
+tnt
+torrenttools
+triagem-touch
+ttth
+tweet-tray
 whiteboard
 whu-library-seat
 windows2usb
