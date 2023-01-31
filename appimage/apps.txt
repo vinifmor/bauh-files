@@ -35,7 +35,6 @@ Audacity
 AudioMoth
 Augur
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,7 +76,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
+Code_OSS
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -139,9 +140,10 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_Nightly
-Frappe_Accounting
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
+Filmulator
+FontForge
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -194,8 +196,8 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KevEdit
-KeyManager
+James
+JoalDesktop
 KeyboardClient
 Keys
 KiCad
@@ -244,8 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minetest
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -286,7 +286,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -328,6 +327,11 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -370,7 +374,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+Running-Dinner-Tool
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -399,10 +405,7 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-SmartGit
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -438,7 +441,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -492,8 +494,9 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
+aillio-ts
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -526,7 +529,8 @@ eXtrema
 ehdev-shell
 elcalc
 electron-wechat
-electron-xiami
+fre:ac
+freeman
 gLabels
 gerbv
 getswell
@@ -580,9 +584,6 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
-marlin-conf
 nRF_Connect
 neovim
 ngPost
@@ -612,9 +613,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-pnpm
-qpp::cad
-qr-code-generator-desktop
+plotjuggler
 quokkagit
 rasterview
 ridereceipts
@@ -662,6 +661,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
+vifm
+wxMEdit
 wxMaxima
 x-loc
 xde
