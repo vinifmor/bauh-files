@@ -33,11 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-BTS-CE-Lite
-Bench_CLI
+Augur
 Bitwarden
-Bitwarden_Connector
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -70,12 +67,12 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
@@ -103,6 +100,8 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,7 +131,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fraktal
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -154,7 +152,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitQlient
+Gingko
+GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -188,8 +187,6 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-KawAnime
 KeyManager
 KeyboardClient
 Keys
@@ -239,7 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,7 +276,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -322,9 +317,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -367,10 +359,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RoloViewer
-Rotki
-SF_Tube
-SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -399,8 +387,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -434,8 +421,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -459,7 +444,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -489,7 +473,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
+ZenroomStudio
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -521,11 +506,11 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
+flightgear-airports
+foxfolio
+fre:ac
+freeman
+gLabels
 gerbv
 getswell
 gibs
@@ -577,9 +562,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
-n3h
-nRF_Connect
+mapollage
+mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -608,7 +593,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
+plotjuggler
 quokkagit
 rasterview
 ridereceipts
@@ -655,9 +640,6 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-upterm
-wxMEdit
 wxMaxima
 x-loc
 xde
