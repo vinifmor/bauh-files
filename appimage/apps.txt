@@ -33,7 +33,10 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+BTS-CE-Lite
+Bench_CLI
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,8 +70,9 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
+Cloud_Browser
+Code_OSS
+Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -99,8 +103,6 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
-Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -130,6 +132,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fraktal
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,6 +154,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitQlient
 HDRMerge
 HastyHeroes
 Heimer
@@ -185,6 +189,9 @@ Isolate
 JReleaser
 James
 JoalDesktop
+KawAnime
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -232,6 +239,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -272,6 +280,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -357,6 +367,11 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RoloViewer
+Rotki
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -385,7 +400,7 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
+SigDigger
 Sonist
 Sourcetrail
 Spark.Payments
@@ -419,7 +434,8 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-T.Viewer
+Symphonium
+SyncMyL2P
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -443,6 +459,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -472,7 +489,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appium-desktop
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -504,10 +521,11 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-embedded-ide
-fre:ac
-freeman
-gLabels
+elcalc
+electron-wechat
+electron-xiami
+element
+elzabrowser
 gerbv
 getswell
 gibs
@@ -559,8 +577,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -589,7 +607,7 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-qpp::cad
+playyourdamnturn.com
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -637,7 +655,8 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-windows2usb
+unoffical-sonos-controller-for-linux
+upterm
 wxMEdit
 wxMaxima
 x-loc
