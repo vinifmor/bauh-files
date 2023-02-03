@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -76,11 +75,11 @@ Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
 Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+Code_OSS
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -113,8 +112,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -143,8 +140,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Firefox_ESR
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -166,8 +162,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -203,7 +198,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
+KawAnime
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -250,6 +245,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mechvibes
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -291,7 +288,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Outline-Manager
+P2PDerivatives
 Painel-Web
 Paletti
 PanWriter
@@ -335,10 +332,7 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QDriverStation
@@ -381,6 +375,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -415,8 +410,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -476,6 +471,10 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+VK_Desktop
+Valeronoi
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -510,9 +509,9 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -550,13 +549,11 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -593,10 +590,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-media_mate
+mapollage
+mapton
+marktext
 mybelka
-n3h
-nRF_Connect
 neovim
 ngPost
 ngrev
@@ -628,8 +625,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-privacy.sexy
-rasterview
+python2
 ridereceipts
 rmw
 runanode
@@ -678,7 +674,7 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
