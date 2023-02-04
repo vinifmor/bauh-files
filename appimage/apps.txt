@@ -39,7 +39,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bitwarden
+BetterSIS
+Blockbench
 Bloks
 BloomRPC
 Blowfish
@@ -92,8 +93,10 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
+DFileManager
+Datcord
+DawnlightSearch
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -147,8 +150,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Fluent_Reader
-FreeTube
 FreeTube
 Friture
 FromScratch
@@ -174,7 +175,6 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -223,7 +223,6 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-Left
 Lemon
 LeoCAD
 Lepton
@@ -259,9 +258,8 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-Minions
-Mockman
-Monot
+MegaBasterd
+Meshmill
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -297,7 +295,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -348,11 +345,11 @@ ProcSpin
 Procyon
 ProofKeeper
 ProtonUp-Qt
-PrusaSlicer
 Pullp
 Pulsar
 Pulse
 Puppetry
+Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -395,7 +392,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -430,9 +426,11 @@ SimplEOS
 SimpleInstaBot
 Singlebox
 Skrifa
-Stacer
-Standard_Notes
-Statsbook_Tool
+SlackBackup
+Slacktronic
+Slippi
+SmallBASIC
+SnippetStore
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -451,7 +449,6 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -492,8 +489,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-VivifyScrum
-VizGraph
+UniShellect
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -526,10 +523,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-bauh
-cncjs
-colorstatic-bash
-cordlauncher
+acreom
+ai-bot-workspace
+aillio-ts
+altair
+clippy
 cric
 dashy-app
 dataset-annotator
@@ -577,7 +575,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
+gsubs
+guglielmo
+guiscrcpy
 irccloud-desktop
 isle-editor
 jag
@@ -601,7 +601,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -615,8 +614,8 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mtCellEdit
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -646,10 +645,9 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+pyappimage
+python2
+python3
 simple-timer
 simplechroot
 slang-ed
@@ -700,4 +698,10 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-yuzu
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
