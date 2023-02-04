@@ -39,10 +39,8 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BetterSIS
-Blockbench
-Bloks
-BloomRPC
+BaijiMangaViewer
+Bitwarden
 Blowfish
 BlueGlow
 Board_Game_Star
@@ -93,9 +91,8 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-DFileManager
-Datcord
-DawnlightSearch
+Cool_Retro_Term
+CozyDrive
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -151,6 +148,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -175,7 +173,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HexoEditor
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
+Heroic Games Launcher
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -221,8 +222,8 @@ Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
-KeyboardClient
-Keys
+Laigter
+Left
 Lemon
 LeoCAD
 Lepton
@@ -259,7 +260,8 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
-Meshmill
+MeshLab
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -295,6 +297,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -345,11 +348,10 @@ ProcSpin
 Procyon
 ProofKeeper
 ProtonUp-Qt
+PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
 QDriverStation
 QEMU_PowerPC
 QMPlay2
@@ -392,7 +394,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -428,9 +431,8 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-Slippi
-SmallBASIC
-SnippetStore
+Standard_Notes
+Statsbook_Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -449,6 +451,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -491,6 +494,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
+V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -527,7 +531,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-clippy
+bauh
+buttercup
 cric
 dashy-app
 dataset-annotator
@@ -601,6 +606,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -613,7 +619,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -643,11 +649,11 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -695,13 +701,3 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
