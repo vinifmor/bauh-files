@@ -93,6 +93,8 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
+DawnlightSearch
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -146,8 +148,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FontForge
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -220,11 +220,10 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Left
+Lemon
+LeoCAD
+Lepton
 LibAssist
 LiberTEM
 LibreSprite
@@ -253,6 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -341,6 +341,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+ProtonUp-Qt
 Pullp
 Pulsar
 Pulse
@@ -388,6 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -401,6 +403,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -519,8 +522,7 @@ Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
-aillio-ts
-altair
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -572,15 +574,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
 irccloud-desktop
 isle-editor
 jag
@@ -652,9 +645,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qpdf
-simple-timer
-simplechroot
+qSdrSwr
 slang-ed
 smtk2ssrf
 snake.js
@@ -710,10 +701,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
-yuzu
-zograscope
-zsync2
