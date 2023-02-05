@@ -41,7 +41,10 @@ BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
-Bazecor
+BitShares
+Bitwarden
+BloomRPC
+Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
@@ -93,7 +96,7 @@ Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
-Dana
+DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -147,6 +150,8 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeCAD2
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -171,6 +176,7 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+HermesMessenger
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -222,8 +228,6 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
-Kitupiikki
-Lepton
 LibAssist
 LiberTEM
 LibreSprite
@@ -296,8 +300,8 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
-Onyx
+Panini
+Paper
 Papercraft
 Parallelcoin
 Parity_Fether
@@ -390,8 +394,7 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
-Responsively
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -491,7 +494,8 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+VidCutter
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -527,6 +531,7 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
+clippy
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -575,15 +580,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -623,9 +620,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-mybelka
-nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -657,7 +651,6 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -711,6 +704,3 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
-yaya
-youtube-music-desktop
