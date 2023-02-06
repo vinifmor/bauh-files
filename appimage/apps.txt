@@ -31,9 +31,9 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-BitShares
+Audacity
+AudioMoth
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -65,7 +65,7 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-ClementineRemote
+CPod
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -96,7 +96,6 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,7 +125,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Filmulator
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -150,7 +148,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GrinPlusPlus
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -183,6 +181,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -273,9 +272,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -318,7 +317,7 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Python
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -354,9 +353,9 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
-SF_Tube
-SMF-DSP
+Raven_Reader
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -385,8 +384,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SigDigger
-Skrifa
+Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,7 +411,12 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -436,7 +439,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -465,7 +467,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-aillio-ts
 appimagelint
 appimagetool
 appium-desktop
@@ -500,7 +501,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-element
 foxfolio
 fre:ac
 freeman
@@ -559,9 +559,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
-ngrev
+marlin-conf
+mdview
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -589,8 +589,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
-rasterview
 ridereceipts
 rmw
 runanode
@@ -635,10 +633,11 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
+wxMEdit
+wxMaxima
+x-loc
+xde
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
