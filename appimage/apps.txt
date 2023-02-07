@@ -65,8 +65,7 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-Cerebral-Debugger
+Code_OSS
 Colon
 ColorGenerator
 Colorpicker
@@ -91,8 +90,10 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
 Eksplode.re
 ElDumper
 Electorrent
@@ -122,8 +123,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fluent_Reader
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -145,9 +144,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitNote
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -179,7 +175,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Joplin
+KADE
 KettleClient
 KevEdit
 KeyManager
@@ -231,7 +227,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MegaBasterd
 Minions
 Mirage
 MoarPerf
@@ -273,6 +268,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+PDFQuirk
 Painel-Web
 Paletti
 PanWriter
@@ -313,8 +309,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -352,9 +346,9 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-RawTherapee
-Reactotron
+RedmineTimeTracker
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -383,8 +377,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
+Software-Challenge-GUI
+Sonist
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -409,14 +403,7 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -439,7 +426,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -465,12 +451,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
+YouTubeSearchFilter
+Yuna
 ZY_Player
-android-messages-desktop
-antimicroX
-ao
-appimagelint
-appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -502,7 +485,8 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-fmradio
+ehdev-shell
+enve
 four
 foxfolio
 fre:ac
@@ -562,7 +546,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
+media-dupes
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -590,7 +575,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
+rasterview
 ridereceipts
 rmw
 runanode
@@ -635,6 +620,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
 wxMEdit
 wxMaxima
 x-loc
