@@ -33,9 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Auryo
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -74,6 +73,8 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
+Cate-Desktop
+Cavoke
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -101,9 +102,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
+Dragoman
 Eksplode.re
 ElDumper
 Electorrent
@@ -133,9 +132,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_Beta
-Franz
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -157,7 +153,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
+Gingko
 HastyHeroes
 Heimer
 HermesMessenger
@@ -191,7 +187,6 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -239,6 +234,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minetest
+MiniZinc_IDE
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -279,6 +278,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Onshape
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -319,7 +320,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -360,8 +360,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-RoboRock_Control_Center
+RoloViewer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -390,9 +389,6 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SimpleInstaBot
-SmartGit
-Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -426,7 +422,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -449,8 +444,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -481,9 +476,8 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
-ZenroomStudio
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -516,9 +510,6 @@ electron-wechat
 electron-xiami
 element
 elzabrowser
-embedded-ide
-enve
-fre:ac
 gerbv
 getswell
 gibs
@@ -576,8 +567,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-mki3dgame
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -604,7 +593,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-quokkagit
+puush-qt
 ridereceipts
 rmw
 runanode
@@ -647,12 +636,12 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
 xonsh
 yaya
 youtube-music
