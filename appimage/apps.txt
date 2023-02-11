@@ -39,7 +39,7 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -89,6 +89,7 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
+Comic-Reader
 Datcord
 DawnlightSearch
 DbGate
@@ -145,6 +146,7 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -169,8 +171,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
+HexoEditor
+HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -217,7 +219,7 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
-Left
+KiCad
 Lemon
 LeoCAD
 Lepton
@@ -254,6 +256,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -292,7 +295,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-PacketSender
 Panini
 Paper
 Papercraft
@@ -386,9 +388,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-Responsively
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -423,7 +424,6 @@ Singlebox
 Skrifa
 SlackBackup
 Slacktronic
-SmallBASIC
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -443,11 +443,11 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
-SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
@@ -489,7 +489,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VirtScreen
 WebDesktop
 Webamp
 Wexond
@@ -526,7 +525,8 @@ altair
 android-messages-desktop
 antimicroX
 ao
-appimagelint
+dbet-wallet
+deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -572,6 +572,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
+hero-display
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -611,7 +612,9 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
+neovim
+nxshell
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -644,6 +647,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
+simple-timer
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -696,4 +700,3 @@ wxMaxima
 x-loc
 xde
 xonsh
-yaya
