@@ -39,8 +39,6 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-Bitwarden
-Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -90,10 +88,8 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
-Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
+Dana
+Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -149,8 +145,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Beta
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -175,6 +169,7 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -222,9 +217,8 @@ KettleClient
 KevEdit
 KeyManager
 KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
+Left
+Lemon
 LeoCAD
 Lepton
 LibAssist
@@ -257,9 +251,9 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mob
-Mockman
-Monot
+Mechvibes
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -298,7 +292,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-Panini
 Paper
 Papercraft
 Parallelcoin
@@ -429,9 +422,9 @@ Skrifa
 SlackBackup
 Slacktronic
 Slippi
-SmallBASIC
-SmartGit
-SnippetStore
+Statsbook_Tool
+StatusPilatus
+SteamCAD
 Steem_Messenger
 Stele
 Stellarium
@@ -493,9 +486,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
-VirtScreen
-WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -530,9 +520,10 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-dataset-annotator
-dbet-wallet
-deb2appimage
+antimicroX
+ao
+appimagelint
+appimagetool
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -579,7 +570,6 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
-hpack
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -619,7 +609,9 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-mtCellEdit
+nimbus-weather
+nxshell
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -652,8 +644,6 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
-qr-code-generator-desktop
 snapshot-slider
 snomcontrol
 spark-wallet
