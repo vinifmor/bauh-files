@@ -68,6 +68,10 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+CircuitBlocks
 Colon
 ColorGenerator
 Colorpicker
@@ -97,6 +101,10 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,7 +134,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -147,7 +155,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
+Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -178,9 +187,11 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KevEdit
-KeyManager
-KeyboardClient
+JReleaser
+James
+JoalDesktop
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -228,6 +239,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -268,6 +281,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Open_Markup_Editor
 Painel-Web
 Paletti
 PanWriter
@@ -308,6 +322,12 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -348,6 +368,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -375,7 +396,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -405,12 +426,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -464,8 +479,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-autoEdit2
-avogadro
+ZeGrapher
+Zegarek
 bauh
 bioanimation
 bottlenose
@@ -497,7 +512,8 @@ eXtrema
 ehdev-shell
 elcalc
 electron-wechat
-freeman
+electron-xiami
+fmradio
 gLabels
 gerbv
 getswell
@@ -550,11 +566,11 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mini-qml
-n3h
-nRF_Connect
-neovim
-ngPost
+mapollage
+mapton
+marktext
+marlin-conf
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -580,7 +596,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
+plotjuggler
+pyappimage
 quokkagit
 rasterview
 ridereceipts
@@ -628,8 +645,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
+unofficial-zalo
+unreel
+vifm
 xde
 xonsh
 yaya
