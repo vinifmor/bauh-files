@@ -33,10 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Auryo
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -76,10 +75,9 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Colorpicker
+Cool_Retro_Term
+CozyDrive
+Cromberg
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -110,9 +108,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
-Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -196,10 +191,9 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KevEdit
-KeyManager
-KeyboardClient
-Keys
+James
+JoalDesktop
+Join_Desktop
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -327,9 +321,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -368,6 +362,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rotki
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -398,7 +394,7 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
+Sonist
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -455,7 +451,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Vipster
+TweakSophia
 VirtScreen
 Vitomu
 VivifyScrum
@@ -485,7 +481,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-avogadro
+ZeGrapher
+Zegarek
 bauh
 bioanimation
 bottlenose
@@ -520,6 +517,7 @@ electron-wechat
 electron-xiami
 element
 elzabrowser
+embedded-ide
 gerbv
 getswell
 gibs
@@ -576,8 +574,7 @@ mapton
 marktext
 marlin-conf
 mdview
-mtCellEdit
-ngrev
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -605,8 +602,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-qSdrSwr
-rasterview
 ridereceipts
 rmw
 runanode
@@ -652,10 +647,10 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
-xonsh
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 yaya
 youtube-music
 youtube-music-desktop
