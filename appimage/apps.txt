@@ -91,7 +91,6 @@ ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
-Cool_Retro_Term
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -146,12 +145,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Firefox_Nightly
-Franz
-Frappe_Accounting
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -170,9 +163,10 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
-HastyHeroes
-Heimer
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 HexoClient
 HexoEditor
@@ -211,11 +205,12 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
+KeeWeb
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -256,7 +251,6 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
 Monot
 Moonlight
 Motrix
@@ -390,6 +384,7 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
+SBLauncher
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -490,8 +485,6 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Vessel
-WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -527,7 +520,8 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-dbet-wallet
+ao
+appimagelint
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -576,6 +570,9 @@ guglielmo
 guiscrcpy
 hero-display
 hotspot
+hpack
+hsinstall
+htmldoc
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -615,7 +612,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -649,7 +645,7 @@ qSdrSwr
 qTox
 qikQR
 qpdf
-qpp::cad
+snapshot-slider
 snomcontrol
 spark-wallet
 spm
