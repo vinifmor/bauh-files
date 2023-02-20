@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -73,11 +72,11 @@ Cabal_Desktop_Mini
 Calculist
 Carpenters
 Cascade_Image_Editor
+CasterSoundboard
+Cate-Desktop
+Cavoke
 Cerebral-Debugger
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
+ColorGenerator
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -106,6 +105,8 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
 Eksplode.re
 ElDumper
 Electorrent
@@ -135,9 +136,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Frappe_Accounting
-FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -159,6 +157,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
+GitQlient
 HDRMerge
 HastyHeroes
 Heimer
@@ -191,7 +191,9 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
+Juggernaut
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -241,11 +243,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minetest
-MiniZinc_IDE
-Mini_Diary
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -283,9 +280,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-P2PDerivatives
-Padloc
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -327,7 +324,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -368,8 +364,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -398,9 +395,8 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -434,12 +430,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -464,9 +454,6 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -495,11 +482,11 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-autoEdit2
-avogadro
+ZeGrapher
+Zegarek
+ZenroomStudio
+Znax
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -528,11 +515,12 @@ eXtrema
 ehdev-shell
 elcalc
 electron-wechat
-freeman
-gLabels
-gerbv
-getswell
-gibs
+electron-xiami
+element
+elzabrowser
+embedded-ide
+enve
+erdesigner
 githoard
 glTF_Insight
 glulxe
@@ -587,10 +575,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-movie-monad
-nheko
-nimbus-weather
-nordvpn-linux
+media_mate
+meta-grabber
 notepadqq
 noteshrink-qt
 nvtop
@@ -618,6 +604,7 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
+protonmail-desktop
 sabaki
 saphyr
 scavengers
@@ -664,7 +651,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
