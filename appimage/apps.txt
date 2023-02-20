@@ -38,8 +38,8 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
-BTS-CE-Lite
-BaijiMangaViewer
+Beekeeper Studio
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -87,10 +87,10 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+DFileManager
+Dana
+Datcord
+DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -167,11 +167,11 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-HermesMessenger
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 HyperionIDE
 Hyperspace
 IGdm
@@ -211,11 +211,11 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
-Laigter
+Keibo-MoneyTracker-x86_64
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
 Left
 Lemon
 LeoCAD
@@ -251,7 +251,8 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-Monot
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -290,6 +291,8 @@ OWallet
 Obsidian
 Olive
 Onenote
+PIA
+PanWriter
 Panini
 Paper
 Papercraft
@@ -335,6 +338,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+ProtonUp-Qt
 Pullp
 Pulsar
 Pulse
@@ -384,7 +388,6 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
-SBLauncher
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -397,6 +400,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -418,8 +422,8 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Slacktronic
-Slippi
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -484,7 +488,9 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+VidCutter
+Viper_Browser
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -520,8 +526,8 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
-appimagelint
+dataset-annotator
+dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -568,11 +574,7 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+jag
 jexiftoolgui
 jira-timer
 jitsi-meet
@@ -696,7 +698,3 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
