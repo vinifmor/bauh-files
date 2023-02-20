@@ -38,7 +38,9 @@ Auryo
 Axe_Electrum
 AzPainter
 BLOCK-DX
+BTS-CE-Lite
 Beekeeper Studio
+Bitwarden
 Bloks
 BloomRPC
 Blowfish
@@ -86,7 +88,8 @@ ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
-Colon
+CutePeaks
+CuteVariant
 DFileManager
 Dana
 Datcord
@@ -146,6 +149,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -170,8 +174,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
+HexoClient
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -210,12 +216,12 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
 Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
+Laigter
 Left
 Lemon
 LeoCAD
@@ -253,6 +259,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -287,11 +294,10 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
-PIA
 PanWriter
 Panini
 Paper
@@ -339,13 +345,10 @@ ProcSpin
 Procyon
 ProofKeeper
 ProtonUp-Qt
+PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -387,7 +390,7 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -422,7 +425,8 @@ SimpleInstaBot
 Singlebox
 Skrifa
 SlackBackup
-Stacer
+Slacktronic
+Slippi
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -443,6 +447,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -487,9 +492,9 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VLC
-VidCutter
-Viper_Browser
+Valeronoi
+WalletTech
+WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -524,8 +529,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
+bauh
+cordlauncher
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -571,9 +578,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+iptvnator
+irccloud-desktop
+isle-editor
 jag
 jexiftoolgui
 jira-timer
@@ -595,6 +602,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -614,6 +622,9 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+my-budget
+nimbus-weather
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -644,9 +655,11 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-qTox
-qikQR
-qpdf
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -691,10 +704,4 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
-whu-library-seat
-windows2usb
 wxMEdit
-wxMaxima
-x-loc
-xde
