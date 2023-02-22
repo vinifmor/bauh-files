@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,10 +76,11 @@ Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
 Cavoke
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+ClementineRemote
 Cryplicity
 Crypter
 Cryptr
@@ -108,6 +108,12 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
 Eksplode.re
 ElDumper
 Electorrent
@@ -160,8 +166,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Glimpse-Image-Editor
-HDRMerge
+GpgFrontend
 HastyHeroes
 Heimer
 HermesMessenger
@@ -193,7 +198,9 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
+Joplin
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -243,9 +250,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MediaElch
-MeshLab
-Minions
+Memento
+Mini_Diary
 Mirage
 MoarPerf
 Mob
@@ -286,8 +292,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -371,8 +375,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
-ReliefValve
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -405,8 +409,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -466,7 +470,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Vipster
+TweakSophia
+UHK.Agent
 VirtScreen
 Vitomu
 VivifyScrum
@@ -500,7 +505,9 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
+accessimap-lecteur-der
 bauh
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -529,12 +536,12 @@ eXtrema
 ehdev-shell
 elcalc
 electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
-erdesigner
+fre:ac
+freeman
+gLabels
+gerbv
+getswell
+gibs
 githoard
 glTF_Insight
 glulxe
@@ -589,9 +596,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
-nimbus-weather
-nordvpn-linux
+media_mate
+meta-grabber
 notepadqq
 noteshrink-qt
 nvtop
@@ -618,9 +624,8 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-qTox
-runanode
-sabaki
+privacy.sexy
+qSdrSwr
 saphyr
 scavengers
 school-sections
@@ -665,7 +670,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-yaya
+upterm
+vREST_NG
 youtube-music
 youtube-music-desktop
 ytDownloader
