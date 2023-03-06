@@ -39,8 +39,9 @@ Axe_Electrum
 AzPainter
 BLOCK-DX
 BTS-CE-Lite
-BaijiMangaViewer
 Beekeeper Studio
+Bitwarden
+Bloks
 BloomRPC
 Blowfish
 BlueGlow
@@ -148,7 +149,7 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FocusWriter
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -177,7 +178,8 @@ GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
-Heimer
+Heroic Games Launcher
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -226,7 +228,9 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-LiberTEM
+Klogg
+Knowte
+KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -293,13 +297,14 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
-Panini
-Paper
+Onshape
+Onyx
+OpenAudible
 Papercraft
 Parallelcoin
 Parity_Fether
@@ -343,6 +348,8 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+ProtonUp-Qt
+PrusaSlicer
 Pullp
 Pulsar
 Pulse
@@ -393,7 +400,7 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
-SUbillManager
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 SafeSurfer-Desktop
@@ -405,6 +412,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -432,6 +440,7 @@ SmallBASIC
 SmartGit
 SnippetStore
 Soapy_SDR
+SocNetV
 Stele
 Stellarium
 StockStalk
@@ -447,6 +456,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -491,8 +501,8 @@ UniShellect
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
-WatchIt
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -529,8 +539,8 @@ altair
 android-messages-desktop
 antimicroX
 ao
-dataset-annotator
-dbet-wallet
+appimagelint
+bauh
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -581,7 +591,15 @@ hero-display
 hotspot
 hpack
 hsinstall
+htmldoc
+hugin
+huwinterpreter
 hw-probe
+hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
 jag
 jexiftoolgui
 jira-timer
@@ -603,6 +621,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -621,6 +640,8 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+moolticute
+neovim
 nxshell
 ommpfritt
 onnx2bnn
@@ -637,17 +658,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
-polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -655,6 +665,24 @@ qSdrSwr
 qTox
 qikQR
 qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
+rasterview
+ridereceipts
+rmw
+runanode
+sabaki
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -671,19 +699,7 @@ tT
 tagspaces
 tastee-ui
 tc
-theFrame
-theWeb
-thorium-client
-timer
-tmon
-tnt
 torrenttools
-triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
@@ -710,3 +726,7 @@ xonsh
 yaya
 youtube-music
 youtube-music-desktop
+ytDownloader
+yuzu
+zograscope
+zsync2
