@@ -35,8 +35,8 @@ Audacity
 AudioMoth
 Augur
 Beekeeper Studio
+Bench_CLI
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -78,9 +78,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -141,7 +141,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
+FontForge
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -163,8 +163,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -196,8 +195,11 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
-JoalDesktop
+KADE
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -245,6 +247,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -285,6 +288,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+PDFQuirk
 Painel-Web
 Paletti
 PanWriter
@@ -325,6 +329,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -368,6 +375,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Rotki
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -398,8 +407,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -436,9 +445,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -461,7 +467,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-Vipster
+TweakSophia
+UHK.Agent
 VirtScreen
 Vitomu
 VivifyScrum
@@ -491,7 +498,9 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
+ai-bot-workspace
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -522,12 +531,10 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
+fre:ac
+freeman
+gLabels
+gerbv
 getswell
 gibs
 githoard
@@ -585,11 +592,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
-mira-backup
-moolticute
 nimbus-weather
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -614,10 +619,10 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+ridereceipts
+rmw
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
@@ -660,10 +665,12 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
-vREST_NG
+wezterm
+wxMaxima
+x-loc
+xde
+xonsh
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
