@@ -35,9 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -82,7 +82,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -143,13 +143,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Figma
-Fractale
-Fraidycat
-Fraktal
-FranceTV
-Franz
-Frappe_Accounting
+Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -171,12 +165,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
-HDRMerge
+Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -207,8 +200,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-KeyboardClient
-Keys
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -255,7 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MieSimulatorGUI
 MoarPerf
 Mob
 Mockman
@@ -392,7 +383,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -425,6 +415,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -521,8 +512,8 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
-accessimap-lecteur-der
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -558,15 +549,15 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -642,8 +633,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
+puush-qt
 school-sections
 ser-player
 simple-s3-uploader
@@ -690,6 +680,9 @@ upterm
 vREST_NG
 vifm
 violetbug
-yuzu
-zograscope
-zsync2
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
