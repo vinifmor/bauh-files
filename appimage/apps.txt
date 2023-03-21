@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -76,10 +75,6 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
-Cavoke
-Cerebral-Debugger
-ChainX_Signer
-ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -138,7 +133,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -194,7 +188,8 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-KeyboardClient
+JoalDesktop
+Join_Desktop
 Keys
 KiCad
 Kiibohd_Configurator
@@ -282,7 +277,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -324,13 +318,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -373,9 +360,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -400,9 +386,10 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -434,6 +421,11 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -458,7 +450,7 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -490,7 +482,7 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
-Znax
+acreom
 bauh
 buttercup
 cabal-desktop
@@ -521,16 +513,12 @@ ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
-erdesigner
-evoplex
-fSpy
-falcon-sql-client
-flightgear-airports
-fmradio
+gLabels
+gerbv
+getswell
+gibs
+githoard
+glTF_Insight
 glulxe
 graphql-playground
 gsubs
@@ -584,8 +572,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-n3h
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -661,7 +649,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
