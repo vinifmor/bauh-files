@@ -38,6 +38,7 @@ Auryo
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -81,9 +82,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -146,6 +146,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -164,13 +165,12 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
+HastyHeroes
+Heimer
+HermesMessenger
+Heroic Games Launcher
+HexoClient
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -201,11 +201,10 @@ JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -291,6 +290,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -342,6 +342,10 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -384,8 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMath_Studio
-SPlayer
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -416,6 +419,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -521,7 +525,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -566,9 +569,9 @@ gerbv
 getswell
 gibs
 githoard
-impact
-iota1k
-iptvnator
+glTF_Insight
+glulxe
+graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -607,10 +610,10 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-notepadqq
-noteshrink-qt
-nvtop
-nx-software-center
+mira-backup
+mjml-app
+mki3dgame
+moniteur-admin
 nxshell
 ommpfritt
 onnx2bnn
@@ -638,8 +641,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
