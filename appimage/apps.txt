@@ -36,6 +36,9 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+Beekeeper Studio
+Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -81,10 +84,10 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+Cura
+CustomRPC
+CutePeaks
+CuteVariant
 DFileManager
 Dana
 Datcord
@@ -143,6 +146,7 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -169,8 +173,9 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-HyperDEX
-HyperionIDE
+Google_Tasks_Desktop
+GpgFrontend
+Heroic Games Launcher
 Hyperspace
 IGdm
 INSTEAD
@@ -208,9 +213,7 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeyboardClient
-LCEdit
-LED.Custom.Palette
+KeeWeb
 LMMS
 LPub3D
 Lagrange
@@ -287,12 +290,14 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
-Paper
-Papercraft
+Onshape
+Onyx
+OpenAudible
 Parallelcoin
 Parity_Fether
 Passky
@@ -335,13 +340,11 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+ProtonUp-Qt
+PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -397,6 +400,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -438,6 +442,7 @@ Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
+SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -480,10 +485,11 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
+Upscayl
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
+WalletTech
+WatchFlower
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -520,6 +526,8 @@ altair
 android-messages-desktop
 antimicroX
 ao
+bauh
+dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -563,9 +571,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+iptvnator
+irccloud-desktop
+isle-editor
 jag
 jexiftoolgui
 jira-timer
@@ -587,6 +595,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -606,6 +615,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -638,10 +648,13 @@ qSdrSwr
 qTox
 qhot
 qikQR
-qpdf
-qpp::cad
-qr-code-generator-desktop
-quokkagit
+sabaki
+smtk2ssrf
+snake.js
+snapshot-slider
+snomcontrol
+spark-wallet
+spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
@@ -679,17 +692,5 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
-wxMaxima
-x-loc
-xde
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
+yuzu
+zsync2
