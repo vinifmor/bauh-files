@@ -36,6 +36,8 @@ AudioMoth
 Augur
 Auryo
 Axe_Electrum
+Beekeeper Studio
+Bitwarden
 Blockbench
 Bloks
 BloomRPC
@@ -84,10 +86,9 @@ ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
+CuteVariant
+DFileManager
+Dana
 Datcord
 DawnlightSearch
 DbGate
@@ -143,7 +144,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
 Friture
 FromScratch
@@ -168,11 +170,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
-GpgFrontend
+HexoClient
+HexoEditor
+HiDPI-Fixer
+HyperDEX
+HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
@@ -211,9 +213,7 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-Keys
+KeyboardClient
 LMMS
 LPub3D
 Lagrange
@@ -295,7 +295,7 @@ Obsidian
 Olive
 Onenote
 Onshape
-Onyx
+Papercraft
 Parallelcoin
 Parity_Fether
 Passky
@@ -338,6 +338,7 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
+ProtonUp-Qt
 Pullp
 Pulsar
 Pulse
@@ -387,10 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-Responsively
-Rufus
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -402,6 +400,7 @@ ScienceFair
 Scilab
 Scraper
 ScreenCloud
+ScreenTranslator
 Scrum-Retroboard
 Scytale
 Sengi
@@ -489,7 +488,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -526,7 +524,7 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -613,7 +611,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -647,7 +645,7 @@ qSdrSwr
 qTox
 qhot
 qikQR
-qpdf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -698,8 +696,3 @@ windows2usb
 wxMEdit
 wxMaxima
 x-loc
-xde
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
