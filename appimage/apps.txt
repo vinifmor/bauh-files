@@ -35,9 +35,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -165,6 +167,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -200,6 +203,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Kcov
 Keys
 KiCad
 Kiibohd_Configurator
@@ -248,8 +252,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
+McPodcast
 MeowSQL
-MoarPerf
 Mob
 Mockman
 Monot
@@ -289,9 +293,10 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
-Paletti
-PanWriter
+OWallet
+Obsidian
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -341,6 +346,7 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
+Pulse
 QHot
 QMPlay2
 QMediathekView
@@ -383,6 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -412,7 +419,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -480,6 +487,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -556,7 +564,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gsubs
+hotspot
 htmldoc
 hugin
 huwinterpreter
@@ -600,12 +608,12 @@ marktext
 marlin-conf
 mdview
 media-dupes
-neovim
-nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nvtop
+media_mate
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
+mki3dgame
 nx-software-center
 nxshell
 ommpfritt
@@ -628,8 +636,10 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
+pomotroid
+pretty-handy-privacy
+privacy.sexy
+qikQR
 runanode
 sabaki
 saphyr
@@ -677,10 +687,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-xonsh
-yaya
+vREST_NG
+vifm
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
