@@ -35,6 +35,7 @@ Audacity
 AudioMoth
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,7 +70,7 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Code_OSS
+Cabal_Desktop_Mini
 Colon
 ColorGenerator
 Colorpicker
@@ -99,8 +100,6 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,7 +128,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,6 +152,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -182,7 +184,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
 KevEdit
 KeyManager
 KeyboardClient
@@ -233,6 +234,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -313,10 +316,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -360,6 +359,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -417,6 +417,9 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -468,6 +471,7 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
+Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -502,7 +506,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
 fre:ac
 freeman
 gLabels
@@ -585,8 +588,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -627,10 +628,10 @@ thorium-client
 timer
 tmon
 tnt
-uncov
-weatherdump
-westeroscraftlauncher
-weweChat
+torrenttools
+triagem-touch
+ttth
+tweet-tray
 wezterm
 whiteboard
 whu-library-seat
