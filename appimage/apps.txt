@@ -34,9 +34,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -81,7 +83,9 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
+Crypter
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -142,7 +146,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD2
+Fidias_Database_Migration_App
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -199,6 +203,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -286,7 +291,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -300,6 +305,7 @@ Pathephone
 PatternPaint
 Pennywise
 Pext
+Phinch
 PhotoFlare
 PhotoFlow
 PhotoQuick
@@ -332,7 +338,6 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -409,7 +414,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -469,6 +474,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -507,6 +514,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -544,13 +552,10 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -591,9 +596,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
-ngrev
-nheko
+marlin-conf
+mdview
+media-dupes
+media_mate
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -623,10 +629,8 @@ pnpm
 polar-bookshelf
 pomotroid
 pretty-handy-privacy
-ridereceipts
-rmw
-runanode
-sabaki
+privacy.sexy
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -671,9 +675,10 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-yaya
-youtube-music
-youtube-music-desktop
+upterm
+vREST_NG
+vifm
+violetbug
 ytDownloader
 yuzu
 zograscope
