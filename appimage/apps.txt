@@ -34,11 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -81,8 +80,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -203,7 +202,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -291,6 +289,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -337,7 +336,6 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -382,7 +380,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -409,12 +408,11 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+SmallBASIC
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -449,9 +447,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -476,10 +471,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-VirtScreen
-Vitomu
-VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -514,7 +507,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -552,10 +544,13 @@ feebas
 feedseries
 file-converter
 flameshot
-hero-display
-hotspot
-hpack
-hsinstall
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -596,10 +591,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
-media_mate
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -628,9 +622,10 @@ plotjuggler
 pnpm
 polar-bookshelf
 pomotroid
-pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
+qpp::cad
+rmw
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
@@ -676,9 +671,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
+yaya
+youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
