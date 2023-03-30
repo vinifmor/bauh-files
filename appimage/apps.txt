@@ -30,10 +30,9 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
-Astroffers
-Audacity
-AudioMoth
 Beekeeper Studio
+Birds_Kitchen
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -67,7 +66,6 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-Cascade_Image_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -96,8 +94,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-Diffuse
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -128,7 +124,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -234,7 +230,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -270,11 +265,12 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PIA
-POE_Ladder
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -356,8 +352,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -385,6 +380,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SlackBackup
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -463,7 +459,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-Zulip
 appimagelint
 appimagetool
 appium-desktop
@@ -553,7 +548,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -625,7 +619,9 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
+vREST_NG
+westeroscraftlauncher
+weweChat
 wezterm
 whiteboard
 whu-library-seat
