@@ -24,17 +24,16 @@ ArcadeManager
 Archipel
 Archipelago
 Arduino_IDE
-Beatconnect_Client
+Ark.Desktop.Wallet
+Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -63,10 +62,11 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+CIAA_Suite
+CPU-X
+CP_Editor
+CPod
+CRG_Data_Tool
 Cloud_Browser
 Code_OSS
 Colon
@@ -95,7 +95,12 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-Eagle_Mode
+DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -123,6 +128,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -146,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -178,7 +183,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Juggernaut
 KevEdit
 KeyManager
 KeyboardClient
@@ -228,9 +232,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Mini_Diary
-Minions
-Mirage
+Mattermost_Desktop
 MoarPerf
 Mob
 Mockman
@@ -271,7 +273,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
 Paletti
 PanWriter
 Panini
@@ -312,8 +314,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -354,7 +354,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+Raven_Reader
+RedmineTimeTracker
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -416,8 +417,6 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
-SwiftnessX
-SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -441,7 +440,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -472,12 +470,10 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
-Znax
-aillio-ts
+autoEdit2
+avogadro
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -506,8 +502,7 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-electron-wechat
-feebas
+freeman
 gLabels
 gerbv
 getswell
@@ -558,8 +553,7 @@ logseq
 lumi
 luminance-hdr
 luna
-my-budget
-mybelka
+makoureactor
 n3h
 nRF_Connect
 neovim
@@ -591,7 +585,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-quokkagit
+pnpm
 rasterview
 ridereceipts
 rmw
@@ -635,8 +629,7 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-uncov
-unified-communications
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
