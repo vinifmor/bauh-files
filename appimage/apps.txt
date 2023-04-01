@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -87,9 +87,9 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+CustomRPC
+CutePeaks
+CuteVariant
 DFileManager
 Dana
 Datcord
@@ -145,7 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -170,8 +170,10 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HermesMessenger
-Heroic Games Launcher
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -209,11 +211,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -293,8 +295,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
 PanWriter
 Panini
 Paper
@@ -392,7 +393,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroArch
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -424,6 +424,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -485,9 +486,10 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
 Upscayl
+VirtScreen
+Vitomu
+VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -521,8 +523,9 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
 bauh
+clipr
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -567,13 +570,13 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guglielmo
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -606,8 +609,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -639,10 +642,10 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
+python3
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -690,6 +693,7 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
 xemu
-yuzu
-zsync2
