@@ -34,11 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -113,6 +112,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -168,7 +171,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -202,7 +205,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
+Joy2DroidX
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -248,7 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -290,7 +293,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Paletti
 PanWriter
 Panini
@@ -330,8 +332,19 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -375,6 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RetroArch
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -406,6 +420,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -443,6 +458,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -467,10 +483,11 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-UniShellect
 Upscayl
+VirtScreen
+Vitomu
+VivifyScrum
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -503,8 +520,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
 bauh
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -541,11 +558,13 @@ feebas
 feedseries
 file-converter
 flameshot
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -589,6 +608,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -618,9 +638,11 @@ polar-bookshelf
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-saphyr
-scavengers
-school-sections
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
 ser-player
 simple-s3-uploader
 simple-timer
@@ -664,9 +686,10 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
+vifm
+violetbug
 xemu
-youtube-music
-youtube-music-desktop
+xonsh
 ytDownloader
 yuzu
 zograscope
