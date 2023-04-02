@@ -83,8 +83,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
+CleepDesktop
+ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -147,7 +147,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -171,9 +170,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -211,9 +208,10 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
+Klogg
+Knowte
+KopiaUI
+LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
@@ -253,8 +251,9 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mob
-Mockman
+McPodcast
+Mechvibes
+MediaElch
 Monot
 Moonlight
 Motrix
@@ -291,11 +290,9 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
 Panini
 Paper
 Papercraft
@@ -346,6 +343,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -487,6 +487,7 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
+V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -524,6 +525,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+colorstatic-bash
 cric
 dashy-app
 dataset-annotator
@@ -566,10 +568,11 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -608,8 +611,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
-notepadqq
+mini-qml
 noteshrink-qt
 nvtop
 nx-software-center
@@ -640,9 +642,12 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-ser-player
-simple-s3-uploader
-simple-timer
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
+qikQR
 simplechroot
 slang-ed
 smtk2ssrf
@@ -690,4 +695,6 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+wezterm
+whiteboard
 xemu
