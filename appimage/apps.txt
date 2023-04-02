@@ -89,7 +89,6 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-CuteVariant
 DFileManager
 Dana
 Datcord
@@ -175,7 +174,6 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
-Google_Tasks_Desktop
 HyperionIDE
 Hyperspace
 IGdm
@@ -221,6 +219,7 @@ KevEdit
 KeyManager
 KeyboardClient
 Keys
+Left
 Lemon
 LeoCAD
 Lepton
@@ -257,6 +256,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -297,7 +297,6 @@ Obsidian
 Olive
 Onenote
 Onshape
-Panini
 Paper
 Papercraft
 Parallelcoin
@@ -396,6 +395,7 @@ Record_Compare
 RedmineTimeTracker
 ReliefValve
 Responsively
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -426,9 +426,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
-Spivak
-Stacer
+Skrifa
+SlackBackup
+Slacktronic
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -497,7 +497,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
+VPaint
 Webamp
 Wexond
 Whalebird
@@ -532,11 +532,8 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
-appimagelint
-appimagetool
-appium-desktop
-bauh
+dbet-wallet
+deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
@@ -604,7 +601,6 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
-logseq
 lumi
 luminance-hdr
 luna
@@ -623,6 +619,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+moolticute
 nxshell
 ommpfritt
 onnx2bnn
@@ -655,9 +652,6 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qpdf
-simplechroot
-slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -705,4 +699,7 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
 xemu
