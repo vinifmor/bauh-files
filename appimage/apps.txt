@@ -36,9 +36,10 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -170,10 +171,11 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-HermesMessenger
-HexoClient
-HexoEditor
-HiDPI-Fixer
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -208,11 +210,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -254,6 +256,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Monot
 Moonlight
 Motrix
@@ -290,9 +293,11 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -389,6 +394,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -488,9 +494,9 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WalletTech
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -524,11 +530,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
+ao
 bauh
-colorstatic-bash
-cric
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -573,8 +578,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
-irccloud-desktop
+gsubs
+guglielmo
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -612,7 +618,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-noteshrink-qt
+mira-backup
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -645,9 +652,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qikQR
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -696,5 +701,4 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
 xemu
