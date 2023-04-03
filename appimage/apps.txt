@@ -32,9 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -68,8 +68,7 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
+Code_OSS
 Colon
 ColorGenerator
 Colorpicker
@@ -131,7 +130,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_Beta
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -188,8 +186,9 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-Join_Desktop
+KevEdit
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -237,7 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -279,7 +277,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-PIA
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -364,8 +362,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
+Rebaslight
 SPlayer
 SUMOCO
 SUbillManager
@@ -390,7 +387,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
+SigDigger
 Sonist
 Sourcetrail
 Spark.Payments
@@ -421,7 +419,6 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
-SwagLyrics
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -473,6 +470,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
+ZapDesktop
+ZeGrapher
 appium-desktop
 autoEdit2
 avogadro
@@ -505,9 +504,11 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-fre:ac
-freeman
-gLabels
+elcalc
+electron-wechat
+electron-xiami
+element
+elzabrowser
 gerbv
 getswell
 gibs
@@ -559,8 +560,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
-nRF_Connect
+mapollage
+mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -589,9 +591,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
-quokkagit
-rasterview
+plotjuggler
+pnpm
+polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -636,7 +638,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-wxMEdit
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
