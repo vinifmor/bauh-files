@@ -32,10 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Beekeeper Studio
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -65,13 +65,13 @@ BytespeicherTrayIcon
 CARTA
 CATcher
 CIAA_Suite
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+CPU-X
+CP_Editor
+CPod
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -95,8 +95,10 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,7 +128,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -148,8 +149,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Glimpse-Image-Editor
-Gulden
+Gingko
+GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -180,10 +181,10 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
+Isolate
+JReleaser
+James
+JoalDesktop
 KeyboardClient
 Keys
 KiCad
@@ -274,6 +275,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -314,6 +316,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -384,7 +387,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
 Sonist
 Sourcetrail
 Spark.Payments
@@ -412,7 +415,9 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -436,7 +441,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -465,8 +469,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagetool
-appium-desktop
+ZY_Player
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -498,7 +502,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
+elcalc
 fre:ac
 freeman
 gLabels
@@ -585,7 +589,6 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
 rasterview
 ridereceipts
 rmw
@@ -630,9 +633,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-weweChat
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
