@@ -39,6 +39,7 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -83,10 +84,10 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
 CuteVariant
 DFileManager
 Dana
@@ -144,7 +145,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -169,8 +170,9 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Heimer
-HermesMessenger
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -209,11 +211,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -251,9 +253,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
 Monot
 Moonlight
 Motrix
@@ -293,8 +296,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -388,7 +391,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,7 +423,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
 Spivak
 Stacer
 Standard_Notes
@@ -489,8 +490,8 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
 WebDesktop
 Webamp
 Wexond
@@ -524,12 +525,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-autoEdit2
+android-messages-desktop
+antimicroX
+ao
 bauh
-cordlauncher
-cric
-dashy-app
-dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -571,9 +570,9 @@ gerbv
 getswell
 gibs
 githoard
-hyper
-impact
-iota1k
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -612,6 +611,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -641,8 +641,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-qikQR
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
@@ -690,7 +690,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
 xemu
 yuzu
 zograscope
