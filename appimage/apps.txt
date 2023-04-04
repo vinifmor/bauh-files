@@ -31,11 +31,10 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
-Augur
 Beekeeper Studio
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -66,15 +65,16 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CP_Editor
-CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -94,12 +94,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -127,8 +123,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -150,8 +146,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -184,7 +178,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -235,6 +228,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -274,9 +268,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
-OWallet
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -319,7 +313,6 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Python
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -388,6 +381,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -410,8 +404,9 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
 SuperSlicer
+TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -436,6 +431,8 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -463,9 +460,10 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
+appimagelint
+appimagetool
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -552,8 +550,9 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -578,10 +577,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -621,6 +619,7 @@ tmon
 tnt
 torrenttools
 triagem-touch
+ttth
 weweChat
 wezterm
 whiteboard
