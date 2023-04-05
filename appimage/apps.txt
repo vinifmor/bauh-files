@@ -31,8 +31,8 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
 Beekeeper Studio
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -67,8 +67,8 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
-CRG_Data_Tool
+ClementineRemote
+Cliniface
 Cloud_Browser
 Code_OSS
 Colon
@@ -101,8 +101,6 @@ DeepTags
 Delir
 Demonizer
 Deployer
-Detect_It_Easy
-DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -153,7 +151,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -185,8 +183,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -236,6 +233,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -274,7 +273,6 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
 Painel-Web
 Paletti
@@ -317,7 +315,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -359,8 +357,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -414,15 +412,7 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -445,8 +435,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
 Upscayl
-VLC
 Vipster
 VirtScreen
 Vitomu
@@ -476,7 +466,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -509,7 +498,7 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-fre:ac
+electron-wechat
 freeman
 gLabels
 gerbv
@@ -564,8 +553,11 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
 marktext
+my-budget
+mybelka
+n3h
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -592,10 +584,11 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
+qikQR
+qpdf
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -637,11 +630,11 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
