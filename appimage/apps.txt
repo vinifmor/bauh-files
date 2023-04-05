@@ -35,7 +35,6 @@ Audacity
 AudioMoth
 Augur
 Auryo
-BasiliskII
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -77,9 +76,9 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
-Cate-Desktop
-Cavoke
-Cerebral-Debugger
+Cool_Retro_Term
+CozyDrive
+Cromberg
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -108,15 +107,6 @@ Diffuse
 Digitales_Klassenzimmer
 Disass
 Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -170,7 +160,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -204,8 +193,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -252,6 +241,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MineTime
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -293,7 +284,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-PIA
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -334,11 +325,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -382,6 +368,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Record_Compare
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -409,7 +396,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -443,9 +429,6 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -471,6 +454,7 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -504,9 +488,10 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+cabal-desktop
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -541,16 +526,13 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+guglielmo
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -591,7 +573,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -621,9 +603,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -669,12 +651,11 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-x-loc
+upterm
+vREST_NG
+vifm
 xemu
-xonsh
-yaya
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
