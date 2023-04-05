@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,13 +77,12 @@ Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
 Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -112,10 +111,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -146,6 +141,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -170,9 +166,8 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+Heimer
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -205,12 +200,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+KettleClient
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -252,8 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -296,8 +289,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -342,10 +335,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -419,8 +410,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -484,7 +474,7 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-VeChain
+Verto
 VirtScreen
 Vitomu
 VivifyScrum
@@ -518,10 +508,10 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+cabal-desktop
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -557,15 +547,13 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+guglielmo
+guiscrcpy
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -607,8 +595,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
-nheko
+media-dupes
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -685,9 +672,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-violetbug
-xde
 xemu
 yaya
 youtube-music
