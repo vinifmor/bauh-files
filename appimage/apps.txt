@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -84,7 +84,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
+CleepDesktop
 CubicSDR
 Cura
 CustomRPC
@@ -146,10 +146,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
-FreeTube
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -168,15 +166,17 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
-HastyHeroes
-Heimer
-HermesMessenger
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -204,11 +204,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -292,7 +293,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -341,9 +342,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -387,8 +385,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMath_Studio
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -419,8 +415,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
-SpeedyLoader
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -482,8 +478,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -519,7 +515,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -561,8 +556,8 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
