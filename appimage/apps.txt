@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -81,7 +80,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -145,8 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -203,7 +202,6 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -292,8 +290,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Onshape
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -338,8 +334,13 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -383,6 +384,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -407,14 +409,11 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-SnippetStore
+Software-Challenge-GUI
+Sonist
+Sourcetrail
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -448,9 +447,6 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -475,8 +471,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -552,10 +548,10 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-hero-display
-hotspot
-hpack
-hsinstall
+four
+foxfolio
+fre:ac
+freeman
 htmldoc
 hugin
 huwinterpreter
@@ -596,10 +592,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
-media_mate
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -627,10 +622,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-pomotroid
-pretty-handy-privacy
-privacy.sexy
-pyappimage
+ridereceipts
+rmw
 runanode
 sabaki
 saphyr
@@ -676,9 +669,6 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
-vue-calc
 xemu
 xonsh
 yaya
