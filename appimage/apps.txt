@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -78,8 +78,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -202,6 +202,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -336,11 +337,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -383,7 +381,6 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -409,9 +406,10 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -447,6 +445,10 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -472,7 +474,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -509,6 +510,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -551,7 +553,8 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -669,8 +672,8 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
