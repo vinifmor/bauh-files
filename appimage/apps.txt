@@ -38,7 +38,6 @@ Auryo
 AvantGarde
 Axe_Electrum
 Beekeeper Studio
-Bezique
 Bitwarden
 Blizzard_4
 Blockbench
@@ -87,7 +86,8 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
+CustomRPC
+CutePeaks
 CuteVariant
 DFileManager
 Dana
@@ -171,10 +171,8 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GoldenDict
-HermesMessenger
-Heroic Games Launcher
-HexoClient
+Glyphr_Studio_Desktop
+GoldenCheetah
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -211,12 +209,12 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
+KeeWeb
 LMMS
 LPub3D
 Lagrange
@@ -258,6 +256,7 @@ McPodcast
 Mechvibes
 MediaElch
 MegaBasterd
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -298,6 +297,8 @@ OWallet
 Obsidian
 Olive
 Onenote
+OpenBlok
+PanWriter
 Panini
 Paper
 Papercraft
@@ -350,6 +351,7 @@ Pulsar
 Pulse
 Puppetry
 Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -425,7 +427,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -493,9 +495,11 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WalletTech
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
+VPaint
+Valeronoi
 WebDesktop
 Webamp
 Wexond
@@ -529,9 +533,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -577,8 +580,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
-irccloud-desktop
+gsubs
+guglielmo
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -612,13 +616,15 @@ mapton
 marktext
 marlin-conf
 mdview
-nheko
-nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nvtop
-nx-software-center
+media-dupes
+media_mate
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
+mki3dgame
+moniteur-admin
+moolticute
 nxshell
 ommpfritt
 onnx2bnn
@@ -648,8 +654,7 @@ puush-qt
 pyappimage
 python2
 python3
-simple-s3-uploader
-simple-timer
+qBittorrent_Enhanced_Edition
 simplechroot
 slang-ed
 smtk2ssrf
@@ -693,8 +698,9 @@ vREST_NG
 vifm
 violetbug
 vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
 wezterm
 xemu
-yuzu
-zograscope
-zsync2
