@@ -38,8 +38,8 @@ Auryo
 AvantGarde
 Axe_Electrum
 Beekeeper Studio
+Bezique
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -86,9 +86,8 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-Cura
-CustomRPC
-CutePeaks
+Cliniface
+Cloud_Browser
 CuteVariant
 DFileManager
 Dana
@@ -147,8 +146,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -170,8 +168,10 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-HastyHeroes
-Heimer
+GitNote
+GitQlient
+Glimpse-Image-Editor
+GoldenDict
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -207,9 +207,10 @@ Join_Desktop
 Joplin
 Joy2DroidX
 Juggernaut
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
+Julius
+KADE
+KDiskMark
+KOReader
 Klogg
 Knowte
 KopiaUI
@@ -254,9 +255,9 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mob
-Mockman
-Monot
+Mechvibes
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -348,6 +349,7 @@ Pullp
 Pulsar
 Pulse
 Puppetry
+Python
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -390,8 +392,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
-SPlayer
+Record_Compare
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -422,8 +424,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
-SpeedyLoader
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -489,6 +491,8 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
+Upscayl
+V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -525,10 +529,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
 bauh
-cordlauncher
-cric
-dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -569,10 +572,11 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -608,9 +612,8 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
-meta-grabber
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -643,9 +646,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-scavengers
-school-sections
-ser-player
+python2
+python3
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -691,6 +693,7 @@ vREST_NG
 vifm
 violetbug
 vue-calc
+wezterm
 xemu
 yuzu
 zograscope
