@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blink1Control2
@@ -85,6 +86,7 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -145,7 +147,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -167,12 +170,11 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+HastyHeroes
+Heimer
+HermesMessenger
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -205,14 +207,14 @@ Join_Desktop
 Joplin
 Joy2DroidX
 Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
-Kage
-Kanon
-KawAnime
-Kcov
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -295,8 +297,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-OpenAudible
-PanWriter
 Panini
 Paper
 Papercraft
@@ -347,6 +347,7 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -389,7 +390,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,8 +422,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -487,8 +489,6 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
-V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -526,6 +526,8 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -567,11 +569,10 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -642,6 +643,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -688,8 +691,7 @@ vREST_NG
 vifm
 violetbug
 vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
 xemu
 yuzu
+zograscope
+zsync2
