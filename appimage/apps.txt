@@ -39,7 +39,6 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -87,8 +86,7 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-CustomRPC
-CutePeaks
+Cloud_Browser
 CuteVariant
 DFileManager
 Dana
@@ -145,9 +143,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -172,8 +169,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -211,10 +208,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -252,9 +250,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
 Monot
 Moonlight
 Motrix
@@ -296,7 +295,8 @@ OWallet
 Obsidian
 Olive
 Onenote
-Panini
+Onshape
+P2PDerivatives
 Paper
 Papercraft
 Parallelcoin
@@ -346,6 +346,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -389,7 +392,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -489,7 +491,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -525,8 +527,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -573,8 +575,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
-irccloud-desktop
+gsubs
+guglielmo
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -611,8 +614,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-notepadqq
-noteshrink-qt
+mini-qml
+mira-backup
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -693,4 +697,5 @@ vuerd
 weatherdump
 westeroscraftlauncher
 weweChat
+wezterm
 xemu
