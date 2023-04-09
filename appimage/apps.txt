@@ -84,8 +84,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -147,6 +147,7 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -173,9 +174,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-HexoEditor
-HiDPI-Fixer
-HyperDEX
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 HyperionIDE
 Hyperspace
 IGdm
@@ -214,7 +215,6 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
-KeeWeb
 LMMS
 LPub3D
 Lagrange
@@ -255,7 +255,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Monot
 Moonlight
 Motrix
@@ -297,9 +296,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-OpenBlok
-PanWriter
-Panini
 Paper
 Papercraft
 Parallelcoin
@@ -349,9 +345,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -395,7 +388,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -426,7 +418,6 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -495,11 +486,9 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
-VPaint
-Valeronoi
+WalletTech
+WatchFlower
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -533,7 +522,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
 bauh
+clipr
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -580,9 +572,8 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -621,10 +612,8 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
-mki3dgame
-moniteur-admin
-moolticute
+nvtop
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -701,6 +690,4 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
-weweChat
-wezterm
 xemu
