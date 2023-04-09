@@ -147,7 +147,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -174,9 +173,9 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
-Google_Tasks_Desktop
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -215,6 +214,7 @@ Kanon
 KawAnime
 Kcov
 KeePassXC
+KeeWeb
 LMMS
 LPub3D
 Lagrange
@@ -255,8 +255,9 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-Monot
-Moonlight
+MegaBasterd
+Melodie
+Memento
 Motrix
 Mr.Dclutterer
 MuPDF
@@ -291,15 +292,14 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
-Paper
-Papercraft
-Parallelcoin
-Parity_Fether
+Onshape
+Onyx
+OpenAudible
+OpenBlok
 Passky
 Patchwork
 Pathephone
@@ -345,6 +345,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -388,8 +391,9 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
-SUbillManager
+RedmineTimeTracker
+ReliefValve
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -418,7 +422,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SpeedyLoader
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -486,9 +490,9 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WalletTech
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -523,9 +527,7 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
 bauh
-clipr
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -572,8 +574,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
-irccloud-desktop
+gsubs
+guglielmo
+guiscrcpy
 isle-editor
 jag
 jexiftoolgui
@@ -612,6 +615,8 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
+mjml-app
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -644,6 +649,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
@@ -690,4 +696,6 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+wezterm
 xemu
