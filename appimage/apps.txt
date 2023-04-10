@@ -33,9 +33,10 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -73,7 +74,7 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Cascade_Image_Editor
+Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
@@ -104,7 +105,6 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -156,8 +156,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -191,8 +190,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -239,6 +238,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,7 +281,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -324,7 +325,6 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -396,10 +396,9 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
-SigmaSpectra
-Silverkey
-Slacktronic
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -431,10 +430,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -457,8 +452,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -494,8 +490,8 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
+accessimap-lecteur-der
 bauh
-caprine
 clippy
 clipr
 cncjs
@@ -533,9 +529,12 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-guiscrcpy
-hero-display
-hotspot
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
 hpack
 hsinstall
 htmldoc
@@ -578,7 +577,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
+marlin-conf
 ngPost
 ngrev
 nheko
@@ -655,7 +654,8 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-x-loc
+unreel
+updatedeployqt
 xde
 xemu
 xonsh
