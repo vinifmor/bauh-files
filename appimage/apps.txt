@@ -79,8 +79,8 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -115,7 +115,6 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -200,7 +199,8 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -248,6 +248,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Meshmill
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -289,7 +291,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+PDFQuirk
 Paletti
 PanWriter
 Panini
@@ -333,10 +335,6 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -381,8 +379,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -445,7 +442,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -468,9 +464,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -551,7 +546,7 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
+hpack
 hsinstall
 htmldoc
 hugin
@@ -594,7 +589,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -624,7 +619,8 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 polar-bookshelf
-ridereceipts
+pomotroid
+privacy.sexy
 rmw
 runanode
 sabaki
@@ -671,9 +667,9 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
-updatedeployqt
-upterm
+xde
 xemu
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
