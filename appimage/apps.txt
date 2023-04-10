@@ -87,9 +87,8 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
+CutePeaks
+CuteVariant
 DFileManager
 Dana
 Datcord
@@ -149,6 +148,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -173,6 +173,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
+HastyHeroes
+Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -209,17 +211,13 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
-Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
 Laigter
 Left
 Lemon
@@ -257,7 +255,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Monot
 Moonlight
 Motrix
@@ -294,12 +291,11 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
-Onshape
-PacketSender
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -349,10 +345,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
-Pulse
-Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -398,6 +390,7 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -426,8 +419,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -497,7 +490,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
 WatchIt
 WebDesktop
 Webamp
@@ -533,9 +525,9 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
-ao
 bauh
+dashy-app
+dataset-annotator
 dbet-wallet
 deb2appimage
 deltachat-desktop
@@ -580,10 +572,8 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
-guiscrcpy
-impact
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -655,8 +645,6 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-ser-player
-simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -703,9 +691,5 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
 xemu
+yuzu
