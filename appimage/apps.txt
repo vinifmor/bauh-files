@@ -27,11 +27,12 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -61,6 +62,8 @@ BulkURLOpener
 BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
+CARTA
+CATcher
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -91,6 +94,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -121,6 +125,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FastQt
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -144,7 +149,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -176,7 +180,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -265,7 +270,9 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
 OWASP Threat Dragon
 PacketSender
 Padloc
@@ -307,8 +314,6 @@ Poddr
 Podman
 PolkaKey
 Popsicle
-Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -350,8 +355,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -379,6 +384,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -401,7 +407,6 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
 SuperSlicer
 TagTime-desktop
 Taskizer
@@ -429,6 +434,9 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Vieb
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -453,9 +461,10 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
+antimicroX
+ao
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -482,12 +491,12 @@ dfDemo
 dingtalk
 draw.io
 dukto
-dvdisaster
-eDEX-UI
-eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
+feedseries
+file-converter
+flameshot
+flightgear-airports
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -543,6 +552,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -571,6 +581,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -611,9 +622,10 @@ thorium-client
 timer
 tmon
 tnt
-torrenttools
-triagem-touch
 ttth
+vuerd
+weatherdump
+westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
