@@ -31,11 +31,10 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
+AudioMoth
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -98,8 +97,6 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
-Demonizer
 Eksplode.re
 ElDumper
 Electorrent
@@ -183,8 +180,8 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-James
-JoalDesktop
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -233,7 +230,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -274,7 +270,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -315,8 +310,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -360,8 +353,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RetroShare
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -418,10 +409,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -445,7 +432,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -475,8 +461,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -506,13 +492,13 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
-elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
+gerbv
 getswell
 gibs
 githoard
@@ -565,6 +551,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
+neovim
 ngPost
 ngrev
 nheko
@@ -638,8 +625,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+wxMEdit
+wxMaxima
 x-loc
 xde
 xemu
