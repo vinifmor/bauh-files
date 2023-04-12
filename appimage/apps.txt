@@ -35,11 +35,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
+Bezique
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -81,8 +81,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossMobile
-Cryplicity
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -114,6 +114,9 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,7 +147,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -167,7 +170,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GpgFrontend
 HastyHeroes
 Heimer
 HermesMessenger
@@ -291,8 +293,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
-Paletti
+Obsidian
 PanWriter
 Panini
 Paper
@@ -335,8 +336,15 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -378,8 +386,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -404,9 +412,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -440,7 +448,6 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -463,9 +470,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-Viper_Browser
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -500,8 +507,8 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
+Zulip
 bauh
-caprine
 clippy
 clipr
 cncjs
@@ -541,10 +548,12 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-hero-display
-hotspot
-hpack
-hsinstall
+fmradio
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -587,7 +596,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -615,7 +624,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-polar-bookshelf
 ridereceipts
 rmw
 runanode
@@ -661,11 +669,11 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
