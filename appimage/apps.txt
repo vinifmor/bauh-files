@@ -71,8 +71,8 @@ CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
-Colon
-ColorGenerator
+Calculist
+Carpenters
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -102,6 +102,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -130,7 +131,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
+FastQt
+FontForge
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -277,6 +279,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+OpenAudible
 Painel-Web
 Paletti
 PanWriter
@@ -317,6 +321,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -360,6 +365,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rebaslight
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -415,9 +422,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -440,6 +444,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
 Upscayl
 Vipster
 VirtScreen
@@ -469,9 +474,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagetool
-appium-desktop
-autoEdit2
+ZY_Player
+ZapDesktop
 avogadro
 bauh
 bioanimation
@@ -502,7 +506,8 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-fre:ac
+elcalc
+electron-wechat
 freeman
 gLabels
 gerbv
@@ -556,8 +561,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
-nRF_Connect
+mapollage
+mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -585,7 +591,9 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-qpp::cad
+playyourdamnturn.com
+plotjuggler
+qhot
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -624,8 +632,9 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
+vue-calc
+vuerd
+weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
