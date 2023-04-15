@@ -35,10 +35,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
+Birds_Kitchen
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -82,6 +83,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -147,6 +149,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -169,10 +172,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,14 +205,12 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -253,8 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+MoarPerf
 Mob
 Mockman
 Monot
@@ -343,7 +341,6 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -421,6 +418,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -480,11 +478,13 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
-UltraGrid
-UltraScreen
 Upscayl
+VidCutter
+Viper_Browser
+Vipster
+VirtScreen
+Vitomu
+VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -516,9 +516,9 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -556,11 +556,8 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
+hero-display
+hotspot
 hpack
 hsinstall
 htmldoc
@@ -604,7 +601,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -636,7 +633,8 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-qpp::cad
+rasterview
+runanode
 sabaki
 saphyr
 scavengers
