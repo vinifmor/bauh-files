@@ -39,6 +39,7 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -81,11 +82,11 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -172,8 +173,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -255,6 +255,7 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
+Mob
 Mockman
 Monot
 Moonlight
@@ -297,6 +298,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+PanWriter
 Panini
 Paper
 Papercraft
@@ -337,6 +339,11 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -382,7 +389,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,7 +420,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -477,9 +483,8 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
 Upscayl
-Vitomu
-VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -555,7 +560,7 @@ flightgear-airports
 fmradio
 four
 foxfolio
-hotspot
+fre:ac
 hpack
 hsinstall
 htmldoc
@@ -599,8 +604,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -631,8 +636,7 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
-qBittorrent_Enhanced_Edition
+qpp::cad
 sabaki
 saphyr
 scavengers
