@@ -84,7 +84,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
+ClementineRemote
+Cliniface
 Cura
 CustomRPC
 CutePeaks
@@ -145,7 +146,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-Figma
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -171,7 +172,8 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -252,8 +254,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MoarPerf
-Mob
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -336,14 +337,8 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -385,8 +380,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -414,10 +409,11 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sourcetrail
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -454,6 +450,8 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -478,9 +476,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UniShellect
+UltraGrid
 Upscayl
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -558,8 +555,9 @@ flightgear-airports
 fmradio
 four
 foxfolio
-fre:ac
-freeman
+hotspot
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -603,6 +601,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -633,6 +632,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+qBittorrent_Enhanced_Edition
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
@@ -677,11 +679,11 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
-whiteboard
 xemu
+yaya
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
