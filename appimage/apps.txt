@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -84,7 +84,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
+CleepDesktop
+ClementineRemote
 CubicSDR
 Cura
 CustomRPC
@@ -145,6 +146,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -168,7 +171,6 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -203,6 +205,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -248,9 +251,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
+MazeSolver
+McPodcast
+Mechvibes
 Monot
 Moonlight
 Motrix
@@ -290,8 +293,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -339,6 +342,7 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -382,6 +386,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RoboRock_Control_Center
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -412,7 +418,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -474,10 +481,11 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
+UltraScreen
 UniShellect
 Upscayl
-VivifyScrum
-VizGraph
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -510,10 +518,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-clipr
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -553,13 +562,11 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
+freeman
+gLabels
+gerbv
+getswell
+gibs
 impact
 iota1k
 iptvnator
@@ -597,6 +604,7 @@ mapton
 marktext
 marlin-conf
 mdview
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -626,8 +634,6 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
-privacy.sexy
-runanode
 sabaki
 saphyr
 scavengers
@@ -674,11 +680,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
 xemu
-xonsh
-yaya
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
