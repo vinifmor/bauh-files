@@ -35,11 +35,12 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
-BLOCK-DX
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -84,7 +85,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -145,9 +146,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD2
-FreeTexturePacker
-FreeTube
+Figma
+Filmulator
 FreeTube
 Friture
 FromScratch
@@ -169,8 +169,11 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HermesMessenger
-HexoClient
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -207,9 +210,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kitupiikki
-Klogg
-Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -251,7 +251,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
+Mob
 Mockman
 Monot
 Moonlight
@@ -344,9 +344,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -390,7 +387,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -489,8 +485,6 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-V2Ray-Desktop
-VK_Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -573,8 +567,8 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
-graphql-playground
+hyper
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -648,6 +642,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -692,8 +687,7 @@ vREST_NG
 vifm
 violetbug
 vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
 xemu
+yuzu
+zograscope
+zsync2
