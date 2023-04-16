@@ -39,7 +39,6 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -84,8 +83,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -172,8 +170,6 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -212,10 +208,8 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
-Klogg
+Knowte
+KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -259,6 +253,7 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -349,7 +344,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -392,9 +386,10 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
-RedmineTimeTracker
-ReliefValve
+SMathStudio
+SMath_Studio
+SPlayer
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -424,8 +419,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -494,7 +489,6 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -529,9 +523,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cordlauncher
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -572,11 +565,10 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -650,7 +642,6 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-qTox
 simplechroot
 slang-ed
 smtk2ssrf
@@ -693,9 +684,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
 xemu
 yuzu
+zograscope
+zsync2
