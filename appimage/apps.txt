@@ -86,8 +86,8 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud_Browser
-Code_OSS
+Cura
+CustomRPC
 CutePeaks
 CuteVariant
 DFileManager
@@ -147,8 +147,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -171,8 +170,10 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Heimer
-HermesMessenger
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -211,9 +212,10 @@ Julius
 KADE
 KDiskMark
 KOReader
+Kage
+Kanon
+KawAnime
 Klogg
-Knowte
-KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -257,7 +259,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -298,7 +299,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
 Panini
 Paper
 Papercraft
@@ -350,8 +350,6 @@ Pullp
 Pulsar
 Pulse
 Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -395,7 +393,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -426,7 +425,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -494,7 +493,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WalletTech
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -649,9 +648,9 @@ puush-qt
 pyappimage
 python2
 python3
-ser-player
-simple-s3-uploader
-simple-timer
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 simplechroot
 slang-ed
 smtk2ssrf
@@ -696,7 +695,7 @@ vifm
 violetbug
 vue-calc
 vuerd
+weatherdump
+westeroscraftlauncher
 xemu
 yuzu
-zograscope
-zsync2
