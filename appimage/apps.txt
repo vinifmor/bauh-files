@@ -28,10 +28,11 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -63,8 +64,8 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-Calculist
-City_Hub
+CIAA_Suite
+CPU-X
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -94,7 +95,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -126,6 +126,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -231,7 +232,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -269,9 +271,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -312,7 +314,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -354,8 +355,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -383,6 +384,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -406,12 +408,8 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -433,7 +431,6 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Tutanota
 Upscayl
 Viper_Browser
 Vipster
@@ -464,9 +461,9 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-Zoom
+appimagelint
+appimagetool
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -498,6 +495,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -548,11 +546,10 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
-luna
-makoureactor
-mandelbulber2
-meta-grabber
+movie-monad
+mtCellEdit
+mutool
+my-budget
 mybelka
 n3h
 nRF_Connect
@@ -582,8 +579,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
+qikQR
+qpdf
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -622,9 +620,8 @@ theWeb
 thorium-client
 timer
 tmon
-unoffical-sonos-controller-for-linux
-vue-calc
-vuerd
+tnt
+torrenttools
 weatherdump
 westeroscraftlauncher
 weweChat
