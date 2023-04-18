@@ -28,10 +28,9 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
 Beekeeper Studio
-BetterSIS
-Bezique
-BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -63,6 +62,8 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
+CATcher
+Chiaki
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -124,8 +125,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Firefox_ESR
+FranceTV
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -148,6 +149,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -179,6 +181,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -229,6 +233,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MeowSQL
+Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -267,10 +273,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -307,10 +313,6 @@ Plover
 PocketCasts_Electron
 Poddr
 Podman
-PolkaKey
-Popsicle
-Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -351,9 +353,9 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
-SF_Tube
-SMF-DSP
+Raven_Reader
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -403,11 +405,11 @@ StopLight
 Storaji
 Strata
 Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
 SuperSlicer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -492,8 +494,8 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-eXtrema
-ehdev-shell
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -548,9 +550,8 @@ lumi
 luminance-hdr
 luna
 makoureactor
-meta-grabber
-mjml-app
-mutool
+mandelbulber2
+media_mate
 my-budget
 mybelka
 n3h
@@ -581,7 +582,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pomotroid
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -620,6 +621,7 @@ tc
 theFrame
 theWeb
 thorium-client
+violetbug
 vue-calc
 vuerd
 weatherdump
