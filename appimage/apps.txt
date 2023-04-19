@@ -28,8 +28,10 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
 Beekeeper Studio
+BetterSIS
+Bezique
+BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -61,10 +63,8 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
+City_Hub
+CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -93,6 +93,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -123,7 +124,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -177,7 +180,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -269,8 +271,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -313,7 +315,6 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Pulsar
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -353,8 +354,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
-SMPlayer
+RawTherapee
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -381,7 +382,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -402,11 +402,15 @@ StockStalk
 StopLight
 Storaji
 Strata
+Streamlink
+Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 SuperSlicer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -490,8 +494,8 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-eXtrema
-ehdev-shell
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -546,10 +550,10 @@ lumi
 luminance-hdr
 luna
 makoureactor
-my-budget
-mybelka
-n3h
-nRF_Connect
+mandelbulber2
+mapollage
+mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -576,7 +580,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
+pkg2appimage
+playyourdamnturn.com
+qTox
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -616,7 +622,8 @@ thorium-client
 timer
 tmon
 tnt
-weatherdump
+torrenttools
+uncov
 westeroscraftlauncher
 weweChat
 wezterm
