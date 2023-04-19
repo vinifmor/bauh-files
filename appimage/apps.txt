@@ -81,6 +81,7 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
+Circle-Z
 CrossMobile
 Cryplicity
 Crypter
@@ -202,7 +203,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -290,7 +290,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -332,6 +333,11 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -377,6 +383,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -405,7 +412,6 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -445,6 +451,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -469,11 +476,10 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-VirtScreen
-Vitomu
-VivifyScrum
-VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -506,10 +512,10 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
 bauh
-clipr
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -549,9 +555,9 @@ fmradio
 four
 foxfolio
 fre:ac
-hsinstall
-htmldoc
-hugin
+freeman
+gLabels
+glTF_Insight
 huwinterpreter
 hw-probe
 hyper
@@ -591,7 +597,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -620,8 +626,9 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -667,8 +674,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
