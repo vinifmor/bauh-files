@@ -30,8 +30,8 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
 Beekeeper Studio
-BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -64,8 +64,9 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-City_Hub
-CleepDesktop
+CIAA_Suite
+CPU-X
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -94,9 +95,13 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Dust3D
 Eksplode.re
 ElDumper
 Electorrent
@@ -126,6 +131,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fraidycat
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -147,7 +154,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Google_Tasks_Desktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -179,9 +185,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Joy2DroidX
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -275,7 +279,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -358,9 +361,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SFRT_Attendance
-SF_Tube
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -388,7 +390,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
+Soapy_SDR
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,10 +415,12 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
+Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
-SynfigStudio
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -440,6 +444,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -470,7 +475,6 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -502,7 +506,8 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
+foxfolio
+fre:ac
 freeman
 gLabels
 gerbv
@@ -556,8 +561,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -587,7 +592,6 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -635,6 +639,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
 wxMEdit
 wxMaxima
 x-loc
