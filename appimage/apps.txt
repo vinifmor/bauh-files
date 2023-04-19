@@ -28,9 +28,9 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
 Beekeeper Studio
-BetterSIS
-Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -63,6 +63,7 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
+CATcher
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -124,9 +125,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -148,6 +147,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Google_Tasks_Desktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -179,7 +179,9 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+Joy2DroidX
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -271,8 +273,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Padloc
+OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -313,6 +316,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -354,8 +358,10 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SFRT_Attendance
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -382,6 +388,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -406,11 +413,10 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
+SynfigStudio
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -462,8 +468,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
+ZY_Player
+ZapDesktop
 appium-desktop
 autoEdit2
 avogadro
@@ -494,10 +500,9 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-fmradio
-four
-foxfolio
-fre:ac
+eXtrema
+ehdev-shell
+elcalc
 freeman
 gLabels
 gerbv
@@ -553,7 +558,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -582,7 +587,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qTox
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -623,13 +628,13 @@ timer
 tmon
 tnt
 torrenttools
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
 uncov
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
+unified-communications
 wxMEdit
 wxMaxima
 x-loc
