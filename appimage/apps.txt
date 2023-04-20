@@ -32,6 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Beekeeper Studio
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -65,7 +66,10 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CleepDesktop
+CP_Editor
+CPod
+CRG_Data_Tool
+Carpenters
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -94,7 +98,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-ERScaffold
+DeDop-studio
+DeadGame-2048
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -122,9 +127,9 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FranceTV
-Franz
-Frappe_Accounting
+FF-Password-Exporter
+FMS_File_Explorer
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -146,7 +151,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
+Gingko
+GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -178,9 +184,9 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
-KevEdit
-KeyManager
+JReleaser
+James
+JoalDesktop
 KeyboardClient
 Keys
 KiCad
@@ -229,6 +235,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -270,7 +277,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-PacketSender
+OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -352,7 +360,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -380,7 +389,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -406,7 +414,14 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -456,10 +471,10 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-antimicroX
-ao
-appimagelint
-appimagetool
+YouTubeSearchFilter
+Yuna
+ZY_Player
+ZapDesktop
 appium-desktop
 autoEdit2
 avogadro
@@ -491,9 +506,8 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-four
-foxfolio
-fre:ac
+ehdev-shell
+elcalc
 freeman
 gLabels
 gerbv
@@ -547,8 +561,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mira-backup
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -577,7 +589,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
+pkg2appimage
+playyourdamnturn.com
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -619,8 +632,8 @@ tmon
 tnt
 torrenttools
 triagem-touch
-westeroscraftlauncher
-weweChat
+ttth
+tweet-tray
 wezterm
 whiteboard
 whu-library-seat
