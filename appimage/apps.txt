@@ -31,8 +31,8 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
 Beekeeper Studio
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,9 +65,9 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CP_Editor
-CPod
-CRG_Data_Tool
+CleepDesktop
+ClementineRemote
+Cliniface
 Cloud_Browser
 Code_OSS
 Colon
@@ -94,8 +94,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -123,8 +122,6 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -273,6 +270,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+PacketSender
 Painel-Web
 Paletti
 PanWriter
@@ -313,8 +311,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -356,8 +352,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -384,6 +380,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -409,13 +406,7 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -439,7 +430,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Valeronoi
 Vipster
 VirtScreen
 Vitomu
@@ -466,8 +456,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
+antimicroX
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -500,7 +491,7 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
+four
 foxfolio
 fre:ac
 freeman
@@ -556,6 +547,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
+mira-backup
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -626,7 +619,7 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
+westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
