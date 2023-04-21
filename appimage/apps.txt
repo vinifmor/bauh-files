@@ -32,6 +32,7 @@ AsarUI
 AstroShutter
 Astroffers
 Beekeeper Studio
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,7 +66,7 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
+ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -95,7 +96,9 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-Eagle_Mode
+DeepTags
+Delir
+Demonizer
 Eksplode.re
 ElDumper
 Electorrent
@@ -122,8 +125,9 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+FontForge
+Fraktal
+FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -179,6 +183,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+KeePassXC
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -230,6 +236,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -270,7 +277,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -353,8 +359,6 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
-RyoWallet
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -412,6 +416,10 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -462,8 +470,9 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
-ZY_Player
+ao
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -496,7 +505,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-feebas
+four
 foxfolio
 fre:ac
 freeman
@@ -552,7 +561,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mutool
 n3h
 nRF_Connect
 neovim
@@ -581,8 +589,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
+qTox
+qpdf
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -621,9 +630,9 @@ theWeb
 thorium-client
 timer
 tmon
-vue-calc
-vuerd
-weatherdump
+tnt
+torrenttools
+triagem-touch
 westeroscraftlauncher
 weweChat
 wezterm
