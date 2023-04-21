@@ -31,11 +31,9 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -68,13 +66,13 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
@@ -97,12 +95,7 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,8 +122,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-Fraktal
-FranceTV
+FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -185,8 +178,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -238,7 +230,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -277,9 +268,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -363,6 +354,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RyoWallet
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -390,7 +382,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -415,6 +406,11 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
+Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -468,7 +464,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -500,8 +496,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-fSpy
+feebas
 foxfolio
 fre:ac
 freeman
@@ -557,8 +552,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
+mutool
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -588,7 +583,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -626,12 +621,11 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
-twetter
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
 wezterm
 whiteboard
 whu-library-seat
