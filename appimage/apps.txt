@@ -79,9 +79,9 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
+Chiaki
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -115,6 +115,7 @@ Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,7 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -167,6 +168,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
+GitJournal
 HastyHeroes
 Heimer
 HermesMessenger
@@ -290,9 +292,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -336,8 +337,13 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -380,7 +386,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -408,10 +415,10 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -447,8 +454,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -472,9 +477,8 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
-UltraGrid
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -511,6 +515,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+bioanimation
 clippy
 clipr
 cncjs
@@ -554,9 +559,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -597,8 +601,9 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+moolticute
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -626,8 +631,10 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
-pretty-handy-privacy
+python3
+ridereceipts
+rmw
+runanode
 sabaki
 saphyr
 scavengers
@@ -674,6 +681,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
 xemu
 yaya
 youtube-music
