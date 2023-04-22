@@ -34,10 +34,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -82,9 +83,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
-Cryptr
-Cscrypto
+City_Hub
+CleepDesktop
 CubicSDR
 Cura
 CustomRPC
@@ -169,7 +169,7 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-HastyHeroes
+GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -204,8 +204,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
+Joy2DroidX
+Juggernaut
+Julius
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -250,6 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Melodie
 MoarPerf
 Mob
 Mockman
@@ -292,8 +294,9 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Painel-Web
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -386,8 +389,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -415,9 +417,9 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+SimDSP
+Simdock
+SimplEOS
 SpeedyLoader
 Spivak
 Stacer
@@ -454,6 +456,8 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -477,8 +481,9 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
+UHK.Agent
+UltraGrid
 Upscayl
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -515,8 +520,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-bioanimation
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -561,6 +564,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -601,7 +605,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-moolticute
 ngPost
 ngrev
 nheko
@@ -631,8 +634,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-python3
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -681,8 +683,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
 xemu
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
