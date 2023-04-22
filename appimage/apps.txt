@@ -30,11 +30,12 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
+Audacity
+AudioMoth
+Augur
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -73,11 +74,11 @@ Cabal_Desktop_Mini
 Calculist
 Carpenters
 Cascade_Image_Editor
-Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
+CasterSoundboard
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -103,6 +104,17 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,7 +144,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -155,10 +167,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+HastyHeroes
+Heimer
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -191,11 +202,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -280,6 +290,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -322,6 +333,9 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -398,8 +412,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -499,6 +511,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -536,9 +549,11 @@ feebas
 feedseries
 file-converter
 flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 fre:ac
-hero-display
-hotspot
 hpack
 hsinstall
 htmldoc
@@ -613,8 +628,6 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
-privacy.sexy
-protonmail-desktop
 sabaki
 saphyr
 scavengers
@@ -661,9 +674,7 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-whiteboard
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
