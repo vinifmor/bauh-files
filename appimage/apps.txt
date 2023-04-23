@@ -85,8 +85,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -148,7 +147,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -172,10 +172,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-Groot
+Heimer
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -208,13 +206,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
-Keibo-MoneyTracker-x86_64
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -258,7 +253,6 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-MeowSQL
 Mob
 Mockman
 Monot
@@ -300,8 +294,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -355,7 +349,6 @@ Pulsar
 QEMU_PowerPC
 QHot
 QMPlay2
-QMediathekView
 QNapi
 QPrompt
 QTalarm
@@ -394,9 +387,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -425,9 +416,10 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -488,11 +480,12 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
+UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-Vipster
-VirtScreen
-Vitomu
-VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -566,9 +559,10 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-hero-display
-hotspot
-hpack
+four
+foxfolio
+fre:ac
+freeman
 hsinstall
 htmldoc
 hugin
@@ -611,7 +605,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
+mdview
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -643,9 +638,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-sabaki
-saphyr
-scavengers
+puush-qt
 school-sections
 ser-player
 simple-s3-uploader
@@ -690,9 +683,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
+vifm
+violetbug
 xemu
-youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
