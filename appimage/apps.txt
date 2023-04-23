@@ -85,7 +85,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
+ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -145,6 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -168,8 +169,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -204,9 +205,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
+Keys
+KiCad
+Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -251,7 +252,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Melodie
 MoarPerf
 Mob
 Mockman
@@ -294,8 +294,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -420,6 +420,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -483,8 +485,8 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
 Upscayl
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -564,7 +566,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -605,8 +606,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
-ngrev
+mdview
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -635,8 +636,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 pomotroid
-rmw
-runanode
+pretty-handy-privacy
+privacy.sexy
+protonmail-desktop
 sabaki
 saphyr
 scavengers
@@ -683,11 +685,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
+vifm
+violetbug
 xemu
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
