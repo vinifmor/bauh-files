@@ -83,7 +83,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Cryptr
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -145,8 +145,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -169,7 +169,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
+GitJournal
+GitNote
 HastyHeroes
 Heimer
 HermesMessenger
@@ -203,6 +204,10 @@ Isolate
 JReleaser
 James
 JoalDesktop
+Join_Desktop
+Joplin
+KADE
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -337,8 +342,13 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -382,7 +392,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -409,8 +418,8 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
+Sonist
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -473,7 +482,9 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
+VK_Desktop
 Vitomu
 VivifyScrum
 VizGraph
@@ -553,7 +564,8 @@ four
 foxfolio
 fre:ac
 freeman
-htmldoc
+gLabels
+gibs
 hugin
 huwinterpreter
 hw-probe
@@ -590,11 +602,11 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
-marktext
-marlin-conf
-mdview
+mybelka
+n3h
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -623,6 +635,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+rasterview
+ridereceipts
 rmw
 runanode
 sabaki
@@ -672,6 +686,7 @@ unreel
 updatedeployqt
 upterm
 xemu
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
