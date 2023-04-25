@@ -28,8 +28,8 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
 Beekeeper Studio
-BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -61,7 +61,6 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Bypass_Cors
-BytespeicherTrayIcon
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -94,6 +93,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -123,10 +123,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
-FastQt
-Firefox_ESR
+Fraktal
+FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -148,8 +146,7 @@ Galacteek
 GameHub
 Genesis
 Geometrize
-GetThermal
-Gifcurry
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -179,9 +176,8 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
-IrScrutinizer
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -273,10 +269,9 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -316,8 +311,6 @@ Podman
 PolkaKey
 Popsicle
 Postman
-PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -358,9 +351,10 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-RawTherapee
-Reactotron
+Rufus
+SFRT_Attendance
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -387,7 +381,6 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -412,8 +405,11 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
 SuperSlicer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -437,7 +433,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-VPaint
 Vipster
 VirtScreen
 Vitomu
@@ -465,7 +460,6 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -497,8 +491,8 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
-eXtrema
+flameshot
+flightgear-airports
 fmradio
 four
 foxfolio
@@ -556,9 +550,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
 mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -586,7 +579,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qhot
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -627,7 +619,7 @@ thorium-client
 timer
 tmon
 tnt
-vuerd
+torrenttools
 weatherdump
 westeroscraftlauncher
 weweChat
