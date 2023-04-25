@@ -28,8 +28,8 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
 Beekeeper Studio
+BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -58,11 +58,10 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-CasterSoundboard
-Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
+BulkURLOpener
+BunqDesktop
+Bypass_Cors
+BytespeicherTrayIcon
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -95,7 +94,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -126,8 +124,9 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-Fraktal
-FranceTV
+FMS_File_Explorer
+FastQt
+Firefox_ESR
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -151,6 +150,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -182,7 +182,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -272,9 +273,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -315,6 +317,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -357,6 +360,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -408,9 +412,8 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
+Substrate_IDE
 SuperSlicer
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -434,7 +437,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
+VPaint
 Vipster
 VirtScreen
 Vitomu
@@ -490,12 +493,12 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
+dukto
+dvdisaster
+eDEX-UI
+eNoseAnnotator
+eOSVC
+eXtrema
 fmradio
 four
 foxfolio
@@ -554,7 +557,8 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-n3h
+mapton
+mybelka
 nRF_Connect
 neovim
 ngPost
@@ -582,6 +586,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qhot
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -618,9 +623,10 @@ tastee-ui
 tc
 theFrame
 theWeb
-vifm
-violetbug
-vue-calc
+thorium-client
+timer
+tmon
+tnt
 vuerd
 weatherdump
 westeroscraftlauncher
