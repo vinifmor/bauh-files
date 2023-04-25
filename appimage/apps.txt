@@ -79,8 +79,8 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-CrossCode_Map_Editor
-CrossMobile
+Chiaki
+Circle-Z
 Cryplicity
 Crypter
 Cryptr
@@ -112,6 +112,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,7 +145,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -245,7 +248,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -287,7 +289,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -328,6 +330,12 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -371,7 +379,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -433,6 +440,9 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -455,8 +465,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -491,8 +499,8 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
 bauh
+buttercup
 cabal-desktop
 caprine
 clippy
@@ -530,9 +538,9 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-file-converter
-flameshot
+gsubs
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -577,7 +585,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
+marlin-conf
 ngPost
 ngrev
 nheko
@@ -653,7 +661,7 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
+x-loc
 xde
 xemu
 xonsh
