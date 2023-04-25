@@ -30,10 +30,9 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -66,8 +65,8 @@ BytespeicherTrayIcon
 CARTA
 CATcher
 CIAA_Suite
-City_Hub
-CleepDesktop
+CPU-X
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -96,7 +95,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -128,7 +126,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -274,8 +271,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -316,6 +313,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -356,9 +355,9 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-RawTherapee
-Reactotron
+SFRT_Attendance
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -386,7 +385,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SmartGit
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -461,10 +459,12 @@ Wsocks
 XChat
 XClicker
 XELFViewer
-altair
-android-messages-desktop
-antimicroX
-ao
+XPEViewer
+YUView
+YesPlayMusic
+YouTubeSearchFilter
+Yuna
+aillio-ts
 appimagelint
 appimagetool
 appium-desktop
@@ -491,15 +491,14 @@ devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
-fSpy
-falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
+draw.io
+dukto
+dvdisaster
+eDEX-UI
+eNoseAnnotator
+eOSVC
+eXtrema
+ehdev-shell
 foxfolio
 fre:ac
 freeman
@@ -555,7 +554,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -584,6 +583,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pkg2appimage
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -621,10 +621,11 @@ tc
 theFrame
 theWeb
 thorium-client
-violetbug
-vue-calc
-vuerd
-weatherdump
+timer
+tmon
+tnt
+torrenttools
+triagem-touch
 westeroscraftlauncher
 weweChat
 wezterm
