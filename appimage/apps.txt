@@ -35,6 +35,7 @@ Audacity
 AudioMoth
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,14 +68,15 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -98,9 +100,6 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
-DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,7 +128,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 HDRMerge
 HastyHeroes
 Heimer
@@ -185,6 +185,7 @@ IrScrutinizer
 Isolate
 JReleaser
 James
+KawAnime
 KeyManager
 KeyboardClient
 Keys
@@ -272,8 +273,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Padloc
+Open_Markup_Editor
 Painel-Web
 Paletti
 PanWriter
@@ -314,6 +316,10 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -357,6 +363,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -383,6 +390,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -408,12 +416,7 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-SwiftnessX
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -464,7 +467,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+appimagetool
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -497,8 +501,8 @@ eOSVC
 eXtrema
 ehdev-shell
 elcalc
-electron-wechat
-electron-xiami
+fre:ac
+freeman
 gLabels
 gerbv
 getswell
@@ -548,10 +552,12 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-my-budget
-mybelka
+luna
+makoureactor
+mandelbulber2
+mapollage
+mapton
 n3h
-nRF_Connect
 neovim
 ngPost
 ngrev
@@ -578,9 +584,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
-qr-code-generator-desktop
-quokkagit
+pkg2appimage
+playyourdamnturn.com
+plotjuggler
 rasterview
 ridereceipts
 rmw
@@ -621,9 +627,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
-weweChat
-wezterm
-whiteboard
+tweet-tray
+twetter
 whu-library-seat
 windows2usb
 wxMEdit
