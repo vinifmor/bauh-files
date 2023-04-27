@@ -27,14 +27,13 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -62,13 +61,13 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
+CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
+CPod
+CRG_Data_Tool
+CRIC
 Colon
 ColorGenerator
 Colorpicker
@@ -93,8 +92,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
 Eksplode.re
 ElDumper
 Electorrent
@@ -122,9 +122,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FranceTV
-Franz
-Frappe_Accounting
+FMS_File_Explorer
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -146,7 +145,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -178,7 +176,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -229,7 +226,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -312,10 +308,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -356,6 +350,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -383,7 +378,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -409,6 +403,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -462,7 +459,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -494,7 +492,8 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -549,6 +548,9 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mandelbulber2
+mira-backup
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -577,6 +579,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pkg2appimage
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -621,7 +624,6 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
 whiteboard
 whu-library-seat
 windows2usb
