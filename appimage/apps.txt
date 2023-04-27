@@ -28,8 +28,6 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -62,8 +60,8 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Bypass_Cors
-Chiaki
-Circle-Z
+BytespeicherTrayIcon
+CARTA
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -95,8 +93,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -126,10 +122,9 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
-Fidias_Database_Migration_App
-Figma
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -182,8 +177,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -235,7 +229,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -272,12 +265,12 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PIA
-POE_Ladder
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -318,8 +311,11 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -360,8 +356,6 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
-SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -412,10 +406,10 @@ Storaji
 Strata
 Streamlink
 Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
 SuperSlicer
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -439,8 +433,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Valeronoi
-Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -469,10 +461,8 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-Znax
-ao
-appimagelint
-appimagetool
+Yuna
+ZY_Player
 appium-desktop
 autoEdit2
 avogadro
@@ -559,9 +549,6 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
-my-budget
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -633,8 +620,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
-weweChat
-wezterm
+tweet-tray
+twetter
 whiteboard
 whu-library-seat
 windows2usb
