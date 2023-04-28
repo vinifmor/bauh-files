@@ -29,7 +29,6 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 Beekeeper Studio
-BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -94,6 +93,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -119,11 +119,9 @@ ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+Fractale
+Fraidycat
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -148,6 +146,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -179,7 +178,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -354,7 +354,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -383,6 +382,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Simdock
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -407,9 +407,10 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
+Substrate_IDE
+Subsurface
+Subtitle_Composer
 SuperSlicer
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -433,7 +434,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -460,8 +460,8 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-ZY_Player
-ao
+YouTubeSearchFilter
+Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -495,7 +495,7 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-fmradio
+ehdev-shell
 four
 foxfolio
 fre:ac
@@ -549,8 +549,8 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
+mapollage
+mutool
 my-budget
 mybelka
 n3h
@@ -581,6 +581,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+privacy.sexy
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -622,8 +623,8 @@ timer
 tmon
 tnt
 torrenttools
-weatherdump
-westeroscraftlauncher
+triagem-touch
+ttth
 weweChat
 wezterm
 whiteboard
