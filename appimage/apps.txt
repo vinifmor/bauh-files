@@ -36,11 +36,9 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -87,10 +85,11 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
-CustomRPC
-CutePeaks
-CuteVariant
-DFileManager
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
 Dana
 Datcord
 DawnlightSearch
@@ -147,8 +146,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD-asm3
-FreeCAD2
+Filmulator
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -173,10 +171,9 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
-Heroic Games Launcher
+GooboxFileShare
+Heimer
+HermesMessenger
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -214,7 +211,8 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
+Klogg
+Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -259,7 +257,6 @@ MazeSolver
 McPodcast
 Mechvibes
 MediaElch
-Mockman
 Monot
 Moonlight
 Motrix
@@ -296,7 +293,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -351,6 +347,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -394,7 +393,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -425,7 +423,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -493,7 +492,8 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-VizGraph
+V2Ray-Desktop
+Valeronoi
 WalletTech
 WatchFlower
 WatchIt
@@ -529,8 +529,9 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
+android-messages-desktop
 bauh
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -574,8 +575,11 @@ gerbv
 getswell
 gibs
 githoard
-iota1k
-iptvnator
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guglielmo
 irccloud-desktop
 isle-editor
 jag
@@ -614,8 +618,7 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-mira-backup
-mjml-app
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -648,8 +651,9 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -691,7 +695,11 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
 xemu
-yuzu
-zograscope
-zsync2
