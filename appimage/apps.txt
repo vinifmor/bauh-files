@@ -35,10 +35,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -79,13 +80,13 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -144,6 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -167,11 +169,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -205,12 +204,13 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+Keys
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
+Knowte
 KopiaUI
 LANShare
 LCEdit
@@ -251,6 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -294,8 +295,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
-PanWriter
 Panini
 Paper
 Papercraft
@@ -345,6 +344,7 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -388,6 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -419,7 +420,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -482,9 +482,9 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
+UltraScreen
 Upscayl
-VirtScreen
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -519,7 +519,6 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-antimicroX
 bauh
 clipr
 cncjs
@@ -565,7 +564,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -608,7 +606,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -638,7 +635,8 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
@@ -683,10 +681,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
 xemu
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
