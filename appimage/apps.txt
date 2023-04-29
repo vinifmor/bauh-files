@@ -39,6 +39,7 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -90,6 +91,8 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
+Comic-Reader
+Dana
 Datcord
 DawnlightSearch
 DbGate
@@ -146,7 +149,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -173,9 +175,11 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GooboxFileShare
 Heroic Games Launcher
+HexoClient
+HexoEditor
+HiDPI-Fixer
+HyperDEX
 HyperionIDE
 Hyperspace
 IGdm
@@ -251,10 +255,11 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
-Monot
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -348,7 +353,6 @@ Pulsar
 Pulse
 Puppetry
 Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -392,6 +396,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -424,6 +429,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+SpeedyLoader
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -522,10 +529,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+clipr
+cncjs
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -567,13 +574,12 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -610,11 +616,11 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
-nimbus-weather
-nordvpn-linux
-notepadqq
-noteshrink-qt
+media_mate
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -641,10 +647,11 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -691,7 +698,7 @@ vifm
 violetbug
 vue-calc
 vuerd
+weatherdump
 xemu
 yuzu
-zograscope
 zsync2
