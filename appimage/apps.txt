@@ -39,7 +39,6 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -90,7 +89,7 @@ Cloud_Browser
 Code_OSS
 Colon
 ColorGenerator
-Dana
+Colorpicker
 Datcord
 DawnlightSearch
 DbGate
@@ -171,13 +170,12 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
 GooboxFileShare
-Heimer
-HermesMessenger
-HexoClient
-HexoEditor
-HiDPI-Fixer
-HyperDEX
+Heroic Games Launcher
 HyperionIDE
 Hyperspace
 IGdm
@@ -211,11 +209,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -253,10 +251,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
-MediaElch
+MoarPerf
+Mob
+Mockman
 Monot
 Moonlight
 Motrix
@@ -293,10 +290,12 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
+OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
 Onenote
+PanWriter
 Panini
 Paper
 Papercraft
@@ -425,8 +424,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
-Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -492,8 +489,6 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-V2Ray-Desktop
-Valeronoi
 WalletTech
 WatchFlower
 WatchIt
@@ -530,8 +525,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -578,8 +574,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
-guglielmo
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -615,9 +610,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
+nheko
+nimbus-weather
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -646,11 +641,10 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+saphyr
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -697,9 +691,7 @@ vifm
 violetbug
 vue-calc
 vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
 xemu
+yuzu
+zograscope
+zsync2
