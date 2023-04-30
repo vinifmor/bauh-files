@@ -35,10 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -84,12 +83,10 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
 CuteVariant
 DFileManager
 Dana
@@ -147,7 +144,6 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -174,10 +170,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Glyphr_Studio_Desktop
 GoldenCheetah
-GrinPlusPlus
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -215,9 +210,9 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
-Kanon
-KawAnime
+Klogg
+Knowte
+KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -258,7 +253,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
+MoarPerf
 Mob
 Mockman
 Monot
@@ -302,7 +297,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
+PanWriter
 Panini
 Paper
 Papercraft
@@ -353,6 +348,7 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -395,9 +391,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -490,9 +484,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -529,8 +522,6 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-appimagetool
 bauh
 clipr
 cncjs
@@ -576,8 +567,10 @@ foxfolio
 fre:ac
 freeman
 gLabels
+gerbv
+getswell
+gibs
 hugin
-huwinterpreter
 hw-probe
 hyper
 impact
@@ -619,8 +612,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-ngPost
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -652,9 +643,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -703,6 +693,4 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
-weweChat
-wezterm
 xemu
