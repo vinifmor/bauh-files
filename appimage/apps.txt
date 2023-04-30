@@ -35,9 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -83,6 +84,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
+Cloud_Browser
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -144,8 +147,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD2
-FreeTexturePacker
+Figma
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -170,9 +173,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-GoldenCheetah
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -210,6 +211,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+KawAnime
 Klogg
 Knowte
 KopiaUI
@@ -253,9 +255,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MoarPerf
-Mob
-Mockman
+McPodcast
+Mechvibes
 Monot
 Moonlight
 Motrix
@@ -297,7 +298,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
 Panini
 Paper
 Papercraft
@@ -348,7 +348,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -422,8 +421,6 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -484,13 +481,15 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
+UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-Vipster
-VirtScreen
-Vitomu
-VivifyScrum
-VizGraph
-WalletTech
+Upscayl
+V2Ray-Desktop
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -522,12 +521,12 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+ai-bot-workspace
+aillio-ts
+altair
+android-messages-desktop
 bauh
-clipr
-cncjs
-colorstatic-bash
-cordlauncher
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -570,10 +569,8 @@ gLabels
 gerbv
 getswell
 gibs
-hugin
-hw-probe
-hyper
-impact
+githoard
+glTF_Insight
 iota1k
 iptvnator
 irccloud-desktop
@@ -612,8 +609,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nordvpn-linux
-notepadqq
+meta-grabber
+mini-qml
+mira-backup
 noteshrink-qt
 nvtop
 nx-software-center
@@ -643,8 +641,11 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-school-sections
-ser-player
+python2
+python3
+qBittorrent_Enhanced_Edition
+qr-code-generator-desktop
+rasterview
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -693,4 +694,7 @@ vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
+weweChat
+wezterm
+x-loc
 xemu
