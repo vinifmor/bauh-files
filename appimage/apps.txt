@@ -32,10 +32,12 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
+Auryo
+AvantGarde
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,13 +79,11 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -112,6 +112,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,7 +145,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -168,10 +173,9 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-HermesMessenger
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
-HexoClient
-HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -207,7 +211,7 @@ Julius
 KADE
 KDiskMark
 KOReader
-Knowte
+Kimitzu-Client
 KopiaUI
 LANShare
 LCEdit
@@ -248,6 +252,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Melodie
+Mirage
+MoarPerf
 Mob
 Mockman
 Monot
@@ -289,8 +296,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
 PanWriter
 Panini
 Paper
@@ -385,6 +391,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -415,9 +422,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
-SmallBASIC
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -480,11 +485,11 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-UniShellect
 Upscayl
-Upscayl
+VirtScreen
+Vitomu
+VivifyScrum
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -517,11 +522,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+clipr
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -562,8 +567,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -602,7 +606,11 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngrev
+marlin-conf
+mdview
+media-dupes
+media_mate
+meta-grabber
 nheko
 nimbus-weather
 nordvpn-linux
@@ -634,9 +642,9 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
+puush-qt
+pyappimage
+python2
 ser-player
 simple-s3-uploader
 simple-timer
@@ -682,8 +690,8 @@ upterm
 vREST_NG
 vifm
 violetbug
+wxMaxima
 xemu
-ytDownloader
 yuzu
 zograscope
 zsync2
