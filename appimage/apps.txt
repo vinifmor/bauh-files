@@ -36,9 +36,9 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -84,11 +84,12 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
 CuteVariant
 DFileManager
 Dana
@@ -175,7 +176,10 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-Heroic Games Launcher
+GrinPlusPlus
+HermesMessenger
+HexoClient
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -211,8 +215,9 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kimitzu-Client
-KopiaUI
+Kage
+Kanon
+KawAnime
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -252,9 +257,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Melodie
-Mirage
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -296,8 +300,9 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
+Onshape
 Panini
 Paper
 Papercraft
@@ -390,7 +395,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -422,7 +428,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -522,6 +529,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
+appimagetool
 bauh
 clipr
 cncjs
@@ -611,8 +620,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nheko
-nimbus-weather
+ngPost
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -645,7 +653,8 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-ser-player
+python3
+qBittorrent_Enhanced_Edition
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -690,8 +699,10 @@ upterm
 vREST_NG
 vifm
 violetbug
-wxMaxima
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
 xemu
-yuzu
-zograscope
-zsync2
