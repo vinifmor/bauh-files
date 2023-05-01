@@ -34,11 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -83,8 +82,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-Colon
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -147,8 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -173,7 +170,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -207,8 +204,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
 Kitupiikki
 Klogg
 Knowte
@@ -253,8 +253,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-MineTime
+MoarPerf
 Mob
 Mockman
 Monot
@@ -298,6 +297,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+PanWriter
 Panini
 Paper
 Papercraft
@@ -346,6 +346,10 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
+Pulsar
+Pulse
+Puppetry
+Python
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -421,7 +425,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
+Skrifa
 Spivak
 Stacer
 Standard_Notes
@@ -483,12 +487,11 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
-UniShellect
 Upscayl
-Upscayl
-V2Ray-Desktop
+VirtScreen
+Vitomu
+VivifyScrum
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -521,11 +524,11 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+clipr
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -566,7 +569,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
+gerbv
 huwinterpreter
 hw-probe
 hyper
@@ -608,8 +611,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
+mtCellEdit
+nheko
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -639,9 +643,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
+puush-qt
+pyappimage
 ser-player
 simple-s3-uploader
 simple-timer
@@ -685,10 +688,10 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
+vifm
+violetbug
+vue-calc
 xemu
-youtube-music
-youtube-music-desktop
-ytDownloader
 yuzu
 zograscope
 zsync2
