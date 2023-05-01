@@ -34,10 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -84,9 +83,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -147,7 +145,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -173,8 +172,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -211,7 +210,7 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
+Kanon
 Knowte
 KopiaUI
 LANShare
@@ -255,9 +254,6 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-MediaElch
-MoarPerf
-Mob
 Mockman
 Monot
 Moonlight
@@ -299,7 +295,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-PanWriter
+Onenote
 Panini
 Paper
 Papercraft
@@ -425,7 +421,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -491,8 +486,6 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
-V2Ray-Desktop
 VizGraph
 WalletTech
 WatchFlower
@@ -527,8 +520,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
 bauh
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -571,8 +564,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -614,7 +606,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
+media_mate
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -644,7 +636,7 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -691,8 +683,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
 xemu
+youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
