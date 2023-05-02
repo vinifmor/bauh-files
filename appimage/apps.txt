@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -78,13 +79,11 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -110,6 +109,13 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -139,8 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
-FreeCAD2
+Fidias_Database_Migration_App
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -162,9 +167,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+Google_Tasks_Desktop
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -199,7 +203,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -374,9 +377,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
-SPlayer
+Rebaslight
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -403,11 +405,12 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sonist
-Sourcetrail
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -440,6 +443,12 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -462,8 +471,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -496,8 +506,8 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
 bauh
+buttercup
 cabal-desktop
 caprine
 clippy
@@ -533,11 +543,10 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -583,6 +592,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -614,7 +624,6 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
 sabaki
 saphyr
 scavengers
