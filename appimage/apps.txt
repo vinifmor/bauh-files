@@ -25,12 +25,14 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
+Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Bench_CLI
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -59,10 +61,12 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Bypass_Cors
-Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
+BytespeicherTrayIcon
+CARTA
+CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -91,8 +95,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
-ERScaffold
+DeDop-studio
+DeadGame-2048
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -119,10 +123,10 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-Fraktal
-FranceTV
-Franz
-Frappe_Accounting
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -144,8 +148,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -177,7 +179,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -228,7 +229,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -267,6 +267,7 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
 Painel-Web
 Paletti
@@ -351,6 +352,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rufus
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -377,6 +380,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -400,12 +404,9 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -455,7 +456,8 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-ao
+YouTubeSearchFilter
+Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -487,9 +489,10 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
+flameshot
+flightgear-airports
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -545,7 +548,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
+mapollage
+mapton
 nRF_Connect
 neovim
 ngPost
@@ -573,6 +577,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+playyourdamnturn.com
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -612,11 +617,10 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
 wezterm
 whiteboard
 whu-library-seat
