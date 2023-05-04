@@ -30,10 +30,10 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
+Audacity
+AudioMoth
 Beekeeper Studio
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -63,7 +63,9 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-City_Hub
+CATcher
+CIAA_Suite
+CPU-X
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -94,8 +96,9 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-ERScaffold
-Eagle_Mode
+DeadGame-2048
+DeepTags
+Delir
 Eksplode.re
 ElDumper
 Electorrent
@@ -123,7 +126,6 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -273,6 +275,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -354,7 +357,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RedmineTimeTracker
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -383,6 +385,7 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
+Shotcut
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -410,7 +413,6 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 SuperSlicer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -434,7 +436,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -463,9 +464,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
-appium-desktop
+ZY_Player
 autoEdit2
 avogadro
 bauh
@@ -497,8 +496,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
-fre:ac
+elcalc
 freeman
 gLabels
 gerbv
@@ -552,8 +550,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-media-dupes
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -623,12 +620,12 @@ timer
 tmon
 tnt
 torrenttools
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
 wxMEdit
 wxMaxima
 x-loc
