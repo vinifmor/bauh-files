@@ -32,9 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,11 +70,12 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Cate-Desktop
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -103,6 +105,9 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,8 +137,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_Nightly
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -155,7 +158,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-HDRMerge
+Gingko
 HastyHeroes
 Heimer
 HermesMessenger
@@ -189,7 +192,6 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -238,7 +240,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -279,7 +280,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -321,6 +321,10 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -364,7 +368,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -392,7 +397,6 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-Sonist
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -428,7 +432,8 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-Tablo_Tools
+SynfigStudio
+Synthein
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -451,10 +456,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-UHK.Agent
 Upscayl
-Viper_Browser
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -483,11 +485,13 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appium-desktop
-autoEdit2
-avogadro
+ZapDesktop
+ZeGrapher
+Zegarek
+ZenroomStudio
+Znax
+ai-bot-workspace
 bauh
-bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -571,10 +575,9 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-meta-grabber
-n3h
-nRF_Connect
-neovim
+mapton
+marktext
+marlin-conf
 ngPost
 ngrev
 nheko
@@ -602,8 +605,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
-quokkagit
+plotjuggler
+pnpm
 rasterview
 ridereceipts
 rmw
@@ -650,8 +653,6 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-whiteboard
 wxMaxima
 x-loc
 xde
