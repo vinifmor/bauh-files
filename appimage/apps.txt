@@ -39,6 +39,8 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -84,9 +86,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-Cryptr
-Cscrypto
-CubicSDR
+ClementineRemote
 Cura
 CustomRPC
 CutePeaks
@@ -148,7 +148,9 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FontForge
+FreeCAD-asm3
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -171,9 +173,7 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
-GitQlient
-Glimpse-Image-Editor
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -210,9 +210,9 @@ Joplin
 Joy2DroidX
 Juggernaut
 Julius
-KADE
-KDiskMark
-KOReader
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -297,7 +297,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+OpenTodoList
 PanWriter
 Panini
 Paper
@@ -343,12 +344,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -392,6 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RetroShare
 SPlayer
 SUMOCO
 SUbillManager
@@ -423,7 +421,6 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -491,7 +488,7 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-V2Ray-Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -526,8 +523,9 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
-altair
 bauh
+clippy
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -569,11 +567,12 @@ fre:ac
 freeman
 gLabels
 gerbv
-hpack
-hugin
-huwinterpreter
-hw-probe
-hyper
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+guiscrcpy
 impact
 iota1k
 iptvnator
@@ -613,7 +612,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -644,7 +643,8 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
+sabaki
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -691,7 +691,9 @@ upterm
 vREST_NG
 vifm
 violetbug
+xde
 xemu
+ytDownloader
 yuzu
 zograscope
 zsync2
