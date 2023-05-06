@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blender_Config_Manager
@@ -86,7 +85,8 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
+Cscrypto
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -148,8 +148,6 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FontForge
-FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -173,8 +171,11 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-Heimer
-HermesMessenger
+GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
+GoldenCheetah
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -210,10 +211,9 @@ Joplin
 Joy2DroidX
 Juggernaut
 Julius
-Kimitzu-Client
-Kitupiikki
-Klogg
-Knowte
+KADE
+KDiskMark
+KOReader
 KopiaUI
 LANShare
 LCEdit
@@ -254,7 +254,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -296,9 +295,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-Olive
-OpenTodoList
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -344,8 +342,12 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -389,8 +391,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,6 +421,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -487,7 +489,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
+VK_Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -523,8 +525,8 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
 bauh
-clippy
 cordlauncher
 cric
 dashy-app
@@ -572,10 +574,6 @@ gibs
 githoard
 glTF_Insight
 glulxe
-guiscrcpy
-impact
-iota1k
-iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -613,6 +611,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
+moniteur-admin
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -643,10 +642,9 @@ pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
 puush-qt
-sabaki
-scavengers
-school-sections
-ser-player
+pyappimage
+python2
+python3
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -691,9 +689,8 @@ upterm
 vREST_NG
 vifm
 violetbug
-xde
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
 xemu
-ytDownloader
-yuzu
-zograscope
-zsync2
