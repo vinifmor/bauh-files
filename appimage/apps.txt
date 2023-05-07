@@ -35,7 +35,6 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
 Beekeeper Studio
 Bitwarden
 Blink1Control2
@@ -83,13 +82,11 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
+CuteVariant
 DFileManager
 Dana
 Datcord
@@ -112,10 +109,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -145,8 +138,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -170,10 +162,8 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
-Glimpse-Image-Editor
-Glyphr_Studio_Desktop
-GoldenCheetah
+Heimer
+HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -206,12 +196,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -253,8 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
 Mockman
 Monot
 Moonlight
@@ -295,8 +283,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -342,8 +330,10 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -386,7 +376,8 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -418,8 +409,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -457,7 +447,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -482,8 +471,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -519,7 +508,6 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
 bauh
 clipr
 cncjs
@@ -561,10 +549,10 @@ flameshot
 flightgear-airports
 fmradio
 four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
