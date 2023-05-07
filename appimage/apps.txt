@@ -35,11 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -85,8 +84,7 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
-Cura
+ClementineRemote
 CustomRPC
 CutePeaks
 CuteVariant
@@ -147,7 +145,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
+Filmulator
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -212,6 +210,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -253,6 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -297,7 +297,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
 Panini
 Paper
 Papercraft
@@ -347,6 +346,7 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -420,9 +420,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+SimplEOS
 SpeedyLoader
 Spivak
 Stacer
@@ -523,6 +521,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -564,9 +563,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -639,10 +637,12 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-saphyr
-scavengers
-school-sections
-ser-player
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -687,8 +687,8 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
 xemu
-ytDownloader
 yuzu
 zograscope
 zsync2
