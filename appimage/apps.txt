@@ -34,10 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -84,9 +83,8 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
+Cscrypto
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -174,7 +172,6 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-HermesMessenger
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -213,7 +210,7 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
+Kage
 Knowte
 KopiaUI
 LANShare
@@ -255,8 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+MoarPerf
 Mob
 Mockman
 Monot
@@ -298,8 +294,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
 PanWriter
 Panini
 Paper
@@ -394,6 +389,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -419,13 +415,10 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Sourcetrail
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -463,7 +456,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -486,9 +478,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -525,7 +516,6 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
 bauh
 clipr
 cncjs
@@ -570,10 +560,7 @@ four
 foxfolio
 fre:ac
 freeman
-glTF_Insight
-hpack
-hsinstall
-htmldoc
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -647,7 +634,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-sabaki
+puush-qt
 saphyr
 scavengers
 school-sections
@@ -694,9 +681,11 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
+vifm
+violetbug
+whu-library-seat
 xemu
-youtube-music
-youtube-music-desktop
+xonsh
 ytDownloader
 yuzu
 zograscope
