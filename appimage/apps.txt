@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -85,6 +85,8 @@ CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
+Cliniface
+Cloud_Browser
 CustomRPC
 CutePeaks
 CuteVariant
@@ -145,7 +147,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -172,8 +174,8 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-GoldenCheetah
 Heroic Games Launcher
+HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -210,7 +212,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Klogg
 Knowte
 KopiaUI
 LANShare
@@ -253,7 +254,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MoarPerf
+McPodcast
 Mob
 Mockman
 Monot
@@ -297,6 +298,9 @@ OWallet
 Obsidian
 Olive
 Onenote
+Outline-Manager
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -344,9 +348,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -390,7 +391,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,6 +421,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -484,7 +486,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
-UltraScreen
 Upscayl
 VivifyScrum
 VizGraph
@@ -520,6 +521,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
 bauh
 clipr
 cncjs
@@ -565,6 +567,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+guglielmo
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -637,12 +641,12 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+runanode
+sabaki
+saphyr
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -684,11 +688,11 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
-vue-calc
 xemu
+yaya
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
