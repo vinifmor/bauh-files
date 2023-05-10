@@ -63,7 +63,8 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-City_Hub
+CIAA_Suite
+CPU-X
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -93,7 +94,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Digitales_Klassenzimmer
+DeDop-studio
+DeadGame-2048
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -180,8 +182,10 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
-JReleaser
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -232,8 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -272,9 +274,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -315,6 +316,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -357,8 +359,6 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-SFRT_Attendance
-SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -386,7 +386,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,7 +412,6 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -438,8 +436,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-VPaint
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -468,8 +464,6 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-android-messages-desktop
-ao
 appimagelint
 appimagetool
 appium-desktop
@@ -503,7 +497,8 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -558,10 +553,6 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
-marktext
-my-budget
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -590,7 +581,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-python2
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -633,10 +623,9 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
