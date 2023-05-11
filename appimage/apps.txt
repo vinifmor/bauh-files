@@ -32,8 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -75,7 +73,6 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
-ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -103,6 +100,9 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
+Digitales_Klassenzimmer
+Disass
 Eksplode.re
 ElDumper
 Electorrent
@@ -131,7 +131,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -189,6 +188,8 @@ IrScrutinizer
 Isolate
 JReleaser
 James
+JoalDesktop
+KOReader
 KevEdit
 KeyManager
 KeyboardClient
@@ -280,6 +281,9 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+P2PDerivatives
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -322,10 +326,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -369,9 +369,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RoboRock_Control_Center
-SMF-DSP
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -398,9 +395,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimDSP
-Software-Challenge-GUI
-Sonist
+Shuttle
+SigDigger
+SigmaSpectra
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -429,6 +426,14 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -451,8 +456,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -484,11 +487,11 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-avogadro
+Zegarek
+ZenroomStudio
+Znax
+Zoom
 bauh
-bioanimation
-bottlenose
-buttercup
 cabal-desktop
 caprine
 clippy
@@ -521,14 +524,14 @@ element
 elzabrowser
 embedded-ide
 enve
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guglielmo
+erdesigner
+evoplex
+fSpy
+falcon-sql-client
+feebas
+feedseries
+file-converter
+flameshot
 guiscrcpy
 hero-display
 hotspot
@@ -573,8 +576,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-neovim
 ngPost
 ngrev
 nheko
@@ -648,7 +649,6 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
