@@ -28,8 +28,10 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
+AudioMoth
 Beekeeper Studio
-Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -60,9 +62,7 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Bypass_Cors
-BytespeicherTrayIcon
-CARTA
-CATcher
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -121,8 +121,9 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-Fraidycat
-Fraktal
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -144,9 +145,11 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+GradeStats
+Graviton
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -175,10 +178,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
-IrScrutinizer
-Isolate
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -268,9 +271,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -311,7 +314,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -353,8 +355,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -381,9 +382,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
-SlackBackup
-Soapy_SDR
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -409,7 +408,6 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -461,8 +459,6 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
-appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -548,8 +544,10 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
+mandelbulber2
+mutool
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -578,8 +576,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -622,9 +619,9 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
