@@ -29,6 +29,7 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 Beekeeper Studio
+Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -62,9 +63,7 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -122,10 +121,11 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+Fraidycat
+Fraktal
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -147,8 +147,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-Graviton
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -313,7 +312,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -357,7 +355,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -384,7 +381,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimpleInstaBot
+SimplEOS
+SlackBackup
+Soapy_SDR
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -411,8 +410,6 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -437,8 +434,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Vieb
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -467,9 +462,10 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
+appimagelint
+appimagetool
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -500,11 +496,10 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
+foxfolio
+fre:ac
+freeman
+gLabels
 gerbv
 getswell
 gibs
@@ -555,8 +550,6 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mdview
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -587,8 +580,6 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pyappimage
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -631,8 +622,9 @@ tnt
 torrenttools
 triagem-touch
 ttth
-wezterm
-whiteboard
+tweet-tray
+twetter
+twitch-wrapper
 whu-library-seat
 windows2usb
 wxMEdit
