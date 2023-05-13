@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -85,10 +85,9 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
+ClementineRemote
+Cliniface
+Cloud_Browser
 CuteVariant
 DFileManager
 Dana
@@ -145,9 +144,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -170,6 +169,9 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
+GitQlient
+Glimpse-Image-Editor
+Glyphr_Studio_Desktop
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -203,10 +205,13 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
+Kanon
 Knowte
 KopiaUI
 LANShare
@@ -248,7 +253,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -291,7 +295,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -416,6 +421,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -477,7 +483,6 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -560,7 +565,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -603,7 +607,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nimbus-weather
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -630,14 +635,14 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 pomotroid
-rmw
-runanode
-sabaki
-saphyr
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+pretty-handy-privacy
+privacy.sexy
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -678,11 +683,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
+vifm
+violetbug
 xemu
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
 yuzu
 zograscope
 zsync2
