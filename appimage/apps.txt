@@ -39,6 +39,7 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -84,6 +85,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
+CleepDesktop
 Cscrypto
 CubicSDR
 Cura
@@ -145,8 +147,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -172,7 +172,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-GrinPlusPlus
+Glimpse-Image-Editor
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -206,12 +207,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
+KiCad
 Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -254,10 +253,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mini_Diary
-Minions
 MoarPerf
 Mob
 Mockman
@@ -300,7 +295,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -346,8 +342,12 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -391,7 +391,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -420,7 +419,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
+Simdock
+SimplEOS
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -485,9 +485,9 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
-VPaint
+Videomass
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -566,8 +566,9 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -611,9 +612,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-mybelka
-nheko
-nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -639,8 +637,9 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
 sabaki
 saphyr
 scavengers
