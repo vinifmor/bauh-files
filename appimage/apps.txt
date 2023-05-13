@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blender_Config_Manager
@@ -85,7 +84,6 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-CleepDesktop
 Cscrypto
 CubicSDR
 Cura
@@ -147,6 +145,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -173,8 +173,7 @@ GitJournal
 GitNote
 GitQlient
 Glimpse-Image-Editor
-Heimer
-HermesMessenger
+Glyphr_Studio_Desktop
 Heroic Games Launcher
 HexoClient
 HexoEditor
@@ -207,11 +206,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -342,12 +342,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -421,8 +417,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Speaky_MiniPlayer
-Spectrum
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -485,11 +481,10 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-Videomass
-VirtScreen
-Vitomu
-VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -566,9 +561,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -639,7 +633,9 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
-privacy.sexy
+qikQR
+rmw
+runanode
 sabaki
 saphyr
 scavengers
