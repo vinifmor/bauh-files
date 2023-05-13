@@ -36,11 +36,9 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -84,10 +82,10 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
 CutePeaks
 CuteVariant
 DFileManager
@@ -147,8 +145,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -174,10 +171,11 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
+GoldenCheetah
+GoldenDict
+GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
-HexoClient
-HexoEditor
-HiDPI-Fixer
 HyperDEX
 HyperionIDE
 Hyperspace
@@ -212,10 +210,11 @@ Julius
 KADE
 KDiskMark
 KOReader
-Knowte
-KopiaUI
-LANShare
-LCEdit
+Kage
+Kanon
+KawAnime
+Kcov
+KeePassXC
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -253,8 +252,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
+McPodcast
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -294,9 +294,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-Olive
-Onenote
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -342,8 +341,10 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -482,9 +483,9 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
-UltraScreen
-UniShellect
 Upscayl
+Vitomu
+VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -563,6 +564,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -606,6 +608,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -633,13 +636,12 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
-qikQR
-rmw
-runanode
-sabaki
-saphyr
-scavengers
-school-sections
+privacy.sexy
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
 ser-player
 simple-s3-uploader
 simple-timer
@@ -682,10 +684,12 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
+vifm
+violetbug
+vue-calc
+wezterm
 xemu
-yaya
-youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
