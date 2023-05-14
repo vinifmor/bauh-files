@@ -39,7 +39,6 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -88,6 +87,8 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
+Code_OSS
+Colon
 CuteVariant
 DFileManager
 Dana
@@ -146,7 +147,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -172,9 +173,9 @@ GitNote
 GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
-HermesMessenger
+GoldenCheetah
+GoldenDict
 Heroic Games Launcher
-HexoClient
 HexoEditor
 HiDPI-Fixer
 HyperDEX
@@ -211,9 +212,8 @@ Julius
 KADE
 KDiskMark
 KOReader
+Kage
 Kanon
-Knowte
-KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -253,6 +253,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
+McPodcast
+MegaBasterd
 MoarPerf
 Mob
 Mockman
@@ -296,7 +299,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
 PanWriter
 Panini
 Paper
@@ -347,6 +349,7 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -390,6 +393,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RetroShare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -422,7 +426,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -483,6 +486,7 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
+UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -565,6 +569,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -608,7 +613,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nimbus-weather
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -640,9 +645,10 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
