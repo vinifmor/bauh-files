@@ -89,7 +89,6 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-CuteVariant
 DFileManager
 Dana
 Datcord
@@ -174,7 +173,6 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
 Heroic Games Launcher
 HexoEditor
 HiDPI-Fixer
@@ -214,6 +212,7 @@ KDiskMark
 KOReader
 Kage
 Kanon
+KawAnime
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -255,11 +254,9 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
+Mechvibes
+MediaElch
 MegaBasterd
-MoarPerf
-Mob
-Mockman
-Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,6 +296,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -350,6 +348,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -393,7 +394,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -423,9 +424,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -569,7 +570,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -613,8 +613,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
-nordvpn-linux
+meta-grabber
 notepadqq
 noteshrink-qt
 nvtop
@@ -645,10 +644,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -692,6 +690,8 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
 xemu
 yuzu
 zograscope
