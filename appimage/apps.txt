@@ -34,10 +34,11 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -83,10 +84,11 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
 CutePeaks
 CuteVariant
 DFileManager
@@ -148,6 +150,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -174,6 +177,7 @@ Glyphr_Studio_Desktop
 GoldenCheetah
 GoldenDict
 GooboxFileShare
+Google_Tasks_Desktop
 Heroic Games Launcher
 HyperDEX
 HyperionIDE
@@ -250,9 +254,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
-MoarPerf
-Mob
+MazeSolver
+McPodcast
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -295,6 +299,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+PacketSender
 PanWriter
 Panini
 Paper
@@ -345,6 +350,7 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
+Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -387,7 +393,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -418,7 +424,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -481,10 +488,10 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-VirtScreen
-Vitomu
-VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -563,6 +570,7 @@ four
 foxfolio
 fre:ac
 freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -607,7 +615,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nimbus-weather
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -638,11 +647,12 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
 python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -684,9 +694,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-whu-library-seat
 xemu
 yuzu
+zograscope
+zsync2
