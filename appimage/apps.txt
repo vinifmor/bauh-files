@@ -34,9 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+AvantGarde
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -80,13 +81,12 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
+CubicSDR
+Cura
 CustomRPC
 CutePeaks
 CuteVariant
@@ -114,8 +114,6 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -149,6 +147,7 @@ Fidias_Database_Migration_App
 Figma
 Filmulator
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -173,9 +172,8 @@ GitQlient
 Glimpse-Image-Editor
 Glyphr_Studio_Desktop
 GoldenCheetah
-GoldenDict
-GradeStats
 Heroic Games Launcher
+HexoEditor
 HiDPI-Fixer
 HyperDEX
 HyperionIDE
@@ -211,7 +209,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
 Knowte
 KopiaUI
 LANShare
@@ -296,7 +293,8 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
+PIA
+Paletti
 PanWriter
 Panini
 Paper
@@ -345,10 +343,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
-Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -424,8 +418,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SnippetStore
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -524,8 +516,9 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
+appium-desktop
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -567,9 +560,9 @@ flightgear-airports
 fmradio
 four
 foxfolio
-fre:ac
-freeman
-gLabels
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -642,9 +635,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -691,8 +682,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
 yuzu
+zograscope
+zsync2
