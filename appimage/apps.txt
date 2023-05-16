@@ -78,7 +78,8 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-ChainX_Signer
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -162,8 +163,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-Guitar
 HDRMerge
 HastyHeroes
 Heimer
@@ -197,8 +196,7 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-KeyManager
-KeyboardClient
+JoalDesktop
 Keys
 KiCad
 Kiibohd_Configurator
@@ -287,7 +285,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -372,7 +369,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -399,9 +395,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SlackBackup
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -435,9 +429,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -461,7 +452,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -494,11 +484,11 @@ ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
-Znax
-Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+bioanimation
+buttercup
+cabal-desktop
+caprine
 clippy
 clipr
 cncjs
@@ -531,13 +521,12 @@ embedded-ide
 enve
 erdesigner
 evoplex
-fSpy
-falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-fre:ac
+githoard
+glTF_Insight
+glulxe
+graphql-playground
+gsubs
+guglielmo
 guiscrcpy
 hero-display
 hotspot
@@ -583,7 +572,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ngPost
 ngrev
 nheko
@@ -613,7 +601,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
 rmw
 runanode
 sabaki
