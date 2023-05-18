@@ -26,10 +26,10 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
 Beekeeper Studio
-Bench_CLI
-BetterSIS
-Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -59,7 +59,6 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -92,6 +91,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -123,7 +123,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -144,9 +143,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -176,9 +175,10 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
-IrScrutinizer
-Isolate
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -269,9 +269,10 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
+Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -353,7 +354,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -407,8 +407,8 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
 SuperSlicer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -432,7 +432,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -459,6 +458,8 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
+antimicroX
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -492,7 +493,7 @@ eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
+fmradio
 four
 foxfolio
 fre:ac
@@ -547,7 +548,6 @@ logseq
 lumi
 luminance-hdr
 luna
-makoureactor
 my-budget
 mybelka
 n3h
@@ -578,6 +578,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -617,7 +618,7 @@ theWeb
 thorium-client
 timer
 tmon
-vue-calc
+tnt
 vuerd
 weatherdump
 westeroscraftlauncher
