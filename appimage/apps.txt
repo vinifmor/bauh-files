@@ -26,11 +26,12 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Armagetron_Advanced
-Artisan
-AsarUI
-AstroShutter
 Beekeeper Studio
+Bench_CLI
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -58,11 +59,9 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
-CATcher
-ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -93,7 +92,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Deployer
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,7 +123,9 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -147,6 +147,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -178,8 +179,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -227,6 +228,8 @@ Mapeo
 Mark_Mind
 Markman
 Martian
+MasterVyrn
+Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -263,10 +266,10 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -350,8 +353,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -404,7 +408,6 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -429,6 +432,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -455,8 +459,6 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -491,6 +493,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+four
 foxfolio
 fre:ac
 freeman
@@ -545,6 +548,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
+my-budget
 mybelka
 n3h
 nRF_Connect
@@ -574,8 +578,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-playyourdamnturn.com
-qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -615,11 +617,10 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
