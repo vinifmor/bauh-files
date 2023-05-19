@@ -32,10 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,13 +68,13 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -100,9 +99,6 @@ DeepTags
 Delir
 Demonizer
 Deployer
-Detect_It_Easy
-DevHub
-Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -131,8 +127,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -154,6 +149,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
+GooboxFileShare
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -185,7 +183,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
+JoalDesktop
 KettleClient
 KevEdit
 KeyManager
@@ -237,6 +235,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -277,8 +277,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -318,10 +317,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -365,6 +360,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -425,9 +421,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -451,6 +444,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -481,7 +475,8 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
+autoEdit2
+avogadro
 bauh
 bioanimation
 bottlenose
@@ -514,7 +509,8 @@ ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
-element
+fmradio
+gLabels
 gerbv
 getswell
 gibs
@@ -567,6 +563,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
+mapton
 nRF_Connect
 neovim
 ngPost
@@ -596,8 +593,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -640,10 +637,10 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
