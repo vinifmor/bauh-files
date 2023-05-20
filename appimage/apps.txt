@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -79,6 +80,8 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
+Code_OSS
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -112,8 +115,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -200,8 +201,6 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -292,7 +291,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -336,9 +334,6 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -384,6 +379,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -412,8 +408,9 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Spark.Payments
-Speaky_MiniPlayer
+SimDSP
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -475,9 +472,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -509,8 +506,8 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
-ZenroomStudio
 bauh
+bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -597,8 +594,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -628,6 +624,7 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
+runanode
 sabaki
 saphyr
 scavengers
