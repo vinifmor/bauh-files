@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -78,8 +77,9 @@ CasterSoundboard
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
-CrossCode_Map_Editor
-CrossMobile
+ChainX_Signer
+Chiaki
+Circle-Z
 Cryplicity
 Crypter
 Cryptr
@@ -111,6 +111,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -140,7 +144,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -162,7 +166,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -196,8 +200,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KADE
-KeyboardClient
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -287,6 +291,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -326,9 +331,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -373,7 +375,6 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
 SMath_Studio
 SPlayer
 SUMOCO
@@ -403,9 +404,8 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
+Spark.Payments
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -467,10 +467,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
-UltraGrid
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -549,9 +547,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -588,11 +585,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
-mapton
-marktext
-marlin-conf
-mdview
+n3h
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -621,9 +617,10 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
-pretty-handy-privacy
-privacy.sexy
+rasterview
+ridereceipts
+rmw
+runanode
 sabaki
 saphyr
 scavengers
@@ -667,10 +664,9 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
+xde
 xemu
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
