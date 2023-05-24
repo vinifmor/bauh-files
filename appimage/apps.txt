@@ -25,7 +25,7 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
+Beatconnect_Client
 Beekeeper Studio
 Beekeeper_Studio
 Bench_CLI
@@ -53,8 +53,8 @@ Bottles
 Brackets
 BrainVerse
 BrainWaves
-Carpenters
-Cascade_Image_Editor
+BrickStore
+BscanFFTwebcam
 CasterSoundboard
 Cate-Desktop
 Cavoke
@@ -88,7 +88,6 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-DokiDokiModManager
 Downline
 Dragoman
 Drill
@@ -121,8 +120,9 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
-FF-Password-Exporter
+Fractale
+Fraidycat
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -143,6 +143,8 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
+Genesis
+Gpredict
 GradeStats
 Graviton
 GrinPlusPlus
@@ -175,8 +177,7 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Kage
-Kanon
+Insight
 KawAnime
 Kcov
 KeePassXC
@@ -232,7 +233,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Mattermost_Desktop
+Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -265,7 +266,6 @@ Nitrokey
 NixNote
 NoTer
 Nostlan
-Notable
 OWASP Threat Dragon
 Outline-Manager
 P2PDerivatives
@@ -298,7 +298,7 @@ PicGo
 Pile
 Pingendo
 Pingnoo
-PrimeWorldEditor
+Pixsrt
 PrinterClient
 ProcDepMonitor
 ProcSpin
@@ -376,7 +376,6 @@ Sengi
 Serial_Studio
 Shadowsocks
 Shannon_Calculator
-ShareMyHost
 SnippetStore
 Soapy_SDR
 SocNetV
@@ -425,8 +424,8 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
+Turntable
 Upscayl
-VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -447,8 +446,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Zoom
-Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
@@ -471,7 +468,7 @@ caprine
 clippy
 clipr
 cncjs
-eXtrema
+colorstatic-bash
 ehdev-shell
 elcalc
 electron-wechat
@@ -542,8 +539,8 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
-luna
+movie-monad
+mtCellEdit
 mutool
 my-budget
 mybelka
@@ -567,8 +564,11 @@ openblok
 ossia_score
 osu
 p2p-chat
-pyappimage
-python2
+parsec-linux-appimage
+patchbay
+pb-for-desktop
+pigs-n-cows
+pretty-handy-privacy
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -608,6 +608,7 @@ subtitles-composer-app
 swradio
 tT
 tagspaces
+ttth
 unreel
 updatedeployqt
 upterm
