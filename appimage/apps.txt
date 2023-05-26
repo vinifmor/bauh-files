@@ -28,12 +28,12 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
-AstroShutter
-Astroffers
-Audacity
-AudioMoth
 Beekeeper Studio
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -63,16 +63,16 @@ BunqDesktop
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
 CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
+CircuitBlocks
+City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -95,15 +95,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Diffuse
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -133,7 +127,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -278,7 +271,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -321,11 +313,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -369,7 +356,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RetroShare
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -428,7 +414,6 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
-SwagLyrics
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -452,7 +437,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Vessel
 Viper_Browser
 Vipster
 VirtScreen
@@ -483,7 +467,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -515,8 +499,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
+fre:ac
 freeman
 gLabels
 gerbv
@@ -572,7 +555,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
 neovim
 ngPost
 ngrev
@@ -647,10 +629,10 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-unified-communications
-unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
 xde
 xemu
 xonsh
