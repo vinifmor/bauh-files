@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -84,6 +83,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
+CleepDesktop
 Cscrypto
 CubicSDR
 Cura
@@ -168,8 +168,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -203,12 +204,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -292,7 +293,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -336,9 +338,6 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -382,8 +381,10 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMPlayer
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,6 +415,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -475,7 +477,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
 Upscayl
 Vipster
 VirtScreen
@@ -515,7 +516,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -553,12 +553,9 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
+hero-display
+hotspot
+hpack
 hsinstall
 htmldoc
 hugin
@@ -600,8 +597,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
+mjml-app
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -630,6 +628,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+pomotroid
+ridereceipts
 rmw
 runanode
 sabaki
@@ -677,7 +677,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
+wezterm
+xde
 xemu
 xonsh
 yaya
