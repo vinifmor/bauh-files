@@ -39,7 +39,6 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -88,10 +87,12 @@ CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
-CustomRPC
-CutePeaks
-CuteVariant
-DFileManager
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+CubicSDR
 Dana
 Datcord
 DawnlightSearch
@@ -174,7 +175,6 @@ GitNote
 GitQlient
 Glyphr_Studio_Desktop
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -215,8 +215,7 @@ KOReader
 Kage
 Kanon
 KawAnime
-LANShare
-LCEdit
+Kcov
 LED.Custom.Palette
 LMMS
 LPub3D
@@ -254,6 +253,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MieSimulatorGUI
 MoarPerf
 Mob
 Mockman
@@ -293,7 +293,6 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OVideo
-OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
@@ -351,6 +350,7 @@ Pulsar
 Pulse
 Puppetry
 Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -426,9 +426,10 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
-Spivak
-Stacer
+Skrifa
+SlackBackup
+Slacktronic
+SmartGit
 Standard_Notes
 Statsbook_Tool
 StatusPilatus
@@ -488,9 +489,9 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-Videomass
-VirtScreen
+VLC
 Vitomu
 VivifyScrum
 VizGraph
@@ -574,9 +575,8 @@ freeman
 gLabels
 gerbv
 getswell
-huwinterpreter
-hw-probe
-hyper
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -617,8 +617,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
-notepadqq
+mini-qml
 noteshrink-qt
 nvtop
 nx-software-center
@@ -651,9 +650,8 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-simple-s3-uploader
-simple-timer
-simplechroot
+qSdrSwr
+qTox
 slang-ed
 smtk2ssrf
 snake.js
@@ -695,7 +693,12 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+x-loc
 xemu
-yuzu
-zograscope
-zsync2
