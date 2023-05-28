@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blink1Control2
@@ -86,6 +87,7 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
+Cloud_Browser
 CustomRPC
 CutePeaks
 CuteVariant
@@ -170,6 +172,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
+Glyphr_Studio_Desktop
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -208,9 +211,10 @@ Juggernaut
 Julius
 KADE
 KDiskMark
-Klogg
-Knowte
-KopiaUI
+KOReader
+Kage
+Kanon
+KawAnime
 LANShare
 LCEdit
 LED.Custom.Palette
@@ -345,6 +349,8 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -481,7 +487,9 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
+UHK.Agent
 Upscayl
+Videomass
 VirtScreen
 Vitomu
 VivifyScrum
@@ -518,6 +526,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
 bauh
 clipr
 cncjs
@@ -562,9 +571,9 @@ four
 foxfolio
 fre:ac
 freeman
-hsinstall
-htmldoc
-hugin
+gLabels
+gerbv
+getswell
 huwinterpreter
 hw-probe
 hyper
@@ -606,8 +615,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
-nimbus-weather
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -637,11 +646,11 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
-sabaki
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -683,11 +692,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
+vifm
+violetbug
 xemu
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
 yuzu
 zograscope
 zsync2
