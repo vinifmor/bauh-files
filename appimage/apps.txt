@@ -89,7 +89,8 @@ Cliniface
 Cloud_Browser
 Code_OSS
 Colon
-CuteVariant
+ColorGenerator
+Colorpicker
 DFileManager
 Dana
 Datcord
@@ -214,7 +215,8 @@ Kage
 Kanon
 KawAnime
 Kcov
-LED.Custom.Palette
+KeePassXC
+KeeWeb
 LMMS
 LPub3D
 Lagrange
@@ -254,8 +256,7 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
-MediaElch
-MegaBasterd
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -296,7 +297,8 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
+PanWriter
+Panini
 Paper
 Papercraft
 Parallelcoin
@@ -346,9 +348,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -392,7 +391,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -425,8 +423,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
-Spivak
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -491,7 +488,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -527,6 +524,7 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
 bauh
 cordlauncher
 cric
@@ -575,8 +573,9 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
-gsubs
+iota1k
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -650,8 +649,8 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qhot
-qikQR
-qpdf
+slang-ed
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
@@ -693,7 +692,6 @@ vifm
 violetbug
 vue-calc
 vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
 xemu
+yuzu
+zsync2
