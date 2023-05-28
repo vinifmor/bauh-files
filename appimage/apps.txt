@@ -35,11 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -82,15 +81,16 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
-Cura
-CustomRPC
-CutePeaks
-CuteVariant
+CircuitBlocks
+City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
 DFileManager
 Dana
 Datcord
@@ -148,9 +148,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -173,6 +171,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -208,7 +207,10 @@ Join_Desktop
 Joplin
 Joy2DroidX
 Juggernaut
-Kitupiikki
+Julius
+KADE
+KDiskMark
+KOReader
 Klogg
 Knowte
 KopiaUI
@@ -251,7 +253,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
 Mirage
 MoarPerf
 Mob
@@ -294,7 +295,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-OpenBlok
+Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -338,8 +340,16 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
+Puppetry
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -383,7 +393,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -414,7 +423,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -477,9 +487,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-Vipster
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -599,11 +608,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
-media_mate
-meta-grabber
+neovim
+ngPost
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -634,6 +642,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+saphyr
 scavengers
 school-sections
 ser-player
