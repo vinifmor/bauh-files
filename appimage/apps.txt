@@ -91,7 +91,6 @@ Code_OSS
 Colon
 ColorGenerator
 Colorpicker
-DFileManager
 Dana
 Datcord
 DawnlightSearch
@@ -172,8 +171,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
+Glyphr_Studio_Desktop
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -217,6 +216,7 @@ KawAnime
 Kcov
 KeePassXC
 KeeWeb
+KiCad
 LMMS
 LPub3D
 Lagrange
@@ -256,6 +256,7 @@ Mattermost_Desktop
 MazeSolver
 McPodcast
 Mechvibes
+Mockman
 Monot
 Moonlight
 Motrix
@@ -297,9 +298,7 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
-Panini
-Paper
+Onshape
 Papercraft
 Parallelcoin
 Parity_Fether
@@ -348,6 +347,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -391,6 +393,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RetroArch
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -423,7 +426,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -488,7 +491,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-VizGraph
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -523,8 +526,6 @@ Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
-aillio-ts
-altair
 bauh
 cordlauncher
 cric
@@ -572,7 +573,7 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -615,7 +616,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nvtop
+mki3dgame
 nx-software-center
 nxshell
 ommpfritt
@@ -648,8 +649,6 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
-qhot
-slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -692,6 +691,8 @@ vifm
 violetbug
 vue-calc
 vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
 xemu
-yuzu
-zsync2
