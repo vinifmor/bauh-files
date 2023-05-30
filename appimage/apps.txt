@@ -26,9 +26,8 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -59,11 +58,10 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+BunqDesktop
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -94,6 +92,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+DokiDokiModManager
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -124,8 +124,6 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -231,8 +229,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Minions
-Mirage
+Mattermost_Desktop
 MoarPerf
 Mob
 Mockman
@@ -270,9 +267,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -313,9 +309,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
-Pulse
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -355,9 +351,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RyoWallet
-SF_Tube
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -384,8 +379,7 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Soapy_SDR
-SocNetV
+Shotcut
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,7 +407,13 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -435,9 +435,9 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-TweakSophia
+Tutanota
 Upscayl
-Vieb
+Vessel
 Viper_Browser
 Vipster
 VirtScreen
@@ -464,6 +464,8 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
+YesPlayMusic
+accessimap-lecteur-der
 antimicroX
 ao
 appimagelint
@@ -554,8 +556,6 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
-mtCellEdit
 mybelka
 n3h
 nRF_Connect
@@ -585,6 +585,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -624,10 +625,9 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
-ttth
+vuerd
+weatherdump
+westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
