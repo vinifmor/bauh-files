@@ -33,6 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -79,6 +81,7 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
+CircuitBlocks
 CrossMobile
 Cryplicity
 Crypter
@@ -140,7 +143,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -163,7 +167,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
+GitJournal
+GitNote
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -196,10 +201,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyManager
-KeyboardClient
-Keys
-KiCad
+Join_Desktop
+Joplin
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -245,7 +248,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -286,7 +290,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -330,8 +334,6 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -375,8 +377,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -401,7 +403,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -432,11 +433,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -460,6 +456,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -492,10 +489,11 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
+ZenroomStudio
+Znax
+Zoom
+Zulip
 bauh
-bottlenose
-buttercup
-cabal-desktop
 caprine
 clippy
 clipr
@@ -524,11 +522,11 @@ elcalc
 electron-wechat
 electron-xiami
 element
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
+elzabrowser
+embedded-ide
+enve
+erdesigner
+evoplex
 glulxe
 graphql-playground
 gsubs
@@ -576,11 +574,12 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
+mapton
+marktext
+marlin-conf
+mdview
+media-dupes
+media_mate
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -606,10 +605,10 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
-rmw
-runanode
-sabaki
+pomotroid
+pretty-handy-privacy
+privacy.sexy
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -652,11 +651,11 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-x-loc
-xde
+unreel
+updatedeployqt
+upterm
+vREST_NG
 xemu
-xonsh
-yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
