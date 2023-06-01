@@ -30,8 +30,8 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
 Beekeeper Studio
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -65,8 +65,8 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CleepDesktop
-ClementineRemote
+CP_Editor
+CPod
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -124,9 +124,9 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FranceTV
-Franz
-Frappe_Accounting
+FMS_File_Explorer
+FastQt
+FocusWriter
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -148,7 +148,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
+Gingko
 HDRMerge
 HastyHeroes
 Heimer
@@ -180,11 +180,9 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Join_Desktop
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
+JReleaser
+James
+JoalDesktop
 KeyboardClient
 Keys
 KiCad
@@ -233,6 +231,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Melodie
 Minions
 Mirage
 MoarPerf
@@ -275,7 +274,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -316,6 +314,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -386,7 +386,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -415,7 +414,12 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -437,6 +441,7 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
+Tutanota
 Upscayl
 Viper_Browser
 Vipster
@@ -467,9 +472,8 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
-appium-desktop
+ZY_Player
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -501,11 +505,9 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-file-converter
-foxfolio
-fre:ac
-freeman
-gLabels
+elcalc
+electron-wechat
+electron-xiami
 gerbv
 getswell
 gibs
@@ -557,9 +559,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
-n3h
-nRF_Connect
+mapollage
+mapton
+marktext
+movie-monad
 neovim
 ngPost
 ngrev
@@ -586,10 +589,10 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
-qr-code-generator-desktop
-quokkagit
-rasterview
+pkg2appimage
+playyourdamnturn.com
+plotjuggler
+pnpm
 ridereceipts
 rmw
 runanode
@@ -629,11 +632,12 @@ tnt
 torrenttools
 triagem-touch
 ttth
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
