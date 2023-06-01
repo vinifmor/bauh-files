@@ -33,10 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -70,13 +69,13 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -103,7 +102,6 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -133,6 +131,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -154,7 +153,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -186,12 +185,9 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-Join_Desktop
-Joplin
-Julius
+KevEdit
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -279,7 +275,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -322,6 +317,7 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -392,8 +388,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-Skrifa
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -425,6 +419,12 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -477,8 +477,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appimagetool
-appium-desktop
+ZapDesktop
+ZeGrapher
 autoEdit2
 avogadro
 bauh
@@ -510,12 +510,12 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
-fre:ac
-freeman
-gLabels
-gerbv
-getswell
+elcalc
+electron-wechat
+electron-xiami
+element
+elzabrowser
+embedded-ide
 gibs
 githoard
 glTF_Insight
@@ -569,7 +569,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
 ngrev
 nheko
 nimbus-weather
@@ -598,6 +597,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+ridereceipts
 rmw
 runanode
 sabaki
@@ -642,9 +642,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMEdit
-wxMaxima
-x-loc
+unofficial-zalo
+unreel
 xde
 xemu
 xonsh
