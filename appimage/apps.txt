@@ -33,9 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -72,7 +72,7 @@ CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
-Colorpicker
+Carpenters
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
@@ -101,6 +101,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -152,7 +153,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GrinPlusPlus
+GoldenCheetah
 Gulden
 HDRMerge
 HastyHeroes
@@ -185,7 +186,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Julius
 KettleClient
 KevEdit
 KeyManager
@@ -237,6 +237,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -318,7 +319,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -362,9 +362,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rotki
-SMF-DSP
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -391,7 +388,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimDSP
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -423,8 +419,7 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
-SwagLyrics
-SwiftnessX
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -477,7 +472,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -508,8 +503,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
+fre:ac
 freeman
 gLabels
 gerbv
@@ -559,12 +553,14 @@ linux_czkawka_gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
-luna
-makoureactor
-mandelbulber2
-mapollage
-mapton
+movie-monad
+mtCellEdit
+mutool
+my-budget
+mybelka
+n3h
+nRF_Connect
+neovim
 ngPost
 ngrev
 nheko
@@ -590,10 +586,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -630,15 +625,14 @@ theWeb
 thorium-client
 timer
 tmon
-tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
