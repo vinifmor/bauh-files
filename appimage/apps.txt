@@ -33,9 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -72,10 +72,9 @@ CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -99,6 +98,9 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
+Demonizer
+Deployer
+Detect_It_Easy
 Eksplode.re
 ElDumper
 Electorrent
@@ -150,6 +152,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GrinPlusPlus
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -181,9 +185,10 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
+Julius
+KettleClient
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -357,6 +362,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rotki
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -384,6 +391,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SimDSP
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -417,7 +425,6 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-Synthein
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -441,7 +448,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-VidCutter
 Vipster
 VirtScreen
 Vitomu
@@ -472,8 +478,7 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
+avogadro
 bauh
 bioanimation
 bottlenose
@@ -505,11 +510,11 @@ eXtrema
 ehdev-shell
 elcalc
 electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
+freeman
+gLabels
+gerbv
+getswell
+gibs
 githoard
 glTF_Insight
 glulxe
@@ -560,7 +565,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
 ngPost
 ngrev
 nheko
@@ -590,6 +594,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+rasterview
+ridereceipts
 rmw
 runanode
 sabaki
@@ -633,7 +639,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-unoffical-sonos-controller-for-linux
+wxMEdit
 wxMaxima
 x-loc
 xde
