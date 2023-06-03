@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -81,7 +80,7 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossMobile
+Circle-Z
 Cryplicity
 Crypter
 Cryptr
@@ -146,8 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -169,6 +167,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
+GoldenDict
 HDRMerge
 HastyHeroes
 Heimer
@@ -204,6 +204,8 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
+Joplin
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -339,10 +341,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -384,8 +384,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMPlayer
+SMathStudio
+SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -410,11 +411,10 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
+Software-Challenge-GUI
+Sonist
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -446,16 +446,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -480,7 +470,6 @@ Tusk
 Tutanota
 TweakSophia
 Upscayl
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -514,9 +503,9 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
+Zoom
+antimicroX
 bauh
-buttercup
-cabal-desktop
 caprine
 clippy
 clipr
@@ -552,10 +541,10 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+feebas
+feedseries
+file-converter
+flameshot
 hero-display
 hotspot
 hpack
@@ -599,10 +588,10 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-marlin-conf
-mdview
-media-dupes
+nRF_Connect
+neovim
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -630,8 +619,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
-qr-code-generator-desktop
+ridereceipts
 rmw
 runanode
 sabaki
@@ -680,7 +668,6 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-wxMEdit
 xemu
 xonsh
 yaya
