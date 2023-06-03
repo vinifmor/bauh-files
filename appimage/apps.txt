@@ -81,9 +81,10 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -145,7 +146,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -167,7 +169,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -202,6 +204,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -248,7 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+MoarPerf
 Mob
 Mockman
 Monot
@@ -289,7 +292,8 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -338,6 +342,7 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -381,7 +386,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMF-DSP
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -410,10 +415,9 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -475,8 +479,8 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -510,8 +514,9 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
 bauh
+buttercup
+cabal-desktop
 caprine
 clippy
 clipr
@@ -547,11 +552,10 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -598,7 +602,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -626,7 +630,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
+pomotroid
+qr-code-generator-desktop
 rmw
 runanode
 sabaki
@@ -674,6 +679,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+upterm
+wxMEdit
 xemu
 xonsh
 yaya
