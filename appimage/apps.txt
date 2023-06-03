@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -73,9 +72,9 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
+ColorGenerator
+Colorpicker
+Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
 CozyDrive
@@ -103,7 +102,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
-Dragoman
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -156,7 +155,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -188,8 +187,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -239,7 +237,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -324,7 +321,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -369,8 +365,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -395,9 +390,10 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -427,6 +423,11 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -450,7 +451,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -482,11 +482,11 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-autoEdit2
-avogadro
+Zegarek
+ZenroomStudio
+Znax
+Zoom
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -518,10 +518,10 @@ electron-wechat
 electron-xiami
 element
 elzabrowser
-gerbv
-getswell
-gibs
-githoard
+embedded-ide
+enve
+erdesigner
+evoplex
 glTF_Insight
 glulxe
 graphql-playground
@@ -572,7 +572,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -601,6 +601,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+pomotroid
 ridereceipts
 rmw
 runanode
@@ -649,6 +650,7 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
+x-loc
 xemu
 xonsh
 yaya
