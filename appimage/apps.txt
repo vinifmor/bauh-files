@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -79,12 +80,10 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -113,6 +112,10 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -199,7 +202,6 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -246,11 +248,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Melodie
-Mini_Diary
-Minions
-Mirage
-MoarPerf
+MazeSolver
 Mob
 Mockman
 Monot
@@ -292,8 +290,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
-Paletti
 PanWriter
 Panini
 Paper
@@ -333,6 +329,13 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -378,8 +381,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SMath_Studio
-SPlayer
+SMF-DSP
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -408,8 +410,10 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Speaky_MiniPlayer
-Spectrum
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -447,6 +451,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -506,9 +511,9 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -547,7 +552,6 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-fmradio
 hero-display
 hotspot
 hpack
@@ -622,8 +626,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
-pretty-handy-privacy
+ridereceipts
+rmw
 runanode
 sabaki
 saphyr
@@ -667,8 +671,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-x-loc
-xde
+unofficial-zalo
+unreel
+updatedeployqt
 xemu
 xonsh
 yaya
