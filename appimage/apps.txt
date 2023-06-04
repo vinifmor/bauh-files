@@ -35,9 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -84,6 +84,7 @@ Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -146,6 +147,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -169,7 +171,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,11 +206,9 @@ JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -252,7 +252,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
 Mob
 Mockman
 Monot
@@ -294,7 +293,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
 PanWriter
 Panini
 Paper
@@ -338,12 +336,8 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -387,6 +381,10 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RyoWallet
+SMF-DSP
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -416,9 +414,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -479,9 +476,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-Viper_Browser
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -559,11 +556,10 @@ flameshot
 flightgear-airports
 fmradio
 four
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+foxfolio
+fre:ac
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -637,6 +633,7 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+puush-qt
 scavengers
 school-sections
 ser-player
@@ -684,6 +681,7 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
 xemu
 yuzu
 zograscope
