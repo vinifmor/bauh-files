@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -80,10 +79,13 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -111,10 +113,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,8 +142,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
-FreeCAD2
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -168,7 +167,7 @@ Gifcurry
 Gingko
 GitHubDesktop
 GitJournal
-GitNote
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -248,8 +247,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
+McPodcast
+Mechvibes
+MegaBasterd
 Mockman
 Monot
 Moonlight
@@ -332,8 +333,6 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -379,6 +378,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -409,8 +409,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -472,9 +472,9 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
+UHK.Agent
+UltraGrid
 Upscayl
-Vipster
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -507,11 +507,10 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
+Zoom
+Zulip
+accessimap-lecteur-der
 bauh
-buttercup
-cabal-desktop
-caprine
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -545,11 +544,12 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-glulxe
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+feebas
+feedseries
+file-converter
+flameshot
+flightgear-airports
+fmradio
 hero-display
 hotspot
 hpack
@@ -597,8 +597,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
-nimbus-weather
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -628,6 +628,8 @@ pomotroid
 pretty-handy-privacy
 privacy.sexy
 protonmail-desktop
+puush-qt
+rasterview
 saphyr
 scavengers
 school-sections
@@ -677,6 +679,7 @@ vREST_NG
 vifm
 violetbug
 xemu
+ytDownloader
 yuzu
 zograscope
 zsync2
