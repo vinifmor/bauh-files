@@ -33,9 +33,11 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -77,13 +79,11 @@ Cascade_Image_Editor
 CasterSoundboard
 Cate-Desktop
 Cavoke
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 Cryptr
 Cscrypto
 CubicSDR
@@ -106,6 +106,17 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -161,7 +172,6 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-GoldenCheetah
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -195,7 +205,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
+Joy2DroidX
+Juggernaut
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -240,6 +251,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -282,8 +294,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-OpenAudible
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -327,8 +339,12 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -464,9 +480,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -504,7 +520,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-caprine
 clippy
 clipr
 cncjs
@@ -541,8 +556,11 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-guglielmo
-guiscrcpy
+file-converter
+flameshot
+flightgear-airports
+fmradio
+four
 hero-display
 hotspot
 hpack
@@ -589,8 +607,8 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
+ngrev
+nheko
 nimbus-weather
 nordvpn-linux
 notepadqq
@@ -620,10 +638,9 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
+sabaki
+saphyr
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -667,10 +684,11 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
 xemu
+yaya
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
