@@ -35,7 +35,6 @@ Audacity
 AudioMoth
 Augur
 Auryo
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -84,8 +83,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Cryptr
-Cscrypto
+City_Hub
 CubicSDR
 Cura
 CustomRPC
@@ -146,7 +144,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -171,7 +169,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -205,8 +203,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
+Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -251,7 +248,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -338,13 +334,8 @@ PowerShell
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -480,8 +471,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -516,10 +507,10 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+buttercup
+cabal-desktop
+caprine
 clippy
 clipr
 cncjs
@@ -554,13 +545,11 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -607,7 +596,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -638,7 +627,7 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -684,11 +673,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
+vifm
+violetbug
 xemu
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
 yuzu
 zograscope
 zsync2
