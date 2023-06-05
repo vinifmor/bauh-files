@@ -66,7 +66,8 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-ClementineRemote
+CP_Editor
+CPod
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -123,8 +124,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+FranceTV
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -179,6 +180,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+KeeWeb
 KettleClient
 KevEdit
 KeyManager
@@ -230,7 +232,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -270,8 +271,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -312,8 +314,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -355,8 +355,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -382,9 +382,8 @@ Shadowsocks
 Shannon_Calculator
 ShareMyHost
 Sharp-Tune
-SnippetStore
-Soapy_SDR
-SocNetV
+Sheikah
+Shotcut
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -410,6 +409,9 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -463,8 +465,7 @@ YUView
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagelint
-appimagetool
+ZY_Player
 appium-desktop
 autoEdit2
 avogadro
@@ -492,12 +493,11 @@ dingtalk
 draw.io
 dukto
 dvdisaster
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
+eDEX-UI
+eNoseAnnotator
+eOSVC
+eXtrema
+ehdev-shell
 foxfolio
 fre:ac
 freeman
@@ -551,9 +551,10 @@ logseq
 lumi
 luminance-hdr
 luna
-mutool
-my-budget
-mybelka
+makoureactor
+mandelbulber2
+mapollage
+mapton
 n3h
 nRF_Connect
 neovim
@@ -582,7 +583,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
+pkg2appimage
+playyourdamnturn.com
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -621,7 +623,8 @@ theWeb
 thorium-client
 timer
 tmon
-vuerd
+tnt
+torrenttools
 weatherdump
 westeroscraftlauncher
 weweChat
