@@ -25,10 +25,9 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Bazecor
-Beatconnect_Client
+Arma_3_Unix_Launcher
+Armagetron_Advanced
 Beekeeper Studio
-Beekeeper_Studio
 Bench_CLI
 BetterSIS
 Bezique
@@ -58,9 +57,8 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Cate-Desktop
-Cavoke
-Cerebral-Debugger
+BulkReviewer
+BulkURLOpener
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -95,6 +93,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,7 +124,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -149,7 +148,7 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Groot
+Gifcurry
 Guitar
 Gulden
 HDRMerge
@@ -182,7 +181,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -234,6 +233,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -271,7 +271,6 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
 OWASP Threat Dragon
 PacketSender
 Padloc
@@ -356,7 +355,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -384,7 +384,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SigDigger
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -433,8 +432,8 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Tutanota
 Upscayl
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -491,7 +490,6 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-fSpy
 falcon-sql-client
 feebas
 feedseries
@@ -552,11 +550,11 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
-mandelbulber2
-mapollage
-mapton
+mtCellEdit
+mutool
+my-budget
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -584,7 +582,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
