@@ -28,9 +28,9 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
 Beekeeper Studio
-Bezique
-BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -63,9 +63,6 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-CIAA_Suite
-Cate-Desktop
-Chiaki
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -96,6 +93,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -126,6 +124,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
+FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -149,6 +148,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Google_Tasks_Desktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -179,8 +179,10 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-IrScrutinizer
-Isolate
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -231,6 +233,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -314,7 +317,7 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Pulse
+Pulsar
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -355,7 +358,8 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-RyoWallet
+Reactotron
+SBLauncher
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -413,6 +417,7 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
+Superpaper
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -432,10 +437,11 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Turntable
-Tusk
-Tutanota
 Upscayl
+VidCutter
+Videomass
+Vieb
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -459,7 +465,7 @@ Wsocks
 XChat
 XClicker
 XELFViewer
-XPEViewer
+aillio-ts
 altair
 android-messages-desktop
 antimicroX
@@ -491,6 +497,8 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
+fSpy
+falcon-sql-client
 feebas
 feedseries
 file-converter
@@ -553,6 +561,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -581,7 +590,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-playyourdamnturn.com
+pkg2appimage
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -623,9 +632,9 @@ timer
 tmon
 tnt
 torrenttools
-triagem-touch
-ttth
-tweet-tray
+weatherdump
+westeroscraftlauncher
+weweChat
 wezterm
 whiteboard
 whu-library-seat
