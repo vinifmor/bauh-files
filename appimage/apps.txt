@@ -33,9 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -73,10 +73,11 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
+Cascade_Image_Editor
+CasterSoundboard
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -103,6 +104,15 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 Eksplode.re
 ElDumper
 Electorrent
@@ -132,7 +142,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -155,7 +164,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-HDRMerge
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -188,6 +197,8 @@ IrScrutinizer
 Isolate
 JReleaser
 James
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -236,7 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -277,6 +287,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -322,6 +333,8 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
+Procyon
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -365,7 +378,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -392,7 +404,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
 Sonist
 Sourcetrail
 Spark.Payments
@@ -425,6 +437,10 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -448,7 +464,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -478,7 +493,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -514,7 +528,7 @@ elcalc
 electron-wechat
 electron-xiami
 element
-elzabrowser
+gLabels
 gerbv
 getswell
 gibs
@@ -568,6 +582,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
+marktext
 neovim
 ngPost
 ngrev
@@ -598,6 +613,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+pomotroid
+python2
 ridereceipts
 rmw
 runanode
@@ -642,6 +659,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+unoffical-sonos-controller-for-linux
 wxMEdit
 wxMaxima
 x-loc
