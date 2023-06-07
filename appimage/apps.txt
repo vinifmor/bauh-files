@@ -29,9 +29,6 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
-AstroShutter
-Astroffers
-Audacity
 Beekeeper Studio
 Birds_Kitchen
 BitShares
@@ -60,10 +57,10 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-BunqDesktop
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -94,6 +91,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -120,12 +118,10 @@ ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
+EyeStalker
 F-CRM
-FontForge
-FontLet
-Fractale
-Fraidycat
-Fraktal
+FAT_Wallet
+FF-Password-Exporter
 FranceTV
 Franz
 Frappe_Accounting
@@ -146,7 +142,7 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Gpredict
+Genesis
 GradeStats
 Graviton
 GrinPlusPlus
@@ -180,8 +176,9 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-KawAnime
-Kcov
+Intiface
+Invoice-Generator
+IrScrutinizer
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -236,7 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -270,9 +266,11 @@ NixNote
 NoTer
 Nostlan
 Notable
+NoteMaster
+OCRmyPDF
+OCVWarp
+OCVvid2fulldome.txt
 OWASP Threat Dragon
-P2PDerivatives
-PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -316,6 +314,7 @@ Podman
 PolkaKey
 Popsicle
 Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -356,7 +355,6 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -383,8 +381,9 @@ Serial_Studio
 Shadowsocks
 Shannon_Calculator
 ShareMyHost
-Sharp-Tune
-Sheikah
+SmartGit
+SnippetStore
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -408,11 +407,10 @@ Storaji
 Strata
 Streamlink
 Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
 SuperSlicer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -433,7 +431,6 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Tusk
 Upscayl
 Vieb
 Viper_Browser
@@ -454,7 +451,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Workbench
+Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
@@ -483,6 +480,7 @@ cric
 dashy-app
 dataset-annotator
 dbet-wallet
+deb2appimage
 elzabrowser
 embedded-ide
 enve
@@ -550,7 +548,8 @@ logseq
 lumi
 luminance-hdr
 luna
-makoureactor
+marktext
+mutool
 my-budget
 mybelka
 n3h
@@ -577,9 +576,10 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-qSdrSwr
-qTox
-qhot
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 qikQR
 qpdf
 qpp::cad
@@ -616,12 +616,14 @@ tT
 tagspaces
 tastee-ui
 tc
-upterm
-vREST_NG
-vifm
-violetbug
-vue-calc
-vuerd
+theFrame
+theWeb
+thorium-client
+timer
+tmon
+tnt
+torrenttools
+triagem-touch
 weatherdump
 westeroscraftlauncher
 weweChat
