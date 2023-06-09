@@ -28,9 +28,9 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
-AstroShutter
 Beekeeper Studio
+Bezique
+BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -121,6 +121,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -144,9 +146,7 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-GrinPlusPlus
-Groot
-Guitar
+Gifcurry
 Gulden
 HDRMerge
 HastyHeroes
@@ -267,11 +267,11 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
 OWASP Threat Dragon
+PDFQuirk
+PIA
+POE_Ladder
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -407,9 +407,6 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
 SuperSlicer
 TeleDrive
 TeslaCam_Browser
@@ -430,8 +427,10 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
+Turntable
+Tusk
+Tutanota
 Upscayl
-Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -459,6 +458,7 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
+ZeGrapher
 antimicroX
 ao
 appimagelint
@@ -492,9 +492,9 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
+flightgear-airports
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -549,7 +549,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -620,7 +620,7 @@ tmon
 tnt
 torrenttools
 triagem-touch
-westeroscraftlauncher
+ttth
 weweChat
 wezterm
 whiteboard
