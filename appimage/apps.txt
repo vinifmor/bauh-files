@@ -31,11 +31,11 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
+AudioMoth
+Augur
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -68,12 +68,13 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
 Comic-Reader
 ConsoleWorkbench
 Cool_Retro_Term
@@ -149,6 +150,8 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
+GoldenDict
 HDRMerge
 HastyHeroes
 Heimer
@@ -184,7 +187,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -232,7 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -274,6 +276,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -314,6 +317,14 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -356,7 +367,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -417,7 +428,9 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-Tablo_Tools
+SwitchHosts!
+Symphonium
+SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -441,7 +454,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -471,7 +483,9 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-autoEdit2
+ZapDesktop
+ZeGrapher
+Zegarek
 avogadro
 bauh
 bioanimation
@@ -506,9 +520,10 @@ elcalc
 electron-wechat
 electron-xiami
 element
-gerbv
-getswell
-gibs
+elzabrowser
+embedded-ide
+enve
+erdesigner
 githoard
 glTF_Insight
 glulxe
@@ -560,8 +575,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-neovim
-ngPost
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -636,9 +650,9 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-wxMaxima
-x-loc
-xde
+unreel
+updatedeployqt
+upterm
 xemu
 xonsh
 yaya
