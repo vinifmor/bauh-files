@@ -32,10 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
-Augur
 Beekeeper Studio
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -74,11 +74,11 @@ Cabal_Desktop_Mini
 Calculist
 Carpenters
 Cascade_Image_Editor
-CasterSoundboard
-Cate-Desktop
-Cavoke
-Cerebral-Debugger
-ChainX_Signer
+Comic-Reader
+ConsoleWorkbench
+Cool_Retro_Term
+CozyDrive
+Cromberg
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -103,13 +103,6 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
 Eksplode.re
 ElDumper
 Electorrent
@@ -139,7 +132,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -162,7 +156,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
+GitJournal
+GitNote
+GitQlient
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -197,7 +193,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -286,6 +281,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Olive
 Paletti
 PanWriter
 Panini
@@ -326,6 +322,9 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -369,8 +368,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rotki
-SMPlayer
+Rebaslight
 SMathStudio
 SMath_Studio
 SPlayer
@@ -398,10 +396,11 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Spark.Payments
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -430,6 +429,18 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -452,7 +463,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
 Upscayl
+VidCutter
 Vipster
 VirtScreen
 Vitomu
@@ -525,10 +538,11 @@ enve
 erdesigner
 evoplex
 fSpy
-graphql-playground
-gsubs
-guglielmo
-guiscrcpy
+falcon-sql-client
+feebas
+feedseries
+file-converter
+flameshot
 hero-display
 hotspot
 hpack
@@ -573,9 +587,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-moolticute
-ngPost
-ngrev
+marlin-conf
+mdview
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -605,7 +619,7 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
-runanode
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -649,9 +663,10 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-xde
+unreel
+updatedeployqt
+upterm
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
