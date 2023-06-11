@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -82,7 +82,6 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -113,6 +112,9 @@ Downline
 Dragoman
 Drill
 Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,7 +146,6 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Flippy_Qualitative_Testbench
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -199,8 +200,9 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-KeyManager
-KeyboardClient
+JoalDesktop
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -290,7 +292,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
+Paletti
 PanWriter
 Panini
 Paper
@@ -332,8 +334,14 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -377,6 +385,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+Rotki
 SPlayer
 SUMOCO
 SUbillManager
@@ -404,10 +413,7 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -447,7 +453,6 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -470,9 +475,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -508,8 +512,9 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
-accessimap-lecteur-der
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -551,6 +556,7 @@ flightgear-airports
 fmradio
 four
 foxfolio
+hero-display
 hotspot
 hpack
 hsinstall
@@ -596,7 +602,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
+media-dupes
 nheko
 nimbus-weather
 nordvpn-linux
@@ -627,7 +633,6 @@ pnpm
 pomotroid
 pretty-handy-privacy
 privacy.sexy
-sabaki
 saphyr
 scavengers
 school-sections
@@ -672,7 +677,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-x-loc
+upterm
+vREST_NG
 xemu
 yaya
 youtube-music
