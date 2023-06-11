@@ -82,10 +82,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CrossMobile
-Cryplicity
-Crypter
-Cryptr
+CircuitBlocks
+City_Hub
 Cscrypto
 CubicSDR
 Cura
@@ -169,9 +167,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -207,6 +203,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -295,7 +292,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -342,7 +338,6 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -386,9 +381,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
-SPlayer
+Rebaslight
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -417,9 +411,10 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -451,6 +446,13 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -473,8 +475,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
 Upscayl
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -512,7 +515,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -555,10 +557,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hotspot
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -598,8 +598,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
+neovim
+ngPost
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -627,9 +628,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
-pretty-handy-privacy
-privacy.sexy
+rmw
 runanode
 sabaki
 saphyr
@@ -675,8 +674,10 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
+vREST_NG
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
