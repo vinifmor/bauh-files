@@ -32,10 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Beekeeper Studio
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -74,14 +74,14 @@ Cabal_Desktop_Mini
 Calculist
 Carpenters
 Cascade_Image_Editor
-Comic-Reader
-ConsoleWorkbench
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
+CasterSoundboard
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -103,6 +103,16 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
 Eksplode.re
 ElDumper
 Electorrent
@@ -134,6 +144,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+Flippy_Qualitative_Testbench
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -156,9 +167,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -190,9 +199,9 @@ IrScrutinizer
 Isolate
 JReleaser
 James
-JoalDesktop
-Join_Desktop
-Joplin
+KeyManager
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -282,7 +291,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Paletti
 PanWriter
 Panini
 Paper
@@ -324,7 +332,6 @@ PostyBirb
 PowerShell
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -369,8 +376,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -401,6 +407,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
+SimplEOS
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -464,9 +471,8 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
+UHK.Agent
 Upscayl
-VidCutter
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -504,8 +510,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-caprine
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -543,7 +547,10 @@ feebas
 feedseries
 file-converter
 flameshot
-hero-display
+flightgear-airports
+fmradio
+four
+foxfolio
 hotspot
 hpack
 hsinstall
@@ -589,7 +596,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+ngrev
 nheko
 nimbus-weather
 nordvpn-linux
@@ -665,7 +672,7 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
+x-loc
 xemu
 yaya
 youtube-music
