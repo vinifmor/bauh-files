@@ -35,9 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -80,7 +81,8 @@ Cate-Desktop
 Cavoke
 Cerebral-Debugger
 ChainX_Signer
-CrossCode_Map_Editor
+Chiaki
+Circle-Z
 CrossMobile
 Cryplicity
 Crypter
@@ -143,6 +145,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Fidias_Database_Migration_App
+Figma
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -165,6 +169,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
+GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -199,7 +204,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyboardClient
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -247,7 +253,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -289,9 +295,9 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
-Paletti
-PanWriter
+Obsidian
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -330,6 +336,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -404,8 +412,10 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Speaky_MiniPlayer
-Spectrum
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -443,6 +453,7 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -465,6 +476,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
 Vipster
 VirtScreen
@@ -543,8 +556,6 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-four
-foxfolio
 hero-display
 hotspot
 hpack
@@ -591,7 +602,8 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
+media-dupes
+media_mate
 nheko
 nimbus-weather
 nordvpn-linux
@@ -619,9 +631,10 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+privacy.sexy
+protonmail-desktop
 sabaki
 saphyr
 scavengers
@@ -665,9 +678,10 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-xde
+unreel
+updatedeployqt
+upterm
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
