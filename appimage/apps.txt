@@ -28,6 +28,7 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AudioMoth
 Beekeeper Studio
 BetterSIS
 Bezique
@@ -59,7 +60,8 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-Cerebral-Debugger
+BunqDesktop
+CasterSoundboard
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -94,7 +96,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -123,8 +124,9 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-Fraidycat
-Fraktal
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -146,7 +148,8 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GrinPlusPlus
+Geometrize
+GetThermal
 Groot
 Guitar
 Gulden
@@ -178,6 +181,8 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
+JReleaser
+KawAnime
 Kcov
 KeePassXC
 KeeWeb
@@ -271,9 +276,10 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -355,8 +361,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -384,7 +390,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Slacktronic
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -404,9 +409,8 @@ Stele
 Stellarium
 StockStalk
 StopLight
+Storaji
 SuperSlicer
-SynfigStudio
-Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -432,8 +436,8 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
+Tusk
 Upscayl
-Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -455,10 +459,11 @@ WorkFlowy
 Workbench
 Wrapbox
 Wsocks
-acreom
-ai-bot-workspace
-aillio-ts
-altair
+XChat
+XClicker
+XELFViewer
+XPEViewer
+YUView
 android-messages-desktop
 antimicroX
 ao
@@ -483,12 +488,12 @@ dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
-elzabrowser
-embedded-ide
-enve
-erdesigner
-evoplex
-fSpy
+deltachat-desktop
+devdocs-desktop
+dexter_dev_env
+dfDemo
+dingtalk
+draw.io
 falcon-sql-client
 feebas
 feedseries
@@ -549,9 +554,10 @@ linuxdeployqt
 logseq
 lumi
 luminance-hdr
-luna
-makoureactor
-mandelbulber2
+mtCellEdit
+mutool
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -580,6 +586,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qikQR
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -617,8 +625,6 @@ tc
 theFrame
 theWeb
 thorium-client
-timer
-tmon
 vue-calc
 vuerd
 weatherdump
