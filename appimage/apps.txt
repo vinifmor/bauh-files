@@ -31,9 +31,8 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -66,6 +65,7 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
+CP_Editor
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -94,7 +94,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -181,8 +180,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Keibo-MoneyTracker-x86_64
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -272,9 +269,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -356,8 +353,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -412,13 +408,7 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -438,10 +428,10 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Turntable
-Tusk
-Tutanota
 Upscayl
+VidCutter
+Videomass
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -468,9 +458,8 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
+antimicroX
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -502,9 +491,10 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
+flameshot
+flightgear-airports
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -558,10 +548,8 @@ logseq
 lumi
 luminance-hdr
 luna
-moniteur-admin
-mutool
-my-budget
-mybelka
+makoureactor
+mandelbulber2
 n3h
 nRF_Connect
 neovim
@@ -590,7 +578,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpp::cad
+pkg2appimage
+playyourdamnturn.com
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -635,7 +624,8 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-whu-library-seat
+twitch-wrapper
+uncov
 windows2usb
 wxMEdit
 wxMaxima
