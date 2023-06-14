@@ -28,7 +28,7 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AvantGarde
+AudioMoth
 Beekeeper Studio
 BetterSIS
 Bezique
@@ -59,9 +59,9 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-Cate-Desktop
-Cerebral-Debugger
-ChainX_Signer
+BulkURLOpener
+BunqDesktop
+CRIC
 Chiaki
 Circle-Z
 CircuitBlocks
@@ -93,8 +93,8 @@ CuteVariant
 DFileManager
 Dana
 Datcord
-Drill
-Dust3D
+DawnlightSearch
+DbGate
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,6 +125,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
+FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -146,9 +147,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+Graviton
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -177,7 +179,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
 Kcov
 KeePassXC
 KeeWeb
@@ -269,10 +270,8 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
 OWASP Threat Dragon
-PDFQuirk
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -311,6 +310,10 @@ Plover
 PocketCasts_Electron
 Poddr
 Podman
+PolkaKey
+Popsicle
+Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -352,7 +355,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
+RawTherapee
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -380,6 +383,8 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
+Shotcut
+Simdock
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -428,8 +433,8 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Tutanota
 Upscayl
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -453,7 +458,8 @@ Wrapbox
 Wsocks
 XChat
 XClicker
-XELFViewer
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -481,9 +487,9 @@ deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
-dfDemo
-dingtalk
-draw.io
+erdesigner
+evoplex
+fSpy
 falcon-sql-client
 feebas
 feedseries
@@ -545,8 +551,8 @@ logseq
 lumi
 luminance-hdr
 luna
-makoureactor
-mandelbulber2
+mutool
+my-budget
 mybelka
 n3h
 nRF_Connect
@@ -572,7 +578,7 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-perl-executing-browser
+qSdrSwr
 qTox
 qhot
 qikQR
@@ -609,10 +615,10 @@ subtitles-composer-app
 swradio
 tT
 tagspaces
-unreel
-updatedeployqt
-upterm
-vREST_NG
+tastee-ui
+tc
+theFrame
+theWeb
 vifm
 violetbug
 vue-calc
