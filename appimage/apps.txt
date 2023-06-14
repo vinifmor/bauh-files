@@ -28,11 +28,11 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
-AstroShutter
-Astroffers
-Audacity
+AvantGarde
 Beekeeper Studio
+BetterSIS
+Bezique
+BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -59,7 +59,7 @@ BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
-BulkURLOpener
+Cate-Desktop
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -93,8 +93,7 @@ CuteVariant
 DFileManager
 Dana
 Datcord
-DawnlightSearch
-DbGate
+Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -126,8 +125,6 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FocusWriter
 FranceTV
 Franz
 Frappe_Accounting
@@ -152,7 +149,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -182,7 +178,7 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
+Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -275,8 +271,8 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
 OWASP Threat Dragon
+PDFQuirk
 PacketSender
 Padloc
 Painel-Web
@@ -315,10 +311,6 @@ Plover
 PocketCasts_Electron
 Poddr
 Podman
-PolkaKey
-Popsicle
-Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -359,6 +351,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
+Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -387,9 +380,6 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
-Slacktronic
-Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -411,14 +401,12 @@ StockStalk
 StopLight
 Storaji
 Strata
-Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
 SuperSlicer
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -466,9 +454,7 @@ Wsocks
 XChat
 XClicker
 XELFViewer
-XPEViewer
-YUView
-YesPlayMusic
+android-messages-desktop
 antimicroX
 ao
 appimagelint
@@ -498,10 +484,10 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-dukto
-dvdisaster
-eDEX-UI
-eNoseAnnotator
+falcon-sql-client
+feebas
+feedseries
+file-converter
 flameshot
 flightgear-airports
 fmradio
@@ -587,11 +573,11 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+qTox
+qhot
 qikQR
 qpdf
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -623,10 +609,11 @@ subtitles-composer-app
 swradio
 tT
 tagspaces
-tastee-ui
-tc
-theFrame
-theWeb
+unreel
+updatedeployqt
+upterm
+vREST_NG
+vifm
 violetbug
 vue-calc
 vuerd
