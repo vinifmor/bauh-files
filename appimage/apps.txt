@@ -29,10 +29,10 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
-AstroShutter
-Astroffers
-Audacity
 Beekeeper Studio
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -66,7 +66,8 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CP_Editor
+CleepDesktop
+ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
@@ -94,7 +95,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Digitales_Klassenzimmer
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -125,7 +126,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -147,8 +149,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -180,9 +181,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
+KevEdit
+KeyManager
 KeyboardClient
 Keys
 KiCad
@@ -231,6 +231,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -272,6 +273,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+PDFQuirk
 Painel-Web
 Paletti
 PanWriter
@@ -354,8 +356,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+RetroArch
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -467,8 +470,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appimagetool
-appium-desktop
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -500,7 +502,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
 fre:ac
 freeman
 gLabels
@@ -554,7 +555,8 @@ lumi
 luminance-hdr
 luna
 makoureactor
-mandelbulber2
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -583,9 +585,8 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
+qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -627,11 +628,11 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
