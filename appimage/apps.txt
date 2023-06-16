@@ -71,7 +71,8 @@ CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
-Calculist
+Colon
+ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -96,6 +97,11 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
 Eksplode.re
 ElDumper
 Electorrent
@@ -147,9 +153,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-Google_Tasks_Desktop
-HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -181,12 +184,10 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
+James
+JoalDesktop
+Join_Desktop
 Joplin
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -234,7 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MegaBasterd
 Mirage
 MoarPerf
 Mob
@@ -276,7 +276,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Onshape
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -317,7 +317,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -359,8 +358,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -388,7 +387,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimplEOS
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -419,7 +417,6 @@ SultanPOS
 Summoners.War.Exporter
 Sup
 SuperSlicer
-Superpaper
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -443,7 +440,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -471,12 +467,9 @@ XPEViewer
 YUView
 YesPlayMusic
 YouTubeSearchFilter
-acreom
-antimicroX
-ao
-appimagelint
-appimagetool
-appium-desktop
+Yuna
+ZY_Player
+ZapDesktop
 autoEdit2
 avogadro
 bauh
@@ -508,8 +501,9 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
-fre:ac
+elcalc
+electron-wechat
+electron-xiami
 freeman
 gLabels
 gerbv
@@ -565,7 +559,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-nRF_Connect
+marktext
 neovim
 ngPost
 ngrev
@@ -596,7 +590,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
 ridereceipts
 rmw
 runanode
@@ -640,8 +633,9 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
-windows2usb
-wxMEdit
+unified-communications
+unoffical-sonos-controller-for-linux
+unofficial-zalo
 wxMaxima
 x-loc
 xde
