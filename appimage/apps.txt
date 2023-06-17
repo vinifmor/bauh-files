@@ -31,9 +31,9 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
+AudioMoth
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -69,10 +69,10 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -102,6 +102,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -131,7 +132,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fraktal
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -191,7 +192,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KettleClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -324,6 +324,11 @@ Postman
 PostyBirb
 PowerShell
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -367,11 +372,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RoloViewer
-RyoWallet
-SMPlayer
-SMathStudio
-SMath_Studio
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -399,10 +401,9 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sonist
-Sourcetrail
-Spark.Payments
-Speaky_MiniPlayer
+Silverkey
+SimDSP
+Simdock
 Spectrum
 SpeedyLoader
 Spivak
@@ -435,6 +436,13 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -458,6 +466,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -496,8 +505,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-caprine
-clippy
 clipr
 cncjs
 colorstatic-bash
@@ -533,9 +540,12 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-guglielmo
-guiscrcpy
-hero-display
+file-converter
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 hotspot
 hpack
 hsinstall
@@ -580,6 +590,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -608,7 +619,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
+pomotroid
 rmw
 runanode
 sabaki
@@ -654,7 +665,7 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-x-loc
+unreel
 xde
 xemu
 xonsh
