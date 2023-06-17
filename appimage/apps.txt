@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 Beekeeper Studio
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -67,10 +66,9 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
+CPod
+CRG_Data_Tool
+CRIC
 Colon
 ColorGenerator
 Colorpicker
@@ -95,8 +93,10 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
 Eksplode.re
 ElDumper
 Electorrent
@@ -125,7 +125,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
+FastQt
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -146,11 +146,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GradeStats
-Graviton
-GrinPlusPlus
-Groot
-Guitar
+Geometrize
+GetThermal
+Gifcurry
 Gulden
 HDRMerge
 HastyHeroes
@@ -179,10 +177,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Intiface
+Invoice-Generator
+IrScrutinizer
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -234,7 +232,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -274,9 +271,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -317,6 +313,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QEMU_PowerPC
@@ -358,8 +356,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -387,6 +385,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,13 +412,8 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-Synthein
+SyncMyL2P
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -441,8 +435,8 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Tutanota
 Upscayl
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -470,8 +464,9 @@ XELFViewer
 XPEViewer
 YUView
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
+antimicroX
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -501,10 +496,11 @@ draw.io
 dukto
 dvdisaster
 eDEX-UI
-eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -560,7 +556,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-nRF_Connect
+mapton
 neovim
 ngPost
 ngrev
@@ -588,6 +584,7 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
+playyourdamnturn.com
 qr-code-generator-desktop
 quokkagit
 rasterview
