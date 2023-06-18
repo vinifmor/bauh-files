@@ -70,7 +70,7 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cliniface
+Cabal_Desktop_Mini
 Cloud_Browser
 Code_OSS
 Colon
@@ -102,6 +102,7 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
+Demonizer
 Eksplode.re
 ElDumper
 Electorrent
@@ -188,7 +189,7 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -319,8 +320,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -363,6 +362,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -417,8 +417,11 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
-TeslaCam_Browser
+Superpaper
+SwagLyrics
+SwiftnessX
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -478,6 +481,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -561,8 +565,7 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
-nheko
+media-dupes
 nimbus-weather
 nmap
 nordvpn-linux
@@ -590,8 +593,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-python2
-rasterview
+pomotroid
 ridereceipts
 rmw
 runanode
@@ -637,8 +639,7 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMEdit
-wxMaxima
+unofficial-zalo
 x-loc
 xde
 xemu
