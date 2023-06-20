@@ -33,6 +33,7 @@ AstroShutter
 Astroffers
 Audacity
 Beekeeper Studio
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -68,7 +69,8 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-CRG_Data_Tool
+ClementineRemote
+Cliniface
 Cloud_Browser
 Code_OSS
 Colon
@@ -128,7 +130,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -151,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -183,7 +183,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KevEdit
+JReleaser
+James
 KeyManager
 KeyboardClient
 Keys
@@ -233,6 +234,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -274,6 +276,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -357,6 +360,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -384,7 +388,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
+Silverkey
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -412,15 +417,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -444,6 +441,7 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
 Upscayl
 VivifyScrum
 VizGraph
@@ -473,12 +471,12 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
-Znax
-Zoom
+avogadro
 bauh
+bioanimation
+bottlenose
+buttercup
+cabal-desktop
 caprine
 clippy
 clipr
@@ -506,16 +504,14 @@ ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
-erdesigner
-evoplex
-fSpy
-falcon-sql-client
-feebas
-feedseries
+gLabels
+gerbv
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 gsubs
 guglielmo
 guiscrcpy
@@ -565,8 +561,9 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
+ngrev
+nheko
+nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -593,9 +590,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
-pretty-handy-privacy
-prismlauncher
+ridereceipts
+rmw
 runanode
 sabaki
 saphyr
