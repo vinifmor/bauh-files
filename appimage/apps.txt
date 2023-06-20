@@ -28,6 +28,7 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Beekeeper Studio
+Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -56,7 +57,6 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
 Cavoke
@@ -88,9 +88,10 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-CustomRPC
-CutePeaks
-CuteVariant
+Disass
+Discord
+DockStation
+DokiDokiModManager
 Downline
 Dragoman
 Drill
@@ -120,8 +121,8 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-Exportoo
-EyeStalker
+FontForge
+FontLet
 Fractale
 Fraidycat
 Fraktal
@@ -234,6 +235,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
+Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -270,8 +272,9 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome.txt
 OWASP Threat Dragon
+PDFQuirk
+PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -309,13 +312,13 @@ Playbox
 PlotJuggler
 Plover
 PocketCasts_Electron
-Poddr
-Podman
-PolkaKey
 Popsicle
 ProtonUp-Qt
 PrusaSlicer
+Puppetry
 Python
+QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -353,7 +356,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
+RetroShare
+SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -403,9 +407,9 @@ Stellarium
 StockStalk
 StopLight
 Storaji
-Strata
-Streamlink
 SuperSlicer
+Synthein
+T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -432,9 +436,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
+Viper_Browser
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -459,10 +463,9 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-YangDownloader
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
+android-messages-desktop
+antimicroX
+ao
 appimagelint
 appimagetool
 appium-desktop
@@ -489,11 +492,11 @@ devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
-draw.io
-dukto
-dvdisaster
-eDEX-UI
-eNoseAnnotator
+fSpy
+falcon-sql-client
+feebas
+feedseries
+file-converter
 flameshot
 flightgear-airports
 fmradio
@@ -557,6 +560,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -583,6 +587,9 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
+qBittorrent_Enhanced_Edition
+qikQR
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -616,12 +623,10 @@ swradio
 tT
 tagspaces
 tastee-ui
-tc
-theFrame
-theWeb
-thorium-client
-timer
-tmon
+upterm
+vREST_NG
+vifm
+violetbug
 vue-calc
 vuerd
 weatherdump
