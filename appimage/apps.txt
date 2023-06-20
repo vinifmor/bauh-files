@@ -24,10 +24,10 @@ ArcadeManager
 Archipel
 Archipelago
 Arduino_IDE
-Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
-Armagetron_Advanced
+Bazecor
+Beatconnect_Client
 Beekeeper Studio
+Beekeeper_Studio
 Bench_CLI
 BetterSIS
 Bezique
@@ -57,6 +57,7 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
+CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
 Cavoke
@@ -88,10 +89,9 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-Disass
-Discord
-DockStation
-DokiDokiModManager
+CustomRPC
+CutePeaks
+CuteVariant
 Downline
 Dragoman
 Drill
@@ -121,10 +121,11 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-FontForge
-FontLet
+Exportoo
+EyeStalker
+F-CRM
+FAT_Wallet
 Fractale
-Fraidycat
 Fraktal
 FranceTV
 Franz
@@ -179,7 +180,9 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Insight
+KOReader
+Kage
+Kanon
 KawAnime
 Kcov
 KeePassXC
@@ -272,10 +275,9 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -312,7 +314,6 @@ Playbox
 PlotJuggler
 Plover
 PocketCasts_Electron
-Popsicle
 ProtonUp-Qt
 PrusaSlicer
 Puppetry
@@ -356,7 +357,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-RetroShare
+RoloViewer
+SBLauncher
 SFRT_Attendance
 SF_Tube
 SMF-DSP
@@ -385,8 +387,8 @@ Shadowsocks
 Shannon_Calculator
 ShareMyHost
 Sharp-Tune
-Sheikah
-Shotcut
+SnippetStore
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -405,9 +407,8 @@ Steem_Messenger
 Stele
 Stellarium
 StockStalk
-StopLight
-Storaji
 SuperSlicer
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -437,7 +438,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -463,6 +463,7 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -490,8 +491,8 @@ deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
-dfDemo
-dingtalk
+erdesigner
+evoplex
 fSpy
 falcon-sql-client
 feebas
@@ -559,7 +560,7 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
+neovim
 ngPost
 ngrev
 nheko
@@ -587,9 +588,7 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-qBittorrent_Enhanced_Edition
-qikQR
-qpdf
+playyourdamnturn.com
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -623,8 +622,9 @@ swradio
 tT
 tagspaces
 tastee-ui
-upterm
-vREST_NG
+tc
+theFrame
+thorium-client
 vifm
 violetbug
 vue-calc
