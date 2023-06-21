@@ -89,9 +89,8 @@ Cscrypto
 CubicSDR
 Cura
 CustomRPC
-CutePeaks
-CuteVariant
-DawnlightSearch
+Discord
+DockStation
 DokiDokiModManager
 Downline
 Dragoman
@@ -126,8 +125,9 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-Fraidycat
-Fraktal
+FF-Password-Exporter
+FMS_File_Explorer
+Fidias_Database_Migration_App
 FranceTV
 Franz
 Frappe_Accounting
@@ -148,9 +148,9 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Gpredict
-GradeStats
-Graviton
+Genesis
+Geometrize
+GetThermal
 GrinPlusPlus
 Groot
 Guitar
@@ -182,7 +182,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-KawAnime
 Kcov
 KeePassXC
 KeeWeb
@@ -238,7 +237,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -278,8 +276,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -359,10 +358,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
-RawTherapee
-Reactotron
-RyoWallet
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -389,7 +386,7 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -411,8 +408,8 @@ StockStalk
 StopLight
 Storaji
 Strata
+Streamlink
 SuperSlicer
-T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -463,9 +460,9 @@ Wsocks
 XChat
 XClicker
 XELFViewer
-XPEViewer
-YUView
-YangDownloader
+ai-bot-workspace
+aillio-ts
+altair
 android-messages-desktop
 antimicroX
 ao
@@ -494,11 +491,10 @@ deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
-dingtalk
-draw.io
-dukto
-dvdisaster
-eDEX-UI
+fSpy
+falcon-sql-client
+feebas
+feedseries
 file-converter
 flameshot
 flightgear-airports
@@ -563,6 +559,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -590,7 +587,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -626,7 +623,8 @@ tastee-ui
 tc
 theFrame
 theWeb
-violetbug
+thorium-client
+timer
 vue-calc
 vuerd
 weatherdump
