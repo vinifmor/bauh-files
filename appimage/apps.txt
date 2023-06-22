@@ -25,9 +25,11 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
-Armagetron_Advanced
+Audacity
+Beatconnect_Client
 Beekeeper Studio
+Beekeeper_Studio
+Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -54,14 +56,14 @@ BrainVerse
 BrainWaves
 BrickStore
 BscanFFTwebcam
-Buche
-Buckets
-BulkReviewer
-BulkURLOpener
-BunqDesktop
-Burning-Series
-Bypass_Cors
-BytespeicherTrayIcon
+Cascade_Image_Editor
+CasterSoundboard
+Catalyst_Browser
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -90,11 +92,9 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-DFileManager
-Dana
-Datcord
-DawnlightSearch
-DbGate
+Downline
+Dragoman
+Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -122,11 +122,9 @@ ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+Fractale
+Fraidycat
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -150,7 +148,8 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Gifcurry
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -234,6 +233,8 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
+Mattermost_Desktop
+MeowSQL
 Minions
 Mirage
 MoarPerf
@@ -273,9 +274,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -316,7 +316,6 @@ Podman
 PolkaKey
 Popsicle
 Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -357,8 +356,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -385,7 +384,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SimDSP
+SimplEOS
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -408,7 +408,6 @@ StopLight
 Storaji
 Strata
 Streamlink
-Streamon
 SuperSlicer
 TagTime-desktop
 Taskizer
@@ -436,6 +435,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -461,6 +461,7 @@ XELFViewer
 XPEViewer
 YUView
 YangDownloader
+YesPlayMusic
 antimicroX
 ao
 appimagelint
@@ -555,9 +556,6 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-nRF_Connect
-neovim
 ngPost
 ngrev
 nheko
@@ -584,7 +582,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qpdf
+pkg2appimage
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -626,7 +624,6 @@ timer
 tmon
 tnt
 torrenttools
-triagem-touch
 weatherdump
 westeroscraftlauncher
 weweChat
