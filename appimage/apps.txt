@@ -27,8 +27,6 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Artisan
-AudioMoth
 Beekeeper Studio
 BetterSIS
 Bezique
@@ -64,10 +62,6 @@ BunqDesktop
 Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
-CARTA
-CATcher
-Calculist
-Catalyst_Browser
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -101,7 +95,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Demonizer
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -134,7 +127,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+FranceTV
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -188,7 +182,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -239,7 +234,6 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -280,6 +274,7 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
 Padloc
 Painel-Web
@@ -364,7 +359,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -391,6 +385,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SimDSP
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -413,18 +409,12 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -446,7 +436,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -472,8 +461,7 @@ XELFViewer
 XPEViewer
 YUView
 YangDownloader
-YesPlayMusic
-YouTubeSearchFilter
+antimicroX
 ao
 appimagelint
 appimagetool
@@ -568,9 +556,11 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
-mdview
-media-dupes
+nRF_Connect
+neovim
+ngPost
+ngrev
+nheko
 nimbus-weather
 nmap
 nordvpn-linux
@@ -594,10 +584,9 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
-playyourdamnturn.com
-plotjuggler
-pnpm
+qpdf
+qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -638,10 +627,11 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
