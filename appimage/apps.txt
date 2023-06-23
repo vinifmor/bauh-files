@@ -26,6 +26,9 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
 Beekeeper Studio
 BetterSIS
 Bezique
@@ -57,10 +60,10 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-BunqDesktop
-Burning-Series
-Bypass_Cors
-BytespeicherTrayIcon
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
+ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
@@ -95,6 +98,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -124,6 +128,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -147,7 +153,8 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Gifcurry
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -266,13 +273,12 @@ Nostlan
 Notable
 NoteMaster
 OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PDFQuirk
+PIA
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -313,7 +319,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -354,8 +359,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -409,8 +414,8 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
 SuperSlicer
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -435,7 +440,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -463,7 +467,8 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -496,6 +501,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+four
 foxfolio
 fre:ac
 freeman
@@ -556,7 +562,8 @@ mapton
 marktext
 marlin-conf
 mdview
-nheko
+media-dupes
+media_mate
 nimbus-weather
 nmap
 nordvpn-linux
@@ -583,7 +590,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
+quokkagit
 rasterview
 ridereceipts
 rmw
