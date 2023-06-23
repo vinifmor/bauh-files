@@ -28,9 +28,7 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
 Beekeeper Studio
-BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -60,11 +58,11 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-Cate-Desktop
-Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
+BunqDesktop
+Burning-Series
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -98,7 +96,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -130,7 +127,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -153,8 +149,7 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Groot
-Guitar
+Gifcurry
 Gulden
 HDRMerge
 HastyHeroes
@@ -185,8 +180,9 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-IrScrutinizer
-Isolate
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -273,11 +269,12 @@ Nostlan
 Notable
 NoteMaster
 OCRmyPDF
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -361,7 +358,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -414,8 +410,8 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
 SuperSlicer
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -440,7 +436,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -499,8 +494,8 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-eXtrema
-ehdev-shell
+flightgear-airports
+fmradio
 four
 foxfolio
 fre:ac
@@ -564,7 +559,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -590,7 +584,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-quokkagit
+pnpm
 rasterview
 ridereceipts
 rmw
@@ -631,8 +625,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
+weweChat
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
