@@ -33,9 +33,10 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -81,7 +82,8 @@ Cavoke
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -114,6 +116,7 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
 Eksplode.re
 ElDumper
 Electorrent
@@ -146,9 +149,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-Franz
-FreeTexturePacker
-FreeTube
 FreeTube
 Friture
 FromScratch
@@ -209,6 +209,7 @@ Juggernaut
 Julius
 KADE
 KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -250,7 +251,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -344,6 +344,7 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QHot
 QMPlay2
 QMediathekView
@@ -418,8 +419,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
-Spivak
+Skrifa
+SlackBackup
+Slacktronic
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -457,6 +459,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -483,11 +486,10 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
-V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
+VizGraph
+WalletTech
+WatchFlower
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -519,11 +521,13 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
-aillio-ts
-altair
-android-messages-desktop
 bauh
+buttercup
+clippy
+clipr
+cncjs
+colorstatic-bash
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -564,6 +568,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -607,9 +612,10 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-mjml-app
+nmap
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -686,7 +692,6 @@ upterm
 vREST_NG
 vifm
 violetbug
-wezterm
 xemu
 yuzu
 zograscope
