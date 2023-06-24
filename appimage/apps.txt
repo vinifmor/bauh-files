@@ -33,8 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -80,10 +78,10 @@ CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
 Cavoke
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
 CrossMobile
 Cryplicity
 Crypter
@@ -109,6 +107,13 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -140,7 +145,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
+Filmulator
+Franz
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -164,7 +170,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Heimer
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -198,12 +204,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KeyboardClient
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
-Klogg
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
 Knowte
 KopiaUI
 LANShare
@@ -245,6 +250,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -289,6 +295,7 @@ OWallet
 Obsidian
 Olive
 Onenote
+PanWriter
 Panini
 Paper
 Papercraft
@@ -337,9 +344,6 @@ Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QHot
 QMPlay2
 QMediathekView
@@ -382,8 +386,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SFRT_Attendance
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -407,12 +409,15 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
-Sourcetrail
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -448,6 +453,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -513,6 +522,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
 cric
 dashy-app
@@ -554,10 +564,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-hero-display
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -603,8 +610,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
-neovim
 nvtop
 nx-software-center
 nxshell
@@ -681,10 +686,8 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-wxMEdit
+wezterm
 xemu
-ytDownloader
 yuzu
 zograscope
 zsync2
