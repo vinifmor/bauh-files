@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -79,8 +78,11 @@ CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
 Cavoke
-Cool_Retro_Term
-CozyDrive
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+ClementineRemote
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -111,6 +113,14 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -140,7 +150,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -163,8 +172,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -198,9 +208,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
+Julius
+KADE
 Kitupiikki
 Klogg
 Knowte
@@ -286,6 +297,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Painel-Web
+Paletti
 PanWriter
 Panini
 Paper
@@ -330,7 +343,6 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -374,8 +386,6 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
-SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -403,8 +413,10 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sourcetrail
-Spark.Payments
+Silverkey
+SimDSP
+Simdock
+SimplEOS
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -442,6 +454,10 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -470,7 +486,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -549,8 +565,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
 huwinterpreter
 hw-probe
 hyper
@@ -596,8 +610,8 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-noteshrink-qt
-nvtop
+mjml-app
+mki3dgame
 nx-software-center
 nxshell
 ommpfritt
@@ -625,7 +639,7 @@ prismlauncher
 privacy.sexy
 protonmail-desktop
 puush-qt
-scavengers
+pyappimage
 school-sections
 ser-player
 simple-s3-uploader
@@ -673,6 +687,7 @@ vREST_NG
 vifm
 violetbug
 xemu
+ytDownloader
 yuzu
 zograscope
 zsync2
