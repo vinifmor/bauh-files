@@ -70,7 +70,10 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-Cloud_Browser
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
 Code_OSS
 Colon
 ColorGenerator
@@ -102,6 +105,9 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
+Deployer
+Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -130,10 +136,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Firefox_ESR
-FranceTV
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -155,9 +158,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
-HDRMerge
-HastyHeroes
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -187,9 +192,11 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KevEdit
-KeyManager
-KeyboardClient
+JReleaser
+James
+JoalDesktop
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -237,7 +244,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -279,6 +286,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -320,12 +328,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QHot
 QMPlay2
 QMediathekView
@@ -366,7 +370,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RetroArch
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -396,6 +399,10 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
+SigmaSpectra
+Silverkey
+SimDSP
+SmallBASIC
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -458,10 +465,9 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-Vitomu
-VivifyScrum
-VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -495,10 +501,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-aillio-ts
+acreom
 bauh
-clippy
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -584,7 +588,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
+nheko
 nimbus-weather
 nmap
 nordvpn-linux
@@ -616,6 +620,7 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
+runanode
 sabaki
 saphyr
 scavengers
@@ -659,11 +664,11 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
-vREST_NG
+x-loc
+xde
 xemu
+xonsh
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
