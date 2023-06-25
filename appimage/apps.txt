@@ -34,8 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -82,10 +84,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-ClementineRemote
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+CircuitBlocks
 Cryplicity
 Crypter
 Cryptr
@@ -150,8 +149,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -212,8 +212,8 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-Kitupiikki
-Klogg
+KDiskMark
+KOReader
 Knowte
 KopiaUI
 LANShare
@@ -255,7 +255,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -297,8 +298,9 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
-Paletti
+Olive
+Onenote
+Outline-Manager
 PanWriter
 Panini
 Paper
@@ -343,6 +345,7 @@ PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -386,6 +389,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -416,7 +420,6 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -457,7 +460,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -486,7 +488,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WalletTech
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -524,7 +526,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -565,6 +566,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
+gerbv
 huwinterpreter
 hw-probe
 hyper
@@ -612,6 +614,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -640,6 +643,8 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
+qTox
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
@@ -685,7 +690,6 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-violetbug
 xemu
 ytDownloader
 yuzu
