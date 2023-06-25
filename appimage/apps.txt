@@ -32,10 +32,9 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Beekeeper Studio
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -74,7 +73,6 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
-Code_OSS
 Colon
 ColorGenerator
 Colorpicker
@@ -108,6 +106,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -160,9 +159,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -196,7 +194,7 @@ JReleaser
 James
 JoalDesktop
 Join_Desktop
-Joplin
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -244,7 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -286,7 +283,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -328,8 +324,18 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
 QHot
 QMPlay2
 QMediathekView
@@ -370,8 +376,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
-SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -401,9 +405,6 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-SmallBASIC
-Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -442,6 +443,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -468,8 +472,9 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-WalletTech
-WatchFlower
+Upscayl
+V2Ray-Desktop
+VK_Desktop
 WatchIt
 WebDesktop
 Webamp
@@ -502,9 +507,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-cncjs
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -546,8 +552,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
-huwinterpreter
+gerbv
+getswell
 hw-probe
 hyper
 impact
@@ -588,10 +594,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nheko
-nimbus-weather
-nmap
-nordvpn-linux
+media_mate
+meta-grabber
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -620,11 +625,11 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-runanode
-sabaki
-saphyr
-scavengers
-school-sections
+protonmail-desktop
+puush-qt
+pyappimage
+python2
+python3
 ser-player
 simple-s3-uploader
 simple-timer
@@ -664,14 +669,15 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-x-loc
-xde
+unreel
+updatedeployqt
+upterm
+vREST_NG
+vifm
+violetbug
+vue-calc
+vuerd
 xemu
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
 yuzu
 zograscope
 zsync2
