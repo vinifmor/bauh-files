@@ -27,11 +27,11 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Artisan
-AsarUI
-AstroShutter
-Astroffers
 Beekeeper Studio
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -66,8 +66,8 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
-CP_Editor
-CPod
+City_Hub
+CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -97,6 +97,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -149,6 +150,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
+GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -183,7 +186,6 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KADE
 KeyManager
 KeyboardClient
 Keys
@@ -233,7 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -274,6 +275,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -316,6 +318,9 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -385,7 +390,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
+SigDigger
+SigmaSpectra
 Sonist
 Sourcetrail
 Spark.Payments
@@ -419,6 +425,13 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -440,7 +453,6 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
 Upscayl
 Vitomu
 VivifyScrum
@@ -475,6 +487,8 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
+Zoom
+Zulip
 bauh
 cabal-desktop
 caprine
@@ -512,8 +526,10 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-gsubs
-guglielmo
+feebas
+feedseries
+file-converter
+flameshot
 guiscrcpy
 hero-display
 hotspot
@@ -560,8 +576,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
-nheko
+mdview
+media-dupes
 nimbus-weather
 nmap
 nordvpn-linux
@@ -589,6 +605,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+rasterview
 ridereceipts
 rmw
 runanode
@@ -634,6 +651,7 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
