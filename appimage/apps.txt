@@ -28,12 +28,11 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -64,8 +63,10 @@ Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CircuitBlocks
-City_Hub
+CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -96,7 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,8 +125,8 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
-FF-Password-Exporter
+Filmulator
+Fraidycat
 Fraktal
 FranceTV
 Franz
@@ -149,9 +149,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+Graviton
+GrinPlusPlus
+Groot
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -180,10 +181,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
-IrScrutinizer
-Isolate
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -235,7 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -269,10 +269,10 @@ NoTer
 Nostlan
 Notable
 NoteMaster
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome.txt
 OWASP Threat Dragon
+P2PDerivatives
+PDFQuirk
+PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -316,7 +316,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -357,8 +356,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -385,7 +384,7 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -435,7 +434,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
 Upscayl
 VirtScreen
 Vitomu
@@ -460,10 +458,9 @@ XChat
 XClicker
 XELFViewer
 XPEViewer
-YUView
-YangDownloader
-YesPlayMusic
-YouTubeSearchFilter
+altair
+android-messages-desktop
+antimicroX
 ao
 appimagelint
 appimagetool
@@ -491,8 +488,10 @@ devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
-draw.io
-dukto
+evoplex
+fSpy
+falcon-sql-client
+feebas
 feedseries
 file-converter
 flameshot
@@ -558,7 +557,6 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngPost
 ngrev
 nheko
 nimbus-weather
@@ -586,8 +584,6 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qpp::cad
-qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -628,9 +624,9 @@ tipitaka_pali_reader
 tmon
 tnt
 torrenttools
-westeroscraftlauncher
-weweChat
-wezterm
+triagem-touch
+ttth
+tweet-tray
 whiteboard
 whu-library-seat
 windows2usb
