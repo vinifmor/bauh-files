@@ -24,11 +24,11 @@ ArcadeManager
 Archipel
 Archipelago
 Arduino_IDE
-Bazecor
-Beatconnect_Client
+Ark.Desktop.Wallet
+Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -60,11 +60,10 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Cavoke
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Burning-Series
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -95,7 +94,8 @@ CuteVariant
 DFileManager
 Dana
 Datcord
-Drill
+DawnlightSearch
+DbGate
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -127,8 +127,10 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+Fraktal
+FranceTV
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -150,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitJournal
 Gulden
 HDRMerge
 HastyHeroes
@@ -183,8 +184,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Joy2DroidX
-Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -272,11 +271,9 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
 OWASP Threat Dragon
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -319,6 +316,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -358,6 +356,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
+Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -410,9 +409,10 @@ Storaji
 Strata
 Streamlink
 Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
 SuperSlicer
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -436,8 +436,8 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -464,7 +464,8 @@ YUView
 YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -492,12 +493,12 @@ dfDemo
 dingtalk
 draw.io
 dukto
-dvdisaster
-eDEX-UI
-eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
+feedseries
+file-converter
+flameshot
+flightgear-airports
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -557,8 +558,9 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+ngPost
+ngrev
+nheko
 nimbus-weather
 nmap
 nordvpn-linux
@@ -584,8 +586,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -625,8 +628,6 @@ tipitaka_pali_reader
 tmon
 tnt
 torrenttools
-triagem-touch
-ttth
 westeroscraftlauncher
 weweChat
 wezterm
