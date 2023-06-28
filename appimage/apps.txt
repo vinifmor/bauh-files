@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 Beekeeper Studio
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -68,9 +67,9 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CleepDesktop
-ClementineRemote
-Cliniface
+CPod
+CRG_Data_Tool
+CRIC
 Cloud_Browser
 Code_OSS
 Colon
@@ -98,9 +97,14 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,7 +133,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
+FastQt
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -234,6 +238,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Memento
 Minions
 Mirage
 MoarPerf
@@ -270,12 +275,14 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PIA
-POE_Ladder
-PacketSender
-Padloc
+OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -316,6 +323,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -358,7 +368,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -385,7 +395,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
+Shuttle
+SigDigger
 Sonist
 Sourcetrail
 Spark.Payments
@@ -421,6 +432,8 @@ SwiftnessX
 SwitchHosts!
 Symphonium
 SyncMyL2P
+Syncplay
+SynfigStudio
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -445,8 +458,6 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
-Upscayl
 Upscayl
 WalletTech
 WatchFlower
@@ -481,8 +492,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-aillio-ts
 bauh
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -519,10 +530,8 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+guiscrcpy
+hero-display
 hotspot
 hpack
 hsinstall
@@ -567,9 +576,11 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
-media_mate
+mjml-app
+ngPost
+ngrev
+nheko
+nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -596,7 +607,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-puush-qt
 rasterview
 ridereceipts
 rmw
@@ -641,9 +651,9 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-whu-library-seat
-windows2usb
-wxMEdit
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
