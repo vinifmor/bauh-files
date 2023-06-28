@@ -70,7 +70,7 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cloud_Browser
+Cabal_Desktop_Mini
 Code_OSS
 Colon
 ColorGenerator
@@ -102,9 +102,6 @@ DeadGame-2048
 DeepTags
 Delir
 Demonizer
-Deployer
-Detect_It_Easy
-DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -134,7 +131,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -156,7 +152,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
+Gingko
+GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -188,6 +185,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+JReleaser
 KevEdit
 KeyManager
 KeyboardClient
@@ -238,9 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Memento
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -282,7 +277,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -325,7 +319,6 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -397,8 +390,9 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-Sonist
-Sourcetrail
+SigmaSpectra
+Silverkey
+SimDSP
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -434,6 +428,7 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -457,8 +452,9 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
-UltraScreen
 Upscayl
+VivifyScrum
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -493,6 +489,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -527,9 +525,8 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-file-converter
-flameshot
+fmradio
+guglielmo
 guiscrcpy
 hero-display
 hotspot
@@ -576,9 +573,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-mjml-app
-ngPost
-ngrev
+mdview
 nheko
 nimbus-weather
 nmap
@@ -648,12 +643,11 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
 wxMaxima
 x-loc
 xde
