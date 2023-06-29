@@ -29,9 +29,8 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
+AstroShutter
 Beekeeper Studio
-Bezique
-BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -64,8 +63,10 @@ Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CircuitBlocks
-City_Hub
+CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -96,8 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Detect_It_Easy
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -129,7 +128,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -152,6 +151,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GpgFrontend
 Gulden
 HDRMerge
 HastyHeroes
@@ -184,6 +184,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -234,8 +235,7 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Minions
-Mirage
+Mattermost_Desktop
 MoarPerf
 Mob
 Mockman
@@ -270,11 +270,13 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
-PacketSender
+Onshape
 Padloc
 Painel-Web
 Paletti
@@ -314,6 +316,8 @@ Poddr
 Podman
 PolkaKey
 Popsicle
+Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -434,6 +438,8 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
+VidCutter
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -461,7 +467,6 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ao
 appimagelint
 appimagetool
 appium-desktop
@@ -493,7 +498,7 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
+flameshot
 flightgear-airports
 fmradio
 four
@@ -556,7 +561,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
+mdview
 nheko
 nimbus-weather
 nmap
@@ -626,8 +631,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
+weweChat
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
