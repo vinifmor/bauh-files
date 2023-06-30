@@ -30,6 +30,7 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
 Beekeeper Studio
 BitShares
 Bitwarden
@@ -66,6 +67,7 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
+CPod
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -96,7 +98,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -127,9 +128,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,8 +150,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gulden
-HDRMerge
+Gingko
+GitHubDesktop
 HastyHeroes
 Heimer
 HermesMessenger
@@ -182,11 +181,9 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-KawAnime
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
+Isolate
+JReleaser
+James
 KeyManager
 KeyboardClient
 Keys
@@ -236,7 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -277,6 +273,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -318,8 +316,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -360,7 +356,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -388,6 +384,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -416,6 +413,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
 Tesseract
 ThermusQt
@@ -439,9 +437,10 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
-UltraScreen
 Upscayl
+Vitomu
+VivifyScrum
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -469,10 +468,10 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-Zegarek
-ZenroomStudio
-Znax
 bauh
+bioanimation
+bottlenose
+buttercup
 cabal-desktop
 caprine
 clippy
@@ -500,15 +499,15 @@ eXtrema
 ehdev-shell
 elcalc
 electron-wechat
-electron-xiami
-element
-elzabrowser
-embedded-ide
-enve
-erdesigner
-evoplex
-fSpy
-falcon-sql-client
+freeman
+gLabels
+gerbv
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 gsubs
 guglielmo
 guiscrcpy
@@ -557,8 +556,8 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
-nheko
+mdview
+media-dupes
 nimbus-weather
 nmap
 nordvpn-linux
@@ -628,10 +627,9 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
+twetter
+twitch-wrapper
+uncov
 wxMEdit
 wxMaxima
 x-loc
