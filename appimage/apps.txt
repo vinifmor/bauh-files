@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Beekeeper Studio
+Bench_CLI
 Bitwarden
 Black_Chocobo
 Blender_Config_Manager
@@ -76,9 +77,7 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
-Comic-Reader
-ConsoleWorkbench
-Converter432Hz
+Cate-Desktop
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -107,6 +106,9 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
 Eksplode.re
 ElDumper
 Electorrent
@@ -159,9 +161,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -193,8 +194,9 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KeyboardClient
+Keys
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -240,8 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -284,7 +284,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Onenote
 Painel-Web
 Paletti
 PanWriter
@@ -326,6 +325,11 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -398,9 +402,7 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-SimDSP
-Simdock
-SimplEOS
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -438,9 +440,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -468,7 +467,6 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -546,6 +544,8 @@ foxfolio
 fre:ac
 freeman
 gLabels
+gerbv
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -589,7 +589,6 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -618,8 +617,7 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-protonmail-desktop
-puush-qt
+sabaki
 saphyr
 scavengers
 school-sections
@@ -667,6 +665,7 @@ unreel
 updatedeployqt
 upterm
 xemu
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
