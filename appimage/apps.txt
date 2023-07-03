@@ -27,6 +27,7 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
+Artisan
 Beekeeper Studio
 Bezique
 BilibiliVideoDownload
@@ -57,7 +58,10 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-BunqDesktop
+BytespeicherTrayIcon
+Cate-Desktop
+Cavoke
+Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -89,10 +93,8 @@ CustomRPC
 CutePeaks
 CuteVariant
 DFileManager
-Dana
-Datcord
-DawnlightSearch
-DbGate
+Dragoman
+Drill
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -119,8 +121,8 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-FontLet
-Fractale
+Exportoo
+EyeStalker
 Fraidycat
 Fraktal
 FranceTV
@@ -143,7 +145,8 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Gpredict
+Genesis
+GitHubDesktop
 GradeStats
 Graviton
 GrinPlusPlus
@@ -233,6 +236,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -268,11 +272,10 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
 OWASP Threat Dragon
-Onenote
-PDFQuirk
-PIA
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -313,10 +316,10 @@ Poddr
 Podman
 PolkaKey
 Popsicle
+Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Pulse
-QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -405,6 +408,7 @@ StopLight
 Storaji
 Strata
 SuperSlicer
+T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
@@ -431,8 +435,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -456,9 +460,8 @@ XChat
 XClicker
 XELFViewer
 XPEViewer
-YUView
-YangDownloader
-YesPlayMusic
+android-messages-desktop
+antimicroX
 ao
 appimagelint
 appimagetool
@@ -553,6 +556,9 @@ mandelbulber2
 mapollage
 mapton
 marktext
+marlin-conf
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -578,7 +584,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -613,12 +619,12 @@ tT
 tagspaces
 tastee-ui
 tc
-theFrame
-theWeb
-thorium-client
-timer
-tipitaka_pali_reader
-tmon
+updatedeployqt
+upterm
+vREST_NG
+vifm
+violetbug
+vue-calc
 vuerd
 weatherdump
 westeroscraftlauncher
