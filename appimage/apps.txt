@@ -27,6 +27,7 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Beekeeper Studio
+Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -59,10 +60,10 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Burning-Series
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
-CATcher
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -95,6 +96,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,7 +127,6 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -177,7 +178,7 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Insight
+Kanon
 KawAnime
 Kcov
 KeePassXC
@@ -234,6 +235,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -274,6 +276,7 @@ OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
 OWASP Threat Dragon
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -310,13 +313,11 @@ PlotJuggler
 Plover
 PocketCasts_Electron
 Poddr
-Podman
-PolkaKey
-Popsicle
-Postman
-PostyBirb
 ProtonUp-Qt
 PrusaSlicer
+Python
+QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -402,12 +403,11 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
-Strata
-Streamlink
-Streamon
 SuperSlicer
-SwitchHosts!
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
@@ -432,8 +432,8 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -460,8 +460,7 @@ XELFViewer
 XPEViewer
 YUView
 YangDownloader
-ZY_Player
-android-messages-desktop
+YesPlayMusic
 antimicroX
 ao
 appimagelint
@@ -557,7 +556,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ngPost
 ngrev
 nheko
@@ -585,9 +583,7 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-playyourdamnturn.com
-plotjuggler
-qTox
+qpp::cad
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -625,8 +621,7 @@ theFrame
 theWeb
 thorium-client
 timer
-tipitaka_pali_reader
-tmon
+violetbug
 vue-calc
 vuerd
 weatherdump
