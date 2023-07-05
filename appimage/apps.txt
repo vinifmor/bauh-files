@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -75,8 +74,6 @@ Cabal_Desktop_Mini
 Calculist
 Carpenters
 Cascade_Image_Editor
-CasterSoundboard
-Catalyst_Browser
 Comic-Reader
 ConsoleWorkbench
 Converter432Hz
@@ -107,6 +104,8 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
+Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -157,7 +156,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 HDRMerge
 HastyHeroes
 Heimer
@@ -192,7 +190,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyboardClient
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -279,10 +278,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
-OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -324,9 +321,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -369,7 +363,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -424,14 +417,8 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -452,13 +439,12 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
+UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-Viper_Browser
-Vipster
-VirtScreen
-Vitomu
-VivifyScrum
-VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -486,7 +472,7 @@ Yuna
 ZY_Player
 ZapDesktop
 ZeGrapher
-avogadro
+Zegarek
 bauh
 bioanimation
 bottlenose
@@ -520,6 +506,7 @@ elcalc
 electron-wechat
 electron-xiami
 element
+elzabrowser
 gerbv
 getswell
 gibs
@@ -576,11 +563,10 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
-nheko
-nimbus-weather
-nmap
-nordvpn-linux
+media-dupes
+media_mate
+meta-grabber
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -605,9 +591,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
-ridereceipts
-rmw
+pomotroid
+pretty-handy-privacy
 runanode
 sabaki
 saphyr
@@ -652,9 +637,10 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMaxima
-x-loc
-xde
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
 xemu
 xonsh
 yaya
