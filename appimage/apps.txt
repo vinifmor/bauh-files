@@ -27,10 +27,11 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Artisan
-AsarUI
-AstroShutter
 Beekeeper Studio
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -59,10 +60,10 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Burning-Series
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
-CATcher
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -95,7 +96,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -127,8 +127,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
-Franz
+FastQt
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -151,8 +150,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Graviton
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -184,7 +181,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -236,7 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -274,10 +271,9 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -358,8 +354,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+RawTherapee
 Record_Compare
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -415,7 +411,6 @@ Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 SuperSlicer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -438,10 +433,11 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
-UltraGrid
 Upscayl
+V2Ray-Desktop
+Viper_Browser
+Vipster
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -467,9 +463,9 @@ XPEViewer
 YUView
 YangDownloader
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
+antimicroX
+ao
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -498,9 +494,9 @@ dingtalk
 draw.io
 dukto
 dvdisaster
-eDEX-UI
-eNoseAnnotator
-eOSVC
+feedseries
+file-converter
+flameshot
 flightgear-airports
 fmradio
 four
@@ -563,6 +559,7 @@ mapollage
 mapton
 marktext
 marlin-conf
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -590,8 +587,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -634,9 +631,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
-twetter
-upterm
+twitch-wrapper
+weweChat
 wezterm
 whiteboard
 whu-library-seat
