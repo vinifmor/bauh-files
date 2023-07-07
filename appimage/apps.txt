@@ -26,6 +26,7 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
 Beekeeper Studio
 Bench_CLI
 BetterSIS
@@ -56,8 +57,9 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
-BulkURLOpener
+Cascade_Image_Editor
+CasterSoundboard
+Catalyst_Browser
 Cate-Desktop
 Cavoke
 Cerebral-Debugger
@@ -88,12 +90,13 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-CustomRPC
-CutePeaks
-CuteVariant
-DFileManager
-Dana
-Datcord
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
@@ -124,9 +127,7 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -148,8 +149,7 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
+Graviton
 GrinPlusPlus
 Groot
 Guitar
@@ -181,6 +181,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
+Join_Desktop
 KawAnime
 Kcov
 KeePassXC
@@ -232,9 +233,11 @@ Malice
 ManagerServer
 Manta
 Mapeo
-Minetest
-MiniZinc_IDE
-Mini_Diary
+Mark_Mind
+Markman
+Martian
+MasterVyrn
+Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -300,8 +303,7 @@ PhreshPlayer
 PicGo
 Pile
 Pingendo
-Pingnoo
-Pixsrt
+PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -355,7 +357,6 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -404,8 +405,6 @@ Stellarium
 StockStalk
 StopLight
 SuperSlicer
-Symphonium
-SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -435,6 +434,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -490,7 +490,8 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-dukto
+falcon-sql-client
+feebas
 feedseries
 file-converter
 flameshot
@@ -554,7 +555,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+mini-qml
 neovim
 ngPost
 ngrev
@@ -582,7 +583,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pkg2appimage
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -618,8 +618,7 @@ tT
 tagspaces
 tastee-ui
 tc
-theFrame
-theWeb
+upterm
 vREST_NG
 vifm
 violetbug
