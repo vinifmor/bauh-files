@@ -26,10 +26,12 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
 Beekeeper Studio
-BetterSIS
-Bezique
-BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -59,9 +61,13 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Burning-Series
-Chiaki
-Circle-Z
-CircuitBlocks
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
+CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -124,8 +130,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -147,6 +152,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -179,6 +185,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -270,7 +277,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -311,6 +320,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -351,7 +361,10 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SFRT_Attendance
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -378,6 +391,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SnippetStore
+Soapy_SDR
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -400,14 +416,12 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
+SyncMyL2P
+Taskizer
+TeXstudio
+TeleDrive
+TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -430,9 +444,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-VirtScreen
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -457,8 +470,10 @@ XPEViewer
 YUView
 YangDownloader
 YesPlayMusic
-appimagelint
-appimagetool
+YouTubeSearchFilter
+Yuna
+ZY_Player
+ZapDesktop
 appium-desktop
 autoEdit2
 avogadro
@@ -549,7 +564,8 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngPost
+marlin-conf
+mdview
 ngrev
 nheko
 nimbus-weather
@@ -578,7 +594,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-quokkagit
+pnpm
 rasterview
 ridereceipts
 rmw
