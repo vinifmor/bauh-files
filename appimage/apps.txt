@@ -26,8 +26,8 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Armagetron_Advanced
 Beekeeper Studio
+Beekeeper_Studio
 Bench_CLI
 BetterSIS
 Bezique
@@ -57,7 +57,6 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
@@ -89,7 +88,7 @@ Crypter
 Cryptr
 Cscrypto
 CubicSDR
-Cura
+Diffuse
 Digitales_Klassenzimmer
 Disass
 Discord
@@ -127,6 +126,8 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
+FAT_Wallet
+Fraidycat
 Fraktal
 FranceTV
 Franz
@@ -148,7 +149,8 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
+Gpredict
+GradeStats
 Graviton
 GrinPlusPlus
 Groot
@@ -181,8 +183,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Join_Desktop
-KawAnime
 Kcov
 KeePassXC
 KeeWeb
@@ -271,12 +271,12 @@ NixNote
 NoTer
 Nostlan
 Notable
+NoteMaster
+OCRmyPDF
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
 OWASP Threat Dragon
-Open_Markup_Editor
-Outline-Manager
-P2PDerivatives
-PDFQuirk
-PIA
 POE_Ladder
 PacketSender
 Padloc
@@ -303,17 +303,18 @@ PhreshPlayer
 PicGo
 Pile
 Pingendo
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
+Pingnoo
+Pixsrt
+Plag_Patrol
+Planes
+Planet_Blupi
+PlayMe
+Play_2048
+Playbox
+PlotJuggler
+Plover
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
 Pulse
 Puppetry
 Python
@@ -357,6 +358,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -381,10 +384,10 @@ Sengi
 Serial_Studio
 Shadowsocks
 Shannon_Calculator
-ShareMyHost
-Sharp-Tune
-Sheikah
-Shotcut
+SmallBASIC
+SmartGit
+SnippetStore
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -405,6 +408,7 @@ Stellarium
 StockStalk
 StopLight
 SuperSlicer
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -434,6 +438,7 @@ Turntable
 Tusk
 Tutanota
 Upscayl
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -458,9 +463,9 @@ XChat
 XClicker
 XELFViewer
 XPEViewer
-YUView
-YangDownloader
-YesPlayMusic
+aillio-ts
+altair
+android-messages-desktop
 antimicroX
 ao
 appimagelint
@@ -486,10 +491,9 @@ dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
-dexter_dev_env
-dfDemo
-dingtalk
-draw.io
+erdesigner
+evoplex
+fSpy
 falcon-sql-client
 feebas
 feedseries
@@ -555,9 +559,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-mini-qml
-neovim
-ngPost
+marktext
+marlin-conf
 ngrev
 nheko
 nimbus-weather
@@ -583,6 +586,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+pkg2appimage
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -618,6 +622,7 @@ tT
 tagspaces
 tastee-ui
 tc
+updatedeployqt
 upterm
 vREST_NG
 vifm
