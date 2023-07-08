@@ -32,6 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -74,6 +76,7 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
+Catalyst_Browser
 Comic-Reader
 ConsoleWorkbench
 Converter432Hz
@@ -103,6 +106,7 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -154,8 +158,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
-Graviton
 HDRMerge
 HastyHeroes
 Heimer
@@ -187,9 +189,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-KOReader
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -240,6 +240,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -281,7 +282,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -392,7 +392,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -426,8 +425,6 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -486,9 +483,8 @@ Zegarek
 ZenroomStudio
 Znax
 Zoom
-Zulip
-accessimap-lecteur-der
 bauh
+caprine
 clippy
 clipr
 cncjs
@@ -528,8 +524,7 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-fmradio
-four
+hero-display
 hotspot
 hpack
 hsinstall
@@ -577,7 +572,6 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-ngPost
 nimbus-weather
 nmap
 nordvpn-linux
@@ -646,11 +640,14 @@ torrenttools
 triagem-touch
 ttth
 tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
-unoffical-sonos-controller-for-linux
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
+wxMEdit
+wxMaxima
 x-loc
 xde
 xemu
