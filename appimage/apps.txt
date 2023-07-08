@@ -32,7 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Beekeeper Studio
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -68,7 +67,6 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -130,7 +128,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -152,7 +150,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -184,7 +181,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
@@ -237,8 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -279,7 +274,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Padloc
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -320,7 +315,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -361,10 +355,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SFRT_Attendance
-SF_Tube
-SMF-DSP
-SMPlayer
+RawTherapee
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -391,9 +383,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SnippetStore
-Soapy_SDR
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -416,12 +405,15 @@ Storaji
 Strata
 Streamlink
 Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
-SyncMyL2P
-Taskizer
-TeXstudio
-TeleDrive
-TeslaCam_Browser
+Superpaper
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -446,6 +438,7 @@ TweakSophia
 UHK.Agent
 UltraGrid
 Upscayl
+Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -474,13 +467,11 @@ YouTubeSearchFilter
 Yuna
 ZY_Player
 ZapDesktop
-appium-desktop
-autoEdit2
-avogadro
+ZeGrapher
+Zegarek
+ZenroomStudio
+Znax
 bauh
-bioanimation
-bottlenose
-buttercup
 cabal-desktop
 caprine
 clippy
@@ -506,14 +497,15 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
-fre:ac
-freeman
-gLabels
-gerbv
-getswell
-gibs
-githoard
+elcalc
+electron-wechat
+electron-xiami
+element
+elzabrowser
+embedded-ide
+enve
+erdesigner
+evoplex
 glTF_Insight
 glulxe
 graphql-playground
@@ -566,9 +558,8 @@ mapton
 marktext
 marlin-conf
 mdview
-ngrev
-nheko
-nimbus-weather
+media-dupes
+media_mate
 nmap
 nordvpn-linux
 notepadqq
@@ -595,7 +586,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
 ridereceipts
 rmw
 runanode
@@ -636,7 +626,7 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
+weweChat
 wezterm
 whiteboard
 whu-library-seat
