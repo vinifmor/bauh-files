@@ -30,10 +30,10 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,12 +67,10 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -97,10 +95,11 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+DeDop-studio
 DeadGame-2048
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
+DeepTags
+Delir
+Demonizer
 Eksplode.re
 ElDumper
 Electorrent
@@ -128,6 +127,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -151,6 +151,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -183,8 +184,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
-KevEdit
+JReleaser
 KeyManager
 KeyboardClient
 Keys
@@ -234,7 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -275,8 +274,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-POE_Ladder
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -318,7 +317,6 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QHot
@@ -359,8 +357,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
-SMPlayer
+RawTherapee
+Reactotron
 SMathStudio
 SMath_Studio
 SPlayer
@@ -387,8 +385,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
+Shuttle
+SigDigger
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -419,6 +417,12 @@ Sup
 SuperSlicer
 Superpaper
 SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+Taskizer
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -442,6 +446,7 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
 Vitomu
 VivifyScrum
@@ -478,6 +483,7 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
+accessimap-lecteur-der
 bauh
 caprine
 clippy
@@ -517,8 +523,7 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-flameshot
-flightgear-airports
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -562,12 +567,11 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-neovim
-ngPost
-ngrev
-nheko
-nimbus-weather
-nmap
+marktext
+marlin-conf
+mdview
+media-dupes
+media_mate
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -593,8 +597,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-quokkagit
-rasterview
+pomotroid
 ridereceipts
 rmw
 runanode
@@ -641,7 +644,9 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
+wxMEdit
+wxMaxima
+x-loc
 xde
 xemu
 xonsh
