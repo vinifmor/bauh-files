@@ -34,6 +34,7 @@ Astroffers
 Audacity
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -66,11 +67,13 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
+Cemu
+CleepDesktop
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -95,11 +98,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -151,6 +151,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -184,7 +185,8 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
+KettleClient
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -275,7 +277,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -317,9 +319,9 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
-QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -385,8 +387,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
+Software-Challenge-GUI
+Sonist
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -418,13 +420,7 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-Taskizer
-TeslaCam_Browser
-Tesseract
+SynfigStudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -447,10 +443,10 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
+UniShellect
 Upscayl
-Vitomu
-VivifyScrum
-VizGraph
+Upscayl
 WalletTech
 WatchFlower
 WatchIt
@@ -485,7 +481,6 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
-caprine
 clippy
 clipr
 cncjs
@@ -523,7 +518,8 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-guiscrcpy
+flameshot
+flightgear-airports
 hero-display
 hotspot
 hpack
@@ -572,10 +568,10 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nordvpn-linux
-notepadqq
-noteshrink-qt
-nvtop
+meta-grabber
+mini-qml
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -598,9 +594,9 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 pomotroid
-ridereceipts
-rmw
-runanode
+pretty-handy-privacy
+prismlauncher
+privacy.sexy
 sabaki
 saphyr
 scavengers
@@ -644,9 +640,8 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-wxMEdit
-wxMaxima
-x-loc
+unofficial-zalo
+unreel
 xde
 xemu
 xonsh
