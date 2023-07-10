@@ -29,11 +29,12 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
+AstroShutter
+Astroffers
+Audacity
+AudioMoth
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -67,11 +68,13 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
+CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
 Cemu
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -99,7 +102,10 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Eagle_Mode
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
 Eksplode.re
 ElDumper
 Electorrent
@@ -152,7 +158,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -235,6 +240,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -276,7 +282,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -318,11 +323,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -364,8 +364,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rufus
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -394,7 +392,6 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -428,10 +425,6 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
-Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -455,6 +448,7 @@ TweakSophia
 UHK.Agent
 UltraGrid
 Upscayl
+Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -489,8 +483,10 @@ ZenroomStudio
 Znax
 Zoom
 Zulip
-accessimap-lecteur-der
 bauh
+buttercup
+cabal-desktop
+caprine
 clippy
 clipr
 cncjs
@@ -525,14 +521,12 @@ erdesigner
 evoplex
 fSpy
 falcon-sql-client
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
+hero-display
 hotspot
 hpack
 hsinstall
@@ -583,8 +577,8 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-mjml-app
-mki3dgame
+noteshrink-qt
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -610,7 +604,8 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-protonmail-desktop
+runanode
+sabaki
 saphyr
 scavengers
 school-sections
@@ -654,12 +649,10 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
-vREST_NG
-whu-library-seat
+x-loc
+xde
 xemu
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
