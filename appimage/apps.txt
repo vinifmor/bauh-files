@@ -25,9 +25,8 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
-Armagetron_Advanced
 Beekeeper Studio
+Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -59,9 +58,9 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Cavoke
+Burning-Series
+Bypass_Cors
 Cemu
-Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
@@ -94,10 +93,9 @@ CutePeaks
 CuteVariant
 DFileManager
 Dana
-Discord
-DokiDokiModManager
-Downline
-Dragoman
+Datcord
+DawnlightSearch
+DbGate
 Drill
 Dust3D
 Dwyco_Phoo
@@ -126,9 +124,9 @@ ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
+FontLet
+Fractale
+Fraidycat
 Fraktal
 FranceTV
 Franz
@@ -150,7 +148,8 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
+Gpredict
+GradeStats
 Graviton
 GridcoinResearch-5.4.5.0
 GrinPlusPlus
@@ -178,6 +177,8 @@ ImageMosaicWall
 ImagePlay
 Imagine
 ImapSyncClient
+ImpPoster
+Inboxer
 KADE
 KDiskMark
 KOReader
@@ -278,9 +279,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -318,11 +318,10 @@ Plover
 PocketCasts_Electron
 Poddr
 Podman
-PolkaKey
-Popsicle
-Postman
 ProtonUp-Qt
 PrusaSlicer
+QEMU_PowerPC
+QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -360,8 +359,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -389,6 +387,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sonist
@@ -413,6 +412,8 @@ Strata
 Streamlink
 Streamon
 SuperSlicer
+Tablo_Tools
+TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
@@ -437,6 +438,7 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
 Upscayl
 VirtScreen
 Vitomu
@@ -494,7 +496,7 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-dukto
+falcon-sql-client
 feebas
 feedseries
 file-converter
@@ -562,7 +564,8 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+nheko
+nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -587,8 +590,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
-pnpm
+qpp::cad
+qr-code-generator-desktop
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -625,12 +629,11 @@ theWeb
 thorium-client
 timer
 tipitaka_pali_reader
-tmon
-tnt
-torrenttools
-triagem-touch
-ttth
-tweet-tray
+vue-calc
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
 wezterm
 whiteboard
 whu-library-seat
