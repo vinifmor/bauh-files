@@ -26,11 +26,12 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Armagetron_Advanced
-Artisan
-AsarUI
-AstroShutter
 Beekeeper Studio
+Bench_CLI
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -58,15 +59,13 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Burning-Series
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
-CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
+Cavoke
 Cemu
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -152,6 +151,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -235,7 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -358,8 +358,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -383,8 +384,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
+Software-Challenge-GUI
 Sonist
 Sourcetrail
 Spark.Payments
@@ -415,6 +415,9 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -465,8 +468,8 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-ZapDesktop
-ZeGrapher
+appimagetool
+appium-desktop
 autoEdit2
 avogadro
 bauh
@@ -498,6 +501,8 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+four
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -559,8 +564,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
-mini-qml
+nmap
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -585,6 +590,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+rasterview
 ridereceipts
 rmw
 runanode
