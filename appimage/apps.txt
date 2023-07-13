@@ -25,13 +25,12 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
+Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -59,14 +58,15 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Cavoke
+Burning-Series
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
+CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
-City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -97,8 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -128,10 +126,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-Fraktal
-FranceTV
-Franz
-Frappe_Accounting
+FMS_File_Explorer
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -153,6 +149,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 Guitar
 Gulden
 HDRMerge
@@ -181,7 +178,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kanon
 KawAnime
 Kcov
 KeePassXC
@@ -279,7 +275,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -320,7 +315,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PraxisLIVE
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -362,8 +357,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -389,7 +382,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -418,9 +410,9 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
-TeslaCam_Browser
-Tesseract
+Superpaper
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -443,8 +435,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-Videomass
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -472,11 +462,10 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagecraft
-appimagelint
-appimagetool
-appium-desktop
-autoEdit2
+ZY_Player
+ZapDesktop
+ZeGrapher
+Zegarek
 avogadro
 bauh
 bioanimation
@@ -507,9 +496,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-fmradio
-four
-foxfolio
+elcalc
 fre:ac
 freeman
 gLabels
