@@ -30,8 +30,9 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -66,8 +67,8 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
+CPod
 Cemu
-CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -127,7 +128,8 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Franz
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -149,7 +151,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 Guitar
 Gulden
 HDRMerge
@@ -178,7 +179,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-KawAnime
+Intiface
 Kcov
 KeePassXC
 KeeWeb
@@ -275,6 +276,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+Outline-Manager
 Painel-Web
 Paletti
 PanWriter
@@ -315,7 +317,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -357,6 +358,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+Rebaslight
 SMath_Studio
 SPlayer
 SUMOCO
@@ -413,6 +415,7 @@ Summoners.War.Exporter
 Sup
 SuperSlicer
 Superpaper
+SwagLyrics
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -461,11 +464,12 @@ YUView
 YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
-Zegarek
+ao
+appimagecraft
+appimagelint
+appimagetool
+appium-desktop
+autoEdit2
 avogadro
 bauh
 bioanimation
@@ -493,10 +497,11 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
-elcalc
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
 fre:ac
 freeman
 gLabels
@@ -558,8 +563,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nmap
-nordvpn-linux
+meta-grabber
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -584,7 +589,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
 ridereceipts
 rmw
 runanode
@@ -624,12 +628,12 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
-unified-communications
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
+windows2usb
 wxMEdit
 wxMaxima
 x-loc
