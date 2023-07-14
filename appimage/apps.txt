@@ -26,13 +26,13 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Bench_CLI
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -64,9 +64,10 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 Cemu
-CircuitBlocks
-City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -97,7 +98,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -127,7 +127,6 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-FMS_File_Explorer
 FranceTV
 Franz
 Frappe_Accounting
@@ -149,9 +148,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+GradeStats
+Graviton
+GridcoinResearch-5.4.5.0
+GrinPlusPlus
 Groot
 Guitar
 Gulden
@@ -180,8 +180,9 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Insight
-Intiface
+Kage
+Kanon
+KawAnime
 Kcov
 KeePassXC
 KeeWeb
@@ -237,6 +238,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -275,9 +277,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -359,7 +361,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -439,8 +440,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
+VivifyScrum
 VizGraph
 WalletTech
 WatchFlower
@@ -466,12 +467,14 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
-ZapDesktop
-ZeGrapher
-Zegarek
-ZenroomStudio
+appimagecraft
+appimagelint
+appimagetool
+appium-desktop
+autoEdit2
+avogadro
 bauh
+bioanimation
 bottlenose
 buttercup
 cabal-desktop
@@ -496,10 +499,9 @@ dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
-electron-xiami
+flameshot
+flightgear-airports
+fmradio
 four
 foxfolio
 fre:ac
@@ -564,9 +566,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
-notepadqq
-noteshrink-qt
+mini-qml
+mira-backup
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -589,7 +591,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-rasterview
 ridereceipts
 rmw
 runanode
@@ -629,7 +630,8 @@ tmon
 tnt
 torrenttools
 triagem-touch
-weweChat
+ttth
+tweet-tray
 wezterm
 whiteboard
 whu-library-seat
