@@ -23,7 +23,8 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Arduino_IDE
+Bazecor
+Beatconnect_Client
 Beekeeper Studio
 Beekeeper_Studio
 Bench_CLI
@@ -55,7 +56,6 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-BulkReviewer
 Catalyst_Browser
 Cate-Desktop
 Cavoke
@@ -91,7 +91,7 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-Downline
+DFileManager
 Dragoman
 Drill
 Dust3D
@@ -120,12 +120,12 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-FontForge
-FontLet
-Fractale
-Fraidycat
-Fraktal
-FranceTV
+Exportoo
+EyeStalker
+F-CRM
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -145,12 +145,10 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Gpredict
-GradeStats
-Graviton
-GridcoinResearch-5.4.5.0
-GrinPlusPlus
-Groot
+Genesis
+Geometrize
+GetThermal
+Gifcurry
 Guitar
 Gulden
 HDRMerge
@@ -178,9 +176,7 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Kage
-Kanon
-KawAnime
+Insight
 Kcov
 KeePassXC
 KeeWeb
@@ -275,8 +271,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -317,6 +313,7 @@ Podman
 PolkaKey
 Popsicle
 Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -358,7 +355,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -412,8 +408,8 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -433,6 +429,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -459,7 +457,7 @@ XELFViewer
 XPEViewer
 YUView
 YangDownloader
-android-messages-desktop
+YesPlayMusic
 antimicroX
 ao
 appimagecraft
@@ -490,8 +488,7 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-falcon-sql-client
-feebas
+dukto
 feedseries
 file-converter
 flameshot
@@ -558,7 +555,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
+nheko
 nimbus-weather
 nmap
 nordvpn-linux
@@ -585,7 +582,9 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
+qr-code-generator-desktop
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -620,9 +619,10 @@ theFrame
 theWeb
 thorium-client
 timer
-violetbug
-vue-calc
-vuerd
+tipitaka_pali_reader
+tmon
+tnt
+torrenttools
 weatherdump
 westeroscraftlauncher
 weweChat
