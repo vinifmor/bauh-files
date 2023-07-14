@@ -27,8 +27,8 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
-Artisan
 Beekeeper Studio
+BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -63,6 +63,7 @@ Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
+CATcher
 Cemu
 CircuitBlocks
 City_Hub
@@ -96,7 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DevHub
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -126,9 +126,9 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-Fraidycat
-Fraktal
-FranceTV
+FAT_Wallet
+FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -181,7 +181,10 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-KeePassXC
+Invoice-Generator
+IrScrutinizer
+Isolate
+KADE
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -273,9 +276,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -357,7 +360,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-ReliefValve
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -412,8 +415,13 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
-Tesseract
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Syncplay
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -463,7 +471,9 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZY_Player
+appimagecraft
+appimagelint
+appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -491,13 +501,15 @@ dingtalk
 draw.io
 dukto
 dvdisaster
-eDEX-UI
-eNoseAnnotator
-eOSVC
-eXtrema
-ehdev-shell
-elcalc
-electron-wechat
+feebas
+feedseries
+file-converter
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
 freeman
 gLabels
 gerbv
@@ -558,7 +570,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nmap
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -584,6 +596,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -628,6 +642,8 @@ tweet-tray
 twetter
 twitch-wrapper
 uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMEdit
 wxMaxima
 x-loc
