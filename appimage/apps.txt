@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -71,13 +70,14 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Catalyst_Browser
 Cemu
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
 ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
@@ -156,7 +156,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Gpredict
 Gulden
 HDRMerge
 HastyHeroes
@@ -188,7 +187,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -240,6 +238,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,6 +280,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -323,7 +325,6 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -437,7 +438,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -463,8 +463,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
-V2Ray-Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -500,9 +499,7 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
-altair
 bauh
-cabal-desktop
 colorstatic-bash
 cordlauncher
 cric
@@ -593,6 +590,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -619,11 +617,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -667,10 +663,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
 xemu
+yaya
 youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
