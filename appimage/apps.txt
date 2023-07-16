@@ -31,10 +31,11 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
+AudioMoth
+Augur
 Beekeeper Studio
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,15 +70,15 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
+CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Catalyst_Browser
+Cate-Desktop
 Cemu
-Cliniface
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
@@ -101,6 +102,12 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -129,8 +136,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Franz
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -152,7 +158,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
+Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -183,7 +189,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeePassXC
+KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
@@ -236,7 +243,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -277,8 +283,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -320,11 +324,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -399,7 +398,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -497,8 +495,8 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
-acreom
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -538,8 +536,8 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-four
-foxfolio
+hero-display
+hotspot
 hpack
 hsinstall
 htmldoc
@@ -589,7 +587,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-noteshrink-qt
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -616,9 +614,7 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-runanode
-sabaki
-saphyr
+protonmail-desktop
 scavengers
 school-sections
 ser-player
@@ -666,8 +662,6 @@ unreel
 updatedeployqt
 upterm
 xemu
-xonsh
-yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
