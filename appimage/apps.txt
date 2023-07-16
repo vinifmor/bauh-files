@@ -31,10 +31,11 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
 Beekeeper Studio
+Birds_Kitchen
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -70,8 +71,8 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
+Cabal_Desktop_Mini
 Cemu
-Cliniface
 Cloud_Browser
 Code_OSS
 Colon
@@ -99,11 +100,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -186,7 +185,8 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-Isolate
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -238,8 +238,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -324,7 +322,6 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
-PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -438,6 +435,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -461,7 +459,6 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
 Upscayl
 WalletTech
 WatchFlower
@@ -497,9 +494,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
-aillio-ts
 bauh
+clippy
+clipr
+cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -536,12 +534,11 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -589,7 +586,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
 nvtop
 nx-software-center
 nxshell
@@ -617,7 +613,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-scavengers
+puush-qt
+pyappimage
+python2
 school-sections
 ser-player
 simple-s3-uploader
@@ -663,8 +661,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
 xemu
-yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
