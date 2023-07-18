@@ -29,10 +29,9 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
-AstroShutter
-Astroffers
-Audacity
 Beekeeper Studio
+Birds_Kitchen
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -67,8 +66,10 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
-CPod
 Cemu
+CircuitBlocks
+City_Hub
+CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -98,6 +99,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Deployer
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -129,7 +132,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,6 +153,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -180,8 +183,10 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
-IrScrutinizer
-Isolate
+Kcov
+KeePassXC
+KeeWeb
+Keibo-MoneyTracker-x86_64
 KettleClient
 KevEdit
 KeyManager
@@ -233,10 +238,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Memento
-MicroPad
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -277,6 +278,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -318,6 +320,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PowerliminalsPlayer
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -389,8 +393,7 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
+Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
@@ -427,6 +430,7 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TeXstudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -448,7 +452,6 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
 VivifyScrum
 VizGraph
@@ -480,9 +483,9 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
+ZenroomStudio
+Znax
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -515,7 +518,8 @@ electron-xiami
 element
 elzabrowser
 embedded-ide
-gibs
+enve
+erdesigner
 githoard
 glTF_Insight
 glulxe
@@ -570,11 +574,10 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
-mini-qml
-mira-backup
-mki3dgame
+nimbus-weather
+nmap
+nordvpn-linux
+notepadqq
 noteshrink-qt
 nvtop
 nx-software-center
@@ -598,6 +601,8 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+quokkagit
+rasterview
 ridereceipts
 rmw
 runanode
@@ -638,10 +643,11 @@ tmon
 tnt
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
+whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
