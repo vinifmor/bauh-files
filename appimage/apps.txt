@@ -28,8 +28,8 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
 Beekeeper Studio
-Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -63,8 +63,10 @@ Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
+CATcher
+CIAA_Suite
+CPU-X
 Cemu
-CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -127,9 +129,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Fraktal
-FranceTV
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -149,12 +148,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GradeStats
-Graviton
-GridcoinResearch-5.4.5.0
-GrinPlusPlus
-Groot
-Guitar
+Geometrize
+GetThermal
+Gifcurry
 Gulden
 HDRMerge
 HastyHeroes
@@ -180,10 +176,9 @@ ImapSyncClient
 ImpPoster
 Inboxer
 Infection_Monkey
-KOReader
-Kage
-Kanon
-KawAnime
+Infinitex
+Insight
+Intiface
 Kcov
 KeePassXC
 KeeWeb
@@ -239,7 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -278,9 +272,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -321,6 +315,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -362,8 +358,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RedmineTimeTracker
-SMathStudio
+Rebaslight
 SMath_Studio
 SPlayer
 SUMOCO
@@ -389,7 +384,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -415,10 +409,12 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
-TeleDrive
-TeslaCam_Browser
-Tesseract
+Superpaper
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -438,8 +434,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -468,7 +465,6 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -502,7 +498,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
 fre:ac
 freeman
 gLabels
@@ -563,7 +558,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nmap
+media_mate
+meta-grabber
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -589,6 +585,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+prismlauncher
 ridereceipts
 rmw
 runanode
@@ -627,14 +624,15 @@ timer
 tipitaka_pali_reader
 tmon
 tnt
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
+torrenttools
+triagem-touch
+ttth
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
