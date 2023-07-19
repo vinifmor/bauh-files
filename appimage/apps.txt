@@ -26,9 +26,9 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
 Beekeeper Studio
-Bench_CLI
-BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -59,12 +59,11 @@ Buckets
 BulkReviewer
 BulkURLOpener
 BunqDesktop
-Cascade_Image_Editor
+Burning-Series
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
@@ -97,7 +96,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -128,6 +126,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
+FMS_File_Explorer
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -148,6 +148,7 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
+Genesis
 GradeStats
 Graviton
 GridcoinResearch-5.4.5.0
@@ -178,8 +179,7 @@ Imagine
 ImapSyncClient
 ImpPoster
 Inboxer
-JReleaser
-KDiskMark
+Infection_Monkey
 KOReader
 Kage
 Kanon
@@ -239,6 +239,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -276,8 +277,8 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
+ONLYOFFICE
 OWASP Threat Dragon
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -322,7 +323,6 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -362,6 +362,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+RedmineTimeTracker
 SMathStudio
 SMath_Studio
 SPlayer
@@ -407,15 +408,14 @@ Stele
 Stellarium
 StockStalk
 StopLight
+Storaji
+Strata
+Streamlink
+Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
 SuperSlicer
-Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -465,11 +465,9 @@ XPEViewer
 YUView
 YangDownloader
 YesPlayMusic
-accessimap-lecteur-der
-android-messages-desktop
-antimicroX
-ao
-appimagecraft
+YouTubeSearchFilter
+Yuna
+ZY_Player
 appimagelint
 appimagetool
 appium-desktop
@@ -499,12 +497,11 @@ dingtalk
 draw.io
 dukto
 dvdisaster
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
+eDEX-UI
+eNoseAnnotator
+eOSVC
+eXtrema
+ehdev-shell
 foxfolio
 fre:ac
 freeman
@@ -566,7 +563,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -590,10 +586,9 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-qpp::cad
-qr-code-generator-desktop
-quokkagit
-rasterview
+playyourdamnturn.com
+plotjuggler
+pnpm
 ridereceipts
 rmw
 runanode
@@ -630,8 +625,8 @@ theWeb
 thorium-client
 timer
 tipitaka_pali_reader
-vue-calc
-vuerd
+tmon
+tnt
 weatherdump
 westeroscraftlauncher
 weweChat
