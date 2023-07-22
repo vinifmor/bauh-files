@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
+Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -85,8 +85,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -150,8 +149,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-Figma
-FranceTV
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -174,9 +172,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -207,12 +205,13 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyManager
-KeyboardClient
-Keys
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Join_Desktop
+Joplin
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+Keibo-MoneyTracker-x86_64
 Kitupiikki
 Klogg
 Knowte
@@ -257,8 +256,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mob
-Mockman
+McPodcast
+Mechvibes
 Monot
 Moonlight
 Motrix
@@ -300,8 +299,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-P2PDerivatives
-PanWriter
 Panini
 Paper
 Papercraft
@@ -353,6 +350,7 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -394,8 +392,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -495,7 +492,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -530,7 +527,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -577,7 +573,8 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -652,7 +649,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-qTox
+qpdf
 slang-ed
 smtk2ssrf
 snake.js
@@ -696,8 +693,8 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
+ytDownloader
 yuzu
+zograscope
+zsync2
