@@ -35,11 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -85,10 +84,8 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
-Crypter
+CircuitBlocks
+City_Hub
 Cryptr
 Cscrypto
 CubicSDR
@@ -153,8 +150,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-FreeCAD2
-FreeTexturePacker
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -177,8 +173,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HastyHeroes
-Heimer
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -211,7 +206,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -258,8 +252,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
+McPodcast
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -302,9 +297,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-Onshape
-P2PDerivatives
-Paletti
 PanWriter
 Panini
 Paper
@@ -357,6 +349,7 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -399,8 +392,8 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
-Responsively
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -431,8 +424,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SnippetStore
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -471,6 +462,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -536,7 +529,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -579,8 +571,6 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
-guglielmo
 huwinterpreter
 hw-probe
 hyper
@@ -630,7 +620,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-nxshell
+movie-monad
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -656,13 +646,12 @@ prismlauncher
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qhot
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -706,11 +695,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
-wxMEdit
 xemu
+yuzu
+zograscope
+zsync2
