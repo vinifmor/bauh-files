@@ -82,8 +82,7 @@ Cavoke
 Cemu
 Cerebral-Debugger
 ChainX_Signer
-Chiaki
-Circle-Z
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -118,6 +117,8 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -172,8 +173,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Gpredict
-Heimer
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -206,7 +206,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -253,7 +252,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -296,8 +294,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
+Onenote
 Panini
 Paper
 Papercraft
@@ -347,6 +345,8 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
+Pulsar
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -388,7 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroArch
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -421,6 +421,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -459,6 +460,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -486,8 +489,10 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VirtScreen
-WatchFlower
+VK_Desktop
+VLC
+VNote
+VeChain
 WatchIt
 WebDesktop
 Webamp
@@ -524,9 +529,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
+antimicroX
 bauh
-colorstatic-bash
-cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -568,10 +572,12 @@ fre:ac
 freeman
 gLabels
 gerbv
-hw-probe
-hyper
-impact
-iota1k
+getswell
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -613,9 +619,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-ngrev
-nvtop
-nx-software-center
+mki3dgame
 nxshell
 ommpfritt
 onnx2bnn
@@ -642,10 +646,11 @@ prismlauncher
 privacy.sexy
 protonmail-desktop
 puush-qt
-school-sections
-ser-player
-simple-s3-uploader
-simple-timer
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
@@ -690,7 +695,9 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
+weatherdump
 xemu
 yuzu
-zograscope
 zsync2
