@@ -34,12 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
-Beatconnect_Client
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -85,6 +83,7 @@ Cemu
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
+Circle-Z
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -177,8 +176,8 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-GoldenCheetah
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -209,6 +208,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -342,14 +342,8 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -392,6 +386,9 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
+RoboRock_Control_Center
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -422,6 +419,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -460,7 +458,6 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -496,6 +493,7 @@ Wexond
 Whalebird
 Wire
 WishDemo
+Woke
 Wonderwall
 WorkFlowy
 Workbench
@@ -524,7 +522,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -568,8 +565,6 @@ freeman
 gLabels
 gerbv
 getswell
-glulxe
-guiscrcpy
 huwinterpreter
 hw-probe
 hyper
@@ -619,6 +614,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -650,9 +646,8 @@ qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
 qhot
-qikQR
-qpdf
-qpp::cad
+snake.js
+snapshot-slider
 snomcontrol
 spark-wallet
 spm
@@ -695,6 +690,6 @@ violetbug
 vue-calc
 vuerd
 weatherdump
-westeroscraftlauncher
-weweChat
 xemu
+yuzu
+zsync2
