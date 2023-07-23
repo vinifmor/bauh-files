@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -84,9 +84,7 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
+CircuitBlocks
 Crypter
 Cryptr
 Cscrypto
@@ -150,7 +148,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -175,7 +173,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -254,6 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 Mob
 Mockman
 Monot
@@ -297,7 +296,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
 Panini
 Paper
 Papercraft
@@ -342,8 +340,13 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -386,8 +389,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-RoboRock_Control_Center
-SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -419,6 +420,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -486,7 +488,8 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchIt
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -521,9 +524,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 bauh
-cordlauncher
-cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -565,11 +567,11 @@ freeman
 gLabels
 gerbv
 getswell
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -643,9 +645,10 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qhot
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
