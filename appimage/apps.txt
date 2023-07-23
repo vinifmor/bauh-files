@@ -34,9 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -81,10 +81,11 @@ Cate-Desktop
 Cavoke
 Cemu
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -111,14 +112,6 @@ Digitales_Klassenzimmer
 Disass
 Discord
 DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -149,7 +142,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD-asm3
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -211,8 +204,6 @@ Joy2DroidX
 Juggernaut
 Julius
 KADE
-Keibo-MoneyTracker-x86_64
-Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -255,9 +246,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
+MoarPerf
+Mob
+Mockman
 Monot
 Moonlight
 Motrix
@@ -350,7 +341,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
 QMPlay2
 QMediathekView
 QNapi
@@ -392,6 +382,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -423,7 +415,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -492,6 +483,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -526,10 +518,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
 bauh
-cordlauncher
-cric
-dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -573,9 +564,8 @@ getswell
 gibs
 githoard
 glTF_Insight
-impact
-iota1k
-iptvnator
+glulxe
+graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -619,6 +609,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -649,7 +640,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-qpdf
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -693,8 +684,9 @@ upterm
 vREST_NG
 vifm
 violetbug
+vue-calc
+vuerd
 xemu
 ytDownloader
 yuzu
-zograscope
 zsync2
