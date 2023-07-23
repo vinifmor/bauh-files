@@ -35,10 +35,11 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
+Axe_Electrum
 Beekeeper Studio
+BetterSIS
 Bitwarden
-Blender_Config_Manager
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -85,6 +86,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -149,6 +151,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -173,7 +177,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-Heimer
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -206,9 +210,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
+Julius
 Kitupiikki
 Klogg
 Knowte
@@ -253,6 +257,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -389,8 +394,8 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-SUbillManager
-SWC-Minecraft-Launcher
+ReliefValve
+Responsively
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -420,7 +425,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -460,6 +464,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -490,6 +495,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+VeChain
 WebDesktop
 Webamp
 Wexond
@@ -526,6 +532,7 @@ aillio-ts
 altair
 android-messages-desktop
 bauh
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -572,6 +579,8 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
+hyper
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -616,6 +625,8 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+ngPost
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -640,11 +651,14 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+qr-code-generator-desktop
+sabaki
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -686,13 +700,11 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
-vREST_NG
-vifm
-violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
+yaya
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
+zograscope
 zsync2
