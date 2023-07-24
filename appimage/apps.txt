@@ -34,11 +34,9 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -83,7 +81,8 @@ Cavoke
 Cemu
 Cerebral-Debugger
 ChainX_Signer
-Cromberg
+Chiaki
+Code_OSS
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -150,7 +149,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -206,8 +204,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -255,12 +253,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
-MediaElch
-MegaBasterd
-MiniZinc_IDE
+Mob
+Mockman
+Monot
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -299,7 +294,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -353,9 +347,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -397,9 +388,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-Responsively
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -430,7 +419,8 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
+SpeedyLoader
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -498,10 +488,10 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VLC
-VNote
-VPaint
-Valeronoi
+WatchIt
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -533,10 +523,11 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
-ao
 bauh
+colorstatic-bash
+cordlauncher
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -577,7 +568,7 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -624,9 +615,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
-noteshrink-qt
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -658,7 +647,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-simplechroot
+qTox
 slang-ed
 smtk2ssrf
 snake.js
@@ -705,5 +694,6 @@ violetbug
 vue-calc
 vuerd
 weatherdump
+westeroscraftlauncher
 xemu
 yuzu
