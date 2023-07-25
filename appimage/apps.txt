@@ -26,11 +26,11 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Beatconnect_Client
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
-BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -58,11 +58,10 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Catalyst_Browser
-Cate-Desktop
+BulkReviewer
+BulkURLOpener
+BunqDesktop
+Burning-Series
 Cavoke
 Cemu
 Cerebral-Debugger
@@ -98,6 +97,9 @@ CutePeaks
 CuteVariant
 DFileManager
 Dana
+Datcord
+DawnlightSearch
+DbGate
 Dragoman
 Drill
 Dust3D
@@ -130,8 +132,10 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+FontForge
+FontLet
+Fractale
+Fraidycat
 Fraktal
 FranceTV
 Franz
@@ -156,7 +160,7 @@ GameHub
 Genesis
 Geometrize
 GetThermal
-Gifcurry
+GridcoinResearch-5.4.5.0
 GrinPlusPlus
 Groot
 Guitar
@@ -187,6 +191,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
+Kage
 Kanon
 KawAnime
 Kcov
@@ -282,7 +287,6 @@ Notable
 NoteMaster
 OCRmyPDF
 OCVWarp
-OCVvid2fulldome.txt
 OWASP Threat Dragon
 P2PDerivatives
 PDFQuirk
@@ -327,10 +331,11 @@ PocketCasts_Electron
 Poddr
 Podman
 PolkaKey
+Popsicle
+Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-QDriverStation
-QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -399,6 +404,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SlackBackup
 SnippetStore
 Soapy_SDR
 SocNetV
@@ -426,8 +432,9 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
-Subsurface
 SuperSlicer
+TagTime-desktop
+Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -453,9 +460,9 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-Viper_Browser
-Vipster
+VeChain
 VirtScreen
 Vitomu
 VivifyScrum
@@ -484,7 +491,6 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-antimicroX
 ao
 appimagecraft
 appimagelint
@@ -519,6 +525,8 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
+eXtrema
+elcalc
 file-converter
 flameshot
 flightgear-airports
@@ -585,10 +593,8 @@ marktext
 marlin-conf
 mdview
 media-dupes
-neovim
-ngPost
-ngrev
-nheko
+media_mate
+meta-grabber
 nimbus-weather
 nmap
 nordvpn-linux
@@ -615,8 +621,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-qpdf
-qpp::cad
+pnpm
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -650,13 +655,14 @@ swradio
 tT
 tagspaces
 tastee-ui
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
-vREST_NG
-vifm
-violetbug
+tc
+theFrame
+theWeb
+thorium-client
+timer
+tipitaka_pali_reader
+tmon
+tnt
 vue-calc
 vuerd
 weatherdump
