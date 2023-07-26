@@ -28,7 +28,9 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
 Beekeeper Studio
+Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -63,8 +65,10 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
+CIAA_Suite
+CPU-X
+CP_Editor
 Cemu
-CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -96,6 +100,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Diffuse
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -129,9 +134,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Firefox_ESR
-Franz
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -153,8 +155,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Graviton
-Guitar
+Gingko
+GitHubDesktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -183,6 +185,7 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
+Invoice-Generator
 Kcov
 KeePassXC
 KeeWeb
@@ -238,7 +241,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -278,9 +280,9 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -363,7 +365,9 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -390,6 +394,8 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
+Silverkey
+Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -422,9 +428,6 @@ SwagLyrics
 SwiftnessX
 SwitchHosts!
 Symphonium
-SyncMyL2P
-Syncplay
-SynfigStudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -447,10 +450,8 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
-UltraScreen
-UniShellect
 Upscayl
-Upscayl
+VizGraph
 WalletTech
 WatchFlower
 WatchIt
@@ -485,6 +486,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 bauh
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -519,11 +521,11 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
+glulxe
+graphql-playground
+gsubs
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -573,7 +575,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -596,8 +598,9 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qr-code-generator-desktop
-quokkagit
+plotjuggler
+pnpm
+pomotroid
 rasterview
 ridereceipts
 rmw
@@ -639,8 +642,7 @@ tmon
 tnt
 torrenttools
 triagem-touch
-tweet-tray
-weweChat
+ttth
 wezterm
 whiteboard
 whu-library-seat
