@@ -32,9 +32,10 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -76,12 +77,11 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
+Cate-Desktop
+Cavoke
 Cemu
-Comic-Reader
-ConsoleWorkbench
-Converter432Hz
-Cool_Retro_Term
-CozyDrive
+Cerebral-Debugger
+ChainX_Signer
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -107,6 +107,15 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -137,7 +146,7 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD-asm3
+Fraktal
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -242,7 +251,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
 Mob
 Mockman
 Monot
@@ -285,7 +293,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
 PanWriter
 Panini
 Paper
@@ -327,6 +334,7 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -369,7 +377,7 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SPlayer
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -400,8 +408,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Speaky_MiniPlayer
-Spectrum
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -440,6 +447,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -467,8 +475,9 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -504,7 +513,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -546,7 +554,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -591,9 +598,11 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-noteshrink-qt
-nvtop
-nx-software-center
+mira-backup
+mjml-app
+mki3dgame
+moniteur-admin
+moolticute
 nxshell
 ommpfritt
 onnx2bnn
@@ -620,10 +629,9 @@ prismlauncher
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -668,9 +676,9 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
 xemu
+youtube-music
+ytDownloader
 yuzu
 zograscope
 zsync2
