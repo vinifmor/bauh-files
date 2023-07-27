@@ -34,10 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -80,11 +80,13 @@ Catalyst_Browser
 Cate-Desktop
 Cavoke
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
-CircuitBlocks
+Converter432Hz
+Cool_Retro_Term
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -115,10 +117,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -148,6 +146,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Firefox_Nightly
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -171,7 +171,6 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -253,7 +252,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -296,9 +294,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
-POE_Ladder
+Paletti
 PanWriter
 Panini
 Paper
@@ -340,15 +336,8 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
-PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -390,8 +379,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RetroShare
-SBLauncher
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -424,7 +411,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -490,9 +476,8 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
-VLC
-VNote
+WatchIt
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -527,8 +512,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-cabal-desktop
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -570,9 +553,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
+hugin
+huwinterpreter
+hw-probe
 hyper
 impact
 iota1k
@@ -617,7 +600,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+nvtop
 nx-software-center
 nxshell
 ommpfritt
@@ -644,12 +627,11 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+sabaki
 saphyr
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -695,10 +677,9 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-violetbug
-vue-calc
-whiteboard
 xemu
+youtube-music
+ytDownloader
 yuzu
 zograscope
 zsync2
