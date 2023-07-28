@@ -27,11 +27,11 @@ Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
 Beekeeper Studio
-BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -64,6 +64,8 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
+CIAA_Suite
+CPU-X
 Cemu
 City_Hub
 CleepDesktop
@@ -96,7 +98,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -127,6 +128,7 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
+FMS_File_Explorer
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -147,11 +149,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-GradeStats
-Graviton
-GridcoinResearch-5.4.5.0
-GrinPlusPlus
-Groot
+Geometrize
+GetThermal
+Gifcurry
 Guitar
 Gulden
 HDRMerge
@@ -179,9 +179,9 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Kage
-Kanon
-KawAnime
+Insight
+Intiface
+Invoice-Generator
 Kcov
 KeePassXC
 KeeWeb
@@ -237,7 +237,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -276,11 +275,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-Obsidian
-Onshape
-POE_Ladder
-PacketSender
 Padloc
 Painel-Web
 Paletti
@@ -321,6 +318,7 @@ Podman
 PolkaKey
 Popsicle
 Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -362,8 +360,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Running-Dinner-Tool
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -418,6 +414,7 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
 Tesseract
 ThermusQt
@@ -439,9 +436,10 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
+UltraGrid
 Upscayl
-VirtScreen
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -468,10 +466,8 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
+ZY_Player
 ZapDesktop
-appimagecraft
-appimagelint
-appimagetool
 appium-desktop
 autoEdit2
 avogadro
@@ -504,7 +500,6 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-four
 foxfolio
 fre:ac
 freeman
@@ -566,7 +561,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-nimbus-weather
+media_mate
+meta-grabber
+ngPost
 nmap
 nordvpn-linux
 notepadqq
@@ -591,9 +588,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qpp::cad
-qr-code-generator-desktop
-quokkagit
+plotjuggler
+pnpm
 rasterview
 ridereceipts
 rmw
@@ -627,11 +623,14 @@ tagspaces
 tastee-ui
 tc
 theFrame
-vREST_NG
-vifm
-violetbug
-vue-calc
-vuerd
+theWeb
+thorium-client
+timer
+tipitaka_pali_reader
+tmon
+tnt
+torrenttools
+triagem-touch
 weatherdump
 westeroscraftlauncher
 weweChat
