@@ -33,6 +33,7 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -76,10 +77,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
+Cate-Desktop
+Cavoke
 Cemu
-ConsoleWorkbench
-Converter432Hz
-Cool_Retro_Term
+Cerebral-Debugger
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -109,6 +110,9 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
+Discord
+DockStation
+DokiDokiModManager
 Eksplode.re
 ElDumper
 Electorrent
@@ -137,9 +141,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
-Firefox_Beta
-Fluent_Reader
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -163,6 +164,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -245,8 +247,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
-MoarPerf
 Mob
 Mockman
 Monot
@@ -286,8 +286,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -372,6 +371,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -403,8 +403,6 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spectrum
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -442,6 +440,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -468,6 +467,7 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
+V2Ray-Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -548,8 +548,9 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
-githoard
+hw-probe
+hyper
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -593,7 +594,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nx-software-center
+moniteur-admin
 nxshell
 ommpfritt
 onnx2bnn
@@ -619,9 +620,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
+saphyr
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -669,7 +670,6 @@ upterm
 vREST_NG
 vifm
 xemu
-xonsh
 youtube-music
 ytDownloader
 yuzu
