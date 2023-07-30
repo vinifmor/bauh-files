@@ -34,6 +34,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -72,15 +73,14 @@ CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Catalyst_Browser
-Cate-Desktop
-Cavoke
 Cemu
-Cerebral-Debugger
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Converter432Hz
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -106,9 +106,6 @@ DeepTags
 Delir
 Demonizer
 Deployer
-Detect_It_Easy
-DevHub
-Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -138,6 +135,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -159,7 +157,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
 HDRMerge
 HastyHeroes
 Heimer
@@ -240,7 +237,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -281,8 +277,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -326,6 +321,8 @@ PowerShell
 PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -398,8 +395,8 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -465,10 +462,9 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-Vipster
-WalletTech
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -500,10 +496,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
-aillio-ts
-altair
 bauh
+clipr
+cncjs
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -543,9 +539,8 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
-glTF_Insight
+hpack
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -595,7 +590,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nx-software-center
+moniteur-admin
+moolticute
 nxshell
 ommpfritt
 onnx2bnn
@@ -620,9 +616,10 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-sabaki
-saphyr
-scavengers
+protonmail-desktop
+puush-qt
+pyappimage
+runanode
 school-sections
 ser-player
 simple-s3-uploader
@@ -668,11 +665,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vREST_NG
+vifm
+violetbug
 xemu
-yaya
-youtube-music
-youtube-music-desktop
-ytDownloader
 yuzu
 zograscope
 zsync2
