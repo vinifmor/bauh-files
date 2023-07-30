@@ -31,10 +31,9 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
 Beekeeper Studio
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -70,12 +69,13 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
+Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
 Cemu
-Cloud_Browser
-Code_OSS
-Colon
-ColorGenerator
-Colorpicker
+Cliniface
 Comic-Reader
 ConsoleWorkbench
 Converter432Hz
@@ -134,7 +134,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Frappe_Accounting
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -158,8 +158,8 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-Gulden
-HDRMerge
+GitJournal
+GitNote
 HastyHeroes
 Heimer
 HermesMessenger
@@ -189,10 +189,10 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KevEdit
-KeyManager
-KeyboardClient
-Keys
+JReleaser
+James
+JoalDesktop
+Join_Desktop
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -239,6 +239,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
+MoarPerf
 Mob
 Mockman
 Monot
@@ -280,8 +282,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
 PanWriter
 Panini
 Paper
@@ -327,13 +328,8 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -373,9 +369,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
-SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -406,8 +401,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -446,7 +440,6 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
-TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -470,6 +463,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
+UniShellect
+Upscayl
 Upscayl
 WalletTech
 WatchFlower
@@ -507,6 +502,7 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
 bauh
 colorstatic-bash
 cordlauncher
@@ -550,8 +546,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
+huwinterpreter
 hw-probe
 hyper
 impact
@@ -598,8 +593,8 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -628,10 +623,9 @@ puush-qt
 pyappimage
 python2
 python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qhot
+simple-timer
+simplechroot
+slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -672,10 +666,10 @@ unreel
 updatedeployqt
 upterm
 vREST_NG
-vifm
-violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
+zograscope
+zsync2
