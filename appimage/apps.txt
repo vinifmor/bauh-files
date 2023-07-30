@@ -32,6 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -74,11 +76,11 @@ Calculist
 Carpenters
 Cascade_Image_Editor
 CasterSoundboard
+Catalyst_Browser
+Cate-Desktop
+Cavoke
 Cemu
-Cliniface
-Comic-Reader
-ConsoleWorkbench
-Converter432Hz
+Cerebral-Debugger
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -106,6 +108,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -135,7 +138,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -158,8 +160,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -189,10 +190,10 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-Join_Desktop
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -325,9 +326,6 @@ PowerShell
 PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -369,8 +367,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMath_Studio
-SPlayer
+Rebaslight
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -401,7 +399,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-Spectrum
+SimpleInstaBot
 SpeedyLoader
 Spivak
 Stacer
@@ -466,6 +464,8 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
+V2Ray-Desktop
+Vipster
 WalletTech
 WatchFlower
 WatchIt
@@ -504,7 +504,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -546,6 +545,9 @@ foxfolio
 fre:ac
 freeman
 gLabels
+glTF_Insight
+htmldoc
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -618,11 +620,12 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-protonmail-desktop
-puush-qt
-pyappimage
-python2
-python3
+sabaki
+saphyr
+scavengers
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -665,8 +668,8 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
 xemu
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
