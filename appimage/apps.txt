@@ -31,11 +31,10 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
-Augur
 Beekeeper Studio
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -71,15 +70,15 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Catalyst_Browser
-Cate-Desktop
-Cavoke
 Cemu
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Converter432Hz
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -107,15 +106,6 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,7 +134,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FastQt
+Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -199,7 +189,6 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -250,7 +239,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
 Mob
 Mockman
 Monot
@@ -292,7 +280,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -344,6 +333,7 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -385,6 +375,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SMathStudio
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -456,8 +447,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -481,10 +470,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
-UniShellect
 Upscayl
-Upscayl
-V2Ray-Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -520,7 +507,6 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
-altair
 bauh
 colorstatic-bash
 cordlauncher
@@ -566,7 +552,6 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
 hw-probe
 hyper
 impact
@@ -614,6 +599,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
+moolticute
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -645,6 +631,7 @@ python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
+qhot
 smtk2ssrf
 snake.js
 snapshot-slider
