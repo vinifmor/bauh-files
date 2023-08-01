@@ -26,10 +26,11 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Armagetron_Advanced
-Artisan
-AsarUI
 Beekeeper Studio
+Bench_CLI
+BetterSIS
+Bezique
+BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -96,7 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,7 +125,6 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
 Fraidycat
 Fraktal
 FranceTV
@@ -148,10 +147,9 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
-Geometrize
-GetThermal
-Gifcurry
+GradeStats
+Graviton
+GridcoinResearch-5.4.5.0
 GrinPlusPlus
 Groot
 Guitar
@@ -181,7 +179,7 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Insight
+Kanon
 KawAnime
 Kcov
 KeePassXC
@@ -274,8 +272,6 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
 OWASP Threat Dragon
 PacketSender
 Padloc
@@ -358,8 +354,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SMPlayer
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -385,6 +381,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Skrifa
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -405,15 +403,13 @@ StockStalk
 StopLight
 Storaji
 Strata
-Streamlink
-Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
 SuperSlicer
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -437,8 +433,9 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
+VirtScreen
+Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -461,10 +458,10 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-YangDownloader
-YesPlayMusic
-YouTubeSearchFilter
-Yuna
+altair
+android-messages-desktop
+antimicroX
+ao
 appimagecraft
 appimagelint
 appimagetool
@@ -563,12 +560,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-mjml-app
-nimbus-weather
-nmap
-nordvpn-linux
-notepadqq
-noteshrink-qt
+meta-grabber
+mini-qml
+mira-backup
 nvtop
 nx-software-center
 nxshell
@@ -590,6 +584,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -629,9 +624,9 @@ thorium-client
 timer
 tipitaka_pali_reader
 tmon
-vue-calc
-vuerd
-weatherdump
+tnt
+torrenttools
+triagem-touch
 westeroscraftlauncher
 weweChat
 wezterm
