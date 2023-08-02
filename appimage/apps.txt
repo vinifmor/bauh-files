@@ -26,14 +26,13 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Armagetron_Advanced
-Artisan
-AsarUI
-AstroShutter
-Astroffers
-Audacity
-AudioMoth
+BasiliskII
 Beekeeper Studio
+BetterSIS
+Bezique
+BilibiliVideoDownload
+Birds_Kitchen
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,12 +64,10 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
-CPod
 Cemu
-Chiaki
+CircuitBlocks
+City_Hub
+CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -131,7 +128,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
@@ -184,7 +180,7 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-KeePassXC
+Invoice-Generator
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -237,7 +233,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -276,9 +271,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -319,6 +314,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -360,8 +356,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -385,9 +381,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
-SigDigger
-SigmaSpectra
+Software-Challenge-GUI
+Sonist
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -411,14 +406,10 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
-Subtitle_Composer
-SultanPOS
-Summoners.War.Exporter
-Sup
 SuperSlicer
-Superpaper
-SwagLyrics
-SwiftnessX
+TeleDrive
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -469,7 +460,7 @@ YesPlayMusic
 YouTubeSearchFilter
 Yuna
 ZY_Player
-appimagetool
+ZapDesktop
 appium-desktop
 autoEdit2
 avogadro
@@ -502,7 +493,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-flightgear-airports
+four
 foxfolio
 fre:ac
 freeman
@@ -568,7 +559,7 @@ media_mate
 meta-grabber
 mini-qml
 mira-backup
-noteshrink-qt
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -632,7 +623,8 @@ tnt
 torrenttools
 triagem-touch
 ttth
-tweet-tray
+weweChat
+wezterm
 whiteboard
 whu-library-seat
 windows2usb
