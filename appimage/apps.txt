@@ -26,9 +26,9 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
 Beekeeper Studio
-Bench_CLI
-BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -62,8 +62,10 @@ BunqDesktop
 Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
+CARTA
+CATcher
+CIAA_Suite
 Cemu
-CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -95,7 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -125,7 +126,6 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -150,7 +150,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GoldenDict
+Gpredict
 Groot
 Guitar
 Gulden
@@ -180,6 +180,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
+Intiface
 Kcov
 KeePassXC
 KeeWeb
@@ -234,6 +235,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -315,6 +317,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -356,6 +359,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+SMathStudio
 SMath_Studio
 SPlayer
 SUMOCO
@@ -408,9 +412,11 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
-TeslaCam_Browser
-Tesseract
+Superpaper
+SwagLyrics
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -431,7 +437,6 @@ Turntable
 Tusk
 Tutanota
 Upscayl
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -491,13 +496,10 @@ draw.io
 dukto
 dvdisaster
 eDEX-UI
-feebas
-feedseries
-file-converter
-flameshot
-flightgear-airports
-fmradio
-four
+eNoseAnnotator
+eOSVC
+eXtrema
+ehdev-shell
 foxfolio
 fre:ac
 freeman
@@ -560,7 +562,7 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-meta-grabber
+nmap
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -586,8 +588,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-quokkagit
-rasterview
 ridereceipts
 rmw
 runanode
@@ -629,12 +629,11 @@ tnt
 torrenttools
 triagem-touch
 ttth
-weweChat
-wezterm
-whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
+tweet-tray
+twetter
+twitch-wrapper
+uncov
+unified-communications
 wxMaxima
 x-loc
 xde
