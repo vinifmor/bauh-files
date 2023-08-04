@@ -35,10 +35,10 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -79,13 +79,12 @@ Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
+Cavoke
 Cemu
-ClementineRemote
-Converter432Hz
-Cool_Retro_Term
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
+Cerebral-Debugger
+ChainX_Signer
+Chiaki
+Circle-Z
 CrossMobile
 Cryplicity
 Crypter
@@ -110,6 +109,17 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
 Eksplode.re
 ElDumper
 Electorrent
@@ -141,6 +151,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -160,11 +171,11 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
-Gulden
-HDRMerge
-HastyHeroes
-Heimer
+Gingko
+GitHubDesktop
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -191,13 +202,12 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
-Keys
+Isolate
+JReleaser
+James
+JoalDesktop
+Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -243,7 +253,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
+Mirage
+MoarPerf
+Mob
 Mockman
 Monot
 Moonlight
@@ -282,7 +294,9 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OpenAudible
+OWallet
+Obsidian
+Onshape
 Painel-Web
 Paletti
 PanWriter
@@ -371,7 +385,9 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
+SUMOCO
+SUbillManager
+SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -399,7 +415,7 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -438,6 +454,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -468,8 +485,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
+VPaint
 Wexond
 Whalebird
 Wire
@@ -503,6 +519,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -544,7 +561,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
 huwinterpreter
 hw-probe
 hyper
@@ -594,6 +610,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+ngrev
 nxshell
 ommpfritt
 onnx2bnn
@@ -619,7 +636,8 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
+saphyr
+scavengers
 school-sections
 ser-player
 simple-s3-uploader
