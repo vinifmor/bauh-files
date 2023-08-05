@@ -37,7 +37,6 @@ Augur
 Auryo
 AvantGarde
 Axe_Electrum
-BasiliskII
 Beekeeper Studio
 Bitwarden
 Blizzard_4
@@ -150,9 +149,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeCAD-asm3
+FreeCAD2
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -175,7 +174,8 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -208,9 +208,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
@@ -296,8 +296,10 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Padloc
+Painel-Web
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -340,13 +342,8 @@ PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -459,6 +456,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -489,9 +488,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
-VeChain
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -523,9 +522,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -570,7 +569,7 @@ getswell
 gibs
 githoard
 glTF_Insight
-iota1k
+glulxe
 iptvnator
 irccloud-desktop
 isle-editor
@@ -614,7 +613,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
+nimbus-weather
 nxshell
 ommpfritt
 onnx2bnn
@@ -644,7 +643,7 @@ puush-qt
 pyappimage
 python2
 python3
-qBittorrent_Enhanced_Edition
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -690,7 +689,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
 xemu
 yuzu
+zograscope
 zsync2
