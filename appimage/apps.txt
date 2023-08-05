@@ -86,10 +86,9 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Colorpicker
-Cryplicity
-Crypter
-Cryptr
+City_Hub
+CleepDesktop
+Cromberg
 Cscrypto
 CubicSDR
 Cura
@@ -176,6 +175,7 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -208,12 +208,10 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-Juggernaut
-Julius
-KADE
-KDiskMark
-KOReader
+KiCad
+Kiibohd_Configurator
+Kimitzu-Client
+Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -256,8 +254,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-McPodcast
-Mechvibes
+Mini_Diary
+Mob
 Mockman
 Monot
 Moonlight
@@ -299,7 +297,8 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
+Painel-Web
+PanWriter
 Panini
 Paper
 Papercraft
@@ -349,6 +348,8 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
+Pulsar
+Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -390,7 +391,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SUMOCO
+RedmineTimeTracker
+ReliefValve
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -421,7 +423,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -493,7 +495,7 @@ VLC
 VNote
 VPaint
 Valeronoi
-Wexond
+VeChain
 Whalebird
 Wire
 WishDemo
@@ -525,10 +527,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
 bauh
-cordlauncher
-cric
-dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -574,8 +575,7 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-iptvnator
-irccloud-desktop
+gsubs
 isle-editor
 jag
 jexiftoolgui
@@ -618,8 +618,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-mtCellEdit
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
