@@ -39,6 +39,8 @@ AvantGarde
 Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -80,10 +82,11 @@ Cate-Desktop
 Cavoke
 Cemu
 Cerebral-Debugger
-CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+ChainX_Signer
+Chiaki
+Circle-Z
+CircuitBlocks
+Colorpicker
 Cryplicity
 Crypter
 Cryptr
@@ -113,6 +116,12 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -145,8 +154,6 @@ FastQt
 Fidias_Database_Migration_App
 Figma
 Filmulator
-FreeTexturePacker
-FreeTube
 FreeTube
 Friture
 FromScratch
@@ -169,7 +176,6 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -202,9 +208,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Kiibohd_Configurator
-Kimitzu-Client
-Kitupiikki
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Klogg
 Knowte
 KopiaUI
@@ -247,7 +256,8 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mob
+McPodcast
+Mechvibes
 Mockman
 Monot
 Moonlight
@@ -332,8 +342,13 @@ PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
 PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -375,9 +390,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-Responsively
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -407,7 +421,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -446,6 +460,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -478,6 +493,7 @@ VLC
 VNote
 VPaint
 Valeronoi
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -509,9 +525,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -555,7 +571,9 @@ gerbv
 getswell
 gibs
 githoard
-iota1k
+glTF_Insight
+glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
