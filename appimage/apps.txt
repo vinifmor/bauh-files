@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blink1Control2
@@ -83,7 +82,7 @@ Cavoke
 Cemu
 Cerebral-Debugger
 ChainX_Signer
-Cromberg
+Chiaki
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -152,7 +151,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
-Filmulator
+FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -255,8 +254,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
+MazeSolver
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -297,7 +296,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
 PanWriter
 Panini
 Paper
@@ -344,12 +343,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -393,8 +388,6 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
-Responsively
-SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -424,7 +417,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -462,8 +455,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -494,7 +485,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
+Webamp
 Wexond
 Whalebird
 Wire
@@ -528,8 +519,8 @@ ai-bot-workspace
 aillio-ts
 altair
 android-messages-desktop
-antimicroX
 bauh
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -571,10 +562,10 @@ freeman
 gLabels
 gerbv
 getswell
-gibs
-githoard
-glTF_Insight
-glulxe
+hw-probe
+hyper
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -619,8 +610,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
-mtCellEdit
+ommpfritt
 onnx2bnn
 onnx2daq
 openblok
@@ -646,14 +636,13 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qhot
-qikQR
-qpdf
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
+slang-ed
+smtk2ssrf
+snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
@@ -694,9 +683,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
 yuzu
+zograscope
 zsync2
