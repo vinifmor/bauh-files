@@ -35,10 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -85,10 +84,9 @@ Cerebral-Debugger
 ChainX_Signer
 Chiaki
 Circle-Z
-CircuitBlocks
-City_Hub
-CleepDesktop
-Cromberg
+Cryplicity
+Crypter
+Cryptr
 Cscrypto
 CubicSDR
 Cura
@@ -151,8 +149,10 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-Figma
-Filmulator
+FreeCAD-asm3
+FreeCAD2
+FreeTexturePacker
+FreeTube
 FreeTube
 Friture
 FromScratch
@@ -175,7 +175,6 @@ GitHubDesktop
 GitJournal
 GitNote
 GitQlient
-Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -208,7 +207,8 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
+Joy2DroidX
+Juggernaut
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -254,8 +254,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-Mini_Diary
-Mob
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -297,8 +296,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Painel-Web
-PanWriter
+Onenote
 Panini
 Paper
 Papercraft
@@ -392,7 +390,7 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-ReliefValve
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -423,7 +421,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-SpeedyLoader
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -463,6 +461,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -493,9 +492,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
-VeChain
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Wire
 WishDemo
@@ -527,9 +526,10 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+cordlauncher
+cric
+dashy-app
 dataset-annotator
 dbet-wallet
 deb2appimage
@@ -571,11 +571,11 @@ gLabels
 gerbv
 getswell
 gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
+hyper
+impact
+iota1k
+iptvnator
+irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
@@ -618,6 +618,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
