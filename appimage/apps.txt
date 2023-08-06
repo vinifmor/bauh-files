@@ -83,8 +83,9 @@ Cemu
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Crypter
 Cryptr
 Cscrypto
@@ -148,7 +149,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Flippy_Qualitative_Testbench
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -171,8 +171,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GoldenCheetah
-Guitar
+GitHubDesktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -255,7 +254,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -297,6 +297,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -416,8 +417,8 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -455,6 +456,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -485,6 +487,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -560,8 +563,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
-huwinterpreter
+gerbv
 hw-probe
 hyper
 impact
@@ -610,7 +612,6 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-noteshrink-qt
 nxshell
 ommpfritt
 onnx2bnn
@@ -638,12 +639,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-rmw
-scavengers
-school-sections
-ser-player
-simple-s3-uploader
-simple-timer
+python2
+python3
+qBittorrent_Enhanced_Edition
 simplechroot
 slang-ed
 smtk2ssrf
@@ -689,7 +687,6 @@ vREST_NG
 vifm
 violetbug
 xemu
-ytDownloader
 yuzu
 zograscope
 zsync2
