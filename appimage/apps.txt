@@ -36,10 +36,9 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blink1Control2
-Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -83,8 +82,8 @@ Cemu
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-CrossCode_Map_Editor
-CrossMobile
+Circle-Z
+CircuitBlocks
 Cryplicity
 Crypter
 Cryptr
@@ -151,6 +150,7 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+Fluent_Reader
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -175,8 +175,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HastyHeroes
-Heimer
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -209,8 +208,11 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KeyboardClient
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -297,7 +299,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-PanWriter
+Onenote
 Panini
 Paper
 Papercraft
@@ -343,8 +345,14 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
+Puppetry
+Python
 QMPlay2
 QMediathekView
 QNapi
@@ -388,6 +396,8 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
+Responsively
+SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -417,9 +427,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
-Stacer
-Standard_Notes
+Skrifa
+SlackBackup
+Slacktronic
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -455,6 +465,8 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -485,8 +497,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Webamp
-Wexond
+VPaint
+Valeronoi
 Whalebird
 Wire
 WishDemo
@@ -518,7 +530,6 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
 cric
 dashy-app
@@ -562,8 +573,8 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
+gibs
+githoard
 impact
 iota1k
 iptvnator
@@ -610,6 +621,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -634,8 +646,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
+saphyr
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
