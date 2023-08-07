@@ -34,9 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+AvantGarde
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -80,6 +81,7 @@ Catalyst_Browser
 Cate-Desktop
 Cavoke
 Cemu
+Cerebral-Debugger
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -113,8 +115,6 @@ Discord
 DockStation
 DokiDokiModManager
 Downline
-Dragoman
-Drill
 Eksplode.re
 ElDumper
 Electorrent
@@ -144,7 +144,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
+Fidias_Database_Migration_App
+Figma
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -167,7 +168,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
+GitJournal
 HastyHeroes
 Heimer
 HermesMessenger
@@ -202,7 +203,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -293,8 +293,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Olive
-Onenote
-PDFQuirk
 Panini
 Paper
 Papercraft
@@ -346,10 +344,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -391,10 +385,10 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
-Responsively
-RetroArch
+Rufus
+SUMOCO
+SUbillManager
+SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -424,9 +418,9 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Skrifa
-SlackBackup
-Slacktronic
+Spivak
+Stacer
+Standard_Notes
 Statsbook_Tool
 StatusPilatus
 SteamCAD
@@ -462,8 +456,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -528,8 +520,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -572,11 +564,10 @@ freeman
 gLabels
 gerbv
 getswell
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
+gibs
+githoard
+glTF_Insight
+glulxe
 irccloud-desktop
 isle-editor
 jag
@@ -648,8 +639,8 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-python3
-qBittorrent_Enhanced_Edition
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -695,11 +686,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
-weweChat
-wezterm
 xemu
-ytDownloader
+yuzu
+zograscope
+zsync2
