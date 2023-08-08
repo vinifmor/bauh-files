@@ -33,9 +33,9 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
 Beekeeper Studio
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -77,10 +77,9 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
+Cate-Desktop
+Cavoke
 Cemu
-Comic-Reader
-ConsoleWorkbench
-Converter432Hz
 Cool_Retro_Term
 CozyDrive
 Cromberg
@@ -107,6 +106,14 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
+Diffuse
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
 Eksplode.re
 ElDumper
 Electorrent
@@ -159,7 +166,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -190,6 +197,7 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
+KevEdit
 KeyManager
 KeyboardClient
 Keys
@@ -238,9 +246,11 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
+Minions
 Monot
 Moonlight
 Motrix
@@ -279,7 +289,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -319,6 +329,10 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -362,6 +376,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SMathStudio
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -393,9 +408,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
-Slacktronic
-SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -432,6 +444,8 @@ T.Viewer
 Tablo_Tools
 TagTime-desktop
 Taskizer
+TeXstudio
+TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -459,9 +473,9 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-WalletTech
-WatchFlower
-WatchIt
+VK_Desktop
+VLC
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -497,7 +511,6 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -537,7 +550,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hsinstall
+freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -586,8 +600,9 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nx-software-center
-nxshell
+mki3dgame
+moniteur-admin
+moolticute
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -614,6 +629,7 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
+python2
 school-sections
 ser-player
 simple-s3-uploader
@@ -654,12 +670,14 @@ twetter
 twitch-wrapper
 uncov
 unified-communications
-wxMEdit
-wxMaxima
-x-loc
-xde
+unoffical-sonos-controller-for-linux
+unofficial-zalo
+unreel
+updatedeployqt
+upterm
+vREST_NG
+vifm
 xemu
-xonsh
 yaya
 youtube-music
 youtube-music-desktop
