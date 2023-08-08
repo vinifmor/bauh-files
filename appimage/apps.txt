@@ -29,11 +29,7 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
-AstroShutter
-AudioMoth
-Axe_Electrum
 Beekeeper Studio
-BilibiliVideoDownload
 Birds_Kitchen
 BitShares
 Bitwarden
@@ -99,6 +95,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dust3D
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -124,8 +122,8 @@ ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
-FontLet
-Fractale
+EyeStalker
+F-CRM
 Fraidycat
 Fraktal
 FranceTV
@@ -148,9 +146,9 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Gpredict
-GradeStats
-Graviton
+Genesis
+Geometrize
+GetThermal
 GridcoinResearch-5.4.5.0
 GrinPlusPlus
 Groot
@@ -182,8 +180,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Joplin
-Kanon
 KawAnime
 Kcov
 KeePassXC
@@ -239,8 +235,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-Minions
 Mirage
 MoarPerf
 Mob
@@ -278,10 +272,9 @@ OCRmyPDF
 OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -363,8 +356,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-ReliefValve
-SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -415,8 +406,9 @@ Strata
 Streamlink
 Streamon
 Stunt_Car_Remake
+Substrate_IDE
+Subsurface
 SuperSlicer
-TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -441,6 +433,7 @@ Tusk
 Tutanota
 TweakSophia
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -467,8 +460,8 @@ YUView
 YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
-ZY_Player
+ao
+appimagecraft
 appimagelint
 appimagetool
 appium-desktop
@@ -501,9 +494,8 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-flightgear-airports
-fmradio
-four
+eXtrema
+ehdev-shell
 foxfolio
 fre:ac
 freeman
@@ -564,7 +556,8 @@ mapton
 marktext
 marlin-conf
 mdview
-nimbus-weather
+media-dupes
+media_mate
 nmap
 nordvpn-linux
 notepadqq
@@ -632,8 +625,8 @@ tipitaka_pali_reader
 tmon
 tnt
 torrenttools
-triagem-touch
-ttth
+weatherdump
+westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
