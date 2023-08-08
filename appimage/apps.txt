@@ -30,8 +30,11 @@ Armagetron_Advanced
 Artisan
 AsarUI
 AstroShutter
-Astroffers
+AudioMoth
+Axe_Electrum
 Beekeeper Studio
+BilibiliVideoDownload
+Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -63,11 +66,9 @@ Burning-Series
 Bypass_Cors
 BytespeicherTrayIcon
 CARTA
-CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
 Cemu
+CircuitBlocks
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -98,8 +99,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -125,8 +124,8 @@ ExifCleaner
 Eximchain_Wallet
 Explorook
 Exportoo
-EyeStalker
-F-CRM
+FontLet
+Fractale
 Fraidycat
 Fraktal
 FranceTV
@@ -149,10 +148,12 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
-Geometrize
-GetThermal
-Gifcurry
+Gpredict
+GradeStats
+Graviton
+GridcoinResearch-5.4.5.0
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -181,9 +182,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
 Joplin
+Kanon
+KawAnime
+Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -237,6 +239,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MazeSolver
 Minions
 Mirage
 MoarPerf
@@ -319,7 +322,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -361,6 +363,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
+ReliefValve
+SMPlayer
 SMathStudio
 SMath_Studio
 SPlayer
@@ -387,7 +391,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SmartGit
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -407,11 +411,11 @@ Stellarium
 StockStalk
 StopLight
 Storaji
+Strata
+Streamlink
+Streamon
+Stunt_Car_Remake
 SuperSlicer
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
@@ -436,7 +440,6 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
 Upscayl
 Vitomu
 VivifyScrum
@@ -465,7 +468,7 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagecraft
+ZY_Player
 appimagelint
 appimagetool
 appium-desktop
@@ -498,8 +501,9 @@ dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
-eXtrema
-ehdev-shell
+flightgear-airports
+fmradio
+four
 foxfolio
 fre:ac
 freeman
@@ -560,7 +564,6 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
 nimbus-weather
 nmap
 nordvpn-linux
@@ -588,6 +591,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -629,7 +633,7 @@ tmon
 tnt
 torrenttools
 triagem-touch
-westeroscraftlauncher
+ttth
 weweChat
 wezterm
 whiteboard
