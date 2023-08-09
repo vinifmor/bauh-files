@@ -29,7 +29,6 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 Beekeeper Studio
-Bezique
 BilibiliVideoDownload
 Birds_Kitchen
 BitShares
@@ -66,9 +65,8 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
+CP_Editor
 Cemu
-City_Hub
-CleepDesktop
 ClementineRemote
 Cliniface
 Cloud_Browser
@@ -151,8 +149,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GpgFrontend
-Guitar
+Gingko
 Gulden
 HDRMerge
 HastyHeroes
@@ -182,6 +179,8 @@ Infinitex
 Insight
 Intiface
 Invoice-Generator
+IrScrutinizer
+Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -235,7 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -276,7 +274,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -317,6 +316,8 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PowerliminalsPlayer
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -359,8 +360,6 @@ Raven_Reader
 RawTherapee
 Reactotron
 Rebaslight
-SMathStudio
-SMath_Studio
 SPlayer
 SUMOCO
 SUbillManager
@@ -386,8 +385,8 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-Software-Challenge-GUI
-Sonist
+SigDigger
+SigmaSpectra
 Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
@@ -420,6 +419,10 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -473,10 +476,9 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
-avogadro
+ZenroomStudio
+Znax
 bauh
-bioanimation
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -506,13 +508,13 @@ ehdev-shell
 elcalc
 electron-wechat
 electron-xiami
-gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-glulxe
+element
+elzabrowser
+embedded-ide
+enve
+erdesigner
+evoplex
+fSpy
 graphql-playground
 gsubs
 guglielmo
@@ -564,8 +566,9 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
-meta-grabber
+nimbus-weather
+nmap
+nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -590,7 +593,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-pomotroid
 ridereceipts
 rmw
 runanode
@@ -634,9 +636,9 @@ triagem-touch
 ttth
 tweet-tray
 twetter
-whiteboard
-whu-library-seat
-windows2usb
+twitch-wrapper
+uncov
+unified-communications
 wxMEdit
 wxMaxima
 x-loc
