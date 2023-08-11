@@ -28,10 +28,12 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
+AsarUI
+AstroShutter
+Astroffers
+Audacity
+AudioMoth
 Beekeeper Studio
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -63,11 +65,12 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-Cascade_Image_Editor
-Cate-Desktop
+CIAA_Suite
+CPU-X
+CP_Editor
+CPod
 Cemu
-CircuitBlocks
-City_Hub
+Cerebral-Debugger
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -98,6 +101,9 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+DeDop-studio
+Digitales_Klassenzimmer
+Discord
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -129,7 +135,6 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-Firefox_Beta
 FranceTV
 Franz
 Frappe_Accounting
@@ -182,6 +187,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
+Intiface
 Kcov
 KeePassXC
 KeeWeb
@@ -236,7 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
+MazeSolver
 MoarPerf
 Mob
 Mockman
@@ -317,6 +323,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -358,8 +365,9 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMathStudio
+SMath_Studio
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -383,6 +391,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SimpleInstaBot
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -410,9 +419,14 @@ Substrate_IDE
 Subsurface
 Subtitle_Composer
 SultanPOS
+Summoners.War.Exporter
+Sup
 SuperSlicer
-TeslaCam_Browser
-Tesseract
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -434,10 +448,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
+UltraGrid
 Upscayl
-Viper_Browser
-VirtScreen
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -463,9 +475,9 @@ XPEViewer
 YUView
 YangDownloader
 YesPlayMusic
-YouTubeSearchFilter
-Yuna
-ZY_Player
+ao
+appimagecraft
+appimagelint
 appimagetool
 appium-desktop
 autoEdit2
@@ -499,7 +511,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
+four
 foxfolio
 fre:ac
 freeman
@@ -563,9 +575,6 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-moolticute
-nmap
-nordvpn-linux
 notepadqq
 noteshrink-qt
 nvtop
@@ -626,8 +635,8 @@ tc
 theFrame
 theWeb
 thorium-client
-vifm
-violetbug
+timer
+tipitaka_pali_reader
 vue-calc
 vuerd
 weatherdump
