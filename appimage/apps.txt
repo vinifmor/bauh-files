@@ -34,8 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -80,11 +78,13 @@ Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
-Cavoke
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
+Cloud_Browser
+ConsoleWorkbench
+Converter432Hz
+Cool_Retro_Term
+CozyDrive
+Cromberg
 CrossCode_Map_Editor
 CrossMobile
 Cryplicity
@@ -110,18 +110,6 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -177,7 +165,8 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-GitQlient
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -255,10 +244,9 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
-Mechvibes
-Mini_Diary
+MoarPerf
+Mob
+Mockman
 Monot
 Moonlight
 Motrix
@@ -298,6 +286,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -348,6 +338,7 @@ ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
 Pullp
+Pulsar
 QMPlay2
 QMediathekView
 QNapi
@@ -390,8 +381,8 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-SUMOCO
-SUbillManager
+ReliefValve
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -488,8 +479,8 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VLC
-VNote
+WatchFlower
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -526,6 +517,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -567,12 +559,11 @@ foxfolio
 fre:ac
 freeman
 gLabels
-gerbv
-getswell
-gibs
-githoard
-glTF_Insight
-hero-display
+hugin
+huwinterpreter
+hw-probe
+hyper
+impact
 iota1k
 iptvnator
 irccloud-desktop
@@ -646,8 +637,8 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-ser-player
-simple-s3-uploader
+python3
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -692,8 +683,11 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-violetbug
+x-loc
 xemu
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
