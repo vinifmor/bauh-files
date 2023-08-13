@@ -36,7 +36,6 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blizzard_4
@@ -149,8 +148,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -173,9 +171,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+Gulden
+HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -204,11 +202,11 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-Join_Desktop
-Joplin
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -255,8 +253,6 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
-MiniZinc_IDE
-Mob
 Mockman
 Monot
 Moonlight
@@ -299,7 +295,6 @@ OWallet
 Obsidian
 Olive
 Onenote
-PanWriter
 Panini
 Paper
 Papercraft
@@ -395,7 +390,6 @@ Record_Compare
 RedmineTimeTracker
 ReliefValve
 Responsively
-SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -464,6 +458,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -528,8 +523,8 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 bauh
+cordlauncher
 cric
 dashy-app
 dataset-annotator
@@ -572,10 +567,11 @@ freeman
 gLabels
 gerbv
 getswell
-hyper
-impact
-iota1k
-iptvnator
+gibs
+githoard
+glTF_Insight
+glulxe
+graphql-playground
 irccloud-desktop
 isle-editor
 jag
@@ -619,6 +615,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+mtCellEdit
 nxshell
 ommpfritt
 onnx2bnn
@@ -646,9 +643,10 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+quokkagit
+ser-player
+simple-s3-uploader
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -692,9 +690,8 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
-violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
+ytDownloader
 yuzu
+zograscope
+zsync2
