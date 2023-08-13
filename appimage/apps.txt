@@ -36,9 +36,9 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -83,8 +83,7 @@ Cemu
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
-Circle-Z
-CircuitBlocks
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -149,7 +148,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD2
+Fidias_Database_Migration_App
+Figma
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -171,9 +171,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -204,10 +204,10 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
-Joy2DroidX
-Juggernaut
+KeyManager
+KeyboardClient
+Keys
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -253,6 +253,7 @@ Martian
 MasterVyrn
 Mattermost_Desktop
 MazeSolver
+McPodcast
 Mockman
 Monot
 Moonlight
@@ -293,8 +294,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
-Onenote
+Paletti
 PanWriter
 Panini
 Paper
@@ -347,6 +347,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Pulse
+Puppetry
+Python
+QDriverStation
 QMPlay2
 QMediathekView
 QNapi
@@ -388,8 +391,9 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
+SUMOCO
+SUbillManager
+SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -458,6 +462,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -489,7 +494,8 @@ VK_Desktop
 VLC
 VNote
 VPaint
-Wexond
+Valeronoi
+VeChain
 Whalebird
 Widelands
 Wire
@@ -525,10 +531,11 @@ altair
 android-messages-desktop
 antimicroX
 ao
-appimagecraft
-appimagelint
-appimagetool
 bauh
+dataset-annotator
+dbet-wallet
+deb2appimage
+deltachat-desktop
 devdocs-desktop
 dexter_dev_env
 dfDemo
@@ -571,8 +578,10 @@ glTF_Insight
 glulxe
 graphql-playground
 gsubs
-guglielmo
-guiscrcpy
+irccloud-desktop
+isle-editor
+jag
+jexiftoolgui
 jira-timer
 jitsi-meet
 jmbde
@@ -612,6 +621,10 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+mtCellEdit
+noteshrink-qt
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -638,12 +651,11 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qhot
+ser-player
+simple-s3-uploader
+simple-timer
+simplechroot
+slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
@@ -686,9 +698,7 @@ upterm
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
-westeroscraftlauncher
 xemu
 yuzu
+zograscope
+zsync2
