@@ -35,9 +35,9 @@ Audacity
 AudioMoth
 Augur
 Auryo
+AvantGarde
 Beekeeper Studio
 Bitwarden
-Blink1Control2
 Blizzard_4
 Blockbench
 Bloks
@@ -150,6 +150,8 @@ FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
 Figma
+Flippy_Qualitative_Testbench
+FreeTexturePacker
 FreeTube
 FreeTube
 Friture
@@ -205,8 +207,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-Joy2DroidX
-KADE
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -251,8 +252,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MazeSolver
-McPodcast
+Mob
 Mockman
 Monot
 Moonlight
@@ -293,7 +293,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
 PanWriter
 Panini
 Paper
@@ -339,8 +338,11 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
 QMPlay2
 QMediathekView
 QNapi
@@ -452,6 +454,7 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
+TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -482,8 +485,9 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-VPaint
-Valeronoi
+WebDesktop
+Webamp
+Wexond
 Whalebird
 Widelands
 Wire
@@ -518,7 +522,6 @@ aillio-ts
 altair
 android-messages-desktop
 antimicroX
-ao
 bauh
 dashy-app
 dataset-annotator
@@ -562,13 +565,10 @@ gLabels
 gerbv
 getswell
 gibs
-githoard
-glTF_Insight
-glulxe
-graphql-playground
-gsubs
-guglielmo
 hyper
+impact
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -611,7 +611,6 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -640,9 +639,9 @@ puush-qt
 pyappimage
 python2
 python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+simple-s3-uploader
+simple-timer
+simplechroot
 slang-ed
 smtk2ssrf
 snake.js
@@ -683,10 +682,13 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
-violetbug
+whu-library-seat
 xemu
+xonsh
+yaya
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
