@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -79,12 +78,13 @@ Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
-Cavoke
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Converter432Hz
+Cool_Retro_Term
+CozyDrive
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
 Cryplicity
 Crypter
 Cryptr
@@ -108,18 +108,6 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
-DockStation
-DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -150,8 +138,8 @@ FF-Password-Exporter
 FMS_File_Explorer
 FastQt
 Fidias_Database_Migration_App
-FreeCAD-asm3
-FreeCAD2
+Figma
+Filmulator
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -173,8 +161,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
-HastyHeroes
+GitJournal
+GitNote
+GitQlient
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -204,12 +193,10 @@ Invoice-Generator
 IrScrutinizer
 Isolate
 JReleaser
-KeeWeb
-Keibo-MoneyTracker-x86_64
-KettleClient
-KevEdit
-KeyManager
-KeyboardClient
+James
+JoalDesktop
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -298,8 +285,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
-PanWriter
+Olive
 Panini
 Paper
 Papercraft
@@ -344,7 +330,6 @@ PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
 ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -388,8 +373,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -485,7 +470,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -520,8 +505,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
 bauh
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -564,7 +549,6 @@ four
 foxfolio
 fre:ac
 freeman
-gLabels
 hsinstall
 htmldoc
 hugin
@@ -616,7 +600,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-nx-software-center
+moolticute
 nxshell
 ommpfritt
 onnx2bnn
@@ -642,6 +626,7 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
+saphyr
 scavengers
 school-sections
 ser-player
@@ -688,10 +673,10 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vREST_NG
-vifm
 xemu
+yaya
 youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
