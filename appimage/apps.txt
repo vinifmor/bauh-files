@@ -28,11 +28,10 @@ Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
-AsarUI
-AstroShutter
-Astroffers
-Audacity
 Beekeeper Studio
+BilibiliVideoDownload
+Birds_Kitchen
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -68,13 +67,13 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
-CRG_Data_Tool
-CRIC
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
 Cemu
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
 Colorpicker
 Comic-Reader
 ConsoleWorkbench
@@ -101,13 +100,6 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Diffuse
-Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -158,7 +150,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 Guitar
 Gulden
 HDRMerge
@@ -187,8 +178,9 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
+Intiface
+Invoice-Generator
+IrScrutinizer
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -241,6 +233,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MoarPerf
 Mob
 Mockman
 Monot
@@ -282,8 +275,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-OpenBlok
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -324,10 +315,6 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
-PowerliminalsPlayer
-PraxisLIVE
-PrimeWorldEditor
-PrinterClient
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -371,6 +358,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
@@ -398,10 +386,9 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
 SpeedyLoader
 Spivak
 Stacer
@@ -437,10 +424,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -467,7 +450,7 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-V2Ray-Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -502,8 +485,8 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
-ai-bot-workspace
 bauh
+clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -543,7 +526,7 @@ flameshot
 flightgear-airports
 fmradio
 four
-hero-display
+foxfolio
 hotspot
 hpack
 hsinstall
@@ -593,8 +576,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-notepadqq
-noteshrink-qt
+mira-backup
+mjml-app
 nvtop
 nx-software-center
 nxshell
@@ -617,9 +600,11 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-ridereceipts
-rmw
-runanode
+pomotroid
+pretty-handy-privacy
+prismlauncher
+privacy.sexy
+protonmail-desktop
 sabaki
 saphyr
 scavengers
@@ -661,8 +646,9 @@ ttth
 tweet-tray
 twetter
 twitch-wrapper
-windows2usb
-wxMEdit
+uncov
+unified-communications
+unoffical-sonos-controller-for-linux
 wxMaxima
 x-loc
 xde
