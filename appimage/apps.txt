@@ -34,7 +34,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 Beekeeper Studio
 Bitwarden
 Blender_Config_Manager
@@ -117,9 +116,6 @@ Downline
 Dragoman
 Drill
 Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -149,6 +145,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Filmulator
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -172,8 +169,7 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
@@ -203,12 +199,11 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
-James
-JoalDesktop
-Join_Desktop
-Joplin
-Kcov
+KettleClient
+KevEdit
+KeyManager
+KeyboardClient
+Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -295,6 +290,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -339,10 +335,6 @@ PowerShell
 PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
-PrinterClient
-ProcDepMonitor
-ProcSpin
-Procyon
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -386,6 +378,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -416,8 +409,9 @@ Silverkey
 SimDSP
 Simdock
 SimplEOS
-SimpleInstaBot
-Singlebox
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -484,8 +478,8 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchIt
-WebDesktop
+VLC
+VNote
 Webamp
 Wexond
 Whalebird
@@ -562,8 +556,7 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
-huwinterpreter
+gerbv
 hw-probe
 hyper
 impact
@@ -610,7 +603,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
+nx-software-center
 nxshell
 ommpfritt
 onnx2bnn
@@ -636,10 +629,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -685,9 +677,8 @@ updatedeployqt
 upterm
 vREST_NG
 vifm
+violetbug
 xemu
-youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
