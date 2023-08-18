@@ -73,8 +73,8 @@ CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
 Calculist
-Carpenters
 Cemu
+Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -101,11 +101,7 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
+Eagle_Mode
 Eksplode.re
 ElDumper
 Electorrent
@@ -135,8 +131,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FranceTV
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -159,7 +153,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
 Gulden
 HDRMerge
 HastyHeroes
@@ -241,8 +234,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -283,8 +274,6 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-OWallet
-OpenTodoList
 Painel-Web
 Paletti
 PanWriter
@@ -397,7 +386,7 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -434,6 +423,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -456,8 +448,8 @@ Tutanota
 TweakSophia
 UHK.Agent
 UltraGrid
+UltraScreen
 Upscayl
-Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -489,13 +481,12 @@ ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
-ZenroomStudio
-Znax
-Zoom
-Zulip
-accessimap-lecteur-der
-appimagelint
+avogadro
 bauh
+bioanimation
+bottlenose
+buttercup
+cabal-desktop
 caprine
 clippy
 clipr
@@ -520,11 +511,11 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-elcalc
-electron-wechat
-electron-xiami
-element
-elzabrowser
+four
+foxfolio
+fre:ac
+freeman
+gLabels
 gerbv
 getswell
 gibs
@@ -583,8 +574,9 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-nmap
-nordvpn-linux
+meta-grabber
+mini-qml
+mira-backup
 notepadqq
 noteshrink-qt
 nvtop
@@ -613,7 +605,7 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -660,8 +652,8 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
 xemu
+xonsh
 yaya
 youtube-music
 youtube-music-desktop
