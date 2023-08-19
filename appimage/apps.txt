@@ -34,10 +34,10 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Auryo
+AvantGarde
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
-Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
@@ -85,11 +85,10 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Cryplicity
-Crypter
-Cryptr
-Cscrypto
-CubicSDR
+City_Hub
+CleepDesktop
+ClementineRemote
+Cliniface
 Cura
 CustomRPC
 CutePeaks
@@ -172,9 +171,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
-HastyHeroes
-Heimer
+GitJournal
+GitNote
+GitQlient
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -205,9 +204,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyManager
-KeyboardClient
-Keys
+Join_Desktop
+Joplin
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -253,7 +251,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
+MazeSolver
+McPodcast
 Mob
 Mockman
 Monot
@@ -295,7 +294,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
 PanWriter
 Panini
 Paper
@@ -342,12 +340,8 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
-ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
-Pullp
-Pulsar
-Pulse
 QMPlay2
 QMediathekView
 QNapi
@@ -389,8 +383,9 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
+SUMOCO
+SUbillManager
+SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -417,10 +412,11 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
-Skrifa
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
+Spivak
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -458,8 +454,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
-Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -490,10 +484,10 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-WebDesktop
-Webamp
-Wexond
-Whalebird
+VPaint
+Valeronoi
+VeChain
+Verto
 Widelands
 Wire
 WishDemo
@@ -525,13 +519,11 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
+antimicroX
+ao
+appimagecraft
 bauh
-colorstatic-bash
-cordlauncher
-cric
-dashy-app
-dataset-annotator
-dbet-wallet
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -575,7 +567,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-gsubs
+hyper
+iota1k
+iptvnator
 irccloud-desktop
 isle-editor
 jag
@@ -649,10 +643,7 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-rmw
-ser-player
-simple-s3-uploader
-simple-timer
+qSdrSwr
 simplechroot
 slang-ed
 smtk2ssrf
