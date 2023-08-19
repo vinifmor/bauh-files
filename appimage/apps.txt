@@ -34,11 +34,12 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
-AvantGarde
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
+Blender_Config_Manager
+Blink1Control2
+Blizzard_4
 Blockbench
 Bloks
 BloomRPC
@@ -84,7 +85,8 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
+Cryplicity
+Crypter
 Cryptr
 Cscrypto
 CubicSDR
@@ -147,7 +149,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -170,9 +172,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-GitJournal
-GitNote
-GitQlient
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -203,10 +205,11 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
-Joy2DroidX
-Juggernaut
+KeyManager
+KeyboardClient
+Keys
+KiCad
+Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -292,7 +295,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
+Paletti
+PanWriter
 Panini
 Paper
 Papercraft
@@ -386,7 +390,7 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-SWC-Minecraft-Launcher
+ReliefValve
 Sabaki
 Safe_Multisig
 SavvyCAN
@@ -416,7 +420,7 @@ Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
-Spivak
+Skrifa
 Stacer
 Standard_Notes
 Statsbook_Tool
@@ -455,6 +459,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -485,6 +490,7 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -520,6 +526,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
+colorstatic-bash
 cordlauncher
 cric
 dashy-app
@@ -567,7 +574,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
-iptvnator
+graphql-playground
+gsubs
 irccloud-desktop
 isle-editor
 jag
@@ -611,6 +619,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -640,7 +649,10 @@ pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
-qSdrSwr
+rmw
+ser-player
+simple-s3-uploader
+simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
@@ -686,7 +698,7 @@ vCloudcam
 vREST_NG
 vifm
 violetbug
-vue-calc
-vuerd
-weatherdump
 xemu
+yuzu
+zograscope
+zsync2
