@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Auryo
 AvantGarde
+Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Blink1Control2
@@ -89,6 +90,7 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
+CubicSDR
 Cura
 CustomRPC
 CutePeaks
@@ -148,9 +150,9 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
-FreeCAD2
-FreeTexturePacker
+Fidias_Database_Migration_App
+Figma
+Filmulator
 FreeTube
 FreeTube
 Friture
@@ -206,9 +208,12 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
-Kimitzu-Client
+Joy2DroidX
+Juggernaut
+Julius
+KADE
+KDiskMark
+KOReader
 Kitupiikki
 Klogg
 Knowte
@@ -253,9 +258,9 @@ MasterVyrn
 Mattermost_Desktop
 MazeSolver
 McPodcast
-Mob
-Mockman
-Monot
+Mechvibes
+MediaElch
+MegaBasterd
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -294,6 +299,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Paletti
 PanWriter
 Panini
 Paper
@@ -340,8 +346,11 @@ PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
 QMPlay2
 QMediathekView
 QNapi
@@ -383,6 +392,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -412,10 +422,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+SimplEOS
+SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -487,7 +496,7 @@ VNote
 VPaint
 Valeronoi
 VeChain
-Verto
+Whalebird
 Widelands
 Wire
 WishDemo
@@ -523,7 +532,11 @@ android-messages-desktop
 antimicroX
 ao
 appimagecraft
+appimagelint
+appimagetool
 bauh
+cabal-desktop
+clipr
 deb2appimage
 deltachat-desktop
 devdocs-desktop
@@ -567,10 +580,9 @@ githoard
 glTF_Insight
 glulxe
 graphql-playground
-hyper
-iota1k
-iptvnator
-irccloud-desktop
+gsubs
+guglielmo
+hotspot
 isle-editor
 jag
 jexiftoolgui
@@ -644,7 +656,7 @@ python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
-simplechroot
+qTox
 slang-ed
 smtk2ssrf
 snake.js
@@ -689,6 +701,7 @@ vCloudcam
 vREST_NG
 vifm
 violetbug
+vue-calc
 xemu
 yuzu
 zograscope
