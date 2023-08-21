@@ -37,7 +37,6 @@ Augur
 Auryo
 Beekeeper Studio
 Bitwarden
-Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -82,9 +81,8 @@ Cate-Desktop
 Cavoke
 Cemu
 Cerebral-Debugger
-ChainX_Signer
-Chiaki
-Circle-Z
+Cromberg
+CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
@@ -150,8 +148,8 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-FreeCAD-asm3
-FreeCAD2
+Fidias_Database_Migration_App
+Figma
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -173,8 +171,9 @@ GetThermal
 Gifcurry
 Gingko
 GitHubDesktop
-HDRMerge
-HastyHeroes
+GitJournal
+GitNote
+GitQlient
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -206,8 +205,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-KeyManager
-KeyboardClient
+Join_Desktop
+Joplin
 Keys
 KiCad
 Kiibohd_Configurator
@@ -254,10 +253,10 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
-Mob
-Mockman
-Monot
+MazeSolver
+McPodcast
+Mechvibes
+MediaElch
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -296,7 +295,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -388,8 +388,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
-ReliefValve
+SUMOCO
+SUbillManager
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -460,6 +460,7 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam_Browser
+Tesseract
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -490,10 +491,8 @@ V2Ray-Desktop
 VK_Desktop
 VLC
 VNote
-Vipster
-WebDesktop
-Webamp
-Wexond
+VPaint
+Valeronoi
 Whalebird
 Widelands
 Wire
@@ -526,9 +525,9 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
-antimicroX
 bauh
+cordlauncher
+cric
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -573,9 +572,8 @@ getswell
 gibs
 githoard
 glTF_Insight
-glulxe
-graphql-playground
-hsinstall
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -619,7 +617,7 @@ mira-backup
 mjml-app
 mki3dgame
 moniteur-admin
-moolticute
+movie-monad
 nxshell
 ommpfritt
 onnx2bnn
@@ -647,9 +645,9 @@ privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
-python2
-python3
-qBittorrent_Enhanced_Edition
+school-sections
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
