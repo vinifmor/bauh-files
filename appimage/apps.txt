@@ -25,9 +25,10 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
-Armagetron_Advanced
 Beekeeper Studio
+Beekeeper_Studio
+Bench_CLI
+BetterSIS
 Bezique
 BilibiliVideoDownload
 Birds_Kitchen
@@ -60,7 +61,6 @@ BulkURLOpener
 BunqDesktop
 Burning-Series
 Bypass_Cors
-BytespeicherTrayIcon
 Cemu
 Circle-Z
 CircuitBlocks
@@ -95,7 +95,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -121,8 +120,9 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-FontForge
-FontLet
+Exportoo
+EyeStalker
+Firefox_Nightly
 Fractale
 Fraidycat
 Fraktal
@@ -146,6 +146,7 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
+Genesis
 GradeStats
 Graviton
 GridcoinResearch-5.4.5.0
@@ -273,6 +274,7 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OWASP Threat Dragon
+POE_Ladder
 Padloc
 Painel-Web
 Paletti
@@ -380,6 +382,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SocNetV
 Software-Challenge-GUI
 Sonist
 Sourcetrail
@@ -404,10 +407,10 @@ Streamlink
 Streamon
 Stunt_Car_Remake
 Substrate_IDE
+Subsurface
+Subtitle_Composer
+SultanPOS
 SuperSlicer
-TeXstudio
-TeleDrive
-TeslaCam_Browser
 Tesseract
 ThermusQt
 Thorium_Reader
@@ -429,8 +432,8 @@ Turntable
 Tusk
 Tutanota
 TweakSophia
-UHK.Agent
 Upscayl
+VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -457,8 +460,8 @@ XPEViewer
 YUView
 YangDownloader
 YesPlayMusic
-ao
-appimagecraft
+YouTubeSearchFilter
+Yuna
 appimagelint
 appimagetool
 appium-desktop
@@ -493,6 +496,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+four
 foxfolio
 fre:ac
 freeman
@@ -549,11 +553,10 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
-marlin-conf
-mdview
-media-dupes
+neovim
+ngPost
+ngrev
+nheko
 nimbus-weather
 nmap
 nordvpn-linux
@@ -580,7 +583,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
-pnpm
+quokkagit
 rasterview
 ridereceipts
 rmw
@@ -621,7 +624,8 @@ tipitaka_pali_reader
 tmon
 tnt
 torrenttools
-weatherdump
+triagem-touch
+ttth
 westeroscraftlauncher
 weweChat
 wezterm
