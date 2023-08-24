@@ -31,10 +31,10 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
 Beekeeper Studio
+BitShares
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -71,11 +71,9 @@ CPod
 CRG_Data_Tool
 CRIC
 Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-Cavoke
 Cemu
+Code_OSS
+Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -108,7 +106,7 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-DokiDokiModManager
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -135,9 +133,11 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+Fraktal
+FranceTV
+Franz
+Frappe_Accounting
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -158,8 +158,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
+Guitar
+Gulden
 HDRMerge
 HastyHeroes
 Heimer
@@ -190,6 +190,7 @@ Intiface
 Invoice-Generator
 IrScrutinizer
 Isolate
+KettleClient
 KevEdit
 KeyManager
 KeyboardClient
@@ -239,7 +240,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -282,7 +282,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -325,6 +324,7 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -399,7 +399,6 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
-Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -464,7 +463,7 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-V2Ray-Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -592,7 +591,7 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
+mtCellEdit
 nx-software-center
 nxshell
 ommpfritt
@@ -616,8 +615,9 @@ plotjuggler
 pnpm
 pomotroid
 pretty-handy-privacy
-runanode
-sabaki
+prismlauncher
+privacy.sexy
+protonmail-desktop
 saphyr
 scavengers
 school-sections
@@ -665,9 +665,9 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
+vCloudcam
+vREST_NG
 xemu
-xonsh
-yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
