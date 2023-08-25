@@ -26,12 +26,13 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AsarUI
+AstroShutter
+Astroffers
 Beekeeper Studio
-Bench_CLI
 BetterSIS
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
 BitShares
 Bitwarden
 Bitwarden_Connector
@@ -64,8 +65,9 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
+CIAA_Suite
+CPU-X
 Cemu
-CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -97,7 +99,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -128,8 +129,8 @@ EyeStalker
 F-CRM
 FAT_Wallet
 FF-Password-Exporter
-Franz
-Frappe_Accounting
+FMS_File_Explorer
+FastQt
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -151,7 +152,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
 Gulden
 HDRMerge
 HastyHeroes
@@ -180,7 +180,7 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Kcov
+Invoice-Generator
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -272,9 +272,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -317,7 +317,6 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
-QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -357,8 +356,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMath_Studio
-SPlayer
+Rebaslight
+Record_Compare
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -382,9 +381,9 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sonist
-Sourcetrail
+Shuttle
+SigDigger
+SigmaSpectra
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -416,6 +415,10 @@ Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -437,9 +440,7 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UltraGrid
 Upscayl
-VLC
 Vitomu
 VivifyScrum
 VizGraph
@@ -562,8 +563,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-mdview
-media-dupes
+ngrev
 nheko
 nimbus-weather
 nmap
@@ -592,7 +592,6 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
-quokkagit
 rasterview
 ridereceipts
 rmw
@@ -631,7 +630,6 @@ thorium-client
 timer
 tipitaka_pali_reader
 tmon
-tnt
 vue-calc
 vuerd
 weatherdump
