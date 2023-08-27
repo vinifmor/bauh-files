@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -74,6 +73,7 @@ CRIC
 Cabal_Desktop_Mini
 Calculist
 Carpenters
+Cascade_Image_Editor
 Cemu
 Colorpicker
 Comic-Reader
@@ -107,6 +107,7 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
+Digitales_Klassenzimmer
 Eksplode.re
 ElDumper
 Electorrent
@@ -136,8 +137,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Fidias_Database_Migration_App
-Figma
+FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
@@ -162,7 +162,7 @@ Gingko
 GitHubDesktop
 GitJournal
 GitNote
-HastyHeroes
+GitQlient
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -194,8 +194,8 @@ Isolate
 JReleaser
 James
 JoalDesktop
-Join_Desktop
-Joplin
+KeyManager
+KeyboardClient
 Keys
 KiCad
 Kiibohd_Configurator
@@ -242,6 +242,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -283,7 +284,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
 Painel-Web
 Paletti
 PanWriter
@@ -327,6 +327,10 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -440,7 +444,6 @@ TagTime-desktop
 Taskizer
 TeXstudio
 TeleDrive
-TeslaCam_Browser
 ThermusQt
 Thorium_Reader
 Thunderbird
@@ -470,7 +473,6 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
 WebDesktop
 Webamp
 Wexond
@@ -507,7 +509,7 @@ ai-bot-workspace
 aillio-ts
 altair
 bauh
-colorstatic-bash
+clippy
 cordlauncher
 cric
 dashy-app
@@ -550,7 +552,6 @@ fre:ac
 freeman
 gLabels
 gerbv
-getswell
 hw-probe
 hyper
 impact
@@ -597,7 +598,6 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
 nx-software-center
 nxshell
 ommpfritt
@@ -625,9 +625,9 @@ prismlauncher
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
-python3
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -673,9 +673,10 @@ updatedeployqt
 upterm
 vCloudcam
 vREST_NG
-vifm
-violetbug
 xemu
+youtube-music
+youtube-music-desktop
+ytDownloader
 yuzu
 zograscope
 zsync2
