@@ -36,6 +36,7 @@ AudioMoth
 Augur
 Beekeeper Studio
 Bitwarden
+Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
@@ -77,12 +78,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
-Cate-Desktop
-Cavoke
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Code_OSS
+ConsoleWorkbench
+Converter432Hz
+Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -111,6 +110,8 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
 Eksplode.re
 ElDumper
 Electorrent
@@ -192,8 +193,9 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
+Intiface
+Invoice-Generator
+IrScrutinizer
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -246,6 +248,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MoarPerf
 Mob
 Mockman
 Monot
@@ -286,8 +289,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
-OpenBlok
 Painel-Web
 Paletti
 PanWriter
@@ -331,6 +332,8 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -373,6 +376,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -399,10 +404,7 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
-Simdock
-SimplEOS
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -436,14 +438,6 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
-SynfigStudio
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -472,7 +466,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-VNote
+WebDesktop
 Webamp
 Wexond
 Whalebird
@@ -506,7 +500,6 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
-altair
 bauh
 cncjs
 colorstatic-bash
@@ -551,7 +544,6 @@ foxfolio
 fre:ac
 freeman
 gLabels
-htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -626,7 +618,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
+qpp::cad
+sabaki
+saphyr
 scavengers
 school-sections
 ser-player
@@ -671,9 +665,8 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
+x-loc
+xde
 xemu
 xonsh
 yaya
