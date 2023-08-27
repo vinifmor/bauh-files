@@ -29,11 +29,11 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Birds_Kitchen
-BitShares
 Bitwarden
-Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,9 +69,11 @@ CP_Editor
 CPod
 CRG_Data_Tool
 CRIC
+CRITERIA1D_PRO
+Cabal_Desktop_Mini
+Calculist
+Carpenters
 Cemu
-Code_OSS
-Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
@@ -103,6 +105,8 @@ Delir
 Demonizer
 Deployer
 Detect_It_Easy
+DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -155,8 +159,13 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GoldenCheetah
+GridcoinResearch-5.4.5.0
+Groot
+Guitar
 Gulden
 HDRMerge
+HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
@@ -277,7 +286,8 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
-Painel-Web
+OWallet
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -319,6 +329,11 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -361,7 +376,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RoloViewer
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -390,10 +405,11 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
-SimplEOS
-SimpleInstaBot
-Singlebox
+SocNetV
+Spark.Payments
+Speaky_MiniPlayer
+Spectrum
+SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
@@ -428,10 +444,6 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -458,6 +470,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
+WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -493,6 +506,8 @@ Zulip
 accessimap-lecteur-der
 acreom
 bauh
+caprine
+clippy
 clipr
 cncjs
 colorstatic-bash
@@ -529,12 +544,8 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-flameshot
-flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
+hero-display
+hotspot
 hpack
 hsinstall
 htmldoc
@@ -586,7 +597,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nx-software-center
+moniteur-admin
 nxshell
 ommpfritt
 onnx2bnn
@@ -612,8 +623,7 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
+saphyr
 scavengers
 school-sections
 ser-player
@@ -657,10 +667,12 @@ twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
-unreel
-updatedeployqt
-upterm
+wezterm
+windows2usb
+wxMEdit
+wxMaxima
+x-loc
+xde
 xemu
 xonsh
 yaya
