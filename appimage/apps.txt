@@ -33,7 +33,6 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
-Augur
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -79,6 +78,7 @@ Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cemu
+Comic-Reader
 ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
@@ -109,9 +109,6 @@ Deployer
 Detect_It_Easy
 DevHub
 Diffuse
-Digitales_Klassenzimmer
-Disass
-Discord
 Eksplode.re
 ElDumper
 Electorrent
@@ -142,6 +139,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -164,7 +162,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
+Gingko
 Gulden
 HDRMerge
 HEAT1D
@@ -193,9 +191,8 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
-IrScrutinizer
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -248,7 +245,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MoarPerf
 Mob
 Mockman
 Monot
@@ -289,7 +285,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -377,7 +373,6 @@ Reactotron
 Rebaslight
 Record_Compare
 RedmineTimeTracker
-SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -404,10 +399,11 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
-SpeedyLoader
+Silverkey
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 Spivak
 Stacer
 Standard_Notes
@@ -438,6 +434,14 @@ SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
+SynfigStudio
+Synthein
+T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -465,7 +469,7 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-VLC
+WatchIt
 WebDesktop
 Webamp
 Wexond
@@ -542,8 +546,9 @@ fmradio
 four
 foxfolio
 fre:ac
-freeman
-gLabels
+hpack
+hsinstall
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -592,8 +597,10 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-moniteur-admin
-moolticute
+nordvpn-linux
+nvtop
+nx-software-center
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -618,8 +625,6 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-qpp::cad
-sabaki
 saphyr
 scavengers
 school-sections
@@ -665,7 +670,8 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-x-loc
+unreel
+updatedeployqt
 xde
 xemu
 xonsh
