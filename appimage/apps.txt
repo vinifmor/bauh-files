@@ -31,10 +31,9 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
 Beekeeper Studio
 Bitwarden
+Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
@@ -69,15 +68,14 @@ CPU-X
 CP_Editor
 CPod
 CRG_Data_Tool
-CRIC
-CRITERIA1D_PRO
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
-Catalyst_Browser
 Cemu
+ClementineRemote
+Cliniface
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Converter432Hz
@@ -104,11 +102,6 @@ DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
-Demonizer
-Deployer
-Detect_It_Easy
-DevHub
-Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -139,7 +132,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -162,7 +154,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
 Gulden
 HDRMerge
 HEAT1D
@@ -191,8 +182,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
+Intiface
+Invoice-Generator
+IrScrutinizer
+KADE
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -245,6 +238,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+MoarPerf
 Mob
 Mockman
 Monot
@@ -285,7 +279,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Obsidian
+Painel-Web
 Paletti
 PanWriter
 Panini
@@ -328,8 +322,6 @@ Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
-PraxisLIVE
-PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -404,6 +396,7 @@ SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
+Singlebox
 Spivak
 Stacer
 Standard_Notes
@@ -468,7 +461,7 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -504,7 +497,9 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
 bauh
+clippy
 cncjs
 colorstatic-bash
 cordlauncher
@@ -546,8 +541,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
+freeman
+gLabels
 htmldoc
 hugin
 huwinterpreter
@@ -597,9 +592,9 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
-nordvpn-linux
-nvtop
-nx-software-center
+moniteur-admin
+moolticute
+nimbus-weather
 nxshell
 ommpfritt
 onnx2bnn
@@ -625,9 +620,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
+puush-qt
+pyappimage
+python2
 ser-player
 simple-s3-uploader
 simple-timer
