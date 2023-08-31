@@ -31,9 +31,8 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
-Audacity
-AudioMoth
 Beekeeper Studio
+BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -65,10 +64,9 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
-CIAA_Suite
-CPU-X
-CP_Editor
 Cemu
+Circle-Z
+CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -100,6 +98,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -125,7 +124,7 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-Exportoo
+FocusWriter
 FontForge
 FontLet
 Fractale
@@ -151,10 +150,12 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
-Geometrize
-GetThermal
-Gifcurry
+GpgFrontend
+Gpredict
+GradeStats
+Graviton
+GridcoinResearch-5.4.5.0
+GrinPlusPlus
 Groot
 Guitar
 Gulden
@@ -184,9 +185,10 @@ ImpPoster
 Inboxer
 Infection_Monkey
 Infinitex
-Insight
-Intiface
-Invoice-Generator
+Kage
+Kanon
+KawAnime
+Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -240,7 +242,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -282,6 +283,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -323,6 +325,9 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
+PraxisLIVE
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -363,8 +368,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
-Record_Compare
+SMath_Studio
+SOIL_EDITOR
 SPlayer
 SUMOCO
 SUbillManager
@@ -413,8 +418,11 @@ Streamon
 Stunt_Car_Remake
 Substrate_IDE
 Subsurface
+Subtitle_Composer
+SultanPOS
+Summoners.War.Exporter
 SuperSlicer
-TeleDrive
+Syncplay
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -436,9 +444,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-Vipster
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -467,9 +475,7 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-appimagecraft
-appimagelint
-appimagetool
+ZY_Player
 appium-desktop
 autoEdit2
 avogadro
@@ -503,6 +509,8 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+elzabrowser
+four
 foxfolio
 fre:ac
 freeman
@@ -566,10 +574,9 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-mini-qml
-mira-backup
-mjml-app
-mki3dgame
+nordvpn-linux
+notepadqq
+noteshrink-qt
 nvtop
 nx-software-center
 nxshell
@@ -593,7 +600,7 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 pomotroid
-ridereceipts
+pretty-handy-privacy
 rmw
 runanode
 sabaki
@@ -634,11 +641,12 @@ tnt
 todo-bash
 torrenttools
 triagem-touch
-ttth
-tweet-tray
-twetter
-twitch-wrapper
-uncov
+vuerd
+weatherdump
+westeroscraftlauncher
+weweChat
+wezterm
+whiteboard
 whu-library-seat
 windows2usb
 wxMEdit
