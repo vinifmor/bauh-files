@@ -64,9 +64,8 @@ Bypass_Cors
 BytespeicherTrayIcon
 CARTA
 CATcher
+CIAA_Suite
 Cemu
-Circle-Z
-CircuitBlocks
 City_Hub
 CleepDesktop
 ClementineRemote
@@ -98,7 +97,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -127,10 +125,11 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
-FastQt
+Fractale
+Fraidycat
+Fraktal
+FranceTV
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -182,6 +181,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
+Intiface
 Kcov
 KeePassXC
 KeeWeb
@@ -236,8 +236,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -319,6 +317,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -386,6 +386,8 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+Soapy_SDR
+SocNetV
 Software-Challenge-GUI
 Sourcetrail
 Spark.Payments
@@ -407,10 +409,11 @@ Storaji
 Strata
 Streamlink
 Streamon
-Stunt_Car_Remake
-Substrate_IDE
-Subsurface
 SuperSlicer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 TeleDrive
 TeslaCam_Browser
 Tesseract
@@ -436,6 +439,7 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
+Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -463,8 +467,6 @@ YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 Yuna
-ZapDesktop
-ao
 appimagecraft
 appimagelint
 appimagetool
@@ -501,7 +503,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
-foxfolio
+elcalc
 fre:ac
 freeman
 gLabels
@@ -565,10 +567,8 @@ media-dupes
 media_mate
 meta-grabber
 mini-qml
-moolticute
-notepadqq
-noteshrink-qt
-nvtop
+mira-backup
+mjml-app
 nx-software-center
 nxshell
 ommpfritt
@@ -591,7 +591,6 @@ playyourdamnturn.com
 plotjuggler
 pnpm
 quokkagit
-rasterview
 ridereceipts
 rmw
 runanode
@@ -631,8 +630,9 @@ tipitaka_pali_reader
 tmon
 tnt
 todo-bash
-vue-calc
-vuerd
+torrenttools
+triagem-touch
+violetbug
 weatherdump
 westeroscraftlauncher
 weweChat
