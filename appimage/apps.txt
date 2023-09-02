@@ -32,7 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-AudioMoth
 Beekeeper Studio
 Bitwarden
 Bitwarden_Connector
@@ -73,10 +72,12 @@ CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
+Calculist
+Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Catalyst_Browser
 Cemu
-Colon
-ColorGenerator
-Colorpicker
 Comic-Reader
 ConsoleWorkbench
 Converter432Hz
@@ -99,8 +100,15 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
+Diffuse
 Eksplode.re
 ElDumper
 Electorrent
@@ -131,7 +139,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -154,8 +161,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Graviton
-Guitar
+GitHubDesktop
 Gulden
 HDRMerge
 HEAT1D
@@ -238,8 +244,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -282,7 +286,8 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Paletti
+Olive
+Onenote
 PanWriter
 Panini
 Paper
@@ -322,6 +327,10 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -366,8 +375,7 @@ Rebaslight
 Record_Compare
 RedmineTimeTracker
 ReliefValve
-SUMOCO
-SUbillManager
+Responsively
 SWC-Minecraft-Launcher
 Sabaki
 Safe_Multisig
@@ -395,8 +403,9 @@ SigmaSpectra
 Silverkey
 SimDSP
 Simdock
-Speaky_MiniPlayer
-Spectrum
+SimplEOS
+SimpleInstaBot
+Singlebox
 SpeedyLoader
 Spivak
 Stacer
@@ -431,6 +440,11 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
+TeleDrive
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -459,7 +473,7 @@ Upscayl
 V2Ray-Desktop
 VK_Desktop
 VLC
-WatchIt
+VNote
 WebDesktop
 Webamp
 Wexond
@@ -533,6 +547,7 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
+fmradio
 hero-display
 hotspot
 hpack
@@ -588,7 +603,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-nxshell
+nimbus-weather
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -613,10 +628,11 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-saphyr
-scavengers
-school-sections
-ser-player
+puush-qt
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -658,12 +674,13 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-wxMaxima
-x-loc
-xde
+unreel
+updatedeployqt
+upterm
+vCloudcam
+vREST_NG
+violetbug
 xemu
-xonsh
-yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
