@@ -29,10 +29,11 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
+AstroShutter
+Astroffers
+Audacity
+AudioMoth
 Beekeeper Studio
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -68,12 +69,11 @@ CIAA_Suite
 CPU-X
 CP_Editor
 CPod
+CRG_Data_Tool
+CRIC
+CRITERIA1D_PRO
+Cabal_Desktop_Mini
 Cemu
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
 Colon
 ColorGenerator
 Colorpicker
@@ -99,7 +99,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -132,7 +131,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -155,6 +153,9 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
+Graviton
+Guitar
 Gulden
 HDRMerge
 HEAT1D
@@ -183,8 +184,7 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
+Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
@@ -238,6 +238,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Minions
 Mirage
 MoarPerf
 Mob
@@ -280,7 +281,7 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
+Obsidian
 Paletti
 PanWriter
 Panini
@@ -363,7 +364,8 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-SPlayer
+RedmineTimeTracker
+ReliefValve
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -390,8 +392,9 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Sourcetrail
-Spark.Payments
+Silverkey
+SimDSP
+Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -426,6 +429,8 @@ Symphonium
 SyncMyL2P
 Syncplay
 SynfigStudio
+Synthein
+T.Viewer
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -451,8 +456,9 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-WalletTech
-WatchFlower
+V2Ray-Desktop
+VK_Desktop
+VLC
 WatchIt
 WebDesktop
 Webamp
@@ -487,8 +493,9 @@ Zulip
 accessimap-lecteur-der
 acreom
 ai-bot-workspace
+aillio-ts
+altair
 bauh
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -526,10 +533,9 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-fmradio
-four
-foxfolio
-fre:ac
+hero-display
+hotspot
+hpack
 hsinstall
 htmldoc
 hugin
@@ -582,6 +588,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -606,9 +613,9 @@ pretty-handy-privacy
 prismlauncher
 privacy.sexy
 protonmail-desktop
-puush-qt
-pyappimage
-python2
+saphyr
+scavengers
+school-sections
 ser-player
 simple-s3-uploader
 simple-timer
@@ -651,9 +658,9 @@ uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
-unreel
-updatedeployqt
-upterm
+wxMaxima
+x-loc
+xde
 xemu
 xonsh
 yaya
