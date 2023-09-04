@@ -32,8 +32,8 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
+AudioMoth
 Beekeeper Studio
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -70,6 +70,7 @@ CPU-X
 CP_Editor
 CPod
 Cemu
+City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -100,8 +101,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-DeDop-studio
-DeadGame-2048
+ERScaffold
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -132,8 +132,7 @@ F-CRM
 FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
-FranceTV
-Franz
+FastQt
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -185,8 +184,8 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
-IrScrutinizer
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -239,6 +238,7 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,7 +280,6 @@ OSRS_Tools
 OVideo
 OWASP Threat Dragon
 OWallet
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -322,6 +321,7 @@ Popsicle
 Postman
 PostyBirb
 PowerShell
+PowerliminalsPlayer
 ProtonUp-Qt
 PrusaSlicer
 QMediathekView
@@ -388,8 +388,10 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Software-Challenge-GUI
-Sourcetrail
+Shuttle
+SigDigger
+SigmaSpectra
+Silverkey
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
@@ -415,9 +417,18 @@ Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
+Sup
 SuperSlicer
-Tesseract
-ThermusQt
+Superpaper
+SwagLyrics
+SwiftnessX
+SwitchHosts!
+Symphonium
+SyncMyL2P
+Syncplay
+SynfigStudio
+Synthein
+T.Viewer
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -444,7 +455,8 @@ UniShellect
 Upscayl
 Upscayl
 V2Ray-Desktop
-VK_Desktop
+WalletTech
+WatchFlower
 WatchIt
 WebDesktop
 Webamp
@@ -478,6 +490,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ao
 bauh
 clippy
 clipr
@@ -517,7 +530,6 @@ feebas
 feedseries
 file-converter
 flameshot
-flightgear-airports
 hero-display
 hotspot
 hpack
@@ -570,7 +582,8 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-nvtop
+mki3dgame
+moniteur-admin
 nx-software-center
 nxshell
 ommpfritt
@@ -596,8 +609,8 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
-saphyr
-scavengers
+protonmail-desktop
+puush-qt
 school-sections
 ser-player
 simple-s3-uploader
@@ -643,9 +656,7 @@ unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
 updatedeployqt
-upterm
-vCloudcam
-windows2usb
+xde
 xemu
 xonsh
 yaya
