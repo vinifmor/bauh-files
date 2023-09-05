@@ -26,7 +26,7 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-Beatconnect_Client
+Audacity
 Beekeeper Studio
 Beekeeper_Studio
 Bench_CLI
@@ -55,11 +55,10 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-Cabal_Desktop_Mini
-Calculist
-Carpenters
-Cascade_Image_Editor
-CasterSoundboard
+BscanFFTwebcam
+Buche
+Buckets
+BulkReviewer
 Catalyst_Browser
 Cate-Desktop
 Cavoke
@@ -94,8 +93,7 @@ CubicSDR
 Cura
 CustomRPC
 CutePeaks
-Discord
-DockStation
+CuteVariant
 DokiDokiModManager
 Downline
 Dragoman
@@ -130,9 +128,9 @@ Explorook
 Exportoo
 EyeStalker
 F-CRM
-FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+Fractale
+Fraidycat
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -154,6 +152,8 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
+GitQlient
+GradeStats
 Graviton
 GridcoinResearch-5.4.5.0
 GrinPlusPlus
@@ -181,10 +181,9 @@ ImHex
 ImageMosaicWall
 ImagePlay
 Imagine
-ImapSyncClient
-ImpPoster
-Inboxer
-Infection_Monkey
+Julius
+KADE
+KDiskMark
 KOReader
 Kage
 Kanon
@@ -240,9 +239,9 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
-Mattermost_Desktop
+MiniZinc_IDE
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -276,12 +275,10 @@ NoTer
 Nostlan
 Notable
 NoteMaster
-OCRmyPDF
-OCVWarp
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
 OWASP Threat Dragon
+PDFQuirk
+PIA
+POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -323,9 +320,11 @@ Poddr
 Podman
 PolkaKey
 Popsicle
-Postman
+PowerliminalsPlayer
 ProtonUp-Qt
 PrusaSlicer
+QHot
+QMPlay2
 QMediathekView
 QNapi
 QPrompt
@@ -409,9 +408,11 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
-Strata
 SuperSlicer
+SwagLyrics
+Syncplay
+SynfigStudio
+Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
@@ -442,8 +443,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-V2Ray-Desktop
-Valeronoi
 Vitomu
 VivifyScrum
 VizGraph
@@ -501,8 +500,8 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-falcon-sql-client
-feebas
+dukto
+dvdisaster
 feedseries
 file-converter
 flameshot
@@ -572,7 +571,7 @@ mdview
 media-dupes
 media_mate
 meta-grabber
-nordvpn-linux
+mini-qml
 notepadqq
 noteshrink-qt
 nvtop
@@ -597,6 +596,7 @@ pkg2appimage
 playyourdamnturn.com
 plotjuggler
 pnpm
+rasterview
 ridereceipts
 rmw
 runanode
@@ -631,9 +631,9 @@ tc
 theFrame
 theWeb
 thorium-client
-timer
-tipitaka_pali_reader
-tmon
+vCloudcam
+vREST_NG
+vifm
 violetbug
 vue-calc
 vuerd
