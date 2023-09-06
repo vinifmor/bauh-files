@@ -25,10 +25,7 @@ Archipel
 Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
-Arma_3_Unix_Launcher
-Armagetron_Advanced
 Beekeeper Studio
-Beekeeper_Studio
 Bench_CLI
 BetterSIS
 Bezique
@@ -99,6 +96,7 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
+Deployer
 Dust3D
 Dwyco_Phoo
 ERScaffold
@@ -126,7 +124,7 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-FocusWriter
+Exportoo
 FontForge
 FontLet
 Fractale
@@ -152,7 +150,6 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-GpgFrontend
 Gpredict
 GradeStats
 Graviton
@@ -182,8 +179,6 @@ ImHex
 ImageMosaicWall
 ImagePlay
 Imagine
-Infinitex
-Juggernaut
 Julius
 KADE
 KDiskMark
@@ -244,7 +239,6 @@ Mark_Mind
 Markman
 Martian
 MasterVyrn
-Mattermost_Desktop
 Minions
 Mirage
 MoarPerf
@@ -320,13 +314,13 @@ Playbox
 PlotJuggler
 Plover
 PocketCasts_Electron
+Poddr
+Podman
+PolkaKey
+Popsicle
+Postman
 ProtonUp-Qt
 PrusaSlicer
-Puppetry
-Python
-QDriverStation
-QEMU_PowerPC
-QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -366,7 +360,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
 SMathStudio
 SMath_Studio
 SOIL_EDITOR
@@ -394,7 +387,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sourcetrail
 Spark.Payments
@@ -413,7 +405,6 @@ Stellarium
 StockStalk
 StopLight
 Storaji
-Strata
 SuperSlicer
 T.Viewer
 Tablo_Tools
@@ -442,8 +433,6 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
-TweakSophia
-UHK.Agent
 Upscayl
 VirtScreen
 Vitomu
@@ -472,7 +461,7 @@ XPEViewer
 YUView
 YangDownloader
 YesPlayMusic
-YouTubeSearchFilter
+antimicroX
 ao
 appimagecraft
 appimagelint
@@ -505,8 +494,7 @@ dingtalk
 draw.io
 dukto
 dvdisaster
-feedseries
-file-converter
+eDEX-UI
 flameshot
 flightgear-airports
 fmradio
@@ -573,9 +561,8 @@ marlin-conf
 mdview
 media-dupes
 media_mate
-movie-monad
+meta-grabber
 nheko
-nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -600,7 +587,7 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-qpp::cad
+plotjuggler
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -638,8 +625,10 @@ tc
 theFrame
 theWeb
 thorium-client
-vREST_NG
-vifm
+timer
+tipitaka_pali_reader
+tmon
+torrenttools
 violetbug
 vue-calc
 vuerd
