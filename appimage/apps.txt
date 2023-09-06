@@ -32,7 +32,6 @@ AsarUI
 AstroShutter
 Astroffers
 Audacity
-Axe_Electrum
 Beekeeper Studio
 Bitwarden
 Bitwarden_Connector
@@ -68,13 +67,14 @@ CATcher
 CIAA_Suite
 CPU-X
 CP_Editor
+CPod
+CRG_Data_Tool
+CRIC
+CRITERIA1D_PRO
+Cabal_Desktop_Mini
+Calculist
+Carpenters
 Cemu
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
 Colon
 ColorGenerator
 Colorpicker
@@ -100,10 +100,14 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dust3D
-Dwyco_Phoo
-ERScaffold
-Eagle_Mode
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
+Deployer
+Detect_It_Easy
+DevHub
 Eksplode.re
 ElDumper
 Electorrent
@@ -134,7 +138,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -157,6 +160,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+Gingko
 Guitar
 Gulden
 HDRMerge
@@ -186,8 +190,10 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Kcov
-KeePassXC
+Intiface
+Invoice-Generator
+JoalDesktop
+KawAnime
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -240,7 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mirage
 MoarPerf
 Mob
 Mockman
@@ -280,6 +285,7 @@ ONLYOFFICE
 OSRS_Tools
 OVideo
 OWASP Threat Dragon
+OWallet
 Painel-Web
 Paletti
 PanWriter
@@ -323,6 +329,7 @@ Postman
 PostyBirb
 ProtonUp-Qt
 PrusaSlicer
+QMPlay2
 QMediathekView
 QNapi
 QPrompt
@@ -363,6 +370,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
@@ -391,8 +399,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
-Speaky_MiniPlayer
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -430,7 +438,6 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
-Taskizer
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -456,7 +463,8 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
-WalletTech
+V2Ray-Desktop
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -491,9 +499,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-clippy
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -527,9 +536,14 @@ evoplex
 fSpy
 falcon-sql-client
 feebas
-gsubs
-guglielmo
-guiscrcpy
+feedseries
+file-converter
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+glulxe
 hero-display
 hotspot
 hpack
@@ -582,7 +596,6 @@ meta-grabber
 mini-qml
 mira-backup
 mjml-app
-mki3dgame
 nx-software-center
 nxshell
 ommpfritt
@@ -608,6 +621,8 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy.sexy
+protonmail-desktop
+sabaki
 saphyr
 scavengers
 school-sections
@@ -654,6 +669,8 @@ unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
+updatedeployqt
+upterm
 xde
 xemu
 xonsh
