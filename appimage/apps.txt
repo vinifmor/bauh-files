@@ -26,8 +26,9 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
 Beekeeper Studio
-Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -58,8 +59,6 @@ Buche
 Buckets
 BulkReviewer
 BulkURLOpener
-BunqDesktop
-Burning-Series
 Cavoke
 Cemu
 Cerebral-Debugger
@@ -96,8 +95,8 @@ CuteVariant
 DFileManager
 Dana
 Datcord
-DawnlightSearch
-DbGate
+Drill
+Dust3D
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -124,6 +123,7 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
+Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -179,9 +179,8 @@ ImHex
 ImageMosaicWall
 ImagePlay
 Imagine
-Juggernaut
-Julius
-KADE
+ImapSyncClient
+ImpPoster
 KDiskMark
 KOReader
 Kage
@@ -241,7 +240,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -274,9 +272,10 @@ NixNote
 NoTer
 Nostlan
 Notable
-NoteMaster
-OCVWarp
 OWASP Threat Dragon
+Outline-Manager
+P2PDerivatives
+PDFQuirk
 PIA
 POE_Ladder
 PacketSender
@@ -307,21 +306,20 @@ Pile
 Pingendo
 Pingnoo
 Pixsrt
-Plag_Patrol
-Planes
-Planet_Blupi
-PlayMe
-Play_2048
-Playbox
-PlotJuggler
-Plover
-PocketCasts_Electron
-Poddr
-Podman
-PolkaKey
-Popsicle
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
+Pullp
+Pulsar
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -362,7 +360,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
 SMath_Studio
 SOIL_EDITOR
 SPlayer
@@ -388,7 +385,6 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
 SocNetV
 Software-Challenge-GUI
 Sourcetrail
@@ -405,10 +401,9 @@ SteamCAD
 Steem_Messenger
 Stele
 Stellarium
-StockStalk
-StopLight
-Storaji
 SuperSlicer
+Syncplay
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -437,9 +432,8 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
 Upscayl
-Verto
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -464,8 +458,7 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-altair
-android-messages-desktop
+YangDownloader
 antimicroX
 ao
 appimagecraft
@@ -496,7 +489,7 @@ devdocs-desktop
 dexter_dev_env
 dfDemo
 dingtalk
-element
+draw.io
 fSpy
 falcon-sql-client
 feebas
@@ -565,7 +558,7 @@ mapollage
 mapton
 marktext
 marlin-conf
-ngrev
+mdview
 nheko
 nimbus-weather
 nmap
@@ -591,8 +584,7 @@ photoname
 pigs-n-cows
 pingviewer
 pkg2appimage
-playyourdamnturn.com
-plotjuggler
+qr-code-generator-desktop
 quokkagit
 rasterview
 ridereceipts
@@ -630,7 +622,6 @@ theFrame
 theWeb
 thorium-client
 timer
-tnt
 vREST_NG
 vifm
 violetbug
