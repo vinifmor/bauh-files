@@ -24,9 +24,13 @@ ArcadeManager
 Archipel
 Archipelago
 Arduino_IDE
-Beatconnect_Client
+Ark.Desktop.Wallet
+Arma_3_Unix_Launcher
+Armagetron_Advanced
+Artisan
+AudioMoth
+BTS-CE-Lite
 Beekeeper Studio
-Beekeeper_Studio
 Bench_CLI
 BetterSIS
 Bezique
@@ -55,7 +59,7 @@ BrainWaves
 BrickStore
 BscanFFTwebcam
 Buche
-Carpenters
+Buckets
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
@@ -93,7 +97,6 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
-DockStation
 DokiDokiModManager
 Downline
 Dragoman
@@ -125,10 +128,10 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-Exportoo
-EyeStalker
-F-CRM
-FAT_Wallet
+FocusWriter
+FontForge
+FontLet
+Fractale
 Fraidycat
 Fraktal
 FranceTV
@@ -151,7 +154,8 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
-Genesis
+GpgFrontend
+Gpredict
 GradeStats
 Graviton
 GridcoinResearch-5.4.5.0
@@ -180,10 +184,9 @@ ImHex
 ImageMosaicWall
 ImagePlay
 Imagine
-ImapSyncClient
-ImpPoster
-Inboxer
-Infection_Monkey
+Julius
+KADE
+KDiskMark
 KOReader
 Kage
 Kanon
@@ -318,9 +321,9 @@ PlotJuggler
 Plover
 PocketCasts_Electron
 Poddr
-Podman
 ProtonUp-Qt
 PrusaSlicer
+QDriverStation
 QEMU_PowerPC
 QHot
 QMPlay2
@@ -362,8 +365,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
-SMathStudio
 SMath_Studio
 SOIL_EDITOR
 SPlayer
@@ -390,6 +391,7 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
+SnippetStore
 SocNetV
 Software-Challenge-GUI
 Sourcetrail
@@ -405,9 +407,6 @@ StatusPilatus
 SteamCAD
 Steem_Messenger
 Stele
-Stellarium
-Streamlink
-Summoners.War.Exporter
 SuperSlicer
 SyncMyL2P
 Syncplay
@@ -443,8 +442,6 @@ Tutanota
 TweakSophia
 UHK.Agent
 Upscayl
-Videomass
-Vipster
 VirtScreen
 Vitomu
 VivifyScrum
@@ -471,6 +468,7 @@ XELFViewer
 XPEViewer
 YUView
 YangDownloader
+YesPlayMusic
 antimicroX
 ao
 appimagecraft
@@ -502,7 +500,10 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-dukto
+eDEX-UI
+fSpy
+falcon-sql-client
+feebas
 feedseries
 file-converter
 flameshot
@@ -569,8 +570,7 @@ mapton
 marktext
 marlin-conf
 mdview
-media-dupes
-media_mate
+nimbus-weather
 nmap
 nordvpn-linux
 notepadqq
@@ -595,7 +595,8 @@ pigs-n-cows
 pingviewer
 pkg2appimage
 playyourdamnturn.com
-plotjuggler
+puush-qt
+python3
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -630,6 +631,7 @@ tT
 tagspaces
 tastee-ui
 tc
+tnt
 unofficial-zalo
 unreel
 updatedeployqt
