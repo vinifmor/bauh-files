@@ -31,8 +31,8 @@ Artisan
 AsarUI
 AstroShutter
 Astroffers
+Audacity
 Beekeeper Studio
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -66,11 +66,11 @@ CARTA
 CATcher
 CIAA_Suite
 CPU-X
+CP_Editor
+CPod
+CRG_Data_Tool
+CRIC
 Cemu
-City_Hub
-CleepDesktop
-ClementineRemote
-Cliniface
 Cloud_Browser
 Code_OSS
 Colon
@@ -98,7 +98,6 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
 ERScaffold
 Eagle_Mode
 Eksplode.re
@@ -154,6 +153,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
+GitHubDesktop
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -184,7 +185,6 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-James
 KawAnime
 Kcov
 KeePassXC
@@ -274,10 +274,11 @@ NoTer
 Nostlan
 Notable
 NoteMaster
+OCVWarp
+OCVvid2fulldome
+OCVvid2fulldome.txt
+ONLYOFFICE
 OWASP Threat Dragon
-PDFQuirk
-PIA
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -316,11 +317,11 @@ PlotJuggler
 Plover
 PocketCasts_Electron
 Poddr
-Podman
-PolkaKey
-Popsicle
 ProtonUp-Qt
 PrusaSlicer
+Python
+QDriverStation
+QEMU_PowerPC
 QHot
 QMPlay2
 QMediathekView
@@ -361,7 +362,7 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-Rebaslight
+RoloViewer
 SMath_Studio
 SOIL_EDITOR
 SPlayer
@@ -388,7 +389,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-SocNetV
 Software-Challenge-GUI
 Sourcetrail
 Spark.Payments
@@ -408,14 +408,13 @@ StockStalk
 StopLight
 Storaji
 Strata
+Streamlink
+Streamon
+Stunt_Car_Remake
+Substrate_IDE
+Subsurface
+Subtitle_Composer
 SuperSlicer
-Synthein
-T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
-TeleDrive
 TeslaCam_Browser
 Tesseract
 ThermusQt
@@ -439,8 +438,8 @@ Tusk
 Tutanota
 TweakSophia
 UHK.Agent
-UniShellect
 Upscayl
+Vitomu
 VivifyScrum
 VizGraph
 WalletTech
@@ -503,6 +502,7 @@ eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
+four
 foxfolio
 fre:ac
 freeman
@@ -564,7 +564,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media_mate
 nmap
 nordvpn-linux
 notepadqq
@@ -627,6 +626,7 @@ theWeb
 thorium-client
 timer
 tipitaka_pali_reader
+vifm
 violetbug
 vue-calc
 vuerd
