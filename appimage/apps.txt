@@ -26,10 +26,8 @@ Archipelago
 Arduino_IDE
 Ark.Desktop.Wallet
 Arma_3_Unix_Launcher
-AsarUI
+AudioMoth
 Beekeeper Studio
-Beekeeper_Studio
-Bench_CLI
 BetterSIS
 Bezique
 BilibiliVideoDownload
@@ -58,12 +56,10 @@ BrickStore
 BscanFFTwebcam
 Buche
 Buckets
-Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
 Cavoke
-Cemu
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -92,9 +88,10 @@ Cryptr
 Cscrypto
 CubicSDR
 Cura
-CustomRPC
-CutePeaks
-CuteVariant
+Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
 DokiDokiModManager
 Downline
 Dragoman
@@ -126,8 +123,8 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-Exportoo
-EyeStalker
+FontForge
+FontLet
 Fractale
 Fraidycat
 Fraktal
@@ -151,6 +148,9 @@ GVim
 GXC_Smart_Contract_IDE
 Galacteek
 GameHub
+Google_Tasks_Desktop
+GpgFrontend
+Gpredict
 GradeStats
 Graviton
 GridcoinResearch-5.4.5.0
@@ -176,7 +176,6 @@ INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 ImExample
-JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -239,9 +238,8 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
-Mattermost_Desktop
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -271,11 +269,10 @@ Nextcloud
 Nexus_Wallet
 Niffler
 Nitrokey
-NixNote
-NoTer
-Nostlan
-Notable
 OWASP Threat Dragon
+OpenBlok
+OpenTodoList
+Open_Markup_Editor
 Outline-Manager
 P2PDerivatives
 PDFQuirk
@@ -305,10 +302,7 @@ PhotoQuick
 Photopea
 PhreshPlayer
 PicGo
-Pile
-Pingendo
-Pingnoo
-Pixsrt
+PowerShell
 PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
@@ -366,8 +360,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-RyoWallet
-SMPlayer
 SMathStudio
 SMath_Studio
 SOIL_EDITOR
@@ -394,7 +386,6 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
-Shotcut
 SocNetV
 Software-Challenge-GUI
 Sourcetrail
@@ -413,8 +404,8 @@ Stele
 Stellarium
 StockStalk
 StopLight
-Storaji
 SuperSlicer
+SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -442,8 +433,7 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Upscayl
-Vipster
+Tutanota
 VirtScreen
 Vitomu
 VivifyScrum
@@ -467,9 +457,8 @@ Wsocks
 XChat
 XClicker
 XELFViewer
-XPEViewer
-YUView
-YangDownloader
+altair
+android-messages-desktop
 antimicroX
 ao
 appimagecraft
@@ -498,9 +487,8 @@ deb2appimage
 deltachat-desktop
 devdocs-desktop
 dexter_dev_env
-dfDemo
-dingtalk
-draw.io
+evoplex
+fSpy
 falcon-sql-client
 feebas
 feedseries
@@ -565,7 +553,8 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-neovim
+mapton
+marktext
 ngPost
 ngrev
 nheko
@@ -592,8 +581,6 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-pnpm
-prismlauncher
 qikQR
 qpdf
 qpp::cad
@@ -629,9 +616,8 @@ subtitles-composer-app
 swradio
 tT
 tagspaces
-tastee-ui
-tc
-thorium-client
+unoffical-sonos-controller-for-linux
+unofficial-zalo
 unreel
 updatedeployqt
 upterm
@@ -652,7 +638,6 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xemu
 xonsh
 yaya
 youtube-music
