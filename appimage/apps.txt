@@ -29,11 +29,10 @@ Arma_3_Unix_Launcher
 Armagetron_Advanced
 Artisan
 AsarUI
+AstroShutter
+Astroffers
+Audacity
 Beekeeper Studio
-Bezique
-BilibiliVideoDownload
-Birds_Kitchen
-BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
@@ -61,10 +60,11 @@ BulkReviewer
 BulkURLOpener
 BunqDesktop
 Burning-Series
+Bypass_Cors
+BytespeicherTrayIcon
+CARTA
+CATcher
 Cemu
-Cerebral-Debugger
-ChainX_Signer
-Chiaki
 Circle-Z
 CircuitBlocks
 City_Hub
@@ -97,6 +97,7 @@ DFileManager
 Dana
 Datcord
 DawnlightSearch
+DbGate
 Dwyco_Phoo
 ERScaffold
 Eagle_Mode
@@ -127,8 +128,8 @@ Exportoo
 EyeStalker
 F-CRM
 FAT_Wallet
-FF-Password-Exporter
-FMS_File_Explorer
+Fraidycat
+Fraktal
 FranceTV
 Franz
 Frappe_Accounting
@@ -151,7 +152,7 @@ Galacteek
 GameHub
 Genesis
 Geometrize
-GetThermal
+GridcoinResearch-5.4.5.0
 GrinPlusPlus
 Groot
 Guitar
@@ -181,8 +182,8 @@ Imagine
 ImapSyncClient
 ImpPoster
 Inboxer
-Infection_Monkey
-Infinitex
+KDiskMark
+KOReader
 Kage
 Kanon
 KawAnime
@@ -240,7 +241,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
 Minions
 Mirage
 MoarPerf
@@ -277,7 +277,6 @@ Nostlan
 Notable
 NoteMaster
 OWASP Threat Dragon
-P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
@@ -318,6 +317,7 @@ Playbox
 PlotJuggler
 Plover
 PocketCasts_Electron
+Poddr
 ProtonUp-Qt
 PrusaSlicer
 Python
@@ -363,7 +363,6 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMPlayer
 SMathStudio
 SMath_Studio
 SOIL_EDITOR
@@ -390,6 +389,7 @@ Shannon_Calculator
 ShareMyHost
 Sharp-Tune
 Sheikah
+Shotcut
 SocNetV
 Software-Challenge-GUI
 Sourcetrail
@@ -408,8 +408,8 @@ Stele
 Stellarium
 StockStalk
 StopLight
+Storaji
 SuperSlicer
-SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
@@ -438,9 +438,9 @@ TurboWarp
 Turntable
 Tusk
 Tutanota
+TweakSophia
+UHK.Agent
 Upscayl
-Vipster
-VirtScreen
 Vitomu
 VivifyScrum
 VizGraph
@@ -466,6 +466,7 @@ XELFViewer
 XPEViewer
 YUView
 YangDownloader
+YesPlayMusic
 antimicroX
 ao
 appimagecraft
@@ -497,8 +498,9 @@ dexter_dev_env
 dfDemo
 dingtalk
 draw.io
-dukto
-dvdisaster
+fSpy
+falcon-sql-client
+feebas
 feedseries
 file-converter
 flameshot
@@ -564,9 +566,11 @@ mapollage
 mapton
 marktext
 marlin-conf
-nheko
-nimbus-weather
-nmap
+mdview
+media-dupes
+media_mate
+meta-grabber
+neovim
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -591,6 +595,7 @@ pingviewer
 pkg2appimage
 playyourdamnturn.com
 plotjuggler
+pnpm
 quokkagit
 rasterview
 ridereceipts
@@ -628,8 +633,7 @@ theFrame
 theWeb
 thorium-client
 timer
-tipitaka_pali_reader
-tmon
+vifm
 violetbug
 vue-calc
 vuerd
