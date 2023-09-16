@@ -79,9 +79,9 @@ Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
-Cavoke
 Cemu
-Cerebral-Debugger
+Converter432Hz
+Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
@@ -114,6 +114,7 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
+Dust3D
 ElDumper
 Electorrent
 ElectroCRUD
@@ -143,6 +144,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Franz
 Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
@@ -166,8 +168,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Guitar
-Gulden
 HDRMerge
 HEAT1D
 HastyHeroes
@@ -199,8 +199,7 @@ Insight
 Intiface
 Invoice-Generator
 IrScrutinizer
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -251,7 +250,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Minions
 Mirage
 MoarPerf
 Mob
@@ -291,9 +289,8 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -335,6 +332,13 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -405,8 +409,7 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Silverkey
-SimDSP
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -443,10 +446,6 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
-Tablo_Tools
-TagTime-desktop
-Taskizer
-TeXstudio
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -472,6 +471,7 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
+V2Ray-Desktop
 WalletTech
 WatchFlower
 WatchIt
@@ -507,10 +507,10 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
+aillio-ts
+altair
 bauh
-clippy
-clipr
-cncjs
 colorstatic-bash
 cordlauncher
 cric
@@ -551,10 +551,10 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
-hugin
+freeman
+gLabels
+gerbv
+getswell
 huwinterpreter
 hw-probe
 hyper
@@ -604,6 +604,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -678,7 +679,6 @@ updatedeployqt
 upterm
 vCloudcam
 vREST_NG
-weweChat
 xemu
 yaya
 youtube-music
