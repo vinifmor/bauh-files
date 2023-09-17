@@ -79,11 +79,10 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
+Cate-Desktop
+Cavoke
 Cemu
-ConsoleWorkbench
-Converter432Hz
-Cool_Retro_Term
-CozyDrive
+Cerebral-Debugger
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -112,6 +111,17 @@ DevHub
 Diffuse
 Digitales_Klassenzimmer
 Disass
+Discord
+DockStation
+DokiDokiModManager
+Downline
+Dragoman
+Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -141,7 +151,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
+Fidias_Database_Migration_App
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -164,7 +174,7 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-Gulden
+GitHubDesktop
 HDRMerge
 HEAT1D
 HastyHeroes
@@ -194,10 +204,9 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Kcov
-KeePassXC
-KeeWeb
-Keibo-MoneyTracker-x86_64
+Invoice-Generator
+IrScrutinizer
+Isolate
 KettleClient
 KevEdit
 KeyManager
@@ -248,8 +257,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-Mini_Diary
-Minions
 Mirage
 MoarPerf
 Mob
@@ -288,9 +295,9 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
+OVideo
 OWASP Threat Dragon
-PacketSender
-Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -375,7 +382,6 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
-RedmineTimeTracker
 SPlayer
 SUMOCO
 SUbillManager
@@ -405,8 +411,8 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Spark.Payments
-Speaky_MiniPlayer
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -446,6 +452,7 @@ Tablo_Tools
 TagTime-desktop
 Taskizer
 TeXstudio
+TeleDrive
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -473,9 +480,7 @@ Upscayl
 Upscayl
 V2Ray-Desktop
 VK_Desktop
-WatchFlower
-WatchIt
-WebDesktop
+VLC
 Webamp
 Wexond
 Whalebird
@@ -509,6 +514,7 @@ accessimap-lecteur-der
 acreom
 ai-bot-workspace
 aillio-ts
+altair
 bauh
 cncjs
 colorstatic-bash
@@ -552,7 +558,7 @@ four
 foxfolio
 fre:ac
 freeman
-gLabels
+htmldoc
 hugin
 huwinterpreter
 hw-probe
@@ -603,7 +609,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
-movie-monad
+nxshell
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -631,8 +637,8 @@ protonmail-desktop
 puush-qt
 pyappimage
 python2
-python3
-qBittorrent_Enhanced_Edition
+ser-player
+simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
@@ -679,9 +685,8 @@ upterm
 vCloudcam
 vREST_NG
 vifm
+violetbug
 xemu
-youtube-music
-ytDownloader
 yuzu
 zograscope
 zsync2
