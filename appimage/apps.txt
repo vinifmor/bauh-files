@@ -74,11 +74,11 @@ CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
 Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Catalyst_Browser
+Cate-Desktop
 Cemu
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
@@ -109,6 +109,7 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
 ElDumper
 Electorrent
 ElectroCRUD
@@ -160,7 +161,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Guitar
+Gingko
 Gulden
 HDRMerge
 HEAT1D
@@ -190,9 +191,9 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-KawAnime
-Kcov
-KeePassXC
+Intiface
+Invoice-Generator
+IrScrutinizer
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -245,9 +246,6 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
-MeowSQL
-Mini_Diary
-Minions
 Mirage
 MoarPerf
 Mob
@@ -286,9 +284,10 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
-OSRS_Tools
-OVideo
 OWASP Threat Dragon
+POE_Ladder
+PacketSender
+Padloc
 Painel-Web
 Paletti
 PanWriter
@@ -400,7 +399,9 @@ Shotcut
 Shuttle
 SigDigger
 SigmaSpectra
-Spark.Payments
+Silverkey
+SimDSP
+Simdock
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -437,6 +438,8 @@ Syncplay
 SynfigStudio
 Synthein
 T.Viewer
+Tablo_Tools
+TagTime-desktop
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -461,7 +464,7 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-WalletTech
+Upscayl
 WatchFlower
 WatchIt
 WebDesktop
@@ -495,6 +498,7 @@ Znax
 Zoom
 Zulip
 accessimap-lecteur-der
+acreom
 bauh
 clippy
 clipr
@@ -533,8 +537,12 @@ falcon-sql-client
 feebas
 feedseries
 file-converter
-hero-display
-hotspot
+flameshot
+flightgear-airports
+fmradio
+four
+foxfolio
+fre:ac
 hpack
 hsinstall
 htmldoc
@@ -616,7 +624,7 @@ puush-qt
 pyappimage
 python2
 python3
-simple-s3-uploader
+qBittorrent_Enhanced_Edition
 simple-timer
 simplechroot
 slang-ed
@@ -662,9 +670,9 @@ updatedeployqt
 upterm
 vCloudcam
 vREST_NG
-vifm
-violetbug
 xemu
+youtube-music
+youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
