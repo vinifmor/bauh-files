@@ -33,6 +33,8 @@ AstroShutter
 Astroffers
 Audacity
 AudioMoth
+Augur
+Auryo
 Beekeeper Studio
 Bitwarden
 Black_Chocobo
@@ -77,8 +79,8 @@ Carpenters
 Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
-Cate-Desktop
 Cemu
+ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
@@ -192,8 +194,8 @@ Infection_Monkey
 Infinitex
 Insight
 Intiface
-Invoice-Generator
-IrScrutinizer
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -246,6 +248,8 @@ Markman
 Martian
 MasterVyrn
 Mattermost_Desktop
+Mini_Diary
+Minions
 Mirage
 MoarPerf
 Mob
@@ -285,7 +289,6 @@ OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
 OWASP Threat Dragon
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -372,6 +375,7 @@ RawTherapee
 Reactotron
 Rebaslight
 Record_Compare
+RedmineTimeTracker
 SPlayer
 SUMOCO
 SUbillManager
@@ -401,7 +405,7 @@ SigDigger
 SigmaSpectra
 Silverkey
 SimDSP
-Simdock
+Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
@@ -440,6 +444,8 @@ Synthein
 T.Viewer
 Tablo_Tools
 TagTime-desktop
+Taskizer
+TeXstudio
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -465,6 +471,8 @@ UltraScreen
 UniShellect
 Upscayl
 Upscayl
+V2Ray-Desktop
+VK_Desktop
 WatchFlower
 WatchIt
 WebDesktop
@@ -499,9 +507,9 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+ai-bot-workspace
+aillio-ts
 bauh
-clippy
-clipr
 cncjs
 colorstatic-bash
 cordlauncher
@@ -543,9 +551,8 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
-hsinstall
-htmldoc
+freeman
+gLabels
 hugin
 huwinterpreter
 hw-probe
@@ -596,6 +603,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+movie-monad
 ommpfritt
 onnx2bnn
 onnx2daq
@@ -670,9 +678,9 @@ updatedeployqt
 upterm
 vCloudcam
 vREST_NG
+vifm
 xemu
 youtube-music
-youtube-music-desktop
 ytDownloader
 yuzu
 zograscope
