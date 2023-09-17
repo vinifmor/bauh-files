@@ -75,11 +75,11 @@ CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
 Carpenters
+Cascade_Image_Editor
+CasterSoundboard
+Catalyst_Browser
+Cate-Desktop
 Cemu
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
@@ -137,7 +137,6 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
-Frappe_Accounting
 FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
@@ -159,8 +158,6 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
 Gulden
 HDRMerge
 HEAT1D
@@ -190,9 +187,8 @@ Inboxer
 Infection_Monkey
 Infinitex
 Insight
-Intiface
-Invoice-Generator
-IrScrutinizer
+Kcov
+KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86_64
 KettleClient
@@ -284,8 +280,8 @@ OCVWarp
 OCVvid2fulldome
 OCVvid2fulldome.txt
 ONLYOFFICE
+OSRS_Tools
 OWASP Threat Dragon
-POE_Ladder
 PacketSender
 Padloc
 Painel-Web
@@ -329,7 +325,6 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -371,9 +366,8 @@ Rats_on_The_Boat
 Raven_Reader
 RawTherapee
 Reactotron
-SMathStudio
-SMath_Studio
-SOIL_EDITOR
+Rebaslight
+Record_Compare
 SPlayer
 SUMOCO
 SUbillManager
@@ -402,8 +396,9 @@ Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
-Spark.Payments
-Speaky_MiniPlayer
+SimDSP
+Simdock
+SimplEOS
 Spectrum
 SpeedyLoader
 Spivak
@@ -440,6 +435,9 @@ SynfigStudio
 Synthein
 T.Viewer
 Tablo_Tools
+TagTime-desktop
+Taskizer
+TeXstudio
 Thorium_Reader
 Thunderbird
 Thunderbird_Beta
@@ -462,6 +460,8 @@ TweakSophia
 UHK.Agent
 UltraGrid
 UltraScreen
+UniShellect
+Upscayl
 Upscayl
 WalletTech
 WatchFlower
@@ -499,7 +499,6 @@ Zulip
 accessimap-lecteur-der
 acreom
 bauh
-caprine
 clippy
 clipr
 cncjs
@@ -539,9 +538,10 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-hero-display
-hotspot
-hpack
+fmradio
+four
+foxfolio
+fre:ac
 hsinstall
 htmldoc
 hugin
@@ -619,8 +619,9 @@ prismlauncher
 privacy.sexy
 protonmail-desktop
 puush-qt
-pyappimage
-python2
+scavengers
+school-sections
+ser-player
 simple-s3-uploader
 simple-timer
 simplechroot
@@ -665,8 +666,11 @@ unofficial-zalo
 unreel
 updatedeployqt
 upterm
-vCloudcam
+vREST_NG
+xde
 xemu
+xonsh
+yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
