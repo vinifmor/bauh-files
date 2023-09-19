@@ -23,6 +23,7 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
+Bazecor
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -46,8 +47,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
-BrainVerse
+CRIC
+CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -78,9 +79,9 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
-Crypter
-Cryptr
+Demonizer
+Deployer
+Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
@@ -157,7 +158,6 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -169,8 +169,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImExample
-ImHex
+ImagePlay
+JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -198,12 +198,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
-LPub3D
-Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -227,7 +221,6 @@ Mapeo
 Mark_Mind
 Markman
 Martian
-MasterVyrn
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -257,9 +250,7 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Olive
-Onenote
-Onshape
+Nexus_Wallet
 Onyx
 OpenAudible
 OpenBlok
@@ -284,8 +275,6 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-PlayMe
-Play_2048
 Playbox
 PlotJuggler
 Plover
@@ -350,7 +339,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SF_Tube
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -371,7 +361,8 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
+SlackBackup
+Slacktronic
 Slippi
 SmallBASIC
 SmartGit
@@ -422,6 +413,8 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
+Tusk
+Tutanota
 Viper_Browser
 Vipster
 VirtScreen
@@ -441,9 +434,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Workbench
-YouTubeSearchFilter
-Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -505,7 +495,9 @@ guiscrcpy
 hero-display
 hotspot
 hpack
-jscad-desktop
+hsinstall
+htmldoc
+hugin
 jumpfm
 keyrier-json
 kitupiikki
@@ -528,7 +520,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-neovim
+marktext
 ngPost
 ngrev
 nheko
@@ -552,7 +544,6 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-qSdrSwr
 qTox
 qhot
 qikQR
@@ -587,7 +578,6 @@ storyboarder
 strans
 stretchly
 subtitles-composer-app
-twitch-wrapper
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
