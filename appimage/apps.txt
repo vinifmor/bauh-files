@@ -23,7 +23,6 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Bazecor
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -49,7 +48,6 @@ BottleBats
 Bottles
 Brackets
 BrainVerse
-BrainWaves
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -134,7 +132,6 @@ FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -146,8 +143,6 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
-GameHub
-GoldenCheetah
 GpgFrontend
 Gpredict
 GradeStats
@@ -174,8 +169,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-James
-JoalDesktop
+ImExample
+ImHex
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -209,9 +204,6 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
-Laigter
-Left
-Lemon
 LibreSprite
 Lightning
 LikeTaskManager
@@ -233,8 +225,9 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-MineTime
-Minetest
+Markman
+Martian
+MasterVyrn
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -263,7 +256,7 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
-OWASP Threat Dragon
+Nextcloud
 Olive
 Onenote
 Onshape
@@ -291,6 +284,8 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
+PlayMe
+Play_2048
 Playbox
 PlotJuggler
 Plover
@@ -355,7 +350,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -376,8 +371,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-SlackBackup
-Slacktronic
+Serial_Studio
 Slippi
 SmallBASIC
 SmartGit
@@ -428,7 +422,6 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Tusk
 Viper_Browser
 Vipster
 VirtScreen
@@ -448,6 +441,8 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Workbench
+YouTubeSearchFilter
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -470,9 +465,9 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
-cncjs
+eDEX-UI
+eNoseAnnotator
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -510,16 +505,7 @@ guiscrcpy
 hero-display
 hotspot
 hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
-hyper
-impact
-iota1k
-iptvnator
-irccloud-desktop
+jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
@@ -542,7 +528,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+neovim
 ngPost
 ngrev
 nheko
@@ -566,9 +552,10 @@ patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+qSdrSwr
+qTox
+qhot
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -600,9 +587,9 @@ storyboarder
 strans
 stretchly
 subtitles-composer-app
-swradio
-tT
-tagspaces
+twitch-wrapper
+uncov
+unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
