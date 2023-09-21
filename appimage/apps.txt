@@ -35,7 +35,6 @@ BitShares
 Bitwarden
 Bitwarden_Connector
 Black_Chocobo
-Buche
 Buckets
 BulkReviewer
 BulkURLOpener
@@ -59,8 +58,8 @@ Cascade_Image_Editor
 CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
+Cavoke
 Cemu
-CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
@@ -78,8 +77,8 @@ Dana
 Datcord
 DawnlightSearch
 DbGate
-Dwyco_Phoo
-ERScaffold
+DeDop-studio
+DeadGame-2048
 Eagle_Mode
 Eksplode.re
 ElDumper
@@ -100,8 +99,9 @@ Etcher
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
-GIMP
-GL_warp2mp4
+Flippy_Qualitative_Testbench
+Fluent_Reader
+FreeTube
 GM-Companion
 GPUpad
 GSequencer
@@ -110,10 +110,9 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Graviton
-GridcoinResearch-5.4.5.0
-GrinPlusPlus
-Groot
+Geometrize
+GetThermal
+Gifcurry
 Guitar
 Gulden
 HDRMerge
@@ -132,8 +131,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-James
-JoalDesktop
+ImExample
+ImHex
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -192,7 +191,7 @@ MQTT-Explorer
 MQTTCute
 MagicFountain
 Malice
-Manta
+MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
@@ -217,6 +216,7 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
+OCVvid2fulldome
 ONLYOFFICE
 OSRS_Tools
 OVideo
@@ -296,6 +296,9 @@ Rabix_Composer
 RadioIt
 Radix_Wallet
 Rainbow_Board
+Rambox
+Rebaslight
+ReliefValve
 RyoWallet
 SBLauncher
 SFRT_Attendance
@@ -332,8 +335,8 @@ Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sourcetrail
-Stunt_Car_Remake
-Substrate_IDE
+Spark.Payments
+Speaky_MiniPlayer
 Subsurface
 Subtitle_Composer
 SultanPOS
@@ -370,9 +373,7 @@ Translatium
 Trezor_Suite
 Trinity_Desktop
 Tropy
-UltraScreen
 Upscayl
-Valeronoi
 VeChain
 Verto
 Vessel
@@ -392,6 +393,7 @@ WebDesktop
 Webamp
 Wexond
 Whalebird
+ZY_Player
 ZapDesktop
 ZeGrapher
 Zegarek
@@ -412,9 +414,8 @@ appimagelint
 appimagetool
 appium-desktop
 autoEdit2
-avogadro
 bauh
-beurerscalemanager
+dfDemo
 dingtalk
 draw.io
 dukto
@@ -440,7 +441,6 @@ feedseries
 file-converter
 flameshot
 flightgear-airports
-fmradio
 hero-display
 hotspot
 hpack
@@ -476,7 +476,10 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
+mini-qml
+movie-monad
 mtCellEdit
 mutool
 my-budget
@@ -532,8 +535,8 @@ slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
-timer
-tipitaka_pali_reader
+snomcontrol
+spark-wallet
 tmon
 tnt
 todo-bash
@@ -560,5 +563,4 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
 xemu
