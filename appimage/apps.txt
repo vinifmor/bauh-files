@@ -18,7 +18,8 @@ Apache_NetBeans
 Aphelion_Wallet
 Apla
 AppImagePool
-BLOCK-DX
+AppImageUpdate
+App_Outlet
 BTS-CE-Lite
 BaijiMangaViewer
 BasiliskII
@@ -74,9 +75,8 @@ Colon
 ColorGenerator
 Colorpicker
 Comic-Reader
-Dana
-Datcord
-DawnlightSearch
+ConsoleWorkbench
+Converter432Hz
 DbGate
 DeDop-studio
 DeadGame-2048
@@ -97,6 +97,8 @@ Dragoman
 Drill
 Dust3D
 Dwyco_Phoo
+ERScaffold
+Eagle_Mode
 ElDumper
 Electorrent
 ElectroCRUD
@@ -112,6 +114,7 @@ Eplee
 Eqonomize
 Espanso
 Etcher
+Eternal-Lands
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -126,6 +129,7 @@ Fraidycat
 Fraktal
 FranceTV
 Franz
+Frappe_Accounting
 GetThermal
 Gifcurry
 Gingko
@@ -147,6 +151,7 @@ GrinPlusPlus
 Groot
 Guitar
 Gulden
+Heroic Games Launcher
 ImExample
 ImHex
 ImageMosaicWall
@@ -167,6 +172,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KeyManager
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
@@ -206,7 +212,7 @@ MQTTCute
 MagicFountain
 Malice
 Manta
-MieSimulatorGUI
+Mapeo
 Mindmapp
 MineTime
 Minetest
@@ -232,9 +238,8 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
-ONLYOFFICE
-OSRS_Tools
-OVideo
+Naev
+NanoVault
 OWallet
 Obsidian
 Olive
@@ -246,10 +251,10 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
-Pelusica
-Pennywise
-Pext
+P2PDerivatives
+PDFQuirk
+PIA
+POE_Ladder
 Phinch
 PhotoFlare
 PhotoFlow
@@ -276,6 +281,10 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
+PowerShell
+PowerliminalsPlayer
+PraxisLIVE
+PrimeWorldEditor
 ProtonUp-Qt
 QMPlay2
 QMediathekView
@@ -328,9 +337,8 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Scilab
-Scraper
 ScreenTranslator
+Simdock
 SimplEOS
 SimpleInstaBot
 Singlebox
@@ -349,7 +357,8 @@ Spark.Payments
 Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
-Spivak
+Subsurface
+Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
 Sup
@@ -383,10 +392,11 @@ Translatium
 Trezor_Suite
 Trinity_Desktop
 Tropy
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+TurboWarp
 Upscayl
-VeChain
-Verto
-Vessel
+V2Ray-Desktop
 VidCutter
 Videomass
 Vieb
@@ -404,7 +414,7 @@ Webamp
 Wexond
 Whalebird
 Widelands
-ZapDesktop
+Wire
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -429,7 +439,6 @@ beurerscalemanager
 bioanimation
 bottlenose
 buttercup
-draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -459,10 +468,11 @@ foxfolio
 fre:ac
 freeman
 gLabels
-hugin
-huwinterpreter
-hw-probe
-hyper
+gerbv
+getswell
+gibs
+githoard
+hpack
 impact
 iota1k
 iptvnator
@@ -490,8 +500,8 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 lumi
-mtCellEdit
-mutool
+luminance-hdr
+luna
 my-budget
 mybelka
 n3h
@@ -514,7 +524,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
@@ -551,7 +560,7 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-torrenttools
+sticker-convert
 triagem-touch
 ttth
 tweet-tray
@@ -579,4 +588,6 @@ whu-library-seat
 windows2usb
 wxMEdit
 wxMaxima
+x-loc
+xde
 xemu
