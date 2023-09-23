@@ -19,11 +19,8 @@ Aphelion_Wallet
 Apla
 AppImagePool
 AppImageUpdate
-App_Outlet
-ArcadeManager
-Archipel
-Archipelago
-Axe_Electrum
+BTS-CE-Lite
+BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect_Client
@@ -47,8 +44,8 @@ BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
-BottleBats
-Bottles
+CP_Editor
+CPod
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -79,7 +76,6 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -120,9 +116,8 @@ Eternal-Lands
 EternalModManager
 EverInst
 ExeQt
-ExifCleaner
-Eximchain_Wallet
-Explorook
+Flippy_Qualitative_Testbench
+Fluent_Reader
 Focalizzare
 FocusWriter
 FontForge
@@ -224,6 +219,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
+MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
@@ -253,6 +249,7 @@ Naev
 NanoVault
 Negibox
 Neon
+OWallet
 Obsidian
 Olive
 Onenote
@@ -276,7 +273,8 @@ Panini
 Paper
 Papercraft
 Parallelcoin
-Parity_Fether
+Pingnoo
+Pixsrt
 Plag_Patrol
 Planes
 Planet_Blupi
@@ -418,8 +416,8 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Videomass
-Vieb
+Turntable
+Tusk
 Viper_Browser
 Vipster
 VirtScreen
@@ -439,9 +437,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Zegarek
-Znax
-Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -463,8 +458,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-deb2appimage
-eDEX-UI
+clippy
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -503,7 +497,8 @@ guglielmo
 guiscrcpy
 hero-display
 hotspot
-hpack
+jitsi-meet
+jmbde
 jscad-desktop
 jumpfm
 keyrier-json
@@ -526,7 +521,6 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
 nRF_Connect
 neovim
 ngPost
@@ -549,7 +543,6 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-pb-for-desktop
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -584,9 +577,8 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 sticker-convert
+storyboarder
 strans
-triagem-touch
-ttth
 tweet-tray
 twetter
 twitch-wrapper
