@@ -19,8 +19,10 @@ Aphelion_Wallet
 Apla
 AppImagePool
 AppImageUpdate
-BTS-CE-Lite
-BaijiMangaViewer
+App_Outlet
+ArcadeManager
+Archipel
+Archipelago
 BasiliskII
 Bazecor
 Beatconnect_Client
@@ -44,7 +46,8 @@ BlueGlow
 Board_Game_Star
 Bodhi
 Book_Manager
-CP_Editor
+BottleBats
+Bottles
 CPod
 CRG_Data_Tool
 CRIC
@@ -76,7 +79,6 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -116,7 +118,6 @@ Eternal-Lands
 EternalModManager
 EverInst
 ExeQt
-Flippy_Qualitative_Testbench
 Fluent_Reader
 Focalizzare
 FocusWriter
@@ -141,7 +142,6 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
@@ -219,7 +219,6 @@ MagicFountain
 Malice
 Manta
 Mapeo
-MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
@@ -249,7 +248,7 @@ Naev
 NanoVault
 Negibox
 Neon
-OWallet
+NepaliUnicode
 Obsidian
 Olive
 Onenote
@@ -271,8 +270,7 @@ Paletti
 PanWriter
 Panini
 Paper
-Papercraft
-Parallelcoin
+Pingendo
 Pingnoo
 Pixsrt
 Plag_Patrol
@@ -343,7 +341,8 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Raven_Reader
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -416,8 +415,9 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Turntable
-Tusk
+VidCutter
+Videomass
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -437,6 +437,8 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Znax
+Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -458,7 +460,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
+clipr
+eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -497,8 +500,10 @@ guglielmo
 guiscrcpy
 hero-display
 hotspot
-jitsi-meet
-jmbde
+hpack
+hsinstall
+htmldoc
+hugin
 jscad-desktop
 jumpfm
 keyrier-json
@@ -520,7 +525,9 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
+my-budget
+mybelka
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -541,8 +548,11 @@ openblok
 ossia_score
 osu
 p2p-chat
-parsec-linux-appimage
-patchbay
+pingviewer
+privacy.sexy
+protonmail-desktop
+puush-qt
+pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -576,9 +586,8 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-sticker-convert
-storyboarder
-strans
+triagem-touch
+ttth
 tweet-tray
 twetter
 twitch-wrapper
