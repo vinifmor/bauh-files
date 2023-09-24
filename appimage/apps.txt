@@ -23,7 +23,6 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -120,8 +119,7 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Eximchain_Wallet
-Explorook
+Fluent_Reader
 Focalizzare
 FocusWriter
 FontForge
@@ -145,7 +143,8 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GXC_Smart_Contract_IDE
+GooboxFileShare
+Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
@@ -171,7 +170,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-JoalDesktop
+ImExample
+ImHex
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -203,6 +203,7 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+Lepton
 LibreSprite
 Lightning
 LikeTaskManager
@@ -223,8 +224,8 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
-Markman
+Mindmapp
+MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
@@ -255,6 +256,8 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
+Niffler
+Olive
 Onenote
 Onshape
 Onyx
@@ -280,6 +283,7 @@ Parity_Fether
 Passky
 Patchwork
 Pathephone
+Planet_Blupi
 PlayMe
 Play_2048
 Playbox
@@ -367,6 +371,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
+Skrifa
 SlackBackup
 Slacktronic
 Slippi
@@ -419,8 +424,7 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Tusk
-Tutanota
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -440,7 +444,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Workbench
+Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -505,6 +509,9 @@ hpack
 hsinstall
 htmldoc
 hugin
+huwinterpreter
+hw-probe
+hyper
 jscad-desktop
 jumpfm
 keyrier-json
@@ -527,7 +534,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
+nRF_Connect
 neovim
 ngPost
 ngrev
@@ -550,10 +557,9 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
-pigs-n-cows
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qhot
 qikQR
 qpdf
