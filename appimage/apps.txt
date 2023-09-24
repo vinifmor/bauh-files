@@ -23,7 +23,8 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Beatconnect_Client
+Arduino_IDE
+Ark.Desktop.Wallet
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
@@ -46,8 +47,9 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CRIC
-CRITERIA1D_PRO
+Brackets
+BrainVerse
+BrainWaves
 Cabal_Desktop_Mini
 Calculist
 Carpenters
@@ -81,8 +83,8 @@ CrossMobile
 Cryplicity
 Crypter
 Cryptr
-Detect_It_Easy
-DevHub
+Cscrypto
+CubicSDR
 Diffuse
 Digitales_Klassenzimmer
 Disass
@@ -118,7 +120,7 @@ EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
-Focalizzare
+Explorook
 FocusWriter
 FontForge
 FontLet
@@ -144,7 +146,7 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
-GpgFrontend
+GameHub
 Gpredict
 GradeStats
 Graviton
@@ -174,6 +176,7 @@ ImExample
 ImHex
 ImageMosaicWall
 ImagePlay
+Joy2DroidX
 Juggernaut
 Julius
 KADE
@@ -232,8 +235,8 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Minetest
-MiniZinc_IDE
+Markman
+Martian
 Mini_Diary
 Minions
 Mirage
@@ -263,8 +266,9 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
+Niffler
+Nitrokey
 OWASP Threat Dragon
-Onyx
 OpenAudible
 OpenBlok
 OpenTodoList
@@ -377,9 +381,8 @@ Sengi
 Serial_Studio
 Shadowsocks
 Shannon_Calculator
-ShareMyHost
-Sharp-Tune
-Sheikah
+SmartGit
+SnippetStore
 Soapy_SDR
 SocNetV
 Software-Challenge-GUI
@@ -426,8 +429,8 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Vieb
-Viper_Browser
+Tusk
+Tutanota
 Vipster
 VirtScreen
 Vitomu
@@ -446,9 +449,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-XClicker
-Znax
-Zoom
+Workbench
 Zulip
 accessimap-lecteur-der
 acreom
@@ -464,7 +465,6 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
-bauh
 beurerscalemanager
 bioanimation
 bottlenose
@@ -474,7 +474,6 @@ caprine
 clippy
 clipr
 cncjs
-eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -523,6 +522,7 @@ iota1k
 iptvnator
 irccloud-desktop
 isle-editor
+jag
 jscad-desktop
 jumpfm
 keyrier-json
@@ -547,8 +547,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
-mutool
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -609,7 +609,7 @@ subtitles-composer-app
 swradio
 tT
 tagspaces
-unified-communications
+tmon
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
