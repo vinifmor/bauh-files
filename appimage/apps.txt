@@ -23,8 +23,9 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Arduino_IDE
-Ark.Desktop.Wallet
+BasiliskII
+Bazecor
+Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
@@ -47,8 +48,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
-BrainVerse
+CRG_Data_Tool
+CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -79,7 +80,8 @@ Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
-CrossMobile
+DeepTags
+Delir
 Demonizer
 Deployer
 Detect_It_Easy
@@ -144,7 +146,6 @@ GPUpad
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
-Galacteek
 GpgFrontend
 Gpredict
 GradeStats
@@ -223,7 +224,7 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-MineTime
+Markman
 Minetest
 MiniZinc_IDE
 Mini_Diary
@@ -254,8 +255,6 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-OWASP Threat Dragon
-Olive
 Onenote
 Onshape
 Onyx
@@ -279,8 +278,8 @@ Papercraft
 Parallelcoin
 Parity_Fether
 Passky
-Planes
-Planet_Blupi
+Patchwork
+Pathephone
 PlayMe
 Play_2048
 Playbox
@@ -368,7 +367,6 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Skrifa
 SlackBackup
 Slacktronic
 Slippi
@@ -386,6 +384,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Sup
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -421,6 +420,8 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
+Tutanota
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -439,6 +440,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Workbench
 Zulip
 accessimap-lecteur-der
 acreom
@@ -503,9 +505,6 @@ hpack
 hsinstall
 htmldoc
 hugin
-huwinterpreter
-hw-probe
-hyper
 jscad-desktop
 jumpfm
 keyrier-json
@@ -528,7 +527,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-nRF_Connect
+mapton
 neovim
 ngPost
 ngrev
@@ -551,11 +550,10 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-python2
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
 qhot
 qikQR
 qpdf
@@ -586,7 +584,8 @@ stash-electron
 steam-rom-manager
 sticker-convert
 storyboarder
-tweet-tray
+strans
+stretchly
 twetter
 twitch-wrapper
 uncov
