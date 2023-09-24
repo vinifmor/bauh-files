@@ -47,6 +47,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+Brackets
+BulkReviewer
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -119,7 +121,8 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Fluent_Reader
+Eximchain_Wallet
+Explorook
 Focalizzare
 FocusWriter
 FontForge
@@ -143,7 +146,6 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
@@ -203,7 +205,8 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-Lepton
+LPub3D
+Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -224,8 +227,8 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mindmapp
-MineTime
+Mark_Mind
+Markman
 Minetest
 MiniZinc_IDE
 Mini_Diary
@@ -256,9 +259,7 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Niffler
-Olive
-Onenote
+Nexus_Wallet
 Onshape
 Onyx
 OpenAudible
@@ -283,10 +284,9 @@ Parity_Fether
 Passky
 Patchwork
 Pathephone
-Planet_Blupi
-PlayMe
-Play_2048
-Playbox
+PatternPaint
+Pelusica
+Pennywise
 PlotJuggler
 Plover
 PocketCasts_Electron
@@ -371,8 +371,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Skrifa
-SlackBackup
+Serial_Studio
 Slacktronic
 Slippi
 SmallBASIC
@@ -424,7 +423,9 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Vieb
+Tusk
+Tutanota
+Valeronoi
 Viper_Browser
 Vipster
 VirtScreen
@@ -466,8 +467,9 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
+clippy
+clipr
+cncjs
 eOSVC
 eXtrema
 ehdev-shell
@@ -557,6 +559,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
+pdf-sync
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
