@@ -20,7 +20,8 @@ Apla
 AppImagePool
 AppImageUpdate
 App_Outlet
-ArcadeManager
+BTS-CE-Lite
+BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect_Client
@@ -45,7 +46,6 @@ Board_Game_Star
 Bodhi
 Book_Manager
 BottleBats
-Bottles
 CPod
 CRG_Data_Tool
 CRIC
@@ -116,9 +116,9 @@ Etcher
 Eternal-Lands
 EternalModManager
 EverInst
-Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
+ExeQt
+ExifCleaner
+Eximchain_Wallet
 Focalizzare
 FocusWriter
 FontForge
@@ -141,6 +141,7 @@ GL_warp2mp4
 GM-Companion
 GPUpad
 GSequencer
+GVim
 GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
@@ -167,9 +168,8 @@ HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
-Isolate
-JReleaser
-James
+ITUSB1_Manager
+ITUSB2_Manager
 JoalDesktop
 Join_Desktop
 Joplin
@@ -194,6 +194,7 @@ Keys
 KiCad
 Kiibohd_Configurator
 Kimitzu-Client
+Kitupiikki
 LiberTEM
 LibreSprite
 Lightning
@@ -244,7 +245,8 @@ Naev
 NanoVault
 Negibox
 Neon
-NepaliUnicode
+OWallet
+Obsidian
 Olive
 Onenote
 Onshape
@@ -266,10 +268,9 @@ PanWriter
 Panini
 Paper
 Papercraft
-Parallelcoin
-Parity_Fether
-Passky
-Patchwork
+Pingnoo
+Pixsrt
+Plag_Patrol
 Planes
 Planet_Blupi
 PlayMe
@@ -337,7 +338,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SF_Tube
+Raven_Reader
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -411,7 +412,8 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Vieb
+Turntable
+Tusk
 Viper_Browser
 Vipster
 VirtScreen
@@ -453,6 +455,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
+cric
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -490,9 +493,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
+jira-timer
+jitsi-meet
 jmbde
 jscad-desktop
 jumpfm
@@ -515,8 +517,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
-nRF_Connect
+mapollage
+mapton
 neovim
 ngPost
 ngrev
@@ -538,8 +540,9 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-python3
-qBittorrent_Enhanced_Edition
+pb-for-desktop
+pdf-sync
+perl-executing-browser
 qSdrSwr
 qTox
 qhot
@@ -572,8 +575,8 @@ stash-electron
 steam-rom-manager
 sticker-convert
 storyboarder
-strans
-stretchly
+ttth
+tweet-tray
 twetter
 twitch-wrapper
 uncov
