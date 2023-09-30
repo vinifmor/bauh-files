@@ -48,6 +48,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+CPod
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -78,8 +79,7 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
+DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -117,9 +117,10 @@ Espanso
 Etcher
 Eternal-Lands
 EternalModManager
-Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
+EverInst
+ExeQt
+ExifCleaner
+Eximchain_Wallet
 Focalizzare
 FocusWriter
 FontForge
@@ -142,9 +143,7 @@ GL_warp2mp4
 GM-Companion
 GPUpad
 GSequencer
-GoldenCheetah
-GoldenDict
-GooboxFileShare
+GVim
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
@@ -202,7 +201,6 @@ KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
-LMMS
 LibreSprite
 Lightning
 LikeTaskManager
@@ -224,7 +222,6 @@ Malice
 Manta
 Mapeo
 Mark_Mind
-Markman
 Minetest
 MiniZinc_IDE
 Mini_Diary
@@ -252,8 +249,9 @@ Naev
 NanoVault
 Negibox
 Neon
-OWallet
-Obsidian
+NepaliUnicode
+Newlogic
+Nextcloud
 Olive
 Onenote
 Onshape
@@ -276,9 +274,9 @@ Panini
 Paper
 Papercraft
 Parallelcoin
-Pingnoo
-Pixsrt
-Plag_Patrol
+Parity_Fether
+Passky
+Patchwork
 Planes
 Planet_Blupi
 PlayMe
@@ -344,9 +342,9 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
-RasterDraw
-Rats_on_The_Boat
-Raven_Reader
+SBLauncher
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -368,6 +366,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
+Singlebox
 Skrifa
 SlackBackup
 Slacktronic
@@ -421,7 +420,7 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Tusk
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -441,6 +440,8 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Znax
+Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -499,8 +500,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
+jexiftoolgui
+jira-timer
 jitsi-meet
 jmbde
 jscad-desktop
@@ -524,7 +525,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mybelka
 n3h
 nRF_Connect
 neovim
@@ -545,9 +545,10 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-parsec-linux-appimage
-patchbay
+privacy.sexy
+protonmail-desktop
+puush-qt
+pyappimage
 python2
 python3
 qBittorrent_Enhanced_Edition
@@ -581,8 +582,9 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-sticker-convert
-storyboarder
+thorium-client
+torrenttools
+triagem-touch
 ttth
 tweet-tray
 twetter
