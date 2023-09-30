@@ -23,6 +23,7 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
+Artisan
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -47,6 +48,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+CPod
+CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
@@ -76,8 +79,8 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
+DeadGame-2048
+DeepTags
 Delir
 Demonizer
 Deployer
@@ -117,9 +120,7 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
+Eximchain_Wallet
 Focalizzare
 FocusWriter
 FontForge
@@ -143,8 +144,8 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GooboxFileShare
-Google_Tasks_Desktop
+GXC_Smart_Contract_IDE
+Galacteek
 GpgFrontend
 Gpredict
 GradeStats
@@ -170,7 +171,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-Invoice-Generator
+ImExample
 JoalDesktop
 Join_Desktop
 Joplin
@@ -255,7 +256,6 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Olive
 Onenote
 Onshape
 Onyx
@@ -281,7 +281,7 @@ Parity_Fether
 Passky
 Patchwork
 Pathephone
-PlayMe
+PatternPaint
 Play_2048
 Playbox
 PlotJuggler
@@ -368,7 +368,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-SlackBackup
+Serial_Studio
 Slacktronic
 Slippi
 SmallBASIC
@@ -420,7 +420,8 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-Tusk
+VK_Desktop
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -440,6 +441,9 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+ZeGrapher
+Znax
+Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -461,7 +465,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
+eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -505,8 +509,6 @@ hsinstall
 htmldoc
 hugin
 huwinterpreter
-hw-probe
-hyper
 jscad-desktop
 jumpfm
 keyrier-json
@@ -526,8 +528,8 @@ linuxdeployqt
 lumi
 luminance-hdr
 luna
-my-budget
-mybelka
+makoureactor
+mandelbulber2
 n3h
 nRF_Connect
 neovim
@@ -548,10 +550,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-pnpm
-privacy.sexy
-protonmail-desktop
 puush-qt
 pyappimage
 python2
@@ -588,7 +586,7 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 sticker-convert
-ttth
+storyboarder
 tweet-tray
 twetter
 twitch-wrapper
