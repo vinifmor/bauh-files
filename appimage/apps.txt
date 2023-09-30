@@ -20,10 +20,10 @@ Apla
 AppImagePool
 AppImageUpdate
 App_Outlet
-ArcadeManager
-Archipel
-Archipelago
-Artisan
+Augur
+BTS-CE-Lite
+BaijiMangaViewer
+BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -119,8 +119,8 @@ Eternal-Lands
 EternalModManager
 EverInst
 ExeQt
-ExifCleaner
-Eximchain_Wallet
+Flippy_Qualitative_Testbench
+Fluent_Reader
 Focalizzare
 FocusWriter
 FontForge
@@ -146,6 +146,7 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
+Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
@@ -171,7 +172,6 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImExample
 JoalDesktop
 Join_Desktop
 Joplin
@@ -224,7 +224,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
+Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
@@ -255,7 +255,7 @@ Negibox
 Neon
 NepaliUnicode
 Newlogic
-Nextcloud
+Olive
 Onenote
 Onshape
 Onyx
@@ -282,6 +282,7 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
+PlayMe
 Play_2048
 Playbox
 PlotJuggler
@@ -345,8 +346,8 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-Rats_on_The_Boat
-Raven_Reader
+SFRT_Attendance
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -368,7 +369,9 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
+Singlebox
+Skrifa
+SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
@@ -385,6 +388,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Stele
 Sup
 Superpaper
 SwagLyrics
@@ -420,8 +424,7 @@ Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
 Turntable
-VK_Desktop
-Vieb
+Tusk
 Viper_Browser
 Vipster
 VirtScreen
@@ -441,8 +444,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-ZeGrapher
-Znax
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -505,10 +506,6 @@ guiscrcpy
 hero-display
 hotspot
 hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
 jscad-desktop
 jumpfm
 keyrier-json
@@ -530,7 +527,6 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
 nRF_Connect
 neovim
 ngPost
@@ -550,6 +546,8 @@ onnx2daq
 openblok
 ossia_score
 osu
+p2p-chat
+protonmail-desktop
 puush-qt
 pyappimage
 python2
@@ -587,6 +585,7 @@ stash-electron
 steam-rom-manager
 sticker-convert
 storyboarder
+ttth
 tweet-tray
 twetter
 twitch-wrapper
