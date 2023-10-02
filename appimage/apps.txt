@@ -23,6 +23,8 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
+BasiliskII
+Bazecor
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -46,8 +48,9 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
-BrainVerse
+CPod
+CRG_Data_Tool
+CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -76,9 +79,8 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-Dana
+DeadGame-2048
+DeepTags
 Delir
 Demonizer
 Deployer
@@ -118,9 +120,6 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Eximchain_Wallet
-Explorook
-EyeStalker
 Focalizzare
 FocusWriter
 FontForge
@@ -144,8 +143,6 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GXC_Smart_Contract_IDE
-GameHub
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
@@ -173,6 +170,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
+James
 JoalDesktop
 Join_Desktop
 Joplin
@@ -201,8 +199,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -223,9 +219,8 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
-Markman
-Martian
+MineTime
+Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -255,7 +250,6 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Nexus_Wallet
 Onenote
 Onshape
 Onyx
@@ -280,7 +274,6 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
 Planet_Blupi
 PlayMe
 Play_2048
@@ -369,9 +362,6 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
-Singlebox
-Skrifa
 SlackBackup
 Slacktronic
 Slippi
@@ -423,7 +413,7 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Turntable
+Videomass
 Vieb
 Viper_Browser
 Vipster
@@ -444,6 +434,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Znax
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -466,7 +457,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eNoseAnnotator
+clippy
 eOSVC
 eXtrema
 ehdev-shell
@@ -504,12 +495,7 @@ guglielmo
 guiscrcpy
 hero-display
 hotspot
-hpack
-hsinstall
-htmldoc
-hugin
-huwinterpreter
-hw-probe
+jmbde
 jscad-desktop
 jumpfm
 keyrier-json
@@ -532,8 +518,10 @@ luna
 makoureactor
 mandelbulber2
 mapollage
-mapton
-marktext
+mybelka
+nRF_Connect
+neovim
+ngPost
 ngrev
 nheko
 nimbus-weather
@@ -554,11 +542,11 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
+qhot
 qikQR
 qpdf
 qpp::cad
@@ -588,8 +576,8 @@ stash-electron
 steam-rom-manager
 sticker-convert
 storyboarder
-strans
-stretchly
+tweet-tray
+twetter
 twitch-wrapper
 uncov
 unified-communications
