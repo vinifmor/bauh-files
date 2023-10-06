@@ -18,13 +18,12 @@ Apache_NetBeans
 Aphelion_Wallet
 Apla
 AppImagePool
-BLOCK-DX
-BTS-CE-Lite
+AppImageUpdate
+App_Outlet
 BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect_Client
-Beekeeper Studio
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
@@ -38,13 +37,13 @@ Blender_Config_Manager
 Blink1Control2
 Blizzard_4
 Blockbench
-Burning-Series
-Bypass_Cors
-BytespeicherTrayIcon
-CARTA
-CATcher
-CIAA_Suite
-CPU-X
+Bloks
+BloomRPC
+Blowfish
+BlueGlow
+Board_Game_Star
+Bodhi
+Book_Manager
 CP_Editor
 CPod
 CRG_Data_Tool
@@ -68,15 +67,16 @@ City_Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cura
-CustomRPC
-CutePeaks
-CuteVariant
-DFileManager
-Dana
-Datcord
-DawnlightSearch
-DbGate
+Cloud_Browser
+Code_OSS
+Colon
+ColorGenerator
+Colorpicker
+Comic-Reader
+ConsoleWorkbench
+Converter432Hz
+Cool_Retro_Term
+CozyDrive
 DeDop-studio
 DeadGame-2048
 DeepTags
@@ -94,6 +94,11 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
+Dust3D
+Dwyco_Phoo
+ERScaffold
+Eagle_Mode
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -109,6 +114,7 @@ Eplee
 Eqonomize
 Espanso
 Etcher
+Eternal-Lands
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -124,7 +130,7 @@ Fraktal
 FranceTV
 Franz
 Frappe_Accounting
-GetThermal
+FreeTexturePacker
 Gifcurry
 Gingko
 GitHubDesktop
@@ -166,8 +172,9 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
-Kiibohd_Configurator
+Joy2DroidX
+Juggernaut
+Julius
 Kimitzu-Client
 Kitupiikki
 Klogg
@@ -205,6 +212,8 @@ MQTTCute
 MagicFountain
 Malice
 Manta
+Mapeo
+MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
@@ -233,7 +242,6 @@ NX_Software_Center
 Naev
 NanoVault
 Negibox
-Neon
 OWallet
 Obsidian
 Olive
@@ -250,7 +258,6 @@ PDFQuirk
 PIA
 POE_Ladder
 PacketSender
-Phinch
 PhotoFlare
 PhotoFlow
 PhotoQuick
@@ -285,7 +292,6 @@ ProcDepMonitor
 ProcSpin
 Procyon
 ProofKeeper
-ProtonUp-Qt
 Pullp
 Pulsar
 Pulse
@@ -323,8 +329,7 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
-RasterDraw
-Rats_on_The_Boat
+SFRT_Attendance
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -343,8 +348,7 @@ SchildiChat
 ScienceFair
 Scilab
 Scraper
-ScreenCloud
-Scrum-Retroboard
+SimplEOS
 SimpleInstaBot
 SimpleX
 Singlebox
@@ -362,7 +366,8 @@ Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
-SpeedyLoader
+Substrate_IDE
+Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
@@ -397,7 +402,6 @@ Translatium
 Trezor_Suite
 Trinity_Desktop
 Tropy
-Upscayl
 Verto
 Vessel
 VidCutter
@@ -418,6 +422,7 @@ Wexond
 Whalebird
 Widelands
 Wire
+ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -477,7 +482,8 @@ gibs
 githoard
 glTF_Insight
 glulxe
-graphql-playground
+impact
+iota1k
 iptvnator
 irccloud-desktop
 isle-editor
@@ -506,6 +512,8 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mira-backup
+my-budget
 mybelka
 n3h
 nRF_Connect
@@ -565,7 +573,6 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-tnt
 torrenttools
 triagem-touch
 ttth
@@ -598,3 +605,6 @@ x-loc
 xde
 xemu
 xonsh
+yaya
+youtube-music
+youtube-music-desktop
