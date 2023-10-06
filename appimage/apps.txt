@@ -66,7 +66,9 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-Cscrypto
+City_Hub
+CleepDesktop
+ClementineRemote
 CubicSDR
 Cura
 CustomRPC
@@ -87,6 +89,10 @@ Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
+Disass
+Discord
+DockStation
+DokiDokiModManager
 ElDumper
 Electorrent
 ElectroCRUD
@@ -118,8 +124,8 @@ Fraktal
 FranceTV
 Franz
 Frappe_Accounting
-Geometrize
-GetThermal
+FreeCAD-asm3
+FreeCAD2
 Gifcurry
 Gingko
 GitHubDesktop
@@ -138,7 +144,8 @@ Graviton
 GridcoinResearch-5.4.5.0
 GrinPlusPlus
 Groot
-Guitar
+ITUSB1_Manager
+ITUSB2_Manager
 ImExample
 ImHex
 ImageMosaicWall
@@ -159,6 +166,7 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
+KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -225,6 +233,8 @@ NMEASimulator
 NX_Software_Center
 Naev
 NanoVault
+Negibox
+OVideo
 OWallet
 Obsidian
 Olive
@@ -236,7 +246,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-PatternPaint
 Pelusica
 Pennywise
 Pext
@@ -266,9 +275,7 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-ProofKeeper
 ProtonUp-Qt
-PrusaSlicer
 QMPlay2
 QMediathekView
 QNapi
@@ -303,6 +310,7 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
+SBLauncher
 SFRT_Attendance
 SF_Tube
 SMF-DSP
@@ -379,8 +387,6 @@ Trezor_Suite
 Trinity_Desktop
 Tropy
 Upscayl
-V2Ray-Desktop
-Verto
 Vessel
 VidCutter
 Videomass
@@ -400,6 +406,7 @@ Wexond
 Whalebird
 Widelands
 Wire
+ZapDesktop
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -422,6 +429,7 @@ autoEdit2
 avogadro
 beurerscalemanager
 bioanimation
+dingtalk
 draw.io
 dukto
 dvdisaster
@@ -450,7 +458,6 @@ fmradio
 four
 foxfolio
 fre:ac
-hpack
 hsinstall
 htmldoc
 hugin
@@ -485,7 +492,6 @@ linux_czkawka_gui
 linuxdeployqt
 lumi
 luminance-hdr
-luna
 my-budget
 mybelka
 n3h
@@ -508,7 +514,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
 privacy.sexy
 protonmail-desktop
 puush-qt
@@ -541,9 +546,9 @@ smtk2ssrf
 snake.js
 snapshot-slider
 snomcontrol
-spark-wallet
-spm
-sqlitebrowser
+timer
+tipitaka_pali_reader
+tmon
 tnt
 todo-bash
 torrenttools
@@ -572,4 +577,5 @@ wezterm
 whiteboard
 whu-library-seat
 windows2usb
+wxMEdit
 xemu
