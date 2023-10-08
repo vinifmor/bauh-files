@@ -47,7 +47,6 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CPod
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -78,7 +77,6 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -144,7 +142,7 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GXC_Smart_Contract_IDE
+Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
@@ -170,7 +168,6 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImExample
 JoalDesktop
 Join_Desktop
 Joplin
@@ -199,10 +196,7 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
-LED.Custom.Palette
-LMMS
+LeoCAD
 LibreSprite
 Lightning
 LikeTaskManager
@@ -225,7 +219,7 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
+Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -280,8 +274,8 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Planet_Blupi
-PlayMe
+Pathephone
+PatternPaint
 Play_2048
 Playbox
 PlotJuggler
@@ -346,8 +340,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-Running-Dinner-Tool
-SF_Tube
+Raven_Reader
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -369,6 +362,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
+Sharp-Tune
 Skrifa
 SlackBackup
 Slacktronic
@@ -387,6 +381,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
@@ -421,6 +416,8 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
+VeChain
+VidCutter
 Videomass
 Vieb
 Viper_Browser
@@ -463,8 +460,8 @@ beurerscalemanager
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -529,7 +526,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+neovim
 ngPost
 ngrev
 nheko
@@ -549,11 +546,12 @@ ossia_score
 osu
 p2p-chat
 parsec-linux-appimage
-patchbay
-pb-for-desktop
-pdf-sync
-perl-executing-browser
-photoname
+pyappimage
+python2
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
+qTox
 qhot
 qikQR
 qpdf
@@ -583,10 +581,10 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 sticker-convert
-storyboarder
-strans
-stretchly
-subtitles-composer-app
+triagem-touch
+ttth
+tweet-tray
+twetter
 twitch-wrapper
 uncov
 unified-communications
