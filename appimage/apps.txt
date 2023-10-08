@@ -22,6 +22,8 @@ AppImageUpdate
 App_Outlet
 ArcadeManager
 Archipel
+Archipelago
+BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -43,8 +45,9 @@ Blowfish
 BlueGlow
 Board_Game_Star
 Bodhi
-CP_Editor
-CPod
+Book_Manager
+BottleBats
+Bottles
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -75,9 +78,10 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
-DeadGame-2048
-DeepTags
+Cromberg
+CrossCode_Map_Editor
+Dana
+Datcord
 Delir
 Demonizer
 Deployer
@@ -115,6 +119,7 @@ Etcher
 Eternal-Lands
 EternalModManager
 EverInst
+ExeQt
 Flippy_Qualitative_Testbench
 Fluent_Reader
 Focalizzare
@@ -140,8 +145,6 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GameHub
-GoldenDict
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
@@ -169,6 +172,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
+ImagePlay
 James
 JoalDesktop
 Join_Desktop
@@ -197,7 +201,6 @@ Kimitzu-Client
 Kitupiikki
 Klogg
 Knowte
-KopiaUI
 LibreSprite
 Lightning
 LikeTaskManager
@@ -218,6 +221,9 @@ MagicFountain
 Malice
 Manta
 Mapeo
+MasterVyrn
+MieSimulatorGUI
+Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
@@ -246,7 +252,8 @@ Naev
 NanoVault
 Negibox
 Neon
-NepaliUnicode
+OWallet
+Obsidian
 Olive
 Onenote
 Onshape
@@ -266,14 +273,14 @@ Painel-Web
 Paletti
 PanWriter
 Panini
-Paper
-Papercraft
-Parallelcoin
-Parity_Fether
-Passky
-Patchwork
-Pathephone
-PatternPaint
+PicGo
+Pile
+Pingendo
+Pingnoo
+Pixsrt
+Plag_Patrol
+Planes
+Planet_Blupi
 PlayMe
 Play_2048
 Playbox
@@ -337,7 +344,9 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
-SFRT_Attendance
+RasterDraw
+Rats_on_The_Boat
+Raven_Reader
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -359,6 +368,7 @@ Scraper
 ScreenCloud
 Scrum-Retroboard
 Scytale
+Sengi
 Skrifa
 SlackBackup
 Slacktronic
@@ -410,7 +420,7 @@ Trinity_Desktop
 Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
-Videomass
+TurboWarp
 Vieb
 Viper_Browser
 Vipster
@@ -431,7 +441,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Znax
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -453,7 +462,8 @@ bioanimation
 bottlenose
 buttercup
 cabal-desktop
-dvdisaster
+caprine
+colorstatic-bash
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -492,10 +502,10 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
+jexiftoolgui
+jira-timer
+jitsi-meet
+jmbde
 jscad-desktop
 jumpfm
 keyrier-json
@@ -513,8 +523,8 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 lumi
-mutool
-my-budget
+luminance-hdr
+luna
 mybelka
 n3h
 nRF_Connect
@@ -536,7 +546,7 @@ onnx2daq
 openblok
 ossia_score
 osu
-protonmail-desktop
+p2p-chat
 puush-qt
 pyappimage
 python2
@@ -572,7 +582,7 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-torrenttools
+sticker-convert
 triagem-touch
 ttth
 tweet-tray
@@ -607,6 +617,4 @@ yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
-yuzu
 zograscope
-zsync2
