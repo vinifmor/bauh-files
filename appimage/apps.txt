@@ -47,7 +47,9 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
+CPod
+CRG_Data_Tool
+CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -76,10 +78,11 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
-Cryplicity
+DeDop-studio
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
 Deployer
 Detect_It_Easy
 DevHub
@@ -115,8 +118,8 @@ Etcher
 Eternal-Lands
 EternalModManager
 EverInst
-Firefox_Nightly
-Flippy_Qualitative_Testbench
+ExeQt
+ExifCleaner
 Fluent_Reader
 Focalizzare
 FocusWriter
@@ -140,7 +143,7 @@ GL_warp2mp4
 GM-Companion
 GPUpad
 GSequencer
-GoldenDict
+GVim
 GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
@@ -168,6 +171,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
+JReleaser
+James
 JoalDesktop
 Join_Desktop
 Joplin
@@ -196,8 +201,6 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
-LANShare
-LCEdit
 LibreSprite
 Lightning
 LikeTaskManager
@@ -249,6 +252,7 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
+Nexus_Wallet
 Onenote
 Onshape
 Onyx
@@ -274,7 +278,7 @@ Parity_Fether
 Passky
 Patchwork
 Pathephone
-Planet_Blupi
+PatternPaint
 PlayMe
 Play_2048
 Playbox
@@ -340,6 +344,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
+SF_Tube
 SMF-DSP
 SMPlayer
 SMathStudio
@@ -361,7 +366,6 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Skrifa
 SlackBackup
 Slacktronic
 Slippi
@@ -434,9 +438,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Workbench
-YangDownloader
-Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -458,6 +459,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
+eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -494,12 +496,10 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hero-display
-hotspot
-hpack
-hsinstall
-htmldoc
-hugin
+jexiftoolgui
+jira-timer
+jitsi-meet
+jmbde
 jscad-desktop
 jumpfm
 keyrier-json
@@ -546,7 +546,6 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-perl-executing-browser
 qSdrSwr
 qTox
 qhot
