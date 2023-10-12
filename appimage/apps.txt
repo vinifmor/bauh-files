@@ -17,7 +17,7 @@ Antares
 Apache_NetBeans
 Aphelion_Wallet
 Apla
-Axe_Electrum
+AppImagePool
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
@@ -37,9 +37,8 @@ Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
-Buckets
-BulkReviewer
-BulkURLOpener
+Blizzard_4
+Blockbench
 BunqDesktop
 Burning-Series
 Bypass_Cors
@@ -89,7 +88,6 @@ Demonizer
 Deployer
 Detect_It_Easy
 DevHub
-Diffuse
 ElDumper
 Electorrent
 ElectroCRUD
@@ -105,7 +103,6 @@ Eplee
 Eqonomize
 Espanso
 Etcher
-Eternal-Lands
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -203,6 +200,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
+MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
@@ -229,9 +227,8 @@ NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
 Naev
-NanoVault
-Negibox
-Neon
+OSRS_Tools
+OVideo
 OWallet
 Obsidian
 Olive
@@ -243,7 +240,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-P2PDerivatives
+PatternPaint
 Pelusica
 Pennywise
 Pext
@@ -273,8 +270,8 @@ PolkaKey
 Popsicle
 Postman
 PostyBirb
-PowerShell
 ProtonUp-Qt
+PrusaSlicer
 QMPlay2
 QMediathekView
 QNapi
@@ -309,7 +306,7 @@ RadioIt
 Radix_Wallet
 Rainbow_Board
 Rambox
-RasterDraw
+SBLauncher
 SFRT_Attendance
 SF_Tube
 SMF-DSP
@@ -327,11 +324,11 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Scilab
-Scraper
-ScreenCloud
 ScreenTranslator
-Scrum-Retroboard
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 SimpleX
 Singlebox
 Skrifa
@@ -345,9 +342,8 @@ Soapy_SDR
 SocNetV
 Software-Challenge-GUI
 Sourcetrail
-Spark.Payments
-Speaky_MiniPlayer
-Spectrum
+Streamon
+Stunt_Car_Remake
 Substrate_IDE
 Subsurface
 Subtitle_Composer
@@ -384,8 +380,10 @@ Tonuino_Toolbox
 Translatium
 Trezor_Suite
 Trinity_Desktop
-Tropy
 Upscayl
+VNote
+VPaint
+Valeronoi
 VeChain
 Verto
 Vessel
@@ -403,8 +401,6 @@ WatchFlower
 WatchIt
 WebDesktop
 Webamp
-Wexond
-Whalebird
 ZY_Player
 ZapDesktop
 ZeGrapher
@@ -427,10 +423,10 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
+bauh
 beurerscalemanager
 bioanimation
 bottlenose
-buttercup
 draw.io
 dukto
 dvdisaster
@@ -460,7 +456,7 @@ four
 foxfolio
 fre:ac
 freeman
-gLabels
+hsinstall
 htmldoc
 hugin
 huwinterpreter
@@ -492,9 +488,11 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
-luminance-hdr
-luna
+movie-monad
+mtCellEdit
+mutool
 my-budget
 mybelka
 n3h
@@ -550,8 +548,8 @@ snake.js
 snapshot-slider
 snomcontrol
 spark-wallet
-spm
-sqlitebrowser
+tipitaka_pali_reader
+tmon
 tnt
 todo-bash
 torrenttools
@@ -578,7 +576,4 @@ westeroscraftlauncher
 weweChat
 wezterm
 whiteboard
-whu-library-seat
-windows2usb
-wxMEdit
 xemu
