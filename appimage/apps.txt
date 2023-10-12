@@ -17,7 +17,7 @@ Antares
 Apache_NetBeans
 Aphelion_Wallet
 Apla
-AppImagePool
+Axe_Electrum
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
@@ -37,8 +37,9 @@ Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
-Blizzard_4
-Blockbench
+Board_Game_Star
+BulkReviewer
+BulkURLOpener
 BunqDesktop
 Burning-Series
 Bypass_Cors
@@ -86,6 +87,8 @@ DeepTags
 Delir
 Demonizer
 Deployer
+Detect_It_Easy
+DevHub
 ElDumper
 Electorrent
 ElectroCRUD
@@ -107,8 +110,8 @@ Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
 Focalizzare
-FocusWriter
-FontForge
+GPUpad
+GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
@@ -117,9 +120,8 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-Gingko
-GitHubDesktop
-GoldenDict
+Guitar
+Gulden
 HDRMerge
 HEAT1D
 HastyHeroes
@@ -139,8 +141,8 @@ ITUSB2_Manager
 ImExample
 ImHex
 ImageMosaicWall
-ImagePlay
-Imagine
+Joplin
+Joy2DroidX
 Juggernaut
 Julius
 KADE
@@ -197,7 +199,6 @@ MQTTCute
 MagicFountain
 Malice
 Manta
-Mapeo
 Mindmapp
 MineTime
 Minetest
@@ -220,10 +221,11 @@ Musicalypse
 MyCrypto
 MyPaint
 My_Jira
-OCVvid2fulldome
-OCVvid2fulldome.txt
-ONLYOFFICE
-OSRS_Tools
+NCSA_Mosaic
+NMEASimulator
+NX_Software_Center
+Naev
+NanoVault
 OVideo
 OWallet
 Obsidian
@@ -236,8 +238,6 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-Patchwork
-Pathephone
 PatternPaint
 Pelusica
 Pennywise
@@ -267,6 +267,7 @@ Podman
 PolkaKey
 Popsicle
 Postman
+PostyBirb
 ProtonUp-Qt
 PrusaSlicer
 QMPlay2
@@ -302,7 +303,6 @@ Rabix_Composer
 RadioIt
 Radix_Wallet
 Rainbow_Board
-Rambox
 SBLauncher
 SFRT_Attendance
 SF_Tube
@@ -320,6 +320,7 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
+ScienceFair
 ScreenTranslator
 SimDSP
 Simdock
@@ -378,6 +379,7 @@ Trezor_Suite
 Trinity_Desktop
 Tropy
 Upscayl
+VeChain
 Verto
 Vessel
 VidCutter
@@ -418,10 +420,8 @@ appimagetool
 appium-desktop
 autoEdit2
 avogadro
-beurerscalemanager
-bioanimation
-bottlenose
-buttercup
+dingtalk
+draw.io
 dukto
 dvdisaster
 eDEX-UI
@@ -446,11 +446,12 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
-four
-foxfolio
-fre:ac
-freeman
-gLabels
+hero-display
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
 huwinterpreter
 hw-probe
 hyper
@@ -481,6 +482,7 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 lumi
+movie-monad
 mtCellEdit
 mutool
 my-budget
@@ -539,7 +541,7 @@ snomcontrol
 spark-wallet
 spm
 sqlitebrowser
-stash-electron
+todo-bash
 torrenttools
 triagem-touch
 ttth
