@@ -16,7 +16,7 @@ Another_Redis_Desktop_Manager
 Antares
 Apache_NetBeans
 Aphelion_Wallet
-Apla
+AvantGarde
 Axe_Electrum
 BLOCK-DX
 BTS-CE-Lite
@@ -37,6 +37,10 @@ Bitwarden_Connector
 Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
+Blizzard_4
+Blockbench
+BulkReviewer
+BulkURLOpener
 BunqDesktop
 Burning-Series
 Bypass_Cors
@@ -80,10 +84,7 @@ DbGate
 DeDop-studio
 DeadGame-2048
 DeepTags
-Delir
-Demonizer
-Deployer
-Detect_It_Easy
+Eksplode.re
 ElDumper
 Electorrent
 ElectroCRUD
@@ -102,9 +103,8 @@ Etcher
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
-Flippy_Qualitative_Testbench
-Fluent_Reader
-Focalizzare
+FreeTube
+GL_warp2mp4
 GM-Companion
 GPUpad
 GSequencer
@@ -113,9 +113,10 @@ GXC_Smart_Contract_IDE
 Galacteek
 GameHub
 Genesis
-Geometrize
-GetThermal
-Gifcurry
+Graviton
+GridcoinResearch-5.4.5.0
+GrinPlusPlus
+Groot
 Guitar
 Gulden
 HDRMerge
@@ -134,7 +135,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImExample
+James
 JoalDesktop
 Join_Desktop
 Joplin
@@ -194,8 +195,7 @@ MQTT-Explorer
 MQTTCute
 MagicFountain
 Malice
-Manta
-Mapeo
+MieSimulatorGUI
 Mindmapp
 MineTime
 Minetest
@@ -301,7 +301,7 @@ Rabix_Composer
 RadioIt
 Radix_Wallet
 Rainbow_Board
-Rambox
+RyoWallet
 SBLauncher
 SFRT_Attendance
 SF_Tube
@@ -319,8 +319,8 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
 ScreenTranslator
+Silverkey
 SimDSP
 Simdock
 SimplEOS
@@ -397,6 +397,8 @@ WebDesktop
 Webamp
 Wexond
 Whalebird
+Widelands
+Wire
 ZapDesktop
 ZeGrapher
 Zegarek
@@ -416,10 +418,9 @@ appimagecraft
 appimagelint
 appimagetool
 appium-desktop
+autoEdit2
+avogadro
 bauh
-devdocs-desktop
-dexter_dev_env
-dfDemo
 dingtalk
 draw.io
 dukto
@@ -442,8 +443,8 @@ fSpy
 falcon-sql-client
 feebas
 feedseries
-file-converter
-flameshot
+guglielmo
+guiscrcpy
 hero-display
 hotspot
 hpack
@@ -479,7 +480,10 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
+movie-monad
+mtCellEdit
 mutool
 my-budget
 mybelka
@@ -503,6 +507,7 @@ onnx2daq
 openblok
 ossia_score
 osu
+privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
@@ -531,9 +536,9 @@ simple-timer
 simplechroot
 slang-ed
 smtk2ssrf
-snake.js
-snapshot-slider
-snomcontrol
+thorium-client
+timer
+tipitaka_pali_reader
 tmon
 tnt
 todo-bash
@@ -560,5 +565,4 @@ weatherdump
 westeroscraftlauncher
 weweChat
 wezterm
-whiteboard
 xemu
