@@ -47,8 +47,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CRG_Data_Tool
-CRIC
+Brackets
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -80,8 +79,8 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
-Crypter
+Delir
+Demonizer
 Deployer
 Detect_It_Easy
 DevHub
@@ -143,7 +142,9 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-Google_Tasks_Desktop
+GXC_Smart_Contract_IDE
+Galacteek
+GameHub
 GpgFrontend
 Gpredict
 GradeStats
@@ -158,6 +159,7 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -169,7 +171,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-JoalDesktop
+ImExample
+ImHex
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -202,7 +205,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
-Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -225,8 +227,8 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
+Minetest
+MiniZinc_IDE
 Mini_Diary
 Minions
 Mirage
@@ -256,8 +258,7 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
-Niffler
-Nostlan
+Onenote
 Onshape
 Onyx
 OpenAudible
@@ -283,9 +284,8 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-Pelusica
-Pennywise
-Pext
+Playbox
+PlotJuggler
 Plover
 PocketCasts_Electron
 Poddr
@@ -348,7 +348,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -370,8 +370,7 @@ Scrum-Retroboard
 Scytale
 Sengi
 Serial_Studio
-SlackBackup
-Slacktronic
+Shadowsocks
 Slippi
 SmallBASIC
 SmartGit
@@ -387,6 +386,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
+Sup
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -417,12 +417,12 @@ Translatium
 Trezor_Suite
 Trinity_Desktop
 Tropy
-Verto
-Vessel
-VidCutter
-Videomass
-Vieb
-Viper_Browser
+Tumblr_Downloader_GUI
+Tumblr_Scraper
+TurboWarp
+Turntable
+Tusk
+Tutanota
 Vipster
 VirtScreen
 Vitomu
@@ -463,8 +463,9 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
+clippy
+clipr
+cncjs
 eOSVC
 eXtrema
 ehdev-shell
@@ -509,7 +510,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-irccloud-desktop
 jscad-desktop
 jumpfm
 keyrier-json
@@ -531,7 +531,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-mapollage
+n3h
 nRF_Connect
 neovim
 ngPost
@@ -555,7 +555,6 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-python2
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -591,6 +590,7 @@ steam-rom-manager
 sticker-convert
 storyboarder
 strans
+stretchly
 twetter
 twitch-wrapper
 uncov
