@@ -23,7 +23,6 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -48,8 +47,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
-BrainVerse
+CRG_Data_Tool
+CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -81,7 +80,8 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
+DeepTags
+Delir
 Demonizer
 Deployer
 Detect_It_Easy
@@ -173,7 +173,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-JoalDesktop
+ImExample
+ImHex
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -205,6 +206,8 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
+LPub3D
+Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -227,7 +230,7 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Minetest
+Martian
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -257,8 +260,9 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Onenote
-Onshape
+Nexus_Wallet
+Niffler
+OWASP Threat Dragon
 Onyx
 OpenAudible
 OpenBlok
@@ -281,12 +285,12 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Planet_Blupi
-PlayMe
-Play_2048
-Playbox
-PlotJuggler
-Plover
+Pathephone
+PatternPaint
+Pelusica
+Pennywise
+Pext
+Phinch
 PocketCasts_Electron
 Poddr
 Podman
@@ -348,7 +352,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -369,8 +373,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Skrifa
-SlackBackup
+Serial_Studio
 Slacktronic
 Slippi
 SmallBASIC
@@ -443,6 +446,7 @@ Woke
 Wonderwall
 WorkFlowy
 Workbench
+Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -467,6 +471,7 @@ caprine
 clippy
 clipr
 cncjs
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -510,6 +515,7 @@ hugin
 huwinterpreter
 hw-probe
 hyper
+impact
 jscad-desktop
 jumpfm
 keyrier-json
