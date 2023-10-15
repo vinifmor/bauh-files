@@ -23,7 +23,6 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Bazecor
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -47,6 +46,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+CPod
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -78,8 +78,7 @@ Converter432Hz
 Cool_Retro_Term
 CozyDrive
 Cromberg
-CrossCode_Map_Editor
-CrossMobile
+DeadGame-2048
 DeepTags
 Delir
 Demonizer
@@ -122,7 +121,6 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
-Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -146,7 +144,7 @@ GPUpad
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
-Galacteek
+Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
@@ -208,6 +206,8 @@ LED.Custom.Palette
 LMMS
 LPub3D
 Lagrange
+Laigter
+Left
 LibreSprite
 Lightning
 LikeTaskManager
@@ -230,7 +230,6 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -261,8 +260,6 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
-Niffler
-OWASP Threat Dragon
 Onyx
 OpenAudible
 OpenBlok
@@ -291,7 +288,7 @@ Pelusica
 Pennywise
 Pext
 Phinch
-PocketCasts_Electron
+PhotoFlare
 Poddr
 Podman
 PolkaKey
@@ -352,7 +349,8 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
+Reactotron
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -373,7 +371,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
+SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
@@ -421,11 +419,12 @@ Translatium
 Trezor_Suite
 Trinity_Desktop
 Tropy
-Tumblr_Downloader_GUI
-Tumblr_Scraper
-TurboWarp
-Turntable
-Tusk
+VeChain
+Verto
+Vessel
+VidCutter
+Videomass
+Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -445,7 +444,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Workbench
+Znax
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -468,9 +467,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-clippy
-clipr
-cncjs
+eDEX-UI
+eNoseAnnotator
 eOSVC
 eXtrema
 ehdev-shell
@@ -514,8 +512,7 @@ htmldoc
 hugin
 huwinterpreter
 hw-probe
-hyper
-impact
+jexiftoolgui
 jscad-desktop
 jumpfm
 keyrier-json
@@ -540,7 +537,6 @@ mandelbulber2
 mapollage
 mapton
 marktext
-marlin-conf
 ngPost
 ngrev
 nheko
@@ -567,6 +563,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
