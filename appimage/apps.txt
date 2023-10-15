@@ -23,6 +23,7 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
+BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -48,6 +49,7 @@ Book_Manager
 BottleBats
 Bottles
 Brackets
+BrainVerse
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -79,7 +81,7 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Delir
+Cryplicity
 Demonizer
 Deployer
 Detect_It_Easy
@@ -120,6 +122,7 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
+Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -144,7 +147,6 @@ GSequencer
 GVim
 GXC_Smart_Contract_IDE
 Galacteek
-GameHub
 GpgFrontend
 Gpredict
 GradeStats
@@ -171,8 +173,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImExample
-ImHex
+JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -204,7 +205,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-LPub3D
 LibreSprite
 Lightning
 LikeTaskManager
@@ -257,7 +257,6 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Nexus_Wallet
 Onenote
 Onshape
 Onyx
@@ -282,8 +281,9 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
-PatternPaint
+Planet_Blupi
+PlayMe
+Play_2048
 Playbox
 PlotJuggler
 Plover
@@ -369,8 +369,9 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
-Shadowsocks
+Skrifa
+SlackBackup
+Slacktronic
 Slippi
 SmallBASIC
 SmartGit
@@ -422,7 +423,7 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Tutanota
+Viper_Browser
 Vipster
 VirtScreen
 Vitomu
@@ -441,7 +442,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Zoom
+Workbench
 Zulip
 accessimap-lecteur-der
 acreom
@@ -466,7 +467,6 @@ caprine
 clippy
 clipr
 cncjs
-eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -531,9 +531,10 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
-nRF_Connect
-neovim
+mapollage
+mapton
+marktext
+marlin-conf
 ngPost
 ngrev
 nheko
@@ -555,12 +556,11 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-python3
-qBittorrent_Enhanced_Edition
-qSdrSwr
-qTox
-qhot
-qikQR
+pdf-sync
+perl-executing-browser
+photoname
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -591,10 +591,10 @@ sticker-convert
 storyboarder
 strans
 stretchly
-twetter
-twitch-wrapper
-uncov
-unified-communications
+subtitles-composer-app
+swradio
+tT
+tagspaces
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
