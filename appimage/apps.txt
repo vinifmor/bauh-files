@@ -23,7 +23,6 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -48,6 +47,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+CPod
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -120,8 +120,7 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Eximchain_Wallet
-Explorook
+Fluent_Reader
 Focalizzare
 FocusWriter
 FontForge
@@ -172,8 +171,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImHex
-James
+ImExample
 JoalDesktop
 Join_Desktop
 Joplin
@@ -224,9 +222,7 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Meshmill
-Minetest
-MiniZinc_IDE
+Martian
 Mini_Diary
 Minions
 Mirage
@@ -255,7 +251,7 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Onenote
+Nexus_Wallet
 Onshape
 Onyx
 OpenAudible
@@ -281,7 +277,6 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-Play_2048
 Playbox
 PlotJuggler
 Plover
@@ -367,7 +362,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
+SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
@@ -417,7 +412,7 @@ Trinity_Desktop
 Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
-VidCutter
+TurboWarp
 Videomass
 Vieb
 Viper_Browser
@@ -460,8 +455,8 @@ beurerscalemanager
 bioanimation
 bottlenose
 buttercup
-dukto
-dvdisaster
+cabal-desktop
+caprine
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -503,8 +498,6 @@ hero-display
 hotspot
 hpack
 hsinstall
-htmldoc
-hugin
 jscad-desktop
 jumpfm
 keyrier-json
@@ -528,7 +521,8 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-marktext
+mira-backup
+neovim
 ngPost
 ngrev
 nheko
@@ -551,10 +545,9 @@ parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
-perl-executing-browser
-photoname
-pigs-n-cows
-pingviewer
+qSdrSwr
+qTox
+qhot
 qikQR
 qpdf
 qpp::cad
@@ -587,8 +580,8 @@ storyboarder
 strans
 stretchly
 subtitles-composer-app
-uncov
-unified-communications
+swradio
+tT
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
