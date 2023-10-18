@@ -37,7 +37,6 @@ Black_Chocobo
 Blender_Config_Manager
 Blink1Control2
 Blizzard_4
-Blockbench
 BunqDesktop
 Burning-Series
 Bypass_Cors
@@ -65,8 +64,7 @@ ChainX_Signer
 Chiaki
 Circle-Z
 CircuitBlocks
-City_Hub
-CleepDesktop
+Cscrypto
 CubicSDR
 Cura
 CustomRPC
@@ -110,7 +108,8 @@ Firefox_ESR
 Firefox_Nightly
 Flippy_Qualitative_Testbench
 Fluent_Reader
-GPUpad
+Focalizzare
+FocusWriter
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
@@ -120,7 +119,7 @@ Genesis
 Geometrize
 GetThermal
 Gifcurry
-GitNote
+Guitar
 Gulden
 HDRMerge
 HEAT1D
@@ -143,7 +142,8 @@ ImHex
 ImageMosaicWall
 ImagePlay
 Imagine
-Julius
+ImapSyncClient
+ImpPoster
 KADE
 KDiskMark
 KOReader
@@ -222,8 +222,8 @@ MyPaint
 My_Jira
 NCSA_Mosaic
 NMEASimulator
-OCVvid2fulldome
-ONLYOFFICE
+NX_Software_Center
+Naev
 OSRS_Tools
 OVideo
 OWallet
@@ -237,6 +237,7 @@ OpenBlok
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+Pathephone
 PatternPaint
 Pelusica
 Pennywise
@@ -319,7 +320,6 @@ Safe_Multisig
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
 ScreenTranslator
 SimDSP
 Simdock
@@ -377,6 +377,7 @@ Trezor_Suite
 Trinity_Desktop
 Tropy
 Upscayl
+Valeronoi
 VeChain
 Verto
 Vessel
@@ -396,6 +397,7 @@ WebDesktop
 Webamp
 Wexond
 Whalebird
+XPEViewer
 ZapDesktop
 ZeGrapher
 Zegarek
@@ -453,8 +455,7 @@ gerbv
 getswell
 gibs
 githoard
-impact
-iota1k
+glTF_Insight
 iptvnator
 irccloud-desktop
 isle-editor
@@ -480,8 +481,6 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 lumi
-media-dupes
-movie-monad
 mtCellEdit
 mutool
 my-budget
@@ -506,7 +505,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
@@ -537,8 +535,7 @@ slang-ed
 smtk2ssrf
 snake.js
 snapshot-slider
-snomcontrol
-spark-wallet
+tipitaka_pali_reader
 tmon
 tnt
 todo-bash
