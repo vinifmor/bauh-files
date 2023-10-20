@@ -18,6 +18,8 @@ Apache_NetBeans
 Aphelion_Wallet
 Apla
 AppImagePool
+AppImageUpdate
+AudioMoth
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
@@ -70,11 +72,9 @@ ClementineRemote
 Cliniface
 Cloud_Browser
 Code_OSS
-Colon
-ColorGenerator
-Colorpicker
-Comic-Reader
-ConsoleWorkbench
+DFileManager
+Dana
+Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
@@ -94,9 +94,6 @@ DokiDokiModManager
 Downline
 Dragoman
 Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
 ElDumper
 Electorrent
 ElectroCRUD
@@ -134,7 +131,8 @@ FreeTexturePacker
 FreeTube
 Friture
 FromScratch
-GDevelop
+GIMP
+GitHubDesktop
 GitJournal
 GitNote
 GitQlient
@@ -156,6 +154,8 @@ HDRMerge
 HEAT1D
 HastyHeroes
 Heimer
+Imagine
+ImapSyncClient
 ImpPoster
 Inboxer
 Infection_Monkey
@@ -176,6 +176,8 @@ Julius
 KADE
 KDiskMark
 KOReader
+Kitupiikki
+Klogg
 Knowte
 KopiaUI
 LANShare
@@ -238,7 +240,6 @@ NMEASimulator
 NX_Software_Center
 Naev
 NanoVault
-OVideo
 OWallet
 Obsidian
 Olive
@@ -254,7 +255,8 @@ P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
-Phinch
+PacketSender
+Padloc
 PhotoFlare
 PhotoFlow
 PhotoQuick
@@ -283,6 +285,15 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
+PrimeWorldEditor
+PrinterClient
+ProcDepMonitor
+ProcSpin
+Procyon
+ProofKeeper
+ProtonUp-Qt
+Pullp
+Pulsar
 QMPlay2
 QMediathekView
 QNapi
@@ -335,10 +346,10 @@ SavvyCAN
 Scatter
 SchildiChat
 ScienceFair
-Scilab
-Scraper
-ScreenCloud
-Scrum-Retroboard
+SimDSP
+Simdock
+SimplEOS
+SimpleInstaBot
 SimpleX
 Singlebox
 Skrifa
@@ -355,8 +366,8 @@ Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
-SpeedyLoader
-Spivak
+Substrate_IDE
+Subsurface
 Subtitle_Composer
 SultanPOS
 Summoners.War.Exporter
@@ -392,6 +403,7 @@ Trezor_Suite
 Trinity_Desktop
 Tropy
 Upscayl
+VeChain
 Verto
 Vessel
 VidCutter
@@ -412,7 +424,7 @@ Wexond
 Whalebird
 Widelands
 Wire
-WishDemo
+ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
@@ -466,10 +478,10 @@ fre:ac
 freeman
 gLabels
 gerbv
-huwinterpreter
-hw-probe
-hyper
-impact
+getswell
+gibs
+githoard
+glTF_Insight
 iota1k
 iptvnator
 irccloud-desktop
@@ -498,7 +510,7 @@ linuxdeployqt
 lumi
 luminance-hdr
 luna
-my-budget
+makoureactor
 mybelka
 n3h
 nRF_Connect
@@ -520,8 +532,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-p2p-chat
-privacy.sexy
 protonmail-desktop
 puush-qt
 pyappimage
@@ -590,3 +600,4 @@ x-loc
 xde
 xemu
 xonsh
+zograscope
