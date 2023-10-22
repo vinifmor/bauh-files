@@ -23,7 +23,7 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Bazecor
+Arduino_IDE
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -47,10 +47,10 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CRG_Data_Tool
-CRIC
-CRITERIA1D_PRO
-Cabal_Desktop_Mini
+Brackets
+BrainVerse
+BrainWaves
+BrickStore
 Calculist
 Carpenters
 Cascade_Image_Editor
@@ -58,7 +58,6 @@ CasterSoundboard
 Catalyst_Browser
 Cate-Desktop
 Cavoke
-Cemu
 Cerebral-Debugger
 ChainX_Signer
 Chiaki
@@ -80,7 +79,8 @@ Cool_Retro_Term
 CozyDrive
 Cromberg
 CrossCode_Map_Editor
-Delir
+CrossMobile
+Cryplicity
 Demonizer
 Deployer
 Detect_It_Easy
@@ -120,6 +120,7 @@ EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
+Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -142,7 +143,8 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-Google_Tasks_Desktop
+GXC_Smart_Contract_IDE
+Galacteek
 GpgFrontend
 Gpredict
 GradeStats
@@ -157,6 +159,7 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -197,6 +200,10 @@ Klogg
 Knowte
 KopiaUI
 LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
 LibreSprite
 Lightning
 LikeTaskManager
@@ -219,8 +226,7 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Minetest
-MiniZinc_IDE
+Martian
 Mini_Diary
 Minions
 Mirage
@@ -249,9 +255,10 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Onenote
-Onshape
-Onyx
+Nexus_Wallet
+Niffler
+Nitrokey
+OWASP Threat Dragon
 OpenAudible
 OpenBlok
 OpenTodoList
@@ -274,13 +281,12 @@ Parity_Fether
 Passky
 Patchwork
 Pathephone
-Planet_Blupi
-PlayMe
-Play_2048
-Playbox
-PlotJuggler
-Plover
-PocketCasts_Electron
+PatternPaint
+Pelusica
+Pennywise
+Pext
+Phinch
+PhotoFlare
 Poddr
 Podman
 PolkaKey
@@ -362,7 +368,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-SlackBackup
+Serial_Studio
 Slacktronic
 Slippi
 SmallBASIC
@@ -413,6 +419,7 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
+Turntable
 Vieb
 Viper_Browser
 Vipster
@@ -433,8 +440,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-YesPlayMusic
-Znax
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -457,8 +462,6 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-dukto
-dvdisaster
 eDEX-UI
 eNoseAnnotator
 eOSVC
@@ -497,9 +500,14 @@ gsubs
 guglielmo
 guiscrcpy
 hero-display
-jira-timer
-jitsi-meet
-jmbde
+hotspot
+hpack
+hsinstall
+htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 jscad-desktop
 jumpfm
 keyrier-json
@@ -521,7 +529,7 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-n3h
+mapollage
 nRF_Connect
 neovim
 ngPost
@@ -544,6 +552,7 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
+pb-for-desktop
 python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
@@ -577,10 +586,10 @@ sqlitebrowser
 stash-electron
 steam-rom-manager
 sticker-convert
-triagem-touch
-ttth
-tweet-tray
-twetter
+storyboarder
+strans
+stretchly
+subtitles-composer-app
 twitch-wrapper
 uncov
 unified-communications
@@ -606,9 +615,11 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xemu
 xonsh
 yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
+yuzu
+zograscope
+zsync2
