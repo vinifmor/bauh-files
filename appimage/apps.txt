@@ -23,8 +23,7 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Bazecor
-Beatconnect_Client
+Arduino_IDE
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
@@ -47,6 +46,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+Brackets
 CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
@@ -81,7 +81,7 @@ CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
-Cryptr
+Detect_It_Easy
 DevHub
 Diffuse
 Digitales_Klassenzimmer
@@ -119,6 +119,7 @@ ExeQt
 ExifCleaner
 Eximchain_Wallet
 Explorook
+Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -141,7 +142,6 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-Geometrize
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
@@ -157,7 +157,6 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -169,6 +168,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
+ImExample
 JoalDesktop
 Join_Desktop
 Joplin
@@ -202,7 +202,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
-Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -223,8 +222,8 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
-Markman
+MineTime
+Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -254,7 +253,9 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Nexus_Wallet
+Olive
+Onenote
+Onshape
 Onyx
 OpenAudible
 OpenBlok
@@ -279,11 +280,11 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-Pelusica
-Pennywise
-Pext
-Phinch
-PhotoFlare
+Play_2048
+Playbox
+PlotJuggler
+Plover
+PocketCasts_Electron
 Poddr
 Podman
 PolkaKey
@@ -344,8 +345,9 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
-Reactotron
+SF_Tube
+SMF-DSP
+SMPlayer
 SMathStudio
 SMath_Studio
 SOIL_EDITOR
@@ -365,8 +367,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-Serial_Studio
-Shadowsocks
+Slacktronic
 Slippi
 SmallBASIC
 SmartGit
@@ -416,8 +417,8 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Videomass
-Vieb
+Turntable
+Tusk
 Viper_Browser
 Vipster
 VirtScreen
@@ -459,8 +460,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
+clippy
+clipr
 eOSVC
 eXtrema
 ehdev-shell
@@ -527,6 +528,7 @@ luna
 makoureactor
 mandelbulber2
 mapollage
+mapton
 nRF_Connect
 neovim
 ngPost
@@ -550,8 +552,9 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-pdf-sync
-perl-executing-browser
+python3
+qBittorrent_Enhanced_Edition
+qSdrSwr
 qTox
 qhot
 qikQR
