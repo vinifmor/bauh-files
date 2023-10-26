@@ -18,8 +18,8 @@ Apache_NetBeans
 Aphelion_Wallet
 Apla
 AppImagePool
-BLOCK-DX
-BTS-CE-Lite
+AppImageUpdate
+App_Outlet
 BaijiMangaViewer
 BasiliskII
 Bazecor
@@ -41,10 +41,11 @@ Bloks
 BloomRPC
 Blowfish
 BlueGlow
-CIAA_Suite
-CPU-X
-CP_Editor
-CPod
+Board_Game_Star
+Bodhi
+Book_Manager
+BottleBats
+Bottles
 CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
@@ -76,7 +77,6 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-DeDop-studio
 DeadGame-2048
 DeepTags
 Delir
@@ -113,6 +113,7 @@ Eplee
 Eqonomize
 Espanso
 Etcher
+Eternal-Lands
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -129,6 +130,7 @@ FranceTV
 Franz
 Frappe_Accounting
 FreeCAD-asm3
+FreeCAD2
 Gingko
 GitHubDesktop
 GitJournal
@@ -148,6 +150,7 @@ GrinPlusPlus
 Groot
 Guitar
 Gulden
+HDRMerge
 ImExample
 ImHex
 ImageMosaicWall
@@ -210,7 +213,6 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
@@ -235,10 +237,11 @@ My_Jira
 NCSA_Mosaic
 NMEASimulator
 NX_Software_Center
-ONLYOFFICE
-OSRS_Tools
-OVideo
-OWallet
+Naev
+NanoVault
+Negibox
+Neon
+NepaliUnicode
 Obsidian
 Olive
 Onenote
@@ -254,11 +257,10 @@ PDFQuirk
 PIA
 POE_Ladder
 PacketSender
-Phinch
-PhotoFlare
-PhotoFlow
-PhotoQuick
-Photopea
+Padloc
+Painel-Web
+Paletti
+PanWriter
 PhreshPlayer
 PicGo
 Pile
@@ -291,6 +293,12 @@ Procyon
 ProofKeeper
 Pullp
 Pulsar
+Pulse
+Puppetry
+Python
+QDriverStation
+QEMU_PowerPC
+QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -327,7 +335,7 @@ Rainbow_Board
 Rambox
 RasterDraw
 Rats_on_The_Boat
-SFRT_Attendance
+SBLauncher
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -348,7 +356,7 @@ Scilab
 Scraper
 ScreenCloud
 Scrum-Retroboard
-SimpleX
+Scytale
 Singlebox
 Skrifa
 SlackBackup
@@ -366,6 +374,9 @@ Speaky_MiniPlayer
 Spectrum
 SpeedyLoader
 Spivak
+StockStalk
+Streamlink
+SultanPOS
 Summoners.War.Exporter
 Sup
 Superpaper
@@ -420,7 +431,6 @@ Wexond
 Whalebird
 Widelands
 Wire
-ZY_Player
 ZeGrapher
 Zegarek
 ZenroomStudio
@@ -445,7 +455,7 @@ beurerscalemanager
 bioanimation
 bottlenose
 buttercup
-cabal-desktop
+dukto
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -484,7 +494,6 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-jexiftoolgui
 jira-timer
 jitsi-meet
 jmbde
@@ -508,6 +517,7 @@ lumi
 luminance-hdr
 luna
 makoureactor
+mdview
 mybelka
 n3h
 nRF_Connect
@@ -529,8 +539,6 @@ onnx2daq
 openblok
 ossia_score
 osu
-privacy.sexy
-protonmail-desktop
 puush-qt
 pyappimage
 python2
@@ -566,8 +574,6 @@ spm
 sqlitebrowser
 stash-electron
 steam-rom-manager
-tastee-ui
-torrenttools
 triagem-touch
 ttth
 tweet-tray
