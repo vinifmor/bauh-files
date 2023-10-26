@@ -24,6 +24,7 @@ BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect_Client
+Beekeeper Studio
 Beekeeper_Studio
 Bench_CLI
 BetterSIS
@@ -65,10 +66,11 @@ Circle-Z
 CircuitBlocks
 City_Hub
 CleepDesktop
-ClementineRemote
-Cliniface
-Cloud_Browser
-Code_OSS
+Cscrypto
+CubicSDR
+Cura
+CustomRPC
+CutePeaks
 CuteVariant
 DFileManager
 Dana
@@ -89,12 +91,6 @@ Disass
 Discord
 DockStation
 DokiDokiModManager
-Downline
-Dragoman
-Drill
-Dust3D
-Dwyco_Phoo
-ERScaffold
 ElDumper
 Electorrent
 ElectroCRUD
@@ -110,6 +106,7 @@ Eplee
 Eqonomize
 Espanso
 Etcher
+Eternal-Lands
 Firefox_Beta
 Firefox_ESR
 Firefox_Nightly
@@ -125,8 +122,8 @@ Fraktal
 FranceTV
 Franz
 Frappe_Accounting
-GetThermal
-Gifcurry
+FreeCAD-asm3
+FreeCAD2
 Gingko
 GitHubDesktop
 GitJournal
@@ -144,8 +141,8 @@ Graviton
 GridcoinResearch-5.4.5.0
 GrinPlusPlus
 Groot
-ITUSB1_Manager
-ITUSB2_Manager
+Guitar
+Gulden
 ImExample
 ImHex
 ImageMosaicWall
@@ -166,7 +163,6 @@ James
 JoalDesktop
 Join_Desktop
 Joplin
-KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
@@ -206,7 +202,7 @@ MagicFountain
 Malice
 Manta
 Mapeo
-Mark_Mind
+Mindmapp
 MineTime
 Minetest
 MiniZinc_IDE
@@ -234,7 +230,6 @@ NX_Software_Center
 Naev
 NanoVault
 Negibox
-Neon
 OWallet
 Obsidian
 Olive
@@ -250,8 +245,7 @@ P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
-PacketSender
-Padloc
+Phinch
 PhotoFlare
 PhotoFlow
 PhotoQuick
@@ -280,6 +274,8 @@ PostyBirb
 PowerShell
 PowerliminalsPlayer
 PraxisLIVE
+PrimeWorldEditor
+ProtonUp-Qt
 QMPlay2
 QMediathekView
 QNapi
@@ -315,9 +311,7 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-Rats_on_The_Boat
-ReliefValve
-SFRT_Attendance
+Rebaslight
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -336,9 +330,9 @@ SchildiChat
 ScienceFair
 Scilab
 Scraper
-SimplEOS
-SimpleInstaBot
-SimpleX
+ScreenCloud
+Scrum-Retroboard
+Scytale
 Singlebox
 Skrifa
 SlackBackup
@@ -354,10 +348,8 @@ Sourcetrail
 Spark.Payments
 Speaky_MiniPlayer
 Spectrum
-Substrate_IDE
-Subsurface
-Subtitle_Composer
-SultanPOS
+SpeedyLoader
+Spivak
 Summoners.War.Exporter
 Sup
 Superpaper
@@ -391,8 +383,8 @@ Translatium
 Trezor_Suite
 Trinity_Desktop
 Tropy
-Verto
-Vessel
+Tumblr_Downloader_GUI
+Upscayl
 VidCutter
 Videomass
 Vieb
@@ -412,9 +404,9 @@ Whalebird
 Widelands
 Wire
 WishDemo
-ZeGrapher
-Zegarek
-ZenroomStudio
+Woke
+Wonderwall
+WorkFlowy
 Znax
 Zoom
 Zulip
@@ -436,7 +428,8 @@ beurerscalemanager
 bioanimation
 bottlenose
 buttercup
-dukto
+cabal-desktop
+caprine
 dvdisaster
 eDEX-UI
 eNoseAnnotator
@@ -471,6 +464,7 @@ gibs
 githoard
 glTF_Insight
 glulxe
+graphql-playground
 iptvnator
 irccloud-desktop
 isle-editor
@@ -496,7 +490,9 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 lumi
-mutool
+luminance-hdr
+luna
+mapton
 my-budget
 mybelka
 n3h
@@ -519,6 +515,7 @@ onnx2daq
 openblok
 ossia_score
 osu
+pnpm
 privacy.sexy
 protonmail-desktop
 puush-qt
@@ -587,7 +584,3 @@ wxMaxima
 x-loc
 xde
 xemu
-xonsh
-yaya
-youtube-music
-youtube-music-desktop
