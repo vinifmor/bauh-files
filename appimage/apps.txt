@@ -23,7 +23,7 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
-Arduino_IDE
+Bazecor
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -47,7 +47,8 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CRIC
+Brackets
+BrainVerse
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
 Calculist
@@ -81,6 +82,7 @@ CrossCode_Map_Editor
 CrossMobile
 Cryplicity
 Crypter
+Cryptr
 Detect_It_Easy
 DevHub
 Diffuse
@@ -118,7 +120,6 @@ EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
-Explorook
 Focalizzare
 FocusWriter
 FontForge
@@ -133,6 +134,7 @@ FreeCAD-asm3
 FreeCAD2
 FreeTexturePacker
 FreeTube
+FreeTube
 Friture
 FromScratch
 GDevelop
@@ -142,8 +144,7 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
-GooboxFileShare
-Google_Tasks_Desktop
+GXC_Smart_Contract_IDE
 GpgFrontend
 Gpredict
 GradeStats
@@ -168,8 +169,9 @@ HyperionIDE
 Hyperspace
 IGdm
 INSTEAD
-JReleaser
-James
+ITUSB1_Manager
+ITUSB2_Manager
+ImExample
 JoalDesktop
 Join_Desktop
 Joplin
@@ -198,6 +200,12 @@ Kitupiikki
 Klogg
 Knowte
 KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -220,7 +228,7 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-MeowSQL
+Minetest
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -250,7 +258,7 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Onenote
+OWASP Threat Dragon
 Onshape
 Onyx
 OpenAudible
@@ -275,12 +283,12 @@ Parity_Fether
 Passky
 Patchwork
 Pathephone
-PlayMe
-Play_2048
-Playbox
-PlotJuggler
-Plover
-PocketCasts_Electron
+PatternPaint
+Pelusica
+Pennywise
+Pext
+Phinch
+PhotoFlare
 Poddr
 Podman
 PolkaKey
@@ -342,7 +350,7 @@ RasterDraw
 Rats_on_The_Boat
 Raven_Reader
 RawTherapee
-SMPlayer
+Reactotron
 SMathStudio
 SMath_Studio
 SOIL_EDITOR
@@ -364,7 +372,6 @@ Scytale
 Sengi
 Serial_Studio
 Shadowsocks
-Slippi
 SmallBASIC
 SmartGit
 SnippetStore
@@ -379,10 +386,10 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Sup
-Superpaper
-SwagLyrics
-SwiftnessX
+Statsbook_Tool
+StatusPilatus
+SteamCAD
+Steem_Messenger
 SwitchHosts!
 Symphonium
 SyncMyL2P
@@ -415,7 +422,6 @@ Tumblr_Scraper
 TurboWarp
 Turntable
 Tusk
-Vieb
 Viper_Browser
 Vipster
 VirtScreen
@@ -435,6 +441,7 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
+Workbench
 Zulip
 accessimap-lecteur-der
 acreom
@@ -456,7 +463,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eNoseAnnotator
+clippy
+clipr
 eOSVC
 eXtrema
 ehdev-shell
@@ -500,6 +508,9 @@ htmldoc
 hugin
 huwinterpreter
 hw-probe
+hyper
+impact
+iota1k
 jscad-desktop
 jumpfm
 keyrier-json
@@ -516,6 +527,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
+logseq
 lumi
 luminance-hdr
 luna
@@ -523,7 +535,7 @@ makoureactor
 mandelbulber2
 mapollage
 mapton
-neovim
+marktext
 ngPost
 ngrev
 nheko
@@ -548,9 +560,8 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-qTox
-qhot
-qikQR
+pigs-n-cows
+pingviewer
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -582,8 +593,9 @@ storyboarder
 strans
 stretchly
 subtitles-composer-app
-uncov
-unified-communications
+swradio
+tT
+tagspaces
 unoffical-sonos-controller-for-linux
 unofficial-zalo
 unreel
