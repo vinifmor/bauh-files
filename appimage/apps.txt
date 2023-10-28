@@ -22,8 +22,8 @@ AppImageUpdate
 App_Outlet
 ArcadeManager
 Archipel
-BasiliskII
-Bazecor
+Archipelago
+Arduino_IDE
 Beatconnect_Client
 Beekeeper_Studio
 Bench_CLI
@@ -47,10 +47,10 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CRG_Data_Tool
-CRIC
-CRITERIA1D_PRO
-Cabal_Desktop_Mini
+Brackets
+BrainVerse
+BrainWaves
+BrickStore
 Calculist
 Carpenters
 Cascade_Image_Editor
@@ -78,13 +78,12 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-CutePeaks
-DeDop-studio
-DeadGame-2048
-DeepTags
-Delir
-Demonizer
-Deployer
+Cromberg
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
+Crypter
+Cryptr
 Detect_It_Easy
 DevHub
 Diffuse
@@ -121,7 +120,7 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Eximchain_Wallet
+Fluent_Reader
 Focalizzare
 FocusWriter
 FontForge
@@ -145,6 +144,7 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
+GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
@@ -171,8 +171,7 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-ImExample
-ImHex
+JoalDesktop
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -204,7 +203,6 @@ LANShare
 LCEdit
 LED.Custom.Palette
 LMMS
-LPub3D
 LibreSprite
 Lightning
 LikeTaskManager
@@ -227,7 +225,6 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
 MiniZinc_IDE
 Mini_Diary
 Minions
@@ -257,7 +254,7 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Nexus_Wallet
+Onenote
 Onshape
 Onyx
 OpenAudible
@@ -283,6 +280,8 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
+PlayMe
+Play_2048
 Playbox
 PlotJuggler
 Plover
@@ -368,7 +367,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-SlackBackup
+Serial_Studio
 Slacktronic
 Slippi
 SmallBASIC
@@ -385,8 +384,6 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Storaji
-Summoners.War.Exporter
 Sup
 Superpaper
 SwagLyrics
@@ -442,7 +439,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -464,9 +460,7 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
-eOSVC
+clippy
 eXtrema
 ehdev-shell
 elcalc
@@ -506,6 +500,10 @@ hotspot
 hpack
 hsinstall
 htmldoc
+hugin
+huwinterpreter
+hw-probe
+hyper
 jmbde
 jscad-desktop
 jumpfm
@@ -528,7 +526,8 @@ luminance-hdr
 luna
 makoureactor
 mandelbulber2
-nRF_Connect
+mapollage
+mapton
 neovim
 ngPost
 ngrev
@@ -551,8 +550,7 @@ p2p-chat
 parsec-linux-appimage
 patchbay
 pb-for-desktop
-python3
-qBittorrent_Enhanced_Edition
+pdf-sync
 qSdrSwr
 qTox
 qhot
@@ -585,8 +583,8 @@ stash-electron
 steam-rom-manager
 sticker-convert
 storyboarder
-ttth
-tweet-tray
+strans
+stretchly
 twetter
 twitch-wrapper
 uncov
