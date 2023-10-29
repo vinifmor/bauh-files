@@ -47,7 +47,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-Brackets
+CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
@@ -81,7 +81,6 @@ CozyDrive
 Cromberg
 CrossCode_Map_Editor
 CrossMobile
-Cryplicity
 Deployer
 Detect_It_Easy
 DevHub
@@ -120,6 +119,7 @@ EverInst
 ExeQt
 ExifCleaner
 Eximchain_Wallet
+Explorook
 FocusWriter
 FontForge
 FontLet
@@ -143,7 +143,6 @@ GPUpad
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
-Galacteek
 GpgFrontend
 Gpredict
 GradeStats
@@ -158,6 +157,7 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -170,8 +170,6 @@ INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 ImExample
-ImHex
-Join_Desktop
 Joplin
 Joy2DroidX
 Juggernaut
@@ -226,8 +224,8 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Minetest
-MiniZinc_IDE
+Martian
+MasterVyrn
 Mini_Diary
 Minions
 Mirage
@@ -257,7 +255,7 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
-Onshape
+Niffler
 Onyx
 OpenAudible
 OpenBlok
@@ -347,7 +345,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-SMF-DSP
+RawTherapee
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -368,7 +366,6 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
-SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
@@ -385,7 +382,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Sup
+Statsbook_Tool
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -440,7 +437,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-ZapDesktop
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -464,8 +460,7 @@ buttercup
 cabal-desktop
 caprine
 clippy
-eNoseAnnotator
-eOSVC
+clipr
 eXtrema
 ehdev-shell
 elcalc
@@ -509,6 +504,7 @@ hugin
 huwinterpreter
 hw-probe
 hyper
+jexiftoolgui
 jitsi-meet
 jmbde
 jscad-desktop
@@ -528,10 +524,9 @@ linux-intel-undervolt-gui
 linux_czkawka_gui
 linuxdeployqt
 lumi
-mtCellEdit
-mutool
-my-budget
-mybelka
+luminance-hdr
+luna
+makoureactor
 n3h
 nRF_Connect
 neovim
@@ -552,10 +547,11 @@ onnx2daq
 openblok
 ossia_score
 osu
-puush-qt
-pyappimage
-python2
-python3
+p2p-chat
+parsec-linux-appimage
+patchbay
+pb-for-desktop
+pdf-sync
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
@@ -589,8 +585,8 @@ stash-electron
 steam-rom-manager
 sticker-convert
 storyboarder
-ttth
-tweet-tray
+strans
+stretchly
 twetter
 twitch-wrapper
 uncov
