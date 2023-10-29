@@ -47,7 +47,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
-CRG_Data_Tool
+Brackets
 CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
@@ -78,9 +78,10 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-Cromberg
-CrossCode_Map_Editor
-CrossMobile
+DeadGame-2048
+DeepTags
+Delir
+Demonizer
 Deployer
 Detect_It_Easy
 DevHub
@@ -143,6 +144,8 @@ GPUpad
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
+Galacteek
+GameHub
 GpgFrontend
 Gpredict
 GradeStats
@@ -157,7 +160,6 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -170,6 +172,8 @@ INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
 ImExample
+ImHex
+Join_Desktop
 Joplin
 Joy2DroidX
 Juggernaut
@@ -201,7 +205,6 @@ LCEdit
 LED.Custom.Palette
 LMMS
 LPub3D
-Lagrange
 LibreSprite
 Lightning
 LikeTaskManager
@@ -224,8 +227,8 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
+Minetest
+MiniZinc_IDE
 Mini_Diary
 Minions
 Mirage
@@ -254,8 +257,8 @@ Neon
 NepaliUnicode
 Newlogic
 Nextcloud
-Nexus_Wallet
-Niffler
+Onenote
+Onshape
 Onyx
 OpenAudible
 OpenBlok
@@ -279,8 +282,9 @@ Parallelcoin
 Parity_Fether
 Passky
 Patchwork
-Pathephone
-PatternPaint
+Planet_Blupi
+PlayMe
+Play_2048
 Playbox
 PlotJuggler
 Plover
@@ -345,7 +349,7 @@ Rambox
 RasterDraw
 Rats_on_The_Boat
 Raven_Reader
-RawTherapee
+SMF-DSP
 SMPlayer
 SMathStudio
 SMath_Studio
@@ -365,7 +369,8 @@ Scraper
 ScreenCloud
 Scrum-Retroboard
 Scytale
-Sengi
+Skrifa
+SlackBackup
 Slacktronic
 Slippi
 SmallBASIC
@@ -382,7 +387,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Statsbook_Tool
+Sup
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -460,7 +465,8 @@ buttercup
 cabal-desktop
 caprine
 clippy
-clipr
+eNoseAnnotator
+eOSVC
 eXtrema
 ehdev-shell
 elcalc
@@ -503,8 +509,6 @@ htmldoc
 hugin
 huwinterpreter
 hw-probe
-hyper
-jexiftoolgui
 jitsi-meet
 jmbde
 jscad-desktop
@@ -526,7 +530,8 @@ linuxdeployqt
 lumi
 luminance-hdr
 luna
-makoureactor
+my-budget
+mybelka
 n3h
 nRF_Connect
 neovim
@@ -550,8 +555,8 @@ osu
 p2p-chat
 parsec-linux-appimage
 patchbay
-pb-for-desktop
-pdf-sync
+python2
+python3
 qBittorrent_Enhanced_Edition
 qSdrSwr
 qTox
