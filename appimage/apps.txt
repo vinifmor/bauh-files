@@ -78,7 +78,8 @@ ConsoleWorkbench
 Converter432Hz
 Cool_Retro_Term
 CozyDrive
-DeadGame-2048
+Cromberg
+CrossCode_Map_Editor
 DeepTags
 Delir
 Demonizer
@@ -119,8 +120,7 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
-Eximchain_Wallet
-Explorook
+Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -144,7 +144,7 @@ GPUpad
 GSequencer
 GVim
 GXC_Smart_Contract_IDE
-Galacteek
+Google_Tasks_Desktop
 GpgFrontend
 Gpredict
 GradeStats
@@ -159,6 +159,7 @@ HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
+Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -170,8 +171,8 @@ IGdm
 INSTEAD
 ITUSB1_Manager
 ITUSB2_Manager
-Insomnia
-JoalDesktop
+ImExample
+ImHex
 Join_Desktop
 Joplin
 Joy2DroidX
@@ -202,6 +203,9 @@ KopiaUI
 LANShare
 LCEdit
 LED.Custom.Palette
+LMMS
+LPub3D
+Lagrange
 Lightning
 LikeTaskManager
 Linedancer
@@ -223,8 +227,8 @@ Manta
 Mapeo
 Mark_Mind
 Markman
-Martian
-MasterVyrn
+Minetest
+MiniZinc_IDE
 Mini_Diary
 Minions
 Mirage
@@ -254,7 +258,7 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus_Wallet
-Onenote
+OWASP Threat Dragon
 Onshape
 Onyx
 OpenAudible
@@ -281,9 +285,8 @@ Passky
 Patchwork
 Pathephone
 PatternPaint
-PlayMe
-Play_2048
-Playbox
+Pelusica
+Pennywise
 PlotJuggler
 Plover
 PocketCasts_Electron
@@ -370,7 +373,7 @@ Scytale
 Sengi
 Serial_Studio
 Shadowsocks
-Shannon_Calculator
+Slippi
 SmallBASIC
 SmartGit
 SnippetStore
@@ -385,7 +388,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Statsbook_Tool
+Superpaper
 SwagLyrics
 SwiftnessX
 SwitchHosts!
@@ -417,8 +420,9 @@ Trinity_Desktop
 Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
-Videomass
-Vieb
+TurboWarp
+Turntable
+Tusk
 Viper_Browser
 Vipster
 VirtScreen
@@ -438,7 +442,6 @@ WishDemo
 Woke
 Wonderwall
 WorkFlowy
-Znax
 Zoom
 Zulip
 accessimap-lecteur-der
@@ -461,9 +464,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
-eNoseAnnotator
-eOSVC
+clippy
+clipr
 eXtrema
 ehdev-shell
 elcalc
@@ -504,6 +506,10 @@ hpack
 hsinstall
 htmldoc
 hugin
+huwinterpreter
+hw-probe
+hyper
+impact
 keyrier-json
 kitupiikki
 ksnip
@@ -526,10 +532,10 @@ mandelbulber2
 mapollage
 mapton
 marktext
-ngrev
-nheko
-nimbus-weather
-nmap
+marlin-conf
+mdview
+media-dupes
+media_mate
 nordvpn-linux
 notepadqq
 noteshrink-qt
@@ -551,9 +557,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
-qikQR
-qpdf
-qpp::cad
+pkg2appimage
 qr-code-generator-desktop
 quokkagit
 rasterview
@@ -582,8 +586,10 @@ sticker-convert
 storyboarder
 strans
 stretchly
-twetter
-twitch-wrapper
+subtitles-composer-app
+swradio
+tT
+tagspaces
 uncov
 unified-communications
 unoffical-sonos-controller-for-linux
