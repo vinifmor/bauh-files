@@ -23,6 +23,8 @@ App_Outlet
 ArcadeManager
 Archipel
 Archipelago
+Augur
+BasiliskII
 Bazecor
 Beatconnect_Client
 Beekeeper_Studio
@@ -47,6 +49,7 @@ Bodhi
 Book_Manager
 BottleBats
 Bottles
+CRG_Data_Tool
 CRIC
 CRITERIA1D_PRO
 Cabal_Desktop_Mini
@@ -78,9 +81,9 @@ Converter432Hz
 Cool_Retro_Term
 CozyDrive
 Cromberg
-DeepTags
-Delir
-Demonizer
+CrossCode_Map_Editor
+CrossMobile
+Cryplicity
 Deployer
 Detect_It_Easy
 DevHub
@@ -116,8 +119,10 @@ Etcher
 Eternal-Lands
 EternalModManager
 EverInst
-ExeQt
-ExifCleaner
+Firefox_Nightly
+Flippy_Qualitative_Testbench
+Fluent_Reader
+Focalizzare
 FocusWriter
 FontForge
 FontLet
@@ -140,6 +145,7 @@ GM-Companion
 GPUpad
 GSequencer
 GVim
+GooboxFileShare
 Google_Tasks_Desktop
 GpgFrontend
 Gpredict
@@ -191,7 +197,12 @@ KiCad
 Kiibohd_Configurator
 Kimitzu-Client
 Kitupiikki
-LibreSprite
+Klogg
+Knowte
+KopiaUI
+LANShare
+LCEdit
+LED.Custom.Palette
 Lightning
 LikeTaskManager
 Linedancer
@@ -212,6 +223,7 @@ Malice
 Manta
 Mapeo
 Mark_Mind
+MineTime
 Minetest
 MiniZinc_IDE
 Mini_Diary
@@ -239,8 +251,6 @@ Naev
 NanoVault
 Negibox
 Neon
-NepaliUnicode
-OCVvid2fulldome.txt
 OWallet
 Obsidian
 Olive
@@ -259,12 +269,13 @@ PIA
 POE_Ladder
 PacketSender
 Padloc
-PhotoQuick
-Photopea
+Painel-Web
+Paletti
+PanWriter
+Panini
+Paper
+Papercraft
 PhreshPlayer
-PicGo
-Pile
-Pingendo
 Pingnoo
 Pixsrt
 Plag_Patrol
@@ -298,6 +309,7 @@ Puppetry
 Python
 QDriverStation
 QEMU_PowerPC
+QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -333,7 +345,7 @@ Radix_Wallet
 Rainbow_Board
 Rambox
 RasterDraw
-SFRT_Attendance
+Rats_on_The_Boat
 SF_Tube
 SMF-DSP
 SMPlayer
@@ -356,6 +368,7 @@ ScreenCloud
 Scrum-Retroboard
 Scytale
 Sengi
+SimpleX
 Skrifa
 SlackBackup
 Slacktronic
@@ -374,7 +387,6 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Sup
 Superpaper
 SwagLyrics
 SwiftnessX
@@ -408,7 +420,6 @@ Tropy
 Tumblr_Downloader_GUI
 Tumblr_Scraper
 TurboWarp
-Turntable
 Vieb
 Viper_Browser
 Vipster
@@ -451,7 +462,6 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
-eDEX-UI
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -488,11 +498,8 @@ graphql-playground
 gsubs
 guglielmo
 guiscrcpy
-hyper
-jexiftoolgui
-jira-timer
-jitsi-meet
-jmbde
+hero-display
+hotspot
 jscad-desktop
 jumpfm
 keyrier-json
@@ -520,6 +527,7 @@ marktext
 marlin-conf
 mdview
 media-dupes
+media_mate
 nmap
 nordvpn-linux
 notepadqq
@@ -542,6 +550,7 @@ perl-executing-browser
 photoname
 pigs-n-cows
 pingviewer
+qpdf
 qpp::cad
 qr-code-generator-desktop
 quokkagit
@@ -573,8 +582,7 @@ strans
 stretchly
 subtitles-composer-app
 swradio
-tT
-tagspaces
+uncov
 unified-communications
 unoffical-sonos-controller-for-linux
 unofficial-zalo
