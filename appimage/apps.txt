@@ -169,6 +169,7 @@ EmuDeck
 EncryptPad
 Endless_Sky
 EnvKey
+Eplee
 Eqonomize
 Espanso
 Etcher
@@ -419,6 +420,7 @@ OpenStream_Music
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
+P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
@@ -718,6 +720,7 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
+android-messages-desktop
 antimicroX
 ao
 appimagecraft
