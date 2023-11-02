@@ -130,6 +130,7 @@ Cura
 CustomRPC
 CutePeaks
 CuteVariant
+Cutter
 DFileManager
 Dana
 Datcord
@@ -168,7 +169,6 @@ EmuDeck
 EncryptPad
 Endless_Sky
 EnvKey
-Eplee
 Eqonomize
 Espanso
 Etcher
@@ -186,6 +186,7 @@ FAT_Wallet
 FF-Password-Exporter
 FMS_File_Explorer
 FastQt
+Ferdium
 Fidias_Database_Migration_App
 Figma
 Filmulator
@@ -337,6 +338,7 @@ MQTT-Explorer
 MQTTCute
 MagicFountain
 Malice
+Manager
 Manta
 Mapeo
 Mark_Mind
@@ -368,6 +370,7 @@ MoarPerf
 Mob
 Mockman
 Monot
+MoonPlayer
 Moonlight
 Motrix
 Mr.Dclutterer
@@ -416,12 +419,12 @@ OpenStream_Music
 OpenTodoList
 Open_Markup_Editor
 Outline-Manager
-P2PDerivatives
 PDFQuirk
 PIA
 POE_Ladder
 PacketSender
 Padloc
+Padlock
 Painel-Web
 Paletti
 PanWriter
@@ -715,7 +718,6 @@ acreom
 ai-bot-workspace
 aillio-ts
 altair
-android-messages-desktop
 antimicroX
 ao
 appimagecraft
@@ -973,5 +975,6 @@ youtube-music
 youtube-music-desktop
 ytDownloader
 yuzu
+zmNinja
 zograscope
 zsync2
