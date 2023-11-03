@@ -532,7 +532,6 @@ Record_Compare
 RedmineTimeTracker
 ReliefValve
 Responsively
-RetroArch
 RetroShare
 RoboRock_Control_Center
 RoloViewer
