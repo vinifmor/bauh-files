@@ -599,7 +599,7 @@ SpeedyLoader
 Spivak
 Stacer
 Standard_Notes
-Statsbook_Tool
+Statsbook-Tool
 StatusPilatus
 SteamCAD
 Steem_Messenger
@@ -799,7 +799,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-impact
 iota1k
 iptvnator
 irccloud-desktop
