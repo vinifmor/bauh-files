@@ -4,7 +4,6 @@ ANT-Downloader
 APK-Editor-Studio
 APhotoToolLibre
 ARAnyM
-ATSDB
 Advanced-Rest-Client
 Airspaces
 Alduin
@@ -403,7 +402,6 @@ Notable
 NoteMaster
 OCVWarp
 OCVvid2fulldome
-OCVvid2fulldome.txt
 ONLYOFFICE
 OSRS-Tools
 OVideo
@@ -738,6 +736,7 @@ clippy
 clipr
 cncjs
 colorstatic-bash
+compass
 cordlauncher
 cric
 dashy-app
