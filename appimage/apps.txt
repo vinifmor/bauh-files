@@ -732,6 +732,8 @@ bottlenose
 buttercup
 cabal-desktop
 caprine
+citra-canary
+citra-nightly
 clippy
 clipr
 cncjs
