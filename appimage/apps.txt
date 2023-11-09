@@ -751,6 +751,7 @@ dexter-dev-env
 dfDemo
 dingtalk
 draw.io
+duckstation
 dukto
 dvdisaster
 eDEX-UI
@@ -764,6 +765,7 @@ electron-xiami
 element
 elzabrowser
 embedded-ide
+emulationstation-de
 enve
 erdesigner
 evoplex
