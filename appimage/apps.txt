@@ -204,9 +204,6 @@ Fraidycat
 Fraktal
 FranceTV
 Franz
-Frappe-Accounting
-FreeCAD-asm3
-FreeCAD2
 FreeTexturePacker
 FreeTube
 FreeTube
@@ -779,7 +776,10 @@ flightgear-airports
 fmradio
 four
 foxfolio
+frappe-books
 fre:ac
+freecad
+freecad-link
 freeman
 gLabels
 gerbv
@@ -807,7 +807,7 @@ irccloud-desktop
 isle-editor
 jag
 jexiftoolgui
-jira-timer
+jira-timer-menubar
 jitsi-meet
 jmbde
 jscad-desktop
