@@ -205,8 +205,6 @@ Fraktal
 FranceTV
 Franz
 FreeTexturePacker
-FreeTube
-FreeTube
 Friture
 FromScratch
 GDevelop
@@ -810,7 +808,6 @@ jexiftoolgui
 jira-timer-menubar
 jitsi-meet
 jmbde
-jscad-desktop
 jumpfm
 keyrier-json
 kitupiikki
