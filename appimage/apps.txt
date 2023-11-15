@@ -192,7 +192,6 @@ Figma
 Filmulator
 Firefox-Beta
 Firefox-ESR
-Firefox-Nightly
 Flippy-Qualitative-Testbench
 Fluent-Reader
 Focalizzare
@@ -969,7 +968,6 @@ wxMEdit
 wxMaxima
 x-loc
 xde
-xemu
 xonsh
 yaya
 youtube-music
