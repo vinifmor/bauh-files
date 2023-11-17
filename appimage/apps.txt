@@ -613,7 +613,6 @@ SuperSlicer
 Superpaper
 SwagLyrics
 SwiftnessX
-SwitchHosts!
 Symphonium
 SyncMyL2P
 Syncplay
@@ -927,6 +926,7 @@ storyboarder
 strans
 stretchly
 subtitles-composer-app
+switchhosts
 swradio
 tT
 tastee-ui
