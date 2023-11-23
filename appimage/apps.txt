@@ -226,6 +226,7 @@ GitNote
 GitQlient
 Glyphr-Studio-Desktop
 GoldenCheetah
+GoldenDict
 GooboxFileShare
 Google-Tasks-Desktop
 GpgFrontend
