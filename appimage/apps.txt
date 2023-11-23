@@ -13,7 +13,6 @@ AnaVis
 Anchor
 Another-Redis-Desktop-Manager
 Antares
-Apache-NetBeans
 Aphelion-Wallet
 Apla
 App-Outlet
@@ -227,7 +226,6 @@ GitNote
 GitQlient
 Glyphr-Studio-Desktop
 GoldenCheetah
-GoldenDict
 GooboxFileShare
 Google-Tasks-Desktop
 GpgFrontend
@@ -730,6 +728,7 @@ citra-nightly
 clippy
 clipr
 cncjs
+codelerity-netbeans
 colorstatic-bash
 compass
 cordlauncher
