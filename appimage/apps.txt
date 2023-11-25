@@ -85,7 +85,6 @@ CP-Editor
 CPU-X
 CPod
 CRG-Data-Tool
-CRIC
 CRITERIA1D-PRO
 Cabal-Desktop-Mini
 Calculist
@@ -297,7 +296,6 @@ Keys
 KiCad
 Kiibohd-Configurator
 Kimitzu-Client
-Kitupiikki
 Klogg
 Knowte
 KopiaUI
@@ -307,7 +305,6 @@ LED-Custom-Palette
 LMMS
 LPub3D
 Lagrange
-Laigter
 Left
 Lemon
 LeoCAD
@@ -407,7 +404,6 @@ Onshape
 Onyx
 Open-Markup-Editor
 OpenAudible
-OpenBlok
 OpenStream-Music
 OpenTodoList
 Outline-Manager
@@ -450,7 +446,6 @@ Planet-Blupi
 Play-2048
 PlayMe
 Playbox
-PlotJuggler
 Plover
 PocketCasts-Electron
 Poddr
@@ -477,7 +472,6 @@ Puppetry
 Python
 QDriverStation
 QEMU-PowerPC
-QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -542,7 +536,6 @@ SPlayer
 SUMOCO
 SUbillManager
 SWC-Minecraft-Launcher
-Sabaki
 Safe-Multisig
 SavvyCAN
 Scatter
@@ -628,9 +621,6 @@ Tesseract
 ThermusQt
 Thorium-Browser
 Thorium-Reader
-Thunderbird
-Thunderbird-Beta
-Thunderbird-Nightly
 Tiled
 TilingGenerator
 Todoist
@@ -651,10 +641,8 @@ UltraGrid
 UltraScreen
 UniShellect
 Upscayl
-Upscayl
 V2Ray-Desktop
 VK-Desktop
-VLC
 VNote
 VPaint
 Valeronoi
@@ -728,6 +716,7 @@ citra-canary
 citra-nightly
 clippy
 clipr
+cmatomic-vlc
 cncjs
 codelerity-netbeans
 colorstatic-bash
@@ -919,6 +908,7 @@ snomcontrol
 spark-wallet
 spm
 sqlitebrowser
+srevinsaju-thunderbird
 stash-electron
 steam-rom-manager
 sticker-convert
