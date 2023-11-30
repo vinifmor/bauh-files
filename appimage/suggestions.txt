@@ -1,11 +1,10 @@
 2=etcher
 2=freetube
 2=heroic games launcher
+2=joplin
+1=cpu-x
 1=nextcloud
 1=rpcs3
 1=yuzu
-0=postman
 0=franz
 0=gamehub
-0=thunderbird
-
