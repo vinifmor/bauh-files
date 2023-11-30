@@ -230,18 +230,6 @@ mega:
   category: Utility
   priority: 0
 
-tweetdeck:
-  name: TweetDeck
-  url: https://tweetdeck.twitter.com
-  category: Network
-  priority: 2
-
-twitter:
-  name: Twitter
-  url: https://twitter.com
-  category: Network
-  priority: 3
-
 evernote:
   name: Evernote
   url: https://www.evernote.com/client/web
