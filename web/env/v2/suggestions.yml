@@ -40,6 +40,7 @@ whatsapp:
     ca: Servei de missatges i trucades
     de: Ein Nachrichten- und Anrufservice
   url: https://web.whatsapp.com
+  icon_url: https://web.whatsapp.com/apple-touch-icon.png
   category: Network
   options: [tray_min]
   priority: 3
@@ -71,78 +72,6 @@ slack:
   category: Network
   options: [tray_min]
   priority: 3
-
-
-office:
-  name: Microsoft Office
-  description:
-    en: Cloud's Office
-    pt: Office na nuvem
-    es: Office de la nube
-    it: Office's Word
-    ca: Office del núvol
-    de: Office der Wolke
-  url: https://www.office.com
-  category: Office
-  priority: 0
-
-ms_excel:
-  name: Microsoft Excel
-  description:
-    en: Cloud's Excel
-    pt: Excel na nuvem
-    es: Excel de la nube
-    it: Excel's Word
-    ca: Excel del núvol
-    de: Excel der Wolke
-  url: https://www.office.com/launch/excel
-  icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-excel-svg-29b733e1d7.ico
-  save_icon: true
-  category: Office
-  priority: 1
-
-ms_word:
-  name: Microsoft Word
-  description:
-    en: Cloud's Word
-    pt: Word na nuvem
-    es: Word de la nube
-    it: Cloud's Word
-    ca: Word del núvol
-    de: Word der Wolke
-  url: https://www.office.com/launch/word
-  icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-word-svg-8eedb3d95e.ico
-  save_icon: true
-  category: Office
-  priority: 1
-
-ms_pp:
-  name: Microsoft Powerpoint
-  description:
-    en: Cloud's Powerpoint
-    pt: Powerpoint na nuvem
-    es: Powerpoint de la nube
-    it: Cloud's Powerpoint
-    ca: Powerpoint del núvol
-    de: Powerpoint der Wolke
-  url: https://www.office.com/launch/powerpoint
-  icon_url: https://blobs.officehome.msocdn.com/images/content/images/favicons/favicon-powerpoint-svg-f44c23dac7.ico
-  save_icon: true
-  category: Office
-  priority: 1
-
-ms_outlook:
-  name: Microsoft Outlook
-  url: https://outlook.live.com
-  category: Network
-  options: [tray_min]
-  priority: 2
-
-ms_drive:
-  name: Microsoft One Drive
-  url: https://www.onedrive.live.com
-  category: Utility
-  priority: 0
 
 reddit:
   name: Reddit
@@ -177,6 +106,7 @@ google-photos:
   url: https://photos.google.com
   save_icon: false
   category: Network
+  icon_url: "https://ssl.gstatic.com/social/photosui/images/logo/1x/photos_64dp.png"
   priority: 2
 
 google-cal:
@@ -207,13 +137,6 @@ google-pres:
   icon_url: https://ssl.gstatic.com/docs/presentations/images/favicon5.ico
   category: Office
   priority: 1
-
-google-hangouts:
-  name: Google Hangouts
-  url: https://hangouts.google.com
-  category: Network
-  options: [tray_min]
-  priority: 0
 
 gmail:
   name: GMail
@@ -246,25 +169,9 @@ evernote:
   options: [tray_min]
   priority: 2
 
-onenote:
-  name: OneNote
-  url: https://www.onenote.com
-  icon_url: https://site-cdn.onenote.net/161241631557_Images/FavIcon_OneNote.ico
-  save_icon: false
-  category: Utility
-  description:
-    en: Cloud notes service
-    pt: Serviço de notas em nuvem
-    es: Servicio de notas en la nube
-    it: Servizio note cloud
-    ca: Servei de notes al núvol
-    de: Cloud Notes-Dienst
-  options: [tray_min]
-  priority: 1
-
 protonmail:
   name: ProtonMail
-  url: https://protonmail.com
+  url: https://mail.proton.me
   save_icon: false
   category: Network
   options: [tray_min]
@@ -313,3 +220,18 @@ notion:
   category: Network
   options: [tray_min]
   priority: 2
+
+chatgpt:
+  name: ChatGPT
+  description:
+    en: Sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response
+    pt: Modelo irmão do InstructGPT, que é treinado para seguir uma instrução rapidamente e fornecer uma resposta detalhada
+    es: Modelo hermano para InstructGPT, que está capacitado para seguir una instrucción en un mensaje y proporcionar una respuesta detallada
+    it: Modello fratello di InstructGPT, addestrato a seguire un'istruzione in un prompt e fornire una risposta dettagliata
+    ca: Model de germà d'InstructGPT, que està entrenat per seguir una instrucció en una indicació i proporcionar una resposta detallada
+    de: Geschwistermodell zu InstructGPT, das darauf trainiert ist, einer Anweisung in einer Eingabeaufforderung zu folgen und eine detaillierte Antwort zu geben
+  url: https://chat.openai.com
+  save_icon: true
+  category: Network
+  priority: 3
+  icon_url: https://cdn.oaistatic.com/_next/static/media/favicon-32x32.be48395e.png
