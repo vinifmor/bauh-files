@@ -604,7 +604,6 @@ Summoners-War-Exporter
 Sup
 SuperSlicer
 Superpaper
-SwagLyrics
 SwiftnessX
 Symphonium
 SyncMyL2P
@@ -805,7 +804,6 @@ langly
 laravel-kit
 launcher
 le
-ledger-live-desktop
 lescovex
 lightning-peach-wallet
 linux-czkawka-gui
@@ -909,6 +907,7 @@ snomcontrol
 spark-wallet
 spm
 sqlitebrowser
+srevinsaju-swaglyrics
 srevinsaju-thunderbird
 stash-electron
 steam-rom-manager
