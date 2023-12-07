@@ -212,7 +212,6 @@ GPUpad
 GSequencer
 GVim
 GXC-Smart-Contract-IDE
-Galacteek
 GameHub
 Genesis
 Geometrize
@@ -606,7 +605,6 @@ SuperSlicer
 Superpaper
 SwiftnessX
 Symphonium
-SyncMyL2P
 Syncplay
 SynfigStudio
 Synthein
@@ -723,6 +721,7 @@ colorstatic-bash
 compass
 cordlauncher
 cric
+czkawka
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -806,7 +805,6 @@ launcher
 le
 lescovex
 lightning-peach-wallet
-linux-czkawka-gui
 linux-intel-undervolt-gui
 linuxdeployqt
 logseq
