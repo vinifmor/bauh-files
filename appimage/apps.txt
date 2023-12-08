@@ -22,7 +22,6 @@ ArcadeManager
 Archipel
 Archipelago
 Arduino-IDE
-Ark-Desktop-Wallet
 Arma-3-Unix-Launcher
 Armagetron-Advanced
 Artisan
@@ -691,6 +690,7 @@ Zoom
 Zulip
 accessimap-lecteur-der
 acreom
+aferrero2707-luminancehdr
 ai-bot-workspace
 aillio-ts
 altair
@@ -809,7 +809,6 @@ linux-intel-undervolt-gui
 linuxdeployqt
 logseq
 lumi
-luminance-hdr
 luna
 makoureactor
 mandelbulber2
