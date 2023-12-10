@@ -818,7 +818,6 @@ marktext
 marlin-conf
 mdview
 media-dupes
-media-mate
 meta-grabber
 mini-qml
 mira-backup
