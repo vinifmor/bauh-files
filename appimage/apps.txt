@@ -408,7 +408,6 @@ Outline-Manager
 P2PDerivatives
 PCSX2
 PDFQuirk
-PIA
 POE-Ladder
 PacketSender
 Padloc
