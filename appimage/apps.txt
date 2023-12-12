@@ -485,6 +485,7 @@ Qredit
 Qrop
 Qt-DAB
 Qt-JSON-diff
+Qt5Demo
 Qucs-S
 Quentier
 Quick-Clone
