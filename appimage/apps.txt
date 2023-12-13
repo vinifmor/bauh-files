@@ -397,7 +397,6 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
-Olive
 Onshape
 Onyx
 Open-Markup-Editor
