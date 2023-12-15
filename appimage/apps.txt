@@ -408,7 +408,6 @@ PCSX2
 PDFQuirk
 PacketSender
 Padloc
-Padlock
 Painel-Web
 Paletti
 PanWriter
@@ -682,7 +681,6 @@ ZeGrapher
 Zegarek
 ZenroomStudio
 Znax
-Zoom
 Zulip
 accessimap-lecteur-der
 acreom
@@ -865,6 +863,7 @@ pomotroid
 pretty-handy-privacy
 prismlauncher
 privacy-sexy
+probonopd-zoom
 protonmail-desktop
 puush-qt
 pyappimage
