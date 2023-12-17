@@ -693,7 +693,6 @@ antimicroX
 ao
 appimagecraft
 appimagelint
-appimagetool
 appium-desktop
 autoEdit2
 avogadro
