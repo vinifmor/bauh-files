@@ -216,7 +216,6 @@ Geometrize
 GetThermal
 Gifcurry
 Gingko
-GitHubDesktop
 GitJournal
 GitNote
 GitQlient
@@ -408,7 +407,6 @@ PCSX2
 PDFQuirk
 PacketSender
 Padloc
-Painel-Web
 Paletti
 PanWriter
 Panini
@@ -836,6 +834,7 @@ nmap
 nordvpn-linux
 notepadqq
 noteshrink-qt
+novosga-panel-app
 nvtop
 nx-software-center
 nxshell
@@ -887,6 +886,7 @@ saphyr
 scavengers
 school-sections
 ser-player
+shiftkey-desktop
 simple-s3-uploader
 simple-timer
 simplechroot
