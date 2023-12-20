@@ -607,7 +607,6 @@ Taskizer
 TeXstudio
 TeleDrive
 TeslaCam-Browser
-Tesseract
 ThermusQt
 Thorium-Browser
 Thorium-Reader
@@ -685,6 +684,7 @@ acreom
 aferrero2707-luminancehdr
 ai-bot-workspace
 aillio-ts
+alexanderp-tesseract
 altair
 android-messages-desktop
 antimicroX
