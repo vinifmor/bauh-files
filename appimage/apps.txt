@@ -31,7 +31,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-Auryo
 AvantGarde
 Axe-Electrum
 BLOCK-DX
@@ -410,7 +409,6 @@ Padloc
 Paletti
 PanWriter
 Panini
-Paper
 Papercraft
 Parallelcoin
 Parity-Fether
