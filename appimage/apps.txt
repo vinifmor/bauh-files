@@ -786,7 +786,6 @@ simple-s3-uploader
 simple-timer
 simplechroot
 slang-ed
-smtk2ssrf
 snake-js
 snapshot-slider
 snomcontrol
