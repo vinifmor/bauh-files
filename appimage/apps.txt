@@ -704,6 +704,7 @@ linuxdeployqt
 logseq
 lumi
 luna
+m59peacemaker-mupdf
 makoureactor
 mandelbulber2
 mapollage
@@ -720,7 +721,6 @@ moniteur-admin
 moolticute
 movie-monad
 mtCellEdit
-mutool
 my-budget
 mybelka
 nRF-Connect
