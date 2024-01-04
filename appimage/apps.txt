@@ -35,7 +35,6 @@ BaijiMangaViewer
 BasiliskII
 Bazecor
 Beatconnect-Client
-Beekeeper Studio
 Beekeeper-Studio
 BetterSIS
 Bezique
