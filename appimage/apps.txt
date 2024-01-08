@@ -826,6 +826,7 @@ vCloudcam
 vREST-NG
 vifm
 violetbug
+vrrtest
 weatherdump
 westeroscraftlauncher
 weweChat
