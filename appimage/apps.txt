@@ -175,6 +175,7 @@ Fraktal
 FranceTV
 Franz
 FreeTexturePacker
+FreeTube
 Friture
 FromScratch
 GDevelop
