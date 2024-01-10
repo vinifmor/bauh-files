@@ -205,7 +205,6 @@ GrinPlusPlus
 Groot
 Guitar
 HDRMerge
-HEAT1D
 HastyHeroes
 Heimer
 HermesMessenger
@@ -623,6 +622,7 @@ codelerity-netbeans
 colorstatic-bash
 compass
 cric
+criteria1d
 czkawka
 dashy-app
 dataset-annotator
