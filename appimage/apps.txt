@@ -42,7 +42,6 @@ BilibiliVideoDownload
 Birds-Kitchen
 BitShares
 Bitwarden
-Bitwarden-Connector
 Black-Chocobo
 Blender-Config-Manager
 Blink1Control2
@@ -608,6 +607,7 @@ avogadro
 bauh
 beurerscalemanager
 bioanimation
+bitwarden-directory-connector
 bottlenose
 buttercup
 cabal-desktop
