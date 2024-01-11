@@ -450,7 +450,6 @@ Responsively
 RetroShare
 RoloViewer
 Rotki
-Rufus
 Running-Dinner-Tool
 RyoWallet
 SBLauncher
