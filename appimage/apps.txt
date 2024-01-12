@@ -376,7 +376,6 @@ PhotoQuick
 Photopea
 PhreshPlayer
 PicGo
-Pingendo
 Pingnoo
 Pixsrt
 Plag-Patrol
@@ -683,6 +682,7 @@ igor-misic-gridcoin-research
 iotalk
 iptvnator
 isle-editor
+itrooz-nmap
 jag
 jexiftoolgui
 jitsi-meet
@@ -728,7 +728,6 @@ nexus-mods-app
 ngPost
 ngrev
 nimbus-weather
-nmap
 nordvpn-linux
 notepadqq
 noteshrink-qt
