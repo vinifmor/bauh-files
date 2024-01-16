@@ -729,7 +729,6 @@ ngPost
 ngrev
 nimbus-weather
 nordvpn-linux
-notepadqq
 noteshrink-qt
 novosga-panel-app
 nvtop
