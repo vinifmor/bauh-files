@@ -326,7 +326,6 @@ MyCrypto
 MyPaint
 NCSA-Mosaic
 NMEASimulator
-NX-Software-Center
 Naev
 NanoVault
 Negibox
