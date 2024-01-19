@@ -326,6 +326,7 @@ MyCrypto
 MyPaint
 NCSA-Mosaic
 NMEASimulator
+NX-Software-Center
 Naev
 NanoVault
 Negibox
@@ -621,6 +622,7 @@ compass
 cric
 criteria1d
 czkawka
+dabnn
 dashy-app
 dataset-annotator
 dbet-wallet
@@ -731,10 +733,8 @@ nordvpn-linux
 noteshrink-qt
 novosga-panel-app
 nvtop
-nx-software-center
 nxshell
 ommpfritt
-onnx2bnn
 onnx2daq
 openblok
 ossia-score
