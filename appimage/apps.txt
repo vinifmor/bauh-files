@@ -385,7 +385,6 @@ Play-2048
 PlayMe
 Plover
 Poddr
-Podman
 PolkaKey
 Popsicle
 Postman
@@ -752,6 +751,7 @@ pkg2appimage
 playyourdamnturn-com
 pnpm
 pomotroid
+popsulfr-podman
 pretty-handy-privacy
 prismlauncher
 privacy-sexy
