@@ -387,7 +387,6 @@ Plover
 Poddr
 PolkaKey
 Popsicle
-Postman
 PostyBirb
 PowerShell
 PowerliminalsPlayer
@@ -542,7 +541,6 @@ UltraScreen
 UniShellect
 Upscayl
 V2Ray-Desktop
-VK-Desktop
 VNote
 VPaint
 Valeronoi
@@ -797,6 +795,7 @@ strans
 stretchly
 strongbox
 subtitles-composer-app
+suciptoid-postman
 sunshine
 switchhosts
 swradio
