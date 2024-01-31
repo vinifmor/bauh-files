@@ -544,7 +544,6 @@ V2Ray-Desktop
 VNote
 VPaint
 Valeronoi
-VeChain
 Verto
 Vessel
 VidCutter
@@ -820,6 +819,7 @@ unreel
 updatedeployqt
 vCloudcam
 vREST-NG
+vechain-sync
 vifm
 violetbug
 vrrtest
