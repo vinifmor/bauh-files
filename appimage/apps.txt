@@ -764,7 +764,6 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
-quokkagit
 rasterview
 rmw
 sabaki
