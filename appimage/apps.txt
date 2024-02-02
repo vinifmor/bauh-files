@@ -55,7 +55,6 @@ Brackets
 BrainVerse
 BrainWaves
 BrickStore
-BscanFFTwebcam
 Buche
 Buckets
 BulkReviewer
@@ -388,7 +387,6 @@ Poddr
 PolkaKey
 Popsicle
 PostyBirb
-PowerShell
 PowerliminalsPlayer
 PraxisLIVE
 PrimeWorldEditor
@@ -546,7 +544,6 @@ VPaint
 Valeronoi
 Verto
 VidCutter
-Videomass
 Vieb
 Viper-Browser
 Vipster
