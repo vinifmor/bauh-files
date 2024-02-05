@@ -387,8 +387,6 @@ Poddr
 PolkaKey
 Popsicle
 PostyBirb
-PowerliminalsPlayer
-PraxisLIVE
 PrimeWorldEditor
 PrinterClient
 ProcDepMonitor
@@ -627,6 +625,7 @@ draw-io
 duckstation
 dukto
 dvdisaster
+e5ten-parsec
 eNoseAnnotator
 eOSVC
 eXtrema
@@ -733,7 +732,6 @@ ossia-score
 osu
 p2p-chat
 p3x-onenote
-parsec-linux-appimage
 patchbay
 pb-for-desktop
 pdf-sync
