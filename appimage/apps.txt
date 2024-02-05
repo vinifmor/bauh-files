@@ -195,6 +195,7 @@ GitQlient
 Glyphr-Studio-Desktop
 GoldenCheetah
 GoldenDict
+GospelPdfViewer
 GpgFrontend
 Gpredict
 GradeStats
