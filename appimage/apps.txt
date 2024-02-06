@@ -230,7 +230,6 @@ Insomnia
 Invoice-Generator
 IrScrutinizer
 Isolate
-JReleaser
 James
 Jan
 JoalDesktop
@@ -681,6 +680,7 @@ jag
 jexiftoolgui
 jitsi-meet
 jmbde
+jreleaser
 jumpfm
 keyrier-json
 kitupiikki
