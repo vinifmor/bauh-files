@@ -388,7 +388,6 @@ PolkaKey
 Popsicle
 PostyBirb
 PrimeWorldEditor
-PrinterClient
 ProcDepMonitor
 ProcSpin
 Procyon
