@@ -39,7 +39,12 @@ Beekeeper-Studio
 BetterSIS
 Bezique
 BilibiliVideoDownload
+Birds-Kitchen
+BitShares
 Bitwarden
+Black-Chocobo
+Blender-Config-Manager
+Blink1Control2
 Blizzard-4
 Blockbench
 Bloks
@@ -198,6 +203,9 @@ Graviton
 GrinPlusPlus
 Groot
 Guitar
+HDRMerge
+HastyHeroes
+Heimer
 HermesMessenger
 Heroic Games Launcher
 HexoClient
@@ -362,6 +370,12 @@ Pennywise
 Pext
 Phinch
 PhotoFlare
+PhotoFlow
+PhotoQuick
+Photopea
+PhreshPlayer
+PicGo
+Pingnoo
 Pixsrt
 Plag-Patrol
 Planes
@@ -516,6 +530,11 @@ Tropy
 TurboWarp
 Tusk
 Tutanota
+UHK-Agent
+UltraGrid
+UltraScreen
+UniShellect
+Upscayl
 V2Ray-Desktop
 VNote
 VPaint
@@ -576,6 +595,7 @@ avogadro
 bauh
 beurerscalemanager
 bioanimation
+bitwarden-directory-connector
 bottlenose
 buttercup
 cabal-desktop
@@ -589,6 +609,7 @@ codelerity-netbeans
 colorstatic-bash
 compass
 cric
+criteria1d
 czkawka
 dabnn
 dashy-app
@@ -707,7 +728,11 @@ nvtop
 nxshell
 ommpfritt
 openblok
+ossia-score
+osu
+p2p-chat
 p3x-onenote
+patchbay
 pb-for-desktop
 pdf-sync
 perl-executing-browser
