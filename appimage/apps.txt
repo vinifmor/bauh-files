@@ -232,7 +232,6 @@ IrScrutinizer
 Isolate
 James
 Jan
-JoalDesktop
 Join-Desktop
 Joplin
 Juggernaut
@@ -679,6 +678,7 @@ jag
 jexiftoolgui
 jitsi-meet
 jmbde
+joal-desktop
 jreleaser
 jumpfm
 keyrier-json
