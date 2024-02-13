@@ -737,7 +737,7 @@ pb-for-desktop
 pdf-sync
 perl-executing-browser
 photoname
-pingviewer
+ping-viewer
 pkg2appimage
 playyourdamnturn-com
 pnpm
