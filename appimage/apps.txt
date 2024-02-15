@@ -61,8 +61,6 @@ BulkReviewer
 BulkURLOpener
 Burning-Series
 Bypass-Cors
-BytespeicherTrayIcon
-CARTA
 CATcher
 CIAA-Suite
 CP-Editor
@@ -395,7 +393,6 @@ ProtonUp-Qt
 PrusaSlicer
 Pullp
 Pulsar
-Pulse
 Puppetry
 Python
 QDriverStation
