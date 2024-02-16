@@ -61,8 +61,6 @@ BulkReviewer
 BulkURLOpener
 Burning-Series
 Bypass-Cors
-CATcher
-CIAA-Suite
 CP-Editor
 CPU-X
 CPod
@@ -394,7 +392,6 @@ PrusaSlicer
 Pullp
 Pulsar
 Puppetry
-Python
 QDriverStation
 QEMU-PowerPC
 QMPlay2
@@ -736,7 +733,6 @@ perl-executing-browser
 photoname
 ping-viewer
 pkg2appimage
-playyourdamnturn-com
 pnpm
 pomotroid
 popsulfr-podman
@@ -746,6 +742,7 @@ privacy-sexy
 probonopd-zoom
 puush-qt
 pyappimage
+pydt
 python2
 python3
 qBittorrent-Enhanced-Edition
