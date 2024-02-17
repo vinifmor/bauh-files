@@ -456,6 +456,7 @@ Scrum-Retroboard
 Scytale
 Sengi
 Serial-Studio
+SeriousSamTSE
 Shannon-Calculator
 ShareMyHost
 Sharp-Tune
