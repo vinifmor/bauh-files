@@ -393,7 +393,6 @@ Pullp
 Pulsar
 Puppetry
 QDriverStation
-QEMU-PowerPC
 QMPlay2
 QMediathekView
 QNapi
@@ -734,13 +733,11 @@ perl-executing-browser
 photoname
 ping-viewer
 pkg2appimage
-pnpm
 pomotroid
 popsulfr-podman
 pretty-handy-privacy
 prismlauncher
 privacy-sexy
-probonopd-zoom
 puush-qt
 pyappimage
 pydt
@@ -763,6 +760,7 @@ scavengers
 school-sections
 ser-player
 shiftkey-desktop
+simnalamburt-pnpm
 simple-s3-uploader
 simple-timer
 simplechroot
