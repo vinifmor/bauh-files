@@ -427,7 +427,6 @@ Rats-on-The-Boat
 RawTherapee
 Reactotron
 Rebaslight
-RecipeUI
 Record-Compare
 Responsively
 RetroShare
