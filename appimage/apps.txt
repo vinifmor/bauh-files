@@ -145,7 +145,6 @@ ExifCleaner
 Eximchain-Wallet
 Explorook
 Exportoo
-EyeStalker
 F-CRM
 FAT-Wallet
 FF-Password-Exporter
