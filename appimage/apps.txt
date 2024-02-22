@@ -63,7 +63,6 @@ Burning-Series
 Bypass-Cors
 CP-Editor
 CPU-X
-CPod
 CRG-Data-Tool
 CRITERIA1D-PRO
 Calculist
