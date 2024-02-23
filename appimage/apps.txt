@@ -396,7 +396,6 @@ QMPlay2
 QMediathekView
 QNapi
 QPrompt
-QTalarm
 QUaModbusClient
 QaterialGallery
 QaterialHotReload
