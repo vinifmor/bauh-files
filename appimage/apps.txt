@@ -587,6 +587,7 @@ bauh
 beurerscalemanager
 bioanimation
 bitwarden-directory-connector
+bottlenose
 buttercup
 cabal-desktop
 caprine
