@@ -583,10 +583,8 @@ appimagetool
 autoEdit2
 avogadro
 bauh
-beurerscalemanager
 bioanimation
 bitwarden-directory-connector
-bottlenose
 buttercup
 cabal-desktop
 caprine
@@ -601,6 +599,7 @@ compass
 cric
 criteria1d
 czkawka
+daald-beurerscalemanager
 dabnn
 dashy-app
 dataset-annotator
