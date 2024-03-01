@@ -65,7 +65,6 @@ CP-Editor
 CPU-X
 CRG-Data-Tool
 CRITERIA1D-PRO
-Calculist
 Cascade-Image-Editor
 CasterSoundboard
 Catalyst-Browser
@@ -586,7 +585,7 @@ bauh
 bioanimation
 bitwarden-directory-connector
 buttercup
-cabal-desktop
+cabal
 caprine
 citra-canary
 citra-nightly
