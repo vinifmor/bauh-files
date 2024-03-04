@@ -587,8 +587,6 @@ bitwarden-directory-connector
 buttercup
 cabal
 caprine
-citra-canary
-citra-nightly
 clippy
 cmatomic-vlc
 cncjs
@@ -822,7 +820,6 @@ yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
-yuzu
 zmNinja
 zograscope
 zsync2
