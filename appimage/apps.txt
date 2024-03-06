@@ -78,8 +78,6 @@ City-Hub
 CleepDesktop
 ClementineRemote
 Cliniface
-Cloud-Browser
-Code-OSS
 Colon
 ColorGenerator
 Colorpicker
