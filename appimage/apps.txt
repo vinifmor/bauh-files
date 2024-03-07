@@ -314,7 +314,6 @@ Musicalypse
 My-Jira
 MyCrypto
 MyPaint
-NCSA-Mosaic
 NMEASimulator
 NX-Software-Center
 Naev
@@ -447,7 +446,6 @@ ScreenCloud
 ScreenTranslator
 Scrum-Retroboard
 Scytale
-Sengi
 Serial-Studio
 SeriousSamClassic-VK
 SeriousSamTSE
