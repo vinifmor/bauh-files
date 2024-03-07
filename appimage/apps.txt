@@ -81,8 +81,6 @@ Cliniface
 Colon
 ColorGenerator
 Colorpicker
-Converter432Hz
-Cool-Retro-Term
 CozyDrive
 Cromberg
 CrossCode-Map-Editor
