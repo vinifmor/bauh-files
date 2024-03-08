@@ -64,7 +64,6 @@ Bypass-Cors
 CP-Editor
 CPU-X
 CRG-Data-Tool
-CRITERIA1D-PRO
 Cascade-Image-Editor
 CasterSoundboard
 Catalyst-Browser
