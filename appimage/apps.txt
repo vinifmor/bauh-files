@@ -556,7 +556,6 @@ YUView
 YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
-Yuna
 ZY-Player
 ZeGrapher
 Zegarek
