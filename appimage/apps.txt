@@ -189,6 +189,7 @@ GpgFrontend
 Gpredict
 GradeStats
 Graviton
+GridcoinResearch
 GrinPlusPlus
 Groot
 Guitar
@@ -650,7 +651,6 @@ hugin
 huwinterpreter
 hw-probe
 hyper
-igor-misic-gridcoin-research
 iotalk
 iptvnator
 isle-editor
