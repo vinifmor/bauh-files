@@ -88,7 +88,6 @@ Cryplicity
 Crypter
 Cryptr
 Cscrypto
-CubicSDR
 Cura
 CustomRPC
 CutePeaks
