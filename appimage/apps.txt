@@ -99,7 +99,6 @@ Datcord
 DawnlightSearch
 DbGate
 DeDop-studio
-DeadGame-2048
 DeepTags
 Demonizer
 Deployer
