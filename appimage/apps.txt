@@ -100,7 +100,6 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeepTags
-Demonizer
 Deployer
 Detect-It-Easy
 DevHub
