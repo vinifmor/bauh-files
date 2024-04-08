@@ -596,7 +596,6 @@ dbet-wallet
 deb2appimage
 deltachat-desktop
 dexter-dev-env
-dfDemo
 dnnlibrary
 draw-io
 duckstation
@@ -759,6 +758,7 @@ sqlitebrowser
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
 stash-electron
+statcl-df-demo
 steam-rom-manager
 sticker-convert
 storyboarder
