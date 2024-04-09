@@ -105,7 +105,6 @@ Detect-It-Easy
 DevHub
 Diffuse
 Disass
-Discord
 DockStation
 Drill
 Dust3D
@@ -755,6 +754,7 @@ snomcontrol
 spark-wallet
 spm
 sqlitebrowser
+srevinsaju-discord
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
 stash-electron
