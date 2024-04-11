@@ -596,7 +596,7 @@ deb2appimage
 deltachat-desktop
 dexter-dev-env
 dnnlibrary
-draw-io
+drawio
 duckstation
 dukto
 dvdisaster
