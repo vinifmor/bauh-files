@@ -77,6 +77,7 @@ City-Hub
 CleepDesktop
 ClementineRemote
 Cliniface
+ClownMapEd
 Colon
 ColorGenerator
 Colorpicker
@@ -598,7 +599,6 @@ dexter-dev-env
 dnnlibrary
 drawio
 duckstation
-dukto
 dvdisaster
 e5ten-parsec
 eNoseAnnotator
