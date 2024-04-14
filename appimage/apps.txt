@@ -580,6 +580,7 @@ buttercup
 cabal
 caprine
 clippy
+clownmdemu
 cmatomic-vlc
 cncjs
 codelerity-netbeans
