@@ -109,9 +109,7 @@ Disass
 DockStation
 Drill
 Dust3D
-Dwyco-Phoo
 ERScaffold
-Eagle-Mode
 Eksplode-re
 ElDumper
 Electorrent
@@ -605,7 +603,6 @@ e5ten-parsec
 eNoseAnnotator
 eOSVC
 eXtrema
-ehdev-shell
 elcalc
 electron-wechat
 element
