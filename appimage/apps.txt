@@ -113,7 +113,6 @@ ERScaffold
 Eksplode-re
 ElDumper
 Electorrent
-ElectroCRUD
 Electron-App-Store
 Elements
 Elphyre-WalletShell
