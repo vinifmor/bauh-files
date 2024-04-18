@@ -604,7 +604,6 @@ eOSVC
 eXtrema
 elcalc
 electron-wechat
-element
 elzabrowser
 embedded-ide
 emulationstation-de
@@ -752,6 +751,7 @@ spark-wallet
 spm
 sqlitebrowser
 srevinsaju-discord
+srevinsaju-element
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
 stash-electron
