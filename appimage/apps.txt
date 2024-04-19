@@ -247,7 +247,6 @@ LMMS
 LPub3D
 Lagrange
 Left
-Lemon
 LeoCAD
 Lepton
 LibAssist
@@ -611,7 +610,6 @@ enve
 erdesigner
 evoplex
 fSpy
-falcon-sql-client
 feebas
 feedseries
 file-converter
