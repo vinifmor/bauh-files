@@ -116,7 +116,6 @@ Electorrent
 Electron-App-Store
 Elements
 Elphyre-WalletShell
-Emacs
 EmuDeck
 EncryptPad
 Endless-Sky
@@ -714,6 +713,7 @@ popsulfr-podman
 pretty-handy-privacy
 prismlauncher
 privacy-sexy
+probonopd-emacs
 probonopd-zoom
 puush-qt
 pyappimage
