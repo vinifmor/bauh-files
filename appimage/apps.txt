@@ -39,6 +39,7 @@ Beekeeper-Studio
 BetterSIS
 Bezique
 BilibiliVideoDownload
+Biplanes-Revival
 Birds-Kitchen
 BitShares
 Bitwarden
@@ -426,6 +427,7 @@ SMF-DSP
 SMPlayer
 SOIL-EDITOR
 SPlayer
+SSPlot
 SUMOCO
 SUbillManager
 SavvyCAN
@@ -728,7 +730,9 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
+qtrfpowermeter
 quokkagit
+raspirus
 rasterview
 rmw
 sabaki
