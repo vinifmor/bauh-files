@@ -8,7 +8,6 @@ Altitude
 Altus
 AnaVis
 Anchor
-Another-Redis-Desktop-Manager
 Antares
 Aphelion-Wallet
 Apla
