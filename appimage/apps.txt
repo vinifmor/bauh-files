@@ -137,12 +137,8 @@ FF-Password-Exporter
 FMS-File-Explorer
 FastQt
 Ferdium
-Fidias-Database-Migration-App
 Figma
 Filmulator
-Firefox-Beta
-Firefox-ESR
-Firefox-Nightly
 Flippy-Qualitative-Testbench
 Fluent-Reader
 Focalizzare
@@ -588,6 +584,7 @@ daald-beurerscalemanager
 dabnn
 dashy-app
 dataset-annotator
+db-migration-app
 dbet-wallet
 deb2appimage
 deltachat-desktop
