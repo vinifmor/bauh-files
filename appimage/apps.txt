@@ -615,7 +615,7 @@ fmradio
 four
 foxfolio
 frappe-books
-fre:ac
+freac
 freecad
 freecad-link
 gLabels
