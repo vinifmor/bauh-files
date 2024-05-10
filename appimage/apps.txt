@@ -619,7 +619,6 @@ freac
 freecad
 freecad-link
 gLabels
-gerbv
 getswell
 gibs
 githoard
