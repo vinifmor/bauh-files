@@ -604,6 +604,7 @@ embedded-ide
 emulationstation-de
 enve
 erdesigner
+etichetta
 evoplex
 fSpy
 feebas
