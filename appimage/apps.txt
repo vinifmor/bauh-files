@@ -167,7 +167,6 @@ GetThermal
 Gifcurry
 Gingko
 GitJournal
-GitNote
 GitQlient
 Glyphr-Studio-Desktop
 GoldenCheetah
@@ -619,11 +618,10 @@ frappe-books
 freac
 freecad
 freecad-link
-gLabels
 getswell
 gibs
 githoard
-glulxe
+glabels-qt
 graphql-playground
 gsubs
 guglielmo
