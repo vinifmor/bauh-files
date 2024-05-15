@@ -556,6 +556,7 @@ ai-bot-workspace
 alexanderp-tesseract
 altair
 android-messages-desktop
+another-redis-desktop-manager
 antimicroX
 ao
 appimagecraft
