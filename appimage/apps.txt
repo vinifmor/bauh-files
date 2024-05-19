@@ -74,6 +74,7 @@ ChainX-Signer
 ChemCanvas
 Circle-Z
 City-Hub
+ClassicImageViewer
 CleepDesktop
 ClementineRemote
 Cliniface
