@@ -631,7 +631,6 @@ hero-display
 hotspot
 hpack
 hsinstall
-htmldoc
 hugin
 huwinterpreter
 hw-probe
