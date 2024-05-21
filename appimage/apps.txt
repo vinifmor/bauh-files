@@ -631,7 +631,6 @@ hero-display
 hotspot
 hpack
 hsinstall
-hugin
 huwinterpreter
 hw-probe
 hyper
