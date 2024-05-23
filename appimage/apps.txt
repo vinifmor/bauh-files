@@ -218,9 +218,6 @@ KADE
 KDiskMark
 KOReader
 Kage
-Kanon
-KawAnime
-Kcov
 KeePassXC
 KeeWeb
 Keibo-MoneyTracker-x86-64
