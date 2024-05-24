@@ -220,7 +220,6 @@ KOReader
 Kage
 KeePassXC
 KeeWeb
-Keibo-MoneyTracker-x86-64
 KettleClient
 KevEdit
 KeyManager
@@ -642,6 +641,7 @@ jmbde
 joal-desktop
 jreleaser
 jumpfm
+keibo-moneytracker
 keyrier-json
 kitupiikki
 ksnip
