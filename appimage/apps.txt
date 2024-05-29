@@ -222,8 +222,6 @@ KeePassXC
 KeeWeb
 KettleClient
 KevEdit
-KeyManager
-KeyboardClient
 Keys
 KiCad
 Kiibohd-Configurator
@@ -642,6 +640,7 @@ joal-desktop
 jreleaser
 jumpfm
 keibo-moneytracker
+keyboard-firmware
 keyrier-json
 kitupiikki
 ksnip
