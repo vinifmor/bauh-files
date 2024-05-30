@@ -223,7 +223,6 @@ KeeWeb
 KettleClient
 KevEdit
 Keys
-KiCad
 Kiibohd-Configurator
 Kimitzu-Client
 Klogg
