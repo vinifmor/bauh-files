@@ -227,9 +227,7 @@ Kiibohd-Configurator
 Kimitzu-Client
 Klogg
 Knowte
-KopiaUI
 LANShare
-LCEdit
 LMMS
 LPub3D
 Lagrange
@@ -642,6 +640,7 @@ keibo-moneytracker
 keyboard-firmware
 keyrier-json
 kitupiikki
+kopia
 ksnip
 laigter
 langly
