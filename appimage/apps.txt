@@ -243,7 +243,6 @@ LiteIDE
 Local-Browser
 Loginized
 LosslessCut
-M
 MAngbandClient
 MDL
 MLV-App
