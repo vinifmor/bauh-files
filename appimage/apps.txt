@@ -432,7 +432,6 @@ ShareMyHost
 Sharp-Tune
 Sheikah
 Shotcut
-Shuttle
 SigDigger
 SigmaSpectra
 Silverkey
@@ -493,7 +492,6 @@ Trezor-Suite
 Tropy
 TurboWarp
 Tusk
-Tutanota
 UHK-Agent
 UltraGrid
 UltraScreen
