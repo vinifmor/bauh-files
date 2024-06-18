@@ -261,7 +261,6 @@ Mayo
 MazeSolver
 Mechvibes
 MediaElch
-MegaBasterd
 Melodie
 Memento
 MeowSQL
