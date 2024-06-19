@@ -262,7 +262,6 @@ MazeSolver
 Mechvibes
 MediaElch
 Melodie
-Memento
 MeowSQL
 MeshLab
 Meshmill
