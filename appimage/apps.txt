@@ -267,8 +267,6 @@ MeshLab
 Meshmill
 MicroPad
 MieSimulatorGUI
-MineTime
-Minetest
 MiniZinc-IDE
 Minions
 Mirage
@@ -544,6 +542,7 @@ aferrero2707-luminancehdr
 ai-bot-workspace
 alexanderp-tesseract
 altair
+an0n3m0us-minetest
 android-messages-desktop
 another-redis-desktop-manager
 antimicroX
