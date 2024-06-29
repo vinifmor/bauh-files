@@ -381,6 +381,7 @@ SPlayer
 SSPlot
 SUMOCO
 SUbillManager
+SVGWall
 SavvyCAN
 Scatter
 SchildiChat
