@@ -279,7 +279,6 @@ Mr-Dclutterer
 Museeks
 Music-Blocks
 Musicalypse
-My-Jira
 MyCrypto
 MyPaint
 NCSA-Mosaic
