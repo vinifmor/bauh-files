@@ -281,7 +281,6 @@ Music-Blocks
 Musicalypse
 MyCrypto
 MyPaint
-NMEASimulator
 NX-Software-Center
 Naev
 NanoVault
@@ -290,12 +289,10 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus-Wallet
-Niffler
 Nitrokey
 NixNote
 NoTer
 Nostlan
-Notable
 OCVWarp
 OCVvid2fulldome
 ONLYOFFICE
