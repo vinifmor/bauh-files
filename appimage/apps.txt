@@ -325,7 +325,6 @@ Phinch
 PhotoFlare
 PhotoFlow
 PhotoQuick
-Photopea
 PhreshPlayer
 PicGo
 Pingnoo
