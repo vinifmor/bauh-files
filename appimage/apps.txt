@@ -62,6 +62,7 @@ BulkURLOpener
 Burning-Series
 Bypass-Cors
 CP-Editor
+CP2130-Commander
 CPU-X
 CRG-Data-Tool
 Cascade-Image-Editor
