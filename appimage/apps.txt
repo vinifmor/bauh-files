@@ -549,6 +549,7 @@ bauh
 bioanimation
 bitwarden-directory-connector
 buttercup
+c0re100-qbittorrent-enhanced-edition
 cabal
 caprine
 clippy
@@ -696,9 +697,6 @@ probonopd-zoom
 puush-qt
 pyappimage
 pydt
-python2
-python3
-qBittorrent-Enhanced-Edition
 qSdrSwr
 qTox
 qhot
