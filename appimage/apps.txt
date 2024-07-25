@@ -765,7 +765,6 @@ unreel
 updatedeployqt
 vCloudcam
 vREST-NG
-vechain-sync
 vifm
 violetbug
 vrrtest
