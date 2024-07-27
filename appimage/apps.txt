@@ -63,6 +63,7 @@ Burning-Series
 Bypass-Cors
 CP-Editor
 CP2130-Commander
+CP2130-Configurator
 CPU-X
 CRG-Data-Tool
 Cascade-Image-Editor
@@ -283,6 +284,7 @@ Music-Blocks
 Musicalypse
 MyCrypto
 MyPaint
+NEST-Desktop
 NX-Software-Center
 Naev
 NanoVault
