@@ -562,6 +562,7 @@ cncjs
 codelerity-netbeans
 colorstatic-bash
 compass
+cooler-control
 cric
 criteria1d
 czkawka
