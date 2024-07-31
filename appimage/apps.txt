@@ -365,9 +365,6 @@ Qfsm
 Qortal-UI
 Qredit
 Qrop
-Qt-DAB
-Qt-JSON-diff
-Qt5Demo
 Qucs-S
 Quentier
 Quick-Clone
@@ -702,7 +699,6 @@ puush-qt
 pyappimage
 pydt
 qSdrSwr
-qTox
 qhot
 qikQR
 qpdf
