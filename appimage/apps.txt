@@ -588,6 +588,7 @@ emulationstation-de
 enve
 erdesigner
 etichetta
+euromilhoes
 evoplex
 fSpy
 feebas
