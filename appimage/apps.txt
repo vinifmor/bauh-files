@@ -377,9 +377,7 @@ RHB
 RPAN-Studio
 RPCS3
 RSS-Guard
-RasterDraw
 Rats-on-The-Boat
-RawTherapee
 Reactotron
 Rebaslight
 Record-Compare
@@ -703,10 +701,10 @@ qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
+qt-raster-draw
 qtrfpowermeter
 quokkagit
 raspirus
-rasterview
 rmw
 sabaki
 saphyr
