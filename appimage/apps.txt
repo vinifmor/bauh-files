@@ -427,6 +427,7 @@ SmallBASIC
 SmartGit
 Soapy-SDR
 SocNetV
+SourceGit
 Spark-Payments
 Speaky-MiniPlayer
 SpeedyLoader
