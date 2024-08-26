@@ -382,7 +382,6 @@ RetroShare
 RoloViewer
 Rotki
 Running-Dinner-Tool
-SBLauncher
 SF-Tube
 SFRT-Attendance
 SMF-DSP
@@ -703,7 +702,6 @@ quokkagit
 raspirus
 rmw
 sabaki
-scavengers
 school-sections
 ser-player
 shiftkey-desktop
