@@ -395,13 +395,9 @@ SVGWall
 SavvyCAN
 Scatter
 SchildiChat
-ScienceFair
-Scilab
 ScreenCloud
 ScreenTranslator
 Scrum-Retroboard
-Scytale
-Sengi
 Serial-Studio
 SeriousSamClassic-VK
 SeriousSamTSE
@@ -702,7 +698,6 @@ quokkagit
 raspirus
 rmw
 sabaki
-school-sections
 ser-player
 shiftkey-desktop
 simnalamburt-pnpm
