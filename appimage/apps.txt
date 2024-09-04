@@ -399,8 +399,6 @@ ScreenCloud
 ScreenTranslator
 Scrum-Retroboard
 Serial-Studio
-SeriousSamClassic-VK
-SeriousSamTSE
 Shannon-Calculator
 ShareMyHost
 Sharp-Tune
