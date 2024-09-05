@@ -383,7 +383,6 @@ RetroShare
 RoloViewer
 Rotki
 Running-Dinner-Tool
-SF-Tube
 SFRT-Attendance
 SMF-DSP
 SMPlayer
@@ -682,6 +681,7 @@ prismlauncher
 privacy-sexy
 probonopd-emacs
 probonopd-zoom
+pstube
 puush-qt
 pyappimage
 pydt
