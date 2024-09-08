@@ -650,6 +650,7 @@ munt
 my-budget
 mybelka
 nRF-Connect
+nbrsync
 neovim
 nexus-mods-app
 ngPost
