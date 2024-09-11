@@ -249,6 +249,7 @@ Local-Browser
 Loginized
 LosslessCut
 MAngbandClient
+MCP2210-Configurator
 MDL
 MLV-App
 MMapper
@@ -406,8 +407,6 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SigmaSpectra
-Silverkey
 SimDSP
 Simdock
 SimplEOS
