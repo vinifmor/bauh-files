@@ -222,7 +222,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-Kage
 KeePassXC
 KeeWeb
 KettleClient
