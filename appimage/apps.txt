@@ -406,7 +406,6 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
-SimDSP
 Simdock
 SimplEOS
 SimpleInstaBot
