@@ -240,7 +240,6 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
-LibreSprite
 LikeTaskManager
 Linedancer
 LiteIDE
