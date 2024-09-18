@@ -412,8 +412,6 @@ SimpleX
 Skrifa
 SlackBackup
 Slippi
-SmallBASIC
-SmartGit
 Soapy-SDR
 SocNetV
 SourceGit
