@@ -705,7 +705,6 @@ snomcontrol
 spark-wallet
 spm
 sqlitebrowser
-srevinsaju-discord
 srevinsaju-element
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
