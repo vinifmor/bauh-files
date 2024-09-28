@@ -63,6 +63,7 @@ BulkURLOpener
 Burning-Series
 Bypass-Cors
 CBETA
+COMPASS
 CP-Editor
 CP2130-Commander
 CP2130-Configurator
