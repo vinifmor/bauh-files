@@ -93,7 +93,6 @@ CrossCode-Map-Editor
 CrossMobile
 Cryplicity
 Crypter
-Cryptr
 Cscrypto
 Cura
 CustomRPC
