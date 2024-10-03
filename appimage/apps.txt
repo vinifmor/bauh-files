@@ -383,7 +383,6 @@ RoloViewer
 Rotki
 Running-Dinner-Tool
 SFRT-Attendance
-SMF-DSP
 SMPlayer
 SOIL-EDITOR
 SPlayer
