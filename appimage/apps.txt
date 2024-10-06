@@ -626,7 +626,6 @@ luna
 m59peacemaker-mupdf
 makoureactor
 mandelbulber2
-mapollage
 mapton
 marktext
 marlin-conf
