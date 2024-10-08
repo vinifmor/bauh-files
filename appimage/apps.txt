@@ -384,7 +384,6 @@ Rotki
 Running-Dinner-Tool
 SFRT-Attendance
 SMPlayer
-SOIL-EDITOR
 SPlayer
 SSPlot
 SUMOCO
