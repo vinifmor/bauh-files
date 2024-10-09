@@ -384,7 +384,6 @@ Rotki
 Running-Dinner-Tool
 SFRT-Attendance
 SMPlayer
-SPlayer
 SSPlot
 SUMOCO
 SUbillManager
@@ -706,7 +705,7 @@ srevinsaju-discord
 srevinsaju-element
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
-stash-electron
+stash
 statcl-df-demo
 steam-rom-manager
 sticker-convert
