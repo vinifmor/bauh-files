@@ -590,6 +590,7 @@ hero-display
 hotspot
 hpack
 hsinstall
+httpie-desktop
 huwinterpreter
 hw-probe
 hyper
