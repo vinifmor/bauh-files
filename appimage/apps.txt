@@ -92,7 +92,6 @@ Cromberg
 CrossCode-Map-Editor
 CrossMobile
 Cryplicity
-Crypter
 Cscrypto
 Cura
 CustomRPC
