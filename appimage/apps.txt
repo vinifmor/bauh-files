@@ -730,9 +730,7 @@ torrenttools
 twetter
 twitch-wrapper
 uncov
-unified-communications
 unoffical-sonos-controller-for-linux
-unofficial-zalo
 unreel
 updatedeployqt
 vCloudcam
