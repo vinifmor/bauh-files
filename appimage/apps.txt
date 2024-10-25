@@ -141,7 +141,6 @@ FF-Password-Exporter
 FMS-File-Explorer
 FastQt
 Ferdium
-Figma
 Filmulator
 Flippy-Qualitative-Testbench
 Fluent-Reader
