@@ -141,6 +141,7 @@ FF-Password-Exporter
 FMS-File-Explorer
 FastQt
 Ferdium
+Figma
 Filmulator
 Flippy-Qualitative-Testbench
 Fluent-Reader
@@ -726,7 +727,6 @@ tmon
 tnt
 todo-bash
 torrenttools
-triagem-touch
 twetter
 twitch-wrapper
 uncov
