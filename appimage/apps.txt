@@ -733,8 +733,6 @@ uncov
 unoffical-sonos-controller-for-linux
 unreel
 updatedeployqt
-vCloudcam
-vREST-NG
 vifm
 violetbug
 vrrtest
