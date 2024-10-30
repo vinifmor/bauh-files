@@ -483,7 +483,6 @@ Webamp
 Whalebird
 Widelands
 Wire
-WishDemo
 Woke
 Wonderwall
 WorkFlowy
@@ -705,6 +704,7 @@ srevinsaju-element
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
 stash
+statcl
 statcl-df-demo
 steam-rom-manager
 sticker-convert
@@ -741,7 +741,6 @@ westeroscraftlauncher
 wezterm
 whiteboard
 whu-library-seat
-windows2usb
 wxMEdit
 wxMaxima
 xemu
