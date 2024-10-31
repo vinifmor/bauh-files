@@ -484,11 +484,8 @@ Whalebird
 Widelands
 Wire
 Woke
-Wonderwall
-WorkFlowy
 Workbench
 Wrapbox
-Wsocks
 XChat
 XClicker
 XELFViewer
@@ -741,8 +738,6 @@ westeroscraftlauncher
 wezterm
 whiteboard
 whu-library-seat
-wxMEdit
-wxMaxima
 xemu
 xonsh
 yaya
