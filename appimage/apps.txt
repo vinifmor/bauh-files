@@ -491,7 +491,6 @@ XClicker
 XELFViewer
 XPEViewer
 YUView
-YangDownloader
 YesPlayMusic
 YouTubeSearchFilter
 ZY-Player
