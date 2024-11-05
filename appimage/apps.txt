@@ -490,7 +490,6 @@ XChat
 XClicker
 XELFViewer
 XPEViewer
-YUView
 YesPlayMusic
 YouTubeSearchFilter
 ZY-Player
