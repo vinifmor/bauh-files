@@ -114,7 +114,6 @@ DockStation
 Drill
 Dust3D
 ERScaffold
-EasyEdit
 Eksplode-re
 ElDumper
 Electorrent
