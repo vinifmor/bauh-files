@@ -31,7 +31,6 @@ Axe-Electrum
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
-Basic-chess-endgames
 BasiliskII
 Bazecor
 Beatconnect-Client
