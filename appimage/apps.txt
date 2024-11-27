@@ -69,7 +69,6 @@ CP2130-Commander
 CP2130-Configurator
 CPU-X
 CRG-Data-Tool
-Cascade-Image-Editor
 CasterSoundboard
 Catalyst-Browser
 Cavoke
