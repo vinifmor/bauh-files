@@ -595,7 +595,6 @@ itrooz-nmap
 jag
 jexiftoolgui
 jitsi-meet
-jmbde
 joal-desktop
 jreleaser
 jumpfm
