@@ -121,6 +121,7 @@ Electron-App-Store
 Elements
 Elphyre-WalletShell
 EmuDeck
+EncryptPad
 Endless-Sky
 EnvKey
 Eqonomize
