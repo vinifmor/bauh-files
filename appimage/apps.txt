@@ -411,7 +411,6 @@ SlackBackup
 Slippi
 Soapy-SDR
 SocNetV
-SourceGit
 Spark-Payments
 Speaky-MiniPlayer
 SpeedyLoader
@@ -692,6 +691,7 @@ slang-ed
 snake-js
 snapshot-slider
 snomcontrol
+sourcegit
 spark-wallet
 spm
 sqlitebrowser
