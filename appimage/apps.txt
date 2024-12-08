@@ -326,7 +326,6 @@ Passky
 PatternPaint
 Pelusica
 Pennywise
-Pext
 Phinch
 PhotoFlare
 PhotoFlow
