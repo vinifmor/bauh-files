@@ -390,6 +390,7 @@ SVGWall
 SavvyCAN
 Scatter
 SchildiChat
+SciTECO
 ScreenCloud
 ScreenTranslator
 Scrum-Retroboard
