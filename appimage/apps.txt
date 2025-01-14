@@ -279,7 +279,6 @@ Monot
 MoonPlayer
 Moonlight
 Motrix
-Mr-Dclutterer
 Museeks
 Music-Blocks
 Musicalypse
@@ -671,7 +670,6 @@ pyappimage
 pydt
 qSdrSwr
 qhot
-qikQR
 qpdf
 qpp::cad
 qr-code-generator-desktop
