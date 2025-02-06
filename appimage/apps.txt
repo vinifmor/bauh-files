@@ -78,9 +78,6 @@ ChainX-Signer
 ChemCanvas
 Circle-Z
 City-Hub
-ClassicImageViewer
-CleepDesktop
-ClementineRemote
 Cliniface
 ClownMapEd
 Colon
@@ -222,7 +219,6 @@ Julius
 KADE
 KDiskMark
 KOReader
-KeePassXC
 KeeWeb
 KettleClient
 KevEdit
@@ -342,8 +338,6 @@ Plover
 Poddr
 PolkaKey
 Popsicle
-PostyBirb
-PrimeWorldEditor
 ProcDepMonitor
 ProcSpin
 Procyon
@@ -509,8 +503,6 @@ antimicroX
 ao
 appimagecommunity-ncsa-mosaic
 appimagecraft
-appimagelint
-appimagetool
 autoEdit2
 avogadro
 bauh
@@ -702,8 +694,6 @@ statcl
 statcl-df-demo
 steam-rom-manager
 sticker-convert
-storyboarder
-strans
 stretchly
 strongbox
 subtitles-composer-app
