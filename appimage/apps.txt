@@ -107,6 +107,7 @@ DeepTags
 Deployer
 Detect-It-Easy
 DevHub
+Dhewm3
 Diffuse
 Disass
 DockStation
@@ -490,6 +491,7 @@ XClicker
 XELFViewer
 XPEViewer
 YARC-Launcher
+Yamagi-Quake-II
 YesPlayMusic
 YouTubeSearchFilter
 ZY-Player
@@ -586,6 +588,7 @@ httpie-desktop
 huwinterpreter
 hw-probe
 hyper
+ioquake3
 iotalk
 iptvnator
 isle-editor
