@@ -169,6 +169,7 @@ GameHub
 Genesis
 Geometrize
 GetThermal
+Ghostty
 Gifcurry
 Gingko
 GitJournal
