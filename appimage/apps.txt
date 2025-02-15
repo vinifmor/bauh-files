@@ -287,7 +287,6 @@ Musicalypse
 MyCrypto
 MyPaint
 NEST-Desktop
-NX-Software-Center
 Naev
 NanoVault
 Neon
