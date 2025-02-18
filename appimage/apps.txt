@@ -472,6 +472,7 @@ Vieb
 Viper-Browser
 Vipster
 VirtScreen
+VirtualBox-KVM
 Vitomu
 VivifyScrum
 VizGraph
