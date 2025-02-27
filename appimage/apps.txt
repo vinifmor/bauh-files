@@ -297,6 +297,7 @@ Nexus-Wallet
 Nitrokey
 NixNote
 NoTer
+Nostlan
 OCVWarp
 OCVvid2fulldome
 ONLYOFFICE
