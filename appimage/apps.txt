@@ -724,7 +724,6 @@ tipitaka-pali-reader
 tmon
 tnt
 todo-bash
-torrenttools
 twetter
 twitch-wrapper
 uncov
