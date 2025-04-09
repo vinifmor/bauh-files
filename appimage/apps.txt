@@ -442,7 +442,6 @@ SynfigStudio
 Synthein
 T-Viewer
 Tablo-Tools
-TagTime-desktop
 TeXstudio
 TeleDrive
 TeslaCam-Browser
