@@ -678,6 +678,7 @@ qpp::cad
 qr-code-generator-desktop
 qt-raster-draw
 qtrfpowermeter
+quokkagit
 raspirus
 rmw
 sabaki
