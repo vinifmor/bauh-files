@@ -165,7 +165,6 @@ GPUpad
 GSequencer
 GVim
 GXC-Smart-Contract-IDE
-GameHub
 Genesis
 Geometrize
 GetThermal
