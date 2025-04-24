@@ -55,6 +55,7 @@ Book-Manager
 Brackets
 BrainVerse
 BrainWaves
+BrickStore
 Buche
 Buckets
 BulkReviewer
@@ -174,6 +175,7 @@ GitJournal
 GitQlient
 Glyphr-Studio-Desktop
 GoldenCheetah
+GoldenDict
 GospelPdfViewer
 GpgFrontend
 Gpredict
@@ -220,6 +222,7 @@ Juggernaut
 Julius
 KADE
 KDiskMark
+KOReader
 KeePassXC
 KeeWeb
 KettleClient
@@ -326,6 +329,7 @@ Phinch
 PhotoFlare
 PhotoFlow
 PhotoQuick
+PhreshPlayer
 PicGo
 Pingnoo
 Pixsrt
