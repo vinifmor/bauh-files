@@ -445,7 +445,6 @@ TeXstudio
 TeleDrive
 TeslaCam-Browser
 ThermusQt
-Thorium-Browser
 Thorium-Reader
 Tiled
 TilingGenerator
