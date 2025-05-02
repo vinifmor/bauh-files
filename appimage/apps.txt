@@ -317,7 +317,6 @@ PCSX2
 PDFQuirk
 PacketSender
 Padloc
-Paletti
 PanWriter
 Panini
 Papercraft
