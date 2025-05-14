@@ -716,7 +716,6 @@ tastee-ui
 theFrame
 theWeb
 thorium-client
-timer
 tipitaka-pali-reader
 tmon
 tnt
