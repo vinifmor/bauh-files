@@ -26,7 +26,6 @@ Astroffers
 Audacity
 AudioMoth
 Augur
-AvantGarde
 Axe-Electrum
 BLOCK-DX
 BTS-CE-Lite
