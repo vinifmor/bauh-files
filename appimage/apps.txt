@@ -470,6 +470,7 @@ Viper-Browser
 Vipster
 VirtScreen
 VirtualBox-KVM
+VisualLVMRemote-yml
 Vitomu
 VivifyScrum
 VizGraph
