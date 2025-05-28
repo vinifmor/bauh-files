@@ -156,6 +156,7 @@ FranceTV
 Franz
 FreeTexturePacker
 FreeTube
+Friction
 Friture
 FromScratch
 GDevelop
