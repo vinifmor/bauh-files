@@ -526,7 +526,6 @@ clippy
 clownmdemu
 cmatomic-vlc
 cncjs
-codelerity-netbeans
 colorstatic-bash
 compass
 cooler-control
