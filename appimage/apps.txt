@@ -88,8 +88,6 @@ ColorGenerator
 Colorpicker
 CozyDrive
 Cromberg
-CrossCode-Map-Editor
-CrossMobile
 Cryplicity
 Cscrypto
 Cura
@@ -236,9 +234,7 @@ Knowte
 LANShare
 LMMS
 LPub3D
-Lagrange
 Left
-LeoCAD
 Lepton
 LibAssist
 LiberTEM
@@ -372,9 +368,7 @@ QuickTwitch
 Qv2ray
 RBDL-Toolkit
 RHB
-RPAN-Studio
 RPCS3
-RSS-Guard
 Rats-on-The-Boat
 RetroShare
 RoloViewer
@@ -534,7 +528,6 @@ criteria1d
 czkawka
 daald-beurerscalemanager
 dabnn
-dashy-app
 dataset-annotator
 db-migration-app
 dbet-wallet
