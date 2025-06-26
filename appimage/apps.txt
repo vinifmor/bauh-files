@@ -518,7 +518,6 @@ avogadro
 bauh
 bioanimation
 bitwarden-directory-connector
-buttercup
 c0re100-qbittorrent-enhanced-edition
 cabal
 caprine
