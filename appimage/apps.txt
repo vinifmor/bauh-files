@@ -406,6 +406,7 @@ SimpleInstaBot
 SimpleX
 Skrifa
 SlackBackup
+Slippi
 Soapy-SDR
 SocNetV
 Spark-Payments
