@@ -361,7 +361,6 @@ QUaModbusClient
 QaterialGallery
 QaterialHotReload
 Qfsm
-Qortal-UI
 Qredit
 Qrop
 Qucs-S
