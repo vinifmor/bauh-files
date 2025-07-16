@@ -129,9 +129,11 @@ Eqonomize
 Espanso
 Etcher
 Eternal-Lands
+EternalModManager
 EverInst
 ExeQt
 ExifCleaner
+Eximchain-Wallet
 Explorook
 EyeStalker
 F-CRM
