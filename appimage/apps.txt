@@ -407,7 +407,6 @@ SlackBackup
 Slippi
 Soapy-SDR
 SocNetV
-Spark-Payments
 Speaky-MiniPlayer
 SpeedyLoader
 Spivak
