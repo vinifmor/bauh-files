@@ -237,6 +237,7 @@ LANShare
 LMMS
 LPub3D
 Lagrange
+LazPaint
 LeoCAD
 Lepton
 LibAssist
