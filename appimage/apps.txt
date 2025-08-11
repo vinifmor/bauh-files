@@ -68,6 +68,7 @@ CP-Editor
 CP2130-Commander
 CP2130-Configurator
 CPU-X
+CRG-Data-Tool
 CasterSoundboard
 Catalyst-Browser
 Cavoke
@@ -248,6 +249,7 @@ Local-Browser
 Loginized
 LosslessCut
 MAngbandClient
+MCP2210-Configurator
 MDL
 MLV-App
 MMapper
@@ -448,6 +450,7 @@ Tonuino-Toolbox
 Trezor-Suite
 Tropy
 TurboWarp
+Tusk
 Tutanota
 UHK-Agent
 UltraGrid
@@ -497,6 +500,7 @@ accessimap-lecteur-der
 aferrero2707-luminancehdr
 ai-bot-workspace
 alexanderp-tesseract
+altair
 an0n3m0us-minetest
 android-messages-desktop
 another-redis-desktop-manager
@@ -621,6 +625,7 @@ mjml-app
 mki3dgame
 moniteur-admin
 moolticute
+movie-monad
 munt
 my-budget
 mybelka
