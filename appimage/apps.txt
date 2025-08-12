@@ -122,7 +122,6 @@ Electron-App-Store
 Elements
 Elphyre-WalletShell
 EmuDeck
-EncryptPad
 Endless-Sky
 EnvKey
 Eqonomize
@@ -579,7 +578,6 @@ hero-display
 hotspot
 hpack
 hsinstall
-httpie-desktop
 huwinterpreter
 hw-probe
 hyper
