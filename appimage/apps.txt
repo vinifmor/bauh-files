@@ -4,6 +4,7 @@ APhotoToolLibre
 ARAnyM
 Advanced-Rest-Client
 Alduin
+Altitude
 Altus
 AnaVis
 Anchor
@@ -21,6 +22,7 @@ Armagetron-Advanced
 Artisan
 AsarUI
 AstroShutter
+Astroffers
 Audacity
 AudioMoth
 Augur
@@ -60,6 +62,7 @@ BulkReviewer
 BulkURLOpener
 Burning-Series
 Bypass-Cors
+CBETA
 COMPASS
 CP-Editor
 CP2130-Commander
@@ -153,6 +156,7 @@ FranceTV
 Franz
 FreeTexturePacker
 FreeTube
+Friction
 Friture
 FromScratch
 GDevelop
@@ -241,6 +245,7 @@ LiberTEM
 LikeTaskManager
 Linedancer
 LiteIDE
+Local-Browser
 Loginized
 LosslessCut
 MAngbandClient
@@ -340,6 +345,7 @@ PostyBirb
 PrimeWorldEditor
 ProcDepMonitor
 ProcSpin
+Procyon
 ProofKeeper
 ProtonUp-Qt
 PrusaSlicer
@@ -414,6 +420,7 @@ Stele
 Stellarium
 StockStalk
 Storaji
+Strata
 Streamlink
 Stunt-Car-Remake
 Substrate-IDE
@@ -475,6 +482,7 @@ Widelands
 Wire
 Woke
 Workbench
+Wrapbox
 XChat
 XClicker
 XELFViewer
@@ -497,6 +505,7 @@ an0n3m0us-minetest
 android-messages-desktop
 another-redis-desktop-manager
 antimicroX
+ao
 appimagecommunity-ncsa-mosaic
 appimagecraft
 appimagelint
@@ -512,6 +521,7 @@ caprine
 clippy
 clownmdemu
 cmatomic-vlc
+cncjs
 colorstatic-bash
 compass
 cooler-control
@@ -525,6 +535,7 @@ dataset-annotator
 db-migration-app
 dbet-wallet
 deb2appimage
+deltachat-desktop
 dexter-dev-env
 dnnlibrary
 drawio
@@ -537,6 +548,7 @@ eXtrema
 elcalc
 electron-wechat
 elzabrowser
+embedded-ide
 emulationstation-de
 enve
 erdesigner
@@ -550,6 +562,7 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
+four
 foxfolio
 frappe-books
 freac
@@ -610,6 +623,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+moniteur-admin
 moolticute
 movie-monad
 munt
@@ -644,6 +658,7 @@ pkg2appimage
 pomotroid
 popsulfr-podman
 pretty-handy-privacy
+prismlauncher
 privacy-sexy
 probonopd-emacs
 probonopd-zoom
@@ -661,6 +676,7 @@ qtrfpowermeter
 quokkagit
 raspirus
 rmw
+sabaki
 ser-player
 shiftkey-desktop
 simnalamburt-pnpm
