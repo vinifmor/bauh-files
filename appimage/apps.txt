@@ -220,6 +220,7 @@ Janice
 Join-Desktop
 Joplin
 Juggernaut
+Julius
 KADE
 KDiskMark
 KOReader
@@ -255,6 +256,7 @@ MMapper
 MQTT-Explorer
 MagicFountain
 Manager
+Manta
 Mapeo
 Mark-Mind
 Markman
