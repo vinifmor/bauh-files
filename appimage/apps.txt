@@ -190,7 +190,6 @@ HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
-Heroic Games Launcher
 HexoClient
 HexoEditor
 HiDPI-Fixer
@@ -572,7 +571,6 @@ getswell
 gibs
 githoard
 glabels-qt
-graphql-playground
 gsubs
 guglielmo
 hero-display
