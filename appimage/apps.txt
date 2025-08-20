@@ -320,7 +320,6 @@ Padloc
 PanWriter
 Panini
 Papercraft
-Passky
 PatternPaint
 Pelusica
 Pennywise
@@ -472,7 +471,6 @@ VisualLVMRemote-yml
 Vitomu
 VivifyScrum
 VizGraph
-WalletTech
 WatchFlower
 WatchIt
 WebDesktop
@@ -547,7 +545,6 @@ eOSVC
 eXtrema
 elcalc
 electron-wechat
-elzabrowser
 embedded-ide
 emulationstation-de
 enve
@@ -676,7 +673,6 @@ qtrfpowermeter
 quokkagit
 raspirus
 rmw
-sabaki
 ser-player
 shiftkey-desktop
 simnalamburt-pnpm
