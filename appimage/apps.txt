@@ -110,7 +110,6 @@ DevHub
 Dhewm3
 Diffuse
 Disass
-DockStation
 Drill
 Dust3D
 ERScaffold
