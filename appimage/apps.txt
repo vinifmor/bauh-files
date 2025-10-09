@@ -55,7 +55,6 @@ Book-Manager
 Brackets
 BrainVerse
 BrainWaves
-BrickStore
 Buche
 Buckets
 BulkReviewer
@@ -305,7 +304,6 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Onshape
-Open-Markup-Editor
 OpenAudible
 OpenStream-Music
 OpenTodoList
@@ -353,7 +351,6 @@ Pulsar
 Puppetry
 QDriverStation
 QMPlay2
-QMediathekView
 QNapi
 QPrompt
 QUaModbusClient
@@ -396,7 +393,6 @@ Sharp-Tune
 Sheikah
 Shotcut
 Shuttle
-SigDigger
 Simdock
 SimplEOS
 SimpleInstaBot
@@ -428,7 +424,6 @@ SultanPOS
 Summoners-War-Exporter
 Sup
 SuperSlicer
-Superpaper
 SwiftnessX
 Symphonium
 Syncplay
@@ -541,7 +536,6 @@ duckstation
 dvdisaster
 e5ten-parsec
 eNoseAnnotator
-eOSVC
 eXtrema
 elcalc
 electron-wechat
@@ -591,7 +585,6 @@ jexiftoolgui
 jitsi-meet
 joal-desktop
 jreleaser
-jumpfm
 keibo-moneytracker
 keyboard-firmware
 keyrier-json
