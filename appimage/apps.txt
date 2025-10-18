@@ -569,7 +569,6 @@ freecad-link
 getswell
 gibs
 githoard
-glabels-qt
 graphql-playground
 gsubs
 guglielmo
