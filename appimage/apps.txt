@@ -409,6 +409,7 @@ SocNetV
 Speaky-MiniPlayer
 SpeedyLoader
 Spivak
+Spotube
 Stacer
 Standard-Notes
 Statsbook-Tool
