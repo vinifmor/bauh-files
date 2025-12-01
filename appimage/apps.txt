@@ -143,6 +143,7 @@ FastQt
 Ferdium
 Figma
 Filmulator
+FireMinipro
 Flippy-Qualitative-Testbench
 Fluent-Reader
 Focalizzare
@@ -486,6 +487,7 @@ XChat
 XClicker
 XELFViewer
 XPEViewer
+XtoMarkdown
 YARC-Launcher
 Yamagi-Quake-II
 YesPlayMusic
@@ -649,6 +651,7 @@ p3x-onenote
 patchbay
 pb-for-desktop
 pdf-sync
+penguins-eggs
 perl-executing-browser
 photoname
 ping-viewer
