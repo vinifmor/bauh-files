@@ -317,6 +317,7 @@ PCSX2
 PDFQuirk
 PacketSender
 Padloc
+PageEdit
 PanWriter
 Panini
 Papercraft
@@ -398,6 +399,7 @@ Sheikah
 Shotcut
 Shuttle
 SigDigger
+Sigil
 Simdock
 SimplEOS
 SimpleInstaBot
