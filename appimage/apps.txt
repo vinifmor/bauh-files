@@ -174,7 +174,6 @@ Gifcurry
 Gingko
 GitJournal
 GitQlient
-Glyphr-Studio-Desktop
 GoldenCheetah
 GoldenDict
 GospelPdfViewer
