@@ -553,6 +553,7 @@ electron-wechat
 elzabrowser
 embedded-ide
 emulationstation-de
+emulsion
 enve
 erdesigner
 etichetta
