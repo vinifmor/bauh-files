@@ -481,6 +481,7 @@ WebDesktop
 Webamp
 Whalebird
 Widelands
+Winboat
 Wire
 Woke
 Workbench
