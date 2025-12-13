@@ -224,6 +224,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+Katvan
 KeePassXC
 KeeWeb
 KettleClient
@@ -308,6 +309,7 @@ Obsidian
 Onshape
 Open-Markup-Editor
 OpenAudible
+OpenCloud-Desktop
 OpenStream-Music
 OpenTodoList
 Outline-Manager
