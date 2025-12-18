@@ -142,7 +142,6 @@ FMS-File-Explorer
 FastQt
 Ferdium
 Figma
-Filmulator
 FireMinipro
 Flippy-Qualitative-Testbench
 Fluent-Reader
