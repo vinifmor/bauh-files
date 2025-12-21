@@ -274,7 +274,6 @@ Meshmill
 MicroPad
 MieSimulatorGUI
 MiniZinc-IDE
-Minions
 Mirage
 MoarPerf
 Mockman
