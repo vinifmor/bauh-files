@@ -180,7 +180,6 @@ GospelPdfViewer
 GpgFrontend
 Gpredict
 GradeStats
-Graviton
 GridcoinResearch
 GrinPlusPlus
 Groot
