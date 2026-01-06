@@ -487,7 +487,6 @@ Woke
 Workbench
 Wrapbox
 XChat
-XClicker
 XELFViewer
 XPEViewer
 XtoMarkdown
