@@ -641,7 +641,6 @@ ngrev
 nimbus-weather
 nordvpn-linux
 noteshrink-qt
-novosga-panel-app
 nvtop
 nxshell
 ommpfritt
