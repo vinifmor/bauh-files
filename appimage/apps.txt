@@ -514,6 +514,7 @@ appimagecommunity-ncsa-mosaic
 appimagecraft
 appimagelint
 appimagetool
+autoEdit2
 avogadro
 bauh
 bioanimation
