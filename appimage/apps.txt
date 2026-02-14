@@ -387,7 +387,6 @@ SUbillManager
 SVGWall
 SavvyCAN
 Scatter
-SchildiChat
 ScreenCloud
 ScreenTranslator
 Scrum-Retroboard
@@ -629,6 +628,7 @@ mki3dgame
 moniteur-admin
 moolticute
 movie-monad
+mpc-qt
 munt
 my-budget
 mybelka
