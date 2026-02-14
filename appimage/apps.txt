@@ -693,6 +693,7 @@ snomcontrol
 sourcegit
 spark-wallet
 spm
+sponge256sum
 sqlitebrowser
 srevinsaju-discord
 srevinsaju-element
