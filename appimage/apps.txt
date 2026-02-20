@@ -635,7 +635,6 @@ mybelka
 nRF-Connect
 nbrsync
 neovim
-nexus-mods-app
 ngPost
 ngrev
 nimbus-weather
