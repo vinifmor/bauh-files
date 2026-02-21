@@ -328,6 +328,7 @@ Pennywise
 Phinch
 PhotoFlare
 PhotoFlow
+PhotoQuick
 PhreshPlayer
 PicGo
 Pingnoo
@@ -624,6 +625,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+moniteur-admin
 moolticute
 movie-monad
 mpc-qt
