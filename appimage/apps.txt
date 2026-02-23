@@ -607,6 +607,7 @@ langly
 laravel-kit
 le
 lescovex
+lightning-peach-wallet
 linux-intel-undervolt-gui
 linuxdeployqt
 logseq
