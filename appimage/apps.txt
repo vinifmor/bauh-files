@@ -276,7 +276,6 @@ MiniZinc-IDE
 Mirage
 MoarPerf
 Mockman
-Monot
 MoonPlayer
 Moonlight
 Motrix
@@ -741,4 +740,3 @@ youtube-music-desktop
 ytDownloader
 zmNinja
 zograscope
-zsync2
