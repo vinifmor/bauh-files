@@ -52,6 +52,7 @@ Bloks
 BlueGlow
 Board-Game-Star
 Book-Manager
+Brackets
 BrainVerse
 BrainWaves
 BrickStore
@@ -184,6 +185,7 @@ GrinPlusPlus
 Groot
 Guitar
 HDRMerge
+HastyHeroes
 Heimer
 HermesMessenger
 Heroic Games Launcher
@@ -288,6 +290,7 @@ Naev
 NanoVault
 Neon
 NepaliUnicode
+Newlogic
 Nextcloud
 Nexus-Wallet
 Nitrokey
@@ -616,11 +619,13 @@ mandelbulber2
 mapton
 marktext
 marlin-conf
+mdview
 meta-grabber
 mini-qml
 mira-backup
 mjml-app
 mki3dgame
+moniteur-admin
 moolticute
 movie-monad
 mpc-qt
