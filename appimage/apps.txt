@@ -74,7 +74,6 @@ Catalyst-Browser
 Cavoke
 Cemu
 Cerebral-Debugger
-ChainX-Signer
 ChemCanvas
 Circle-Z
 City-Hub
