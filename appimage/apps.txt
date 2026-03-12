@@ -293,6 +293,7 @@ NepaliUnicode
 Newlogic
 Nextcloud
 Nexus-Wallet
+Nine
 Nitrokey
 NixNote
 NoTer
