@@ -332,7 +332,6 @@ PhotoFlow
 PhotoQuick
 PhreshPlayer
 PicGo
-Pingnoo
 Pixsrt
 Plag-Patrol
 Planes
