@@ -390,7 +390,6 @@ SavvyCAN
 Scatter
 ScreenCloud
 ScreenTranslator
-Scrum-Retroboard
 Serial-Studio
 Shannon-Calculator
 ShareMyHost
