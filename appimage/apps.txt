@@ -195,6 +195,7 @@ HiDPI-Fixer
 Hydrogen
 HyperDEX
 HyperionIDE
+IGdm
 INSTEAD
 ITUSB1-Manager
 ITUSB2-Manager
