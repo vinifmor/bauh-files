@@ -723,7 +723,6 @@ twetter
 twitch-wrapper
 uncov
 unoffical-sonos-controller-for-linux
-unreel
 updatedeployqt
 vifm
 violetbug
