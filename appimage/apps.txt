@@ -364,7 +364,6 @@ QaterialGallery
 QaterialHotReload
 Qfsm
 Qredit
-Qrop
 Qucs-S
 Quick-Clone
 QuickRedis
