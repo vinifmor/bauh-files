@@ -278,7 +278,6 @@ MoarPerf
 Mockman
 Monot
 MoonPlayer
-Moonlight
 Motrix
 Museeks
 Music-Blocks
