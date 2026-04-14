@@ -255,7 +255,6 @@ MLV-App
 MMapper
 MQTT-Explorer
 MagicFountain
-Manager
 Manta
 Mapeo
 Mark-Mind
@@ -542,7 +541,6 @@ dexter-dev-env
 dnnlibrary
 drawio
 duckstation
-dvdisaster
 e5ten-parsec
 eNoseAnnotator
 eOSVC
