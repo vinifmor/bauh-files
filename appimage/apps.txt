@@ -149,6 +149,7 @@ Fluent-Reader
 Focalizzare
 FocusWriter
 FontForge
+Fractale
 Fraidycat
 Fraktal
 FranceTV
