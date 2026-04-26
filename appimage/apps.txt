@@ -173,6 +173,7 @@ Gifcurry
 Gingko
 GitJournal
 GitQlient
+GmodContentInstaller
 GoldenCheetah
 GoldenDict
 GospelPdfViewer
