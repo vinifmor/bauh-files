@@ -7,6 +7,7 @@ Alduin
 Altitude
 Altus
 AnaVis
+Anchor
 Antares
 Aphelion-Wallet
 Apla
@@ -66,6 +67,7 @@ CP-Editor
 CP2130-Commander
 CP2130-Configurator
 CPU-X
+CRG-Data-Tool
 CasterSoundboard
 Catalyst-Browser
 Cavoke
@@ -207,6 +209,7 @@ Infinitex
 Insight
 Insomnia
 Invoice-Generator
+IrScrutinizer
 Isolate
 Jacksum
 James
@@ -301,6 +304,7 @@ OSRS-Tools
 OVideo
 OWASP Threat Dragon
 OWallet
+Obsidian
 Onshape
 Open-Markup-Editor
 OpenAudible
@@ -325,6 +329,7 @@ Pennywise
 Phinch
 PhotoFlare
 PhotoFlow
+PhotoQuick
 PhreshPlayer
 PicGo
 Pingnoo
@@ -383,6 +388,7 @@ SVGWall
 SavvyCAN
 Scatter
 ScreenCloud
+ScreenTranslator
 Serial-Studio
 Shannon-Calculator
 ShareMyHost
@@ -444,6 +450,7 @@ Tonuino-Toolbox
 Trezor-Suite
 Tropy
 TurboWarp
+Tusk
 Tutanota
 UHK-Agent
 UltraGrid
@@ -455,6 +462,7 @@ VNote
 VPaint
 Valeronoi
 Verto
+VidCutter
 Vieb
 Viper-Browser
 Vipster
@@ -505,6 +513,7 @@ appimagecraft
 appimagelint
 appimagetool
 autoEdit2
+avogadro
 bauh
 bioanimation
 bitwarden-directory-connector
