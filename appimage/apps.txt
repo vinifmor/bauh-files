@@ -21,7 +21,6 @@ Arma-3-Unix-Launcher
 Armagetron-Advanced
 Artisan
 AsarUI
-AstroShutter
 Astroffers
 Audacity
 AudioMoth
