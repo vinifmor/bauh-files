@@ -736,6 +736,5 @@ yaya
 youtube-music
 youtube-music-desktop
 ytDownloader
-zmNinja
 zograscope
 zsync2
