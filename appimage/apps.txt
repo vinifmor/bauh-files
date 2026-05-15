@@ -384,6 +384,7 @@ SSPlot
 SUMOCO
 SUbillManager
 SVGWall
+Savvy-MTG-Life-Counter
 SavvyCAN
 Scatter
 ScreenCloud
