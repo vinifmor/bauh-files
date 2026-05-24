@@ -437,7 +437,6 @@ Syncplay
 SynfigStudio
 Synthein
 T-Viewer
-Tablo-Tools
 TeXstudio
 TeleDrive
 TeslaCam-Browser
