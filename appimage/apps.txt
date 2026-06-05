@@ -276,6 +276,7 @@ Mirage
 MoarPerf
 Mockman
 Monot
+MooerLooperManager
 MoonPlayer
 Moonlight
 Motrix
