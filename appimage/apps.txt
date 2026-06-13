@@ -282,7 +282,6 @@ Moonlight
 Motrix
 Museeks
 Music-Blocks
-Musicalypse
 MyCrypto
 MyPaint
 NEST-Desktop
