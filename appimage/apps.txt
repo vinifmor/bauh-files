@@ -267,6 +267,7 @@ Mechvibes
 MediaElch
 Melodie
 MeowSQL
+MesenOrion
 MeshLab
 Meshmill
 MicroPad
@@ -445,6 +446,7 @@ Thorium-Browser
 Thorium-Reader
 Tiled
 TilingGenerator
+Tobe
 Tonuino-Toolbox
 Trezor-Suite
 Tropy
