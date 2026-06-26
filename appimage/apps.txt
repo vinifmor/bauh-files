@@ -651,7 +651,6 @@ p3x-onenote
 patchbay
 pb-for-desktop
 pdf-sync
-penguins-eggs
 perl-executing-browser
 photoname
 ping-viewer
