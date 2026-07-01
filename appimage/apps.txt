@@ -533,7 +533,6 @@ criteria1d
 czkawka
 daald-beurerscalemanager
 dabnn
-dashy-app
 dataset-annotator
 db-migration-app
 dbet-wallet
