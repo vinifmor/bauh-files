@@ -183,6 +183,7 @@ GridcoinResearch
 GrinPlusPlus
 Groot
 Guitar
+HDRMerge
 HastyHeroes
 Heimer
 HermesMessenger
