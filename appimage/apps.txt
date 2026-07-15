@@ -725,7 +725,6 @@ uncov
 unoffical-sonos-controller-for-linux
 updatedeployqt
 vifm
-violetbug
 vrrtest
 weatherdump
 westeroscraftlauncher
