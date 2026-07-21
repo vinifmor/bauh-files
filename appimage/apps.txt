@@ -2,6 +2,7 @@
 APK-Editor-Studio
 APhotoToolLibre
 ARAnyM
+Advanced-Rest-Client
 Alduin
 Altitude
 Altus
@@ -192,6 +193,7 @@ HexoEditor
 HiDPI-Fixer
 Hydrogen
 HyperDEX
+HyperionIDE
 IGdm
 INSTEAD
 ITUSB1-Manager
@@ -493,6 +495,7 @@ YARC-Launcher
 Yamagi-Quake-II
 YesPlayMusic
 YouTubeSearchFilter
+ZY-Player
 ZeGrapher
 Zegarek
 ZenroomStudio
