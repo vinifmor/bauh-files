@@ -278,7 +278,6 @@ MoarPerf
 Mockman
 Monot
 MooerLooperManager
-MoonPlayer
 Moonlight
 Motrix
 Museeks
