@@ -1,3 +1,4 @@
+4KWALL
 86Box
 APK-Editor-Studio
 APhotoToolLibre
@@ -25,6 +26,7 @@ Astroffers
 Audacity
 AudioMoth
 Augur
+Autopsy
 AvantGarde
 Axe-Electrum
 BLOCK-DX
@@ -67,6 +69,7 @@ CP2130-Commander
 CP2130-Configurator
 CPU-X
 CRG-Data-Tool
+Calsolo
 CasterSoundboard
 Catalyst-Browser
 Cavoke
@@ -144,6 +147,7 @@ Filmulator
 FireMinipro
 Flippy-Qualitative-Testbench
 Fluent-Reader
+Fluxer-World
 Focalizzare
 FocusWriter
 FontForge
@@ -205,6 +209,7 @@ ImagePlay
 Imagine
 Infection-Monkey
 Infinitex
+InnerBreeze
 Insight
 Insomnia
 Invoice-Generator
@@ -222,6 +227,7 @@ Julius
 KADE
 KDiskMark
 KOReader
+Kater
 Katvan
 KeePassXC
 KeeWeb
@@ -231,7 +237,9 @@ Keys
 Kiibohd-Configurator
 Kimitzu-Client
 Klogg
+KnitCalc
 Knowte
+Kubeterm
 LANShare
 LMMS
 LPub3D
@@ -260,6 +268,7 @@ Mapeo
 Mark-Mind
 Markman
 Martian
+Materialize
 Mattermost-Desktop
 Mayo
 MazeSolver
@@ -283,6 +292,7 @@ Moonlight
 Motrix
 Museeks
 Music-Blocks
+My-Honda-for-desktop
 MyCrypto
 MyPaint
 NEST-Desktop
@@ -376,6 +386,7 @@ RPCS3
 RSS-Guard
 Rats-on-The-Boat
 RetroShare
+Retromanager
 RoloViewer
 Rotki
 Running-Dinner-Tool
@@ -401,6 +412,7 @@ SigDigger
 Sigil
 Simdock
 SimplEOS
+SimpleDoomLauncher
 SimpleInstaBot
 SimpleX
 Skrifa
@@ -486,12 +498,14 @@ Wire
 Woke
 Workbench
 Wrapbox
+WriteReallyFree
 XChat
 XClicker
 XELFViewer
 XPEViewer
 XtoMarkdown
 YARC-Launcher
+YallaVideo
 Yamagi-Quake-II
 YesPlayMusic
 YouTubeSearchFilter
@@ -531,6 +545,7 @@ compass
 cooler-control
 cric
 criteria1d
+crocson
 czkawka
 daald-beurerscalemanager
 dabnn
@@ -565,6 +580,7 @@ file-converter
 flameshot
 flightgear-airports
 fmradio
+focoo
 four
 foxfolio
 frappe-books
@@ -587,6 +603,7 @@ hyper
 ioquake3
 iotalk
 iptvnator
+ironwail
 isle-editor
 itrooz-nmap
 jag
@@ -624,6 +641,7 @@ mini-qml
 mira-backup
 mjml-app
 mki3dgame
+monfree
 moniteur-admin
 moolticute
 movie-monad
@@ -658,6 +676,7 @@ pkg2appimage
 pomotroid
 popsulfr-podman
 pretty-handy-privacy
+pretty-printable-calendar
 prismlauncher
 privacy-sexy
 probonopd-emacs
