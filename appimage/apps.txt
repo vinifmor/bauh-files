@@ -460,6 +460,7 @@ Tiled
 TilingGenerator
 Tobe
 Tonuino-Toolbox
+TorReaderPDF
 Trezor-Suite
 Tropy
 TurboWarp
