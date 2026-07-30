@@ -316,6 +316,7 @@ OWASP Threat Dragon
 OWallet
 Obsidian
 Onshape
+Onyx-Launcher
 Open-Markup-Editor
 OpenAudible
 OpenCloud-Desktop
@@ -476,6 +477,7 @@ V2Ray-Desktop
 VNote
 VPaint
 Valeronoi
+VerityPDF
 Verto
 VidCutter
 Vieb
