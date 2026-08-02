@@ -480,6 +480,7 @@ Valeronoi
 VerityPDF
 Verto
 VidCutter
+Vidra
 Vieb
 Viper-Browser
 Vipster
