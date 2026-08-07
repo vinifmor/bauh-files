@@ -140,6 +140,7 @@ F-CRM
 FAT-Wallet
 FF-Password-Exporter
 FMS-File-Explorer
+FS-PDF-Compressor
 FastQt
 Ferdium
 Figma
@@ -356,6 +357,7 @@ Poddr
 PolkaKey
 Popsicle
 PostyBirb
+PrazyCron
 PrimeWorldEditor
 ProcDepMonitor
 ProcSpin
