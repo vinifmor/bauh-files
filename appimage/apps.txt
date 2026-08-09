@@ -742,6 +742,7 @@ tastee-ui
 theFrame
 theWeb
 thorium-client
+tipitaka-pali-reader
 tmon
 tnt
 todo-bash
