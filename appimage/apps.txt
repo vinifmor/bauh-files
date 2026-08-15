@@ -188,6 +188,7 @@ GrinPlusPlus
 Groot
 Guitar
 HDRMerge
+Halvora
 HastyHeroes
 Heimer
 HermesMessenger
