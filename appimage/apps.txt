@@ -420,6 +420,7 @@ SimpleDoomLauncher
 SimpleInstaBot
 SimpleX
 Skrifa
+Skyscraper
 SlackBackup
 Slippi
 Soapy-SDR
