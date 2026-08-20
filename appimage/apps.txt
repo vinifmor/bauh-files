@@ -721,7 +721,6 @@ spm
 sponge256sum
 sqlitebrowser
 srevinsaju-discord
-srevinsaju-element
 srevinsaju-swaglyrics
 srevinsaju-thunderbird
 stash
