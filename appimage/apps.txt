@@ -626,7 +626,6 @@ keyrier-json
 kitupiikki
 kopia
 ksnip
-laigter
 langly
 laravel-kit
 le
