@@ -209,6 +209,7 @@ ImHex
 ImageMosaicWall
 ImagePlay
 Imagine
+ImgConvert
 Infection-Monkey
 Infinitex
 InnerBreeze
@@ -251,6 +252,7 @@ LeoCAD
 Lepton
 LibAssist
 LiberTEM
+LibreDB-Studio
 LikeTaskManager
 Linedancer
 LiteIDE
@@ -275,6 +277,7 @@ Mattermost-Desktop
 Mayo
 MazeSolver
 Mechvibes
+Media-Downloader
 MediaElch
 Melodie
 MeowSQL
