@@ -415,6 +415,7 @@ Shotcut
 Shuttle
 SigDigger
 Sigil
+Silo
 Simdock
 SimplEOS
 SimpleDoomLauncher
