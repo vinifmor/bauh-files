@@ -765,7 +765,6 @@ xemu
 xonsh
 yaya
 youtube-music
-youtube-music-desktop
 ytDownloader
 zograscope
 zsync2
