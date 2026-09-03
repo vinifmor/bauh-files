@@ -482,7 +482,6 @@ UltraScreen
 UniShellect
 UplinkIRC
 Upscayl
-V2Ray-Desktop
 VNote
 VPaint
 Valeronoi
