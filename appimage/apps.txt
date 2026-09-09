@@ -148,7 +148,6 @@ Filmulator
 FireMinipro
 Flippy-Qualitative-Testbench
 Fluent-Reader
-Fluxer-World
 Focalizzare
 FocusWriter
 FontForge
