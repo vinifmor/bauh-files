@@ -32,6 +32,7 @@ Axe-Electrum
 BLOCK-DX
 BTS-CE-Lite
 BaijiMangaViewer
+Barcode-to-PC-server
 Basic-chess-endgames
 BasiliskII
 Bazecor
@@ -76,6 +77,7 @@ Cavoke
 Cemu
 Cerebral-Debugger
 ChainX-Signer
+ChartCaddy
 ChemCanvas
 Circle-Z
 City-Hub
@@ -87,6 +89,7 @@ ClownMapEd
 Colon
 ColorGenerator
 Colorpicker
+Consilium
 CozyDrive
 Cromberg
 CrossCode-Map-Editor
@@ -105,6 +108,7 @@ DawnlightSearch
 DbGate
 DeDop-studio
 DeepTags
+Densify
 Deployer
 Detect-It-Easy
 DevHub
@@ -168,6 +172,7 @@ GPUpad
 GSequencer
 GVim
 GXC-Smart-Contract-IDE
+Gaphor
 Genesis
 Geometrize
 GetThermal
@@ -214,6 +219,7 @@ Infinitex
 InnerBreeze
 Insight
 Insomnia
+Instant-Meshes
 Invoice-Generator
 IrScrutinizer
 Isolate
@@ -242,19 +248,25 @@ Kimitzu-Client
 Klogg
 KnitCalc
 Knowte
+Konsole
+Kotatogram-Desktop
 Kubeterm
 LANShare
 LMMS
 LPub3D
+LaTeX-Editor
 Lagrange
 LazPaint
 LeoCAD
 Lepton
 LibAssist
 LiberTEM
+LibreCAD
 LibreDB-Studio
+LibreMines
 LikeTaskManager
 Linedancer
+Linux-Device-Manager
 LiteIDE
 LiveFaceSwap
 Local-Browser
@@ -263,6 +275,7 @@ LosslessCut
 MAngbandClient
 MCP2210-Configurator
 MDL
+MEASUR
 MLV-App
 MMapper
 MQTT-Explorer
@@ -287,10 +300,13 @@ MeshLab
 Meshmill
 MicroPad
 MieSimulatorGUI
+Mindwtr
 MiniZinc-IDE
+Miniclip
 Mirage
 MoarPerf
 Mockman
+Monghoul
 Monot
 MooerLooperManager
 MoonPlayer
@@ -303,6 +319,7 @@ My-Honda-for-desktop
 MyCrypto
 MyPaint
 NEST-Desktop
+NITRO
 Naev
 NanoVault
 Neon
@@ -330,6 +347,7 @@ OpenCloud-Desktop
 OpenStream-Music
 OpenTodoList
 Outline-Manager
+Overte
 OwlPlug
 P2PDerivatives
 PCSX2
@@ -360,6 +378,7 @@ PlayMe
 Plover
 Poddr
 PolkaKey
+PolyMC
 Popsicle
 PostyBirb
 PrazyCron
@@ -373,6 +392,9 @@ PrusaSlicer
 Pullp
 Pulsar
 Puppetry
+QAddApp
+QCADesigner-E
+QCalc
 QDriverStation
 QMPlay2
 QMediathekView
@@ -388,17 +410,21 @@ Quick-Clone
 QuickRedis
 QuickTwitch
 Qv2ray
+QymCAD
 RBDL-Toolkit
 RHB
 RPAN-Studio
 RPCS3
 RSS-Guard
+RaiPal
 Rats-on-The-Boat
+RestifEye
 RetroShare
 Retromanager
 RoloViewer
 Rotki
 Running-Dinner-Tool
+RustDesk
 SFRT-Attendance
 SMPlayer
 SSPlot
@@ -419,6 +445,7 @@ Shotcut
 Shuttle
 SigDigger
 Sigil
+SilentDragonLite
 Silo
 Simdock
 SimplEOS
@@ -429,6 +456,7 @@ Skrifa
 Skyscraper
 SlackBackup
 Slippi
+SmartCopy
 Soapy-SDR
 SocNetV
 Speaky-MiniPlayer
@@ -460,6 +488,9 @@ Symphonium
 Syncplay
 SynfigStudio
 Synthein
+SysD-Manager
+SysDManager
+SysEx-Drop
 T-Viewer
 TeXstudio
 TeleDrive
@@ -508,6 +539,7 @@ Whalebird
 Widelands
 Winboat
 Wire
+Wireboi
 Woke
 Workbench
 Wrapbox
@@ -520,6 +552,7 @@ XtoMarkdown
 YARC-Launcher
 YallaVideo
 Yamagi-Quake-II
+YangDownloader-3-0
 YesPlayMusic
 YouTubeSearchFilter
 ZY-Player
@@ -591,6 +624,7 @@ feebas
 feedseries
 file-converter
 flameshot
+flappy-bird
 flightgear-airports
 fmradio
 focoo
@@ -613,8 +647,10 @@ httpie-desktop
 huwinterpreter
 hw-probe
 hyper
+igotu2gpx
 ioquake3
 iotalk
+ipfs-desktop
 iptvnator
 ironwail
 isle-editor
@@ -722,7 +758,6 @@ snomcontrol
 sourcegit
 spark-wallet
 spm
-sponge256sum
 sqlitebrowser
 srevinsaju-discord
 srevinsaju-swaglyrics
@@ -758,6 +793,7 @@ updatedeployqt
 vifm
 vrrtest
 weatherdump
+webshard-editor
 westeroscraftlauncher
 wezterm
 whiteboard
