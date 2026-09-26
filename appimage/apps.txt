@@ -224,6 +224,7 @@ Janice
 Janus
 Join-Desktop
 Joplin
+Jorvik
 Juggernaut
 Julius
 KADE
@@ -255,6 +256,7 @@ LibreDB-Studio
 LikeTaskManager
 Linedancer
 LiteIDE
+LiveFaceSwap
 Local-Browser
 Loginized
 LosslessCut
