@@ -76,7 +76,6 @@ COMPASS
 CP-Editor
 CP2130-Commander
 CP2130-Configurator
-CPU-X
 CRG-Data-Tool
 Calsolo
 Carbonyl
@@ -274,6 +273,7 @@ Knowte
 Konsole
 Kotatogram-Desktop
 Kubeterm
+Kun
 LANShare
 LMMS
 LPub3D
@@ -347,6 +347,7 @@ My-Honda-Plus-for-desktop
 MyCrypto
 MyPaint
 MyVPN
+NEO
 NEST-Desktop
 NITRO
 Naev
@@ -362,6 +363,7 @@ Nine
 Nitrokey
 NixNote
 NoTer
+NuvioDesktop
 OCVWarp
 OCVvid2fulldome
 ONLYOFFICE
@@ -378,6 +380,7 @@ Open-Typer
 OpenAudible
 OpenBlok
 OpenCloud-Desktop
+OpenMausBot
 OpenStream-Music
 OpenTodoList
 OpenToonz
@@ -512,6 +515,7 @@ StatusPilatus
 SteamCAD
 Stele
 Stellarium
+StemKit
 StockStalk
 Storaji
 Strata
@@ -792,6 +796,7 @@ qSdrSwr
 qpdf
 qpp::cad
 qr-code-generator-desktop
+qrl-wallet
 qt-raster-draw
 qtrfpowermeter
 quokkagit
