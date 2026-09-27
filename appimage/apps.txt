@@ -91,6 +91,8 @@ ChemCanvas
 Circle-Z
 City-Hub
 ClassicImageViewer
+Claude-Usage-Widget
+Clawd-on-Desk
 CleepDesktop
 ClementineRemote
 Cliniface
@@ -168,6 +170,7 @@ FireMinipro
 FlatSiteBuilder
 Flippy-Qualitative-Testbench
 Fluent-Reader
+Flyx-main
 Focalizzare
 FocusWriter
 FontForge
@@ -194,6 +197,7 @@ GeneralsAlpha
 Genesis
 Geometrize
 GetThermal
+Gharmonize
 Ghostty
 Gifcurry
 Gingko
@@ -262,6 +266,7 @@ Kater
 Katvan
 KeePassXC
 KeeWeb
+Kement
 KettleClient
 KevEdit
 Keys
@@ -275,6 +280,7 @@ Kotatogram-Desktop
 Kubeterm
 Kun
 LANShare
+LBK-Launcher
 LMMS
 LPub3D
 LaTeX-Editor
@@ -320,6 +326,7 @@ MazeSolver
 Mechvibes
 Media-Downloader
 MediaElch
+Meeting-Transcriber
 Melodie
 MeowSQL
 MesenOrion
@@ -380,7 +387,9 @@ Open-Typer
 OpenAudible
 OpenBlok
 OpenCloud-Desktop
+OpenHV
 OpenMausBot
+OpenRA
 OpenStream-Music
 OpenTodoList
 OpenToonz
@@ -396,6 +405,7 @@ PageEdit
 PanWriter
 Panini
 Papercraft
+Parallel-Code
 Passky
 PatternPaint
 Pelusica
@@ -461,6 +471,8 @@ Raspirus
 Rats-on-The-Boat
 RestifEye
 RetroShare
+Retromind
+Rexpo-Debugger
 Ripes
 RoloViewer
 Running-Dinner-Tool
@@ -496,6 +508,7 @@ SimplEOS
 SimpleDoomLauncher
 SimpleInstaBot
 SimpleX
+Skales
 Skrifa
 Skyscraper
 SlackBackup
@@ -558,6 +571,7 @@ TorReaderPDF
 Trezor-Suite
 Tropy
 TurboWarp
+Turtle-Tracer
 Tusk
 Tutanota
 UHK-Agent
@@ -586,6 +600,7 @@ VizGraph
 WalletTech
 WatchFlower
 WatchIt
+Water
 WebDesktop
 Webamp
 Whalebird
@@ -602,6 +617,7 @@ XELFViewer
 XPEViewer
 XtoMarkdown
 YARC-Launcher
+YT-Forge
 YallaVideo
 Yamagi-Quake-II
 YangDownloader-3-0
@@ -610,6 +626,7 @@ YouTubeSearchFilter
 ZY-Player
 ZeGrapher
 Zegarek
+ZenNotes
 ZenroomStudio
 Zettlr
 Znax
@@ -637,11 +654,13 @@ blink
 c0re100-qbittorrent-enhanced-edition
 cabal
 caprine
+claude-devtools
 clippy
 clownmdemu
 cmatomic-vlc
 cncjs
 colorstatic-bash
+contributor-toolkit
 cooler-control
 cric
 criteria1d
@@ -655,6 +674,7 @@ dbet-wallet
 deb2appimage
 deltachat-desktop
 dexter-dev-env
+diskfmt
 dnnlibrary
 drawio
 duckstation
@@ -687,11 +707,13 @@ four
 foxfolio
 frappe-books
 freac
+free-rembg-desktop
 freecad
 freecad-link
 getswell
 gibs
 githoard
+gleditor
 gsubs
 guglielmo
 hal9000
@@ -767,6 +789,7 @@ nvtop
 nxshell
 ommpfritt
 onekey
+open-codesign
 openshot
 ossia-score
 osu
@@ -859,6 +882,7 @@ wezterm
 whiteboard
 whu-library-seat
 xemu
+xmmusic
 xonsh
 yaya
 youtube-music
