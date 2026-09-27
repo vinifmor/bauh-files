@@ -70,7 +70,6 @@ BrickStore
 Buckets
 BulkReviewer
 BulkURLOpener
-Burning-Series
 Bypass-Cors
 CBETA
 COMPASS
@@ -205,6 +204,7 @@ Gitteraqt
 GmodContentInstaller
 GoldenCheetah
 GoldenDict
+Gong
 GospelPdfViewer
 GpgFrontend
 Gpredict
@@ -344,9 +344,9 @@ Motrix
 Museeks
 Music-Blocks
 My-Honda-Plus-for-desktop
-My-Honda-for-desktop
 MyCrypto
 MyPaint
+MyVPN
 NEST-Desktop
 NITRO
 Naev
@@ -376,6 +376,7 @@ Open-Download-Manager
 Open-Markup-Editor
 Open-Typer
 OpenAudible
+OpenBlok
 OpenCloud-Desktop
 OpenStream-Music
 OpenTodoList
@@ -431,6 +432,7 @@ QAddApp
 QCADesigner-E
 QCalc
 QDriverStation
+QHot
 QMPlay2
 QMediathekView
 QNapi
@@ -452,13 +454,12 @@ RPAN-Studio
 RPCS3
 RSS-Guard
 RaiPal
+Raspirus
 Rats-on-The-Boat
 RestifEye
 RetroShare
-Retromanager
 Ripes
 RoloViewer
-Rotki
 Running-Dinner-Tool
 RustDesk
 SFRT-Attendance
@@ -468,6 +469,7 @@ SSPlot
 SUMOCO
 SUbillManager
 SVGWall
+Sabaki
 Savvy-MTG-Life-Counter
 SavvyCAN
 Scatter
@@ -515,6 +517,7 @@ Storaji
 Strata
 Streamlink
 Stunt-Car-Remake
+SubnetDesk
 Substrate-IDE
 Subsurface
 Subtitle-Composer
@@ -635,7 +638,6 @@ clownmdemu
 cmatomic-vlc
 cncjs
 colorstatic-bash
-compass
 cooler-control
 cric
 criteria1d
@@ -761,7 +763,6 @@ nvtop
 nxshell
 ommpfritt
 onekey
-openblok
 openshot
 ossia-score
 osu
@@ -788,17 +789,14 @@ puush-qt
 pyappimage
 pydt
 qSdrSwr
-qhot
 qpdf
 qpp::cad
 qr-code-generator-desktop
 qt-raster-draw
 qtrfpowermeter
 quokkagit
-raspirus
 rezonator
 rmw
-sabaki
 sage-appimage
 ser-player
 shiftkey-desktop
