@@ -208,6 +208,7 @@ GoldenDict
 GospelPdfViewer
 GpgFrontend
 Gpredict
+Gqrx
 GradeStats
 GridcoinResearch
 GrinPlusPlus
@@ -583,7 +584,6 @@ Webamp
 Whalebird
 Widelands
 Winboat
-Wire
 Wireboi
 Woke
 Workbench
@@ -728,7 +728,6 @@ linuxdeploy-plugin-python
 linuxdeployqt
 logseq
 lumi
-luna
 m59peacemaker-mupdf
 makoureactor
 mandelbulber2
