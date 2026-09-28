@@ -1,3 +1,4 @@
+3dco-plus
 4KWALL
 86Box
 AI-Gist
@@ -15,6 +16,7 @@ Anchor
 Android-File-Transfer
 AnkiGammon
 Antares
+AnyMeal
 Aphelion-Wallet
 Apla
 AppImagePool
@@ -101,6 +103,7 @@ Clawd-on-Desk
 CleepDesktop
 ClementineRemote
 Cliniface
+ClipShare
 ClownMapEd
 Collie
 Colon
@@ -122,6 +125,7 @@ CuteCut-Pro
 CutePeaks
 CuteVariant
 Cutter
+DBV-Markdown-Reader
 DDCal
 DDClock
 DFileManager
@@ -318,6 +322,7 @@ LiveFaceSwap
 Local-Browser
 Loginized
 LosslessCut
+LostOdysseyRecomp
 Luanti
 Lx-music-desktop
 MAngbandClient
@@ -330,6 +335,7 @@ MLV-App
 MMapper
 MQTT-Explorer
 MagicFountain
+Mah
 Manager
 Manta
 Mapeo
@@ -353,6 +359,7 @@ Metronomek
 MhlFileVerify
 MicroPad
 MieSimulatorGUI
+Migurdex
 Mindwtr
 MiniZinc-IDE
 Miniclip
@@ -407,6 +414,7 @@ Open-Typer
 OpenAudible
 OpenBlok
 OpenCloud-Desktop
+OpenComic
 OpenHV
 OpenMausBot
 OpenRA
@@ -438,6 +446,7 @@ Phinch
 Phoneboard
 PhotoFlare
 PhotoFlow
+PhotoMapAI
 PhotoQuick
 PhreshPlayer
 PicGo
@@ -483,6 +492,7 @@ QaterialHotReload
 Qfsm
 Qredit
 Qucs-S
+QueryCraft
 Quick-Clone
 QuickRedis
 QuickTwitch
@@ -490,6 +500,7 @@ Qv2ray
 QymCAD
 RBDL-Toolkit
 RHB
+RKDevelopTool-GUI
 RMG
 RPAN-Studio
 RPCS3
@@ -515,6 +526,7 @@ SVGWall
 Sabaki
 Savvy-MTG-Life-Counter
 SavvyCAN
+Scanthesis
 Scatter
 ScreenCloud
 ScreenTranslator
@@ -548,6 +560,7 @@ Speaky-MiniPlayer
 SpeedyLoader
 Spivak
 Spotube
+SquirrelDisk
 Stacer
 StackAndConquer
 Standard-Notes
@@ -588,6 +601,7 @@ TarotCaster
 TeXstudio
 TeXworks
 TeleDrive
+Termalime
 Tesla-Coil-Calculator
 TeslaCam-Browser
 ThermusQt
@@ -597,6 +611,7 @@ Tiled
 TilingGenerator
 Timenaut
 Tobe
+TodoBench
 Tonuino-Toolbox
 TorReaderPDF
 Trezor-Suite
@@ -656,6 +671,7 @@ YallaVideo
 Yamagi-Quake-II
 YangDownloader-3-0
 YesPlayMusic
+YouTubeGO
 YouTubeSearchFilter
 ZY-Player
 ZeGrapher
@@ -731,6 +747,7 @@ etichetta
 euromilhoes
 evoplex
 excalidraw-desktop
+exhale
 fSpy
 feebas
 feedseries
@@ -801,6 +818,7 @@ mandelbulber2
 mapton
 marktext
 marlin-conf
+mawejs
 mdview
 melo
 meta-grabber
@@ -838,6 +856,7 @@ p3x-onenote
 patchbay
 pb-for-desktop
 pdf-sync
+penguins-gui
 perl-executing-browser
 photoname
 ping-viewer
@@ -930,6 +949,7 @@ xmmusic
 xonsh
 xpeccy-plus
 yaya
+youtube-cast-receiver
 youtube-music
 ytDownloader
 zograscope
