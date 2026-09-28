@@ -1,5 +1,6 @@
 4KWALL
 86Box
+AI-Gist
 APK-Editor-Studio
 APhotoToolLibre
 ARAnyM
@@ -12,6 +13,7 @@ Altus
 AnaVis
 Anchor
 Android-File-Transfer
+AnkiGammon
 Antares
 Aphelion-Wallet
 Apla
@@ -41,6 +43,7 @@ Basic-chess-endgames
 BasiliskII
 Bazecor
 Beatconnect-Client
+Beatmap-Backup
 Beekeeper-Studio
 BenTo
 BetterSIS
@@ -65,6 +68,7 @@ Brackets
 BrainVerse
 BrainWaves
 Breader
+BrewMate
 Brewtarget
 BrickStore
 Buckets
@@ -79,6 +83,7 @@ CP2130-Configurator
 CRG-Data-Tool
 Calsolo
 Carbonyl
+Carvera-Controller
 CasterSoundboard
 Catalyst-Browser
 Cavoke
@@ -97,10 +102,12 @@ CleepDesktop
 ClementineRemote
 Cliniface
 ClownMapEd
+Collie
 Colon
 ColorGenerator
 Colorpicker
 Consilium
+Copilot-API
 CoreBox
 CorsixTH
 CozyDrive
@@ -142,6 +149,7 @@ Electorrent
 Electron-App-Store
 Elements
 Elphyre-WalletShell
+EmuCenter
 EmuDeck
 EncryptPad
 Endless-Sky
@@ -154,6 +162,7 @@ EternalModManager
 EverInst
 ExeQt
 ExifCleaner
+Exilence-CE
 Eximchain-Wallet
 Explorook
 EyeStalker
@@ -162,6 +171,7 @@ FAT-Wallet
 FF-Password-Exporter
 FMS-File-Explorer
 FS-PDF-Compressor
+FactWallet
 FastQt
 Ferdium
 Figma
@@ -204,6 +214,7 @@ Gingko
 GitJournal
 GitQlient
 Gitteraqt
+GlyphVisualizer
 GmodContentInstaller
 GoldenCheetah
 GoldenDict
@@ -241,6 +252,7 @@ ImagePlay
 Imagine
 ImgConvert
 Infection-Monkey
+InferencePort-AI
 Infinitex
 InnerBreeze
 Insight
@@ -261,7 +273,9 @@ Juggernaut
 Julius
 KADE
 KDiskMark
+KMCG
 KOReader
+Kai
 Kater
 Katvan
 KeePassXC
@@ -292,6 +306,7 @@ LibAssist
 LiberTEM
 LibreCAD
 LibreDB-Studio
+LibreMerge
 LibreMines
 LikeTaskManager
 Linedancer
@@ -302,6 +317,7 @@ LiveFaceSwap
 Local-Browser
 Loginized
 LosslessCut
+Luanti
 Lx-music-desktop
 MAngbandClient
 MC-Chunk-Get-V3-CLI
@@ -340,8 +356,10 @@ Mindwtr
 MiniZinc-IDE
 Miniclip
 Mirage
+MirrorShard
 MoarPerf
 Mockman
+MonTally
 Monghoul
 Monot
 MooerLooperManager
@@ -379,6 +397,7 @@ OVideo
 OWASP Threat Dragon
 OWallet
 Obsidian
+Ollie
 Onshape
 Onyx-Launcher
 Open-Download-Manager
@@ -390,6 +409,7 @@ OpenCloud-Desktop
 OpenHV
 OpenMausBot
 OpenRA
+OpenSCP
 OpenStream-Music
 OpenTodoList
 OpenToonz
@@ -399,6 +419,7 @@ OwlPlug
 P2PDerivatives
 PCSX2
 PDFQuirk
+PS2-ISO-Batch-Renamer-
 PacketSender
 Padloc
 PageEdit
@@ -407,6 +428,7 @@ Panini
 Papercraft
 Parallel-Code
 Passky
+PasteMax
 PatternPaint
 Pelusica
 Pennywise
@@ -420,6 +442,7 @@ PicGo
 Pingnoo
 Pixsrt
 Plag-Patrol
+PlainRepo
 Planes
 Planet-Blupi
 Play-2048
@@ -444,6 +467,7 @@ Puppetry
 QAddApp
 QCADesigner-E
 QCalc
+QDiskInfo
 QDriverStation
 QHot
 QMPlay2
@@ -525,6 +549,7 @@ StackAndConquer
 Standard-Notes
 Statsbook-Tool
 StatusPilatus
+StayFree
 SteamCAD
 Stele
 Stellarium
@@ -532,6 +557,7 @@ StemKit
 StockStalk
 Storaji
 Strata
+Stream-Overlay
 Streamlink
 Stunt-Car-Remake
 SubnetDesk
@@ -553,6 +579,7 @@ SysD-Manager
 SysDManager
 SysEx-Drop
 T-Viewer
+TaratorMusic
 TarotCaster
 TeXstudio
 TeXworks
@@ -582,7 +609,9 @@ UplinkIRC
 Upscayl
 VNote
 VPaint
+VRCFaceTracking-Avalonia
 Valeronoi
+Ved
 VenusPro
 VerityPDF
 Verto
@@ -615,6 +644,7 @@ XChat
 XClicker
 XELFViewer
 XPEViewer
+XPipe-PTB
 XtoMarkdown
 YARC-Launcher
 YT-Forge
@@ -676,6 +706,7 @@ deltachat-desktop
 dexter-dev-env
 diskfmt
 dnnlibrary
+dotline
 drawio
 duckstation
 dvdisaster
@@ -683,6 +714,7 @@ e5ten-parsec
 eNoseAnnotator
 eOSVC
 eXtrema
+ecode
 elcalc
 electron-wechat
 elzabrowser
@@ -694,6 +726,7 @@ erdesigner
 etichetta
 euromilhoes
 evoplex
+excalidraw-desktop
 fSpy
 feebas
 feedseries
@@ -735,6 +768,7 @@ ironwail
 isle-editor
 itrooz-nmap
 jag
+jammer
 jexiftoolgui
 jitsi-meet
 joal-desktop
@@ -754,6 +788,7 @@ lightning-peach-wallet
 linux-intel-undervolt-gui
 linuxdeploy-plugin-python
 linuxdeployqt
+local-operator-ui
 logseq
 lumi
 m59peacemaker-mupdf
@@ -816,6 +851,7 @@ puush-qt
 pyappimage
 pydt
 qSdrSwr
+qcut
 qpdf
 qpp::cad
 qr-code-generator-desktop
@@ -871,6 +907,7 @@ twetter
 twitch-wrapper
 uncov
 unoffical-sonos-controller-for-linux
+unsloth
 updatedeployqt
 vifm
 vk-music-fs
@@ -881,9 +918,11 @@ westeroscraftlauncher
 wezterm
 whiteboard
 whu-library-seat
+wikiLYNX
 xemu
 xmmusic
 xonsh
+xpeccy-plus
 yaya
 youtube-music
 ytDownloader
