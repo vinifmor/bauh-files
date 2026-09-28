@@ -203,6 +203,7 @@ GSequencer
 GVim
 GXC-Smart-Contract-IDE
 Gaphor
+GazBoard
 GeneralsAlpha
 Genesis
 Geometrize
@@ -418,6 +419,7 @@ Overte
 OwlPlug
 P2PDerivatives
 PCSX2
+PDF-Bunny
 PDFQuirk
 PS2-ISO-Batch-Renamer-
 PacketSender
@@ -439,6 +441,7 @@ PhotoFlow
 PhotoQuick
 PhreshPlayer
 PicGo
+Pilot-Harness
 Pingnoo
 Pixsrt
 Plag-Patrol
@@ -487,6 +490,7 @@ Qv2ray
 QymCAD
 RBDL-Toolkit
 RHB
+RMG
 RPAN-Studio
 RPCS3
 RSS-Guard
@@ -862,6 +866,7 @@ quokkagit
 rezonator
 rmw
 sage-appimage
+sdl-img
 ser-player
 shiftkey-desktop
 simnalamburt-pnpm
