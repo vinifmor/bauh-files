@@ -802,6 +802,7 @@ mapton
 marktext
 marlin-conf
 mdview
+melo
 meta-grabber
 mini-qml
 mira-backup
